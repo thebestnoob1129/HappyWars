@@ -1,0 +1,25 @@
+Reference: Happy Wars
+
+Game Name:
+
+Genre:
+
+Players: 1-4
+
+Story:
+
+Plan:
+
+-Core Player Function
+
+	-Movement
+	-Attack
+	-Stats
+
+-Core UI Function
+
+	-Player stats
+	-Equipment
+	-Settings
+
+-First Game Mode: Invade The Castle
