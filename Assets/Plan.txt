@@ -13,6 +13,7 @@ Plan:
 -Core Player Function
 
 	-Movement
+		-Bro Gravity is a bitch
 	-Attack
 	-Stats
 
