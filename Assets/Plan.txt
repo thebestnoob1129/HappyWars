@@ -16,6 +16,9 @@ Plan:
 		-Bro Gravity is a bitch
 	-Attack
 	-Stats
+	
+-Core Game Function
+	-
 
 -Core UI Function
 

@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(CharacterController))]
 [RequireComponent(typeof(PlayerInput))]
+//[RequireComponent(typeof(PlayerInputManager))]
 public class PlayerMovement : MonoBehaviour
 {
     PlayerInput playerInput;
@@ -21,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     public float lookSpeed = 2f;
     public float lookXLimit = 45f;
     public float defaultHeight = 2f;
-    public float crouchHeight = 1f;
+    public float crouchHeight = 0.5f;
     public float crouchSpeed = 3f;
     public float crouchTransitionSpeed = 15f;
     public bool canMove = true;
@@ -47,10 +48,10 @@ public class PlayerMovement : MonoBehaviour
         //Player Actions
         playerInput = GetComponent<PlayerInput>();
         
-        //moveAction = playerInput.actions.FindAction("Move");
+        moveAction = playerInput.actions.FindAction("Move");
         crouchAction = playerInput.actions.FindAction("Crouch");
         jumpAction = playerInput.actions.FindAction("Jump");
-        //lookAction = playerInput.actions.FindAction("Look");
+        lookAction = playerInput.actions.FindAction("Look");
         sprintAction = playerInput.actions.FindAction("Sprint");
 
         // Temp
@@ -70,8 +71,8 @@ public class PlayerMovement : MonoBehaviour
     */
     void Update()
     {
-        Vector3 forward = transform.TransformDirection(Vector3.forward);
-        Vector3 right = transform.TransformDirection(Vector3.right);
+        Vector3 forward = cam.transform.TransformDirection(Vector3.forward);
+        Vector3 right = cam.transform.TransformDirection(Vector3.right);
 
         bool isRunning = sprintAction.IsPressed();
         isGrounded = characterController.isGrounded;
