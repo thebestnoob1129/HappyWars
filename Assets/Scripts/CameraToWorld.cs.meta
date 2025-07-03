@@ -1,2 +1,15 @@
 fileFormatVersion: 2
 guid: 0c56c6288febc184eb82fad083529009
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - screenObject: {instanceID: 0}
+  - followObject: {instanceID: 0}
+  - screenMaterial: {fileID: 2100000, guid: 6598dace2ccab9e4fa8e81991be04368, type: 2}
+  - screenTexture: {fileID: 8400000, guid: 9ff7c22e5ae3c0b419c9e1486ea867a2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

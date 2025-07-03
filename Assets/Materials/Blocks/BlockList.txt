@@ -1,0 +1,6 @@
+normal = [Brick, Fabric, Magma, Ice, Slime, Fake, Cloud, 8, 9, 10]
+decoration = [11, 12, 13, 14, 15 , 16 , 17, 18, 19, 20]
+obstacle = [21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+interactable = []
+objective = []
+enitiy = []

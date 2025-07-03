@@ -1,33 +1,39 @@
-using NUnit.Framework;
 using UnityEngine;
 
 public class CameraToWorld : MonoBehaviour
 {
 
-    public GameObject screenObject;
+    public GameObject[] screenObject;
     public Transform followObject;
     public Material screenMaterial;
     public RenderTexture screenTexture;
+    public bool isHome;
     public bool isfollow;
     public bool isPlayer;
-    public int fovMIN = 5;
-    public int fovMAX = 150;
+    //public int fovMIN = 5;
+    //public int fovMAX = 150;
 
 
     private void Start()
     {
+        if (GetComponent<AudioListener>()) { Destroy(GetComponent<AudioListener>()); };
         
         RenderTexture screenTex = new RenderTexture(screenTexture);
         Material screenMat = new Material(screenMaterial);
         screenMat.color = Color.white;
         screenMat.mainTexture = screenTex;
-        screenObject.GetComponent<Renderer>().material = screenMat;
-        
+        for (int i = 0; i < screenObject.Length; i++)
+        {
+            if (screenObject[i])
+            {
+                screenObject[i].GetComponent<Renderer>().material = screenMat;;
+            }
+        }
 
         Camera cam = GetComponent<Camera>();
         cam.targetTexture = screenTex;
+        cam.targetDisplay = 3;
         
-
         if (isPlayer)
         {
             var plr = GameObject.FindWithTag("Player");
