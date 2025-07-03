@@ -10,36 +10,40 @@ public class Tiers : ScriptableObject
     [SerializeField]
     int level = 1;
 
-    [SerializeField]
-    GameObject[] skins;
-    int currentSkin;
-
-    [SerializeField]
-    Color[] colors;
-
-    public int cooldownTimer;
-
-    [System.NonSerialized]
-    public float cooldownTime;
-    
-
-    public bool OnCooldown
+    public struct Tier
     {
-        get
-        {
-            if (cooldownTime > 0) { return true; }
-            else { return false; }
-        }
+        public int level;
+        public int cost;
+        public GameObject skin;
+        public Color color;
+
     }
 
-    public float GetValue { get { return defaultValue * level; } }
+    [SerializeField]
+    public Tier[] tiers;
+
+    public float Value
+    {
+        get { return defaultValue * level; }
+        set { if (defaultValue == 0) { defaultValue = value; } }
+    }
+
+    public void FixedUpdate()
+    {
+        // Ensure level is within bounds
+        if (level < 0) { level = 0; }
+        if (level >= skins.Length) { level = skins.Length - 1; }
+        
+        // Update the current skin based on the level
+        ChangeSkin(level);
+    }
 
     public void Upgrade()
     {
-        level += 1;
+        if (level < maxLevel) { level += 1; }
         ChangeSkin(level);
     }
-    
+
     public void Downgrade()
     {
         if (level > 0) { level -= 1; }
@@ -50,11 +54,15 @@ public class Tiers : ScriptableObject
     {
         // Get current Material and Change it to next skin
         currentSkin = skin;
-        // Set skin to skins[skin]
+        if (currentSkin < 0 || currentSkin >= skins.Length)
+        {
+            Debug.LogWarning("Invalid skin index: " + currentSkin);
+            return;
+        }
+        GetComponent<Renderer>().material = skins[currentSkin].GetComponent<Renderer>().material;
+        GetComponent<Renderer>().material.color = colors[currentSkin];
+        Debug.Log("Skin changed to: " + skins[currentSkin].name);
 
     }
-
-    // Create a bool where the value can change my multiplying or incrementing
-
 
 }

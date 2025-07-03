@@ -1,26 +1,17 @@
 using UnityEngine;
 
-public class Bank : MonoBehaviour
+public class Bank : Machine
 {
-    [SerializeField]
-    Tycoon tycoon;
 
-    private int team;
     private float collectedCash;
-
-    public int GetTeam
-    {
-        get { return team; }
-    }
-
-    public int GetCash
+    public int Vault
     {
         get { return Mathf.RoundToInt(collectedCash); }
     }
 
     private void Start()
     {
-        team = tycoon.GetTeam;
+        defaultValue = 0;
     }
 
     public void Collect()
@@ -31,17 +22,12 @@ public class Bank : MonoBehaviour
 
     public void AddCash(Valuable val)
     {
-        collectedCash += val.GetValue;
+        collectedCash += val.Value;
     }
 
-    public void RemoveCash(Collector col)
+    public void RemoveCash(Valuable val)
     {
-        collectedCash -= col.value;
-    }
-    
-    public void RemoveCash(int value)
-    {
-        collectedCash -= value;
+        collectedCash -= val.Value;
     }
 
 }

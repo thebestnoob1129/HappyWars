@@ -1,23 +1,17 @@
 using UnityEngine;
 
-public class Upgrader : MonoBehaviour
+public class Upgrader : Machine
 {
-    [SerializeField]
-    Transform spawnPoint;
-
-    [SerializeField]
-    GameObject product;
-
-    public int cost = 0;
-
-    public float defaultValue = 1;
-    public int level = 1;
-
-    public float multiplier;
-
-    private void FixedUpdate()
+    public void OnCollisionEnter(Collision collision)
     {
-        multiplier = defaultValue * (level);
+        var obj = collision.collider.gameObject;
+        if (obj.GetComponent<Valuable>() != null)
+        {
+            var valuable = obj.GetComponent<Valuable>();
+            if (valuable.Team == Team)
+            {
+                valuable.Value *= Value;
+            }
+        }
     }
-
 }

@@ -4,10 +4,12 @@ public class Conveyor : Machine
 {
     //[SerializeField] 
     float speed;
-
+    [SerializeField]
+    float defaultValue = 1f; 
+    
     private void FixedUpdate()
     {
-        speed = level * defaultValue;
+        speed = value;
     }
 
     private void OnCollisionStay(Collision collision)

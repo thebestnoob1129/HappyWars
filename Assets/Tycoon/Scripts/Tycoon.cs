@@ -5,36 +5,33 @@ using UnityEngine;
 [DisallowMultipleComponent]
 public class Tycoon : MonoBehaviour
 {
-    [SerializeField] private Collector[] collectors;
     [SerializeField] private Machine[] machines;
     [SerializeField] private Bank[] banks;
 
     [SerializeField, Range(0, 7)]
     int team;
-    public int GetTeam {  get { return team; } }
+    public int GetTeam { get { return team; } }
 
     [SerializeField]
     bool pvp;
 
-    private int totalCashCollected;
-    public int GetCash {  get { return totalCashCollected; } }
+    private int totalCash = 0;
+    public int TotalCash { get { return totalCash; } }//totalCashCollected
 
-    private int currentBalance;
-    public int Balance {  get { return currentBalance; } } 
+    private int balance = 0;
+    public int Balance { get { return balance; } }// currentBalance
 
-    private int multiplier;
-    public float GetMultiplier { get { return multiplier; } }
-    
+    private float multiplier = 1f;
+    public float Multiplier { get { return multiplier; } }// Multiplier (name)
+
     private void Start()
     {
-        Collector[] c = GameObject.FindObjectsByType<Collector>(FindObjectsSortMode.InstanceID);
-
-        for (int i = 0; i < c.Length; i++)
+        for (int i = 0; i < machines.Length; i++)
         {
-            if (c[i].gameObject.scene == gameObject.scene) { continue; }
+            if (machines[i] == null) { return; }
 
-            Collector col = c[i];
-            collectors[i] = col;
+            machines[i].Team = team;
+            machines[i].Tycoon = this;
         }
     }
 
@@ -45,39 +42,23 @@ public class Tycoon : MonoBehaviour
 
         int bankAmount = bank.GetCash;
 
-        //if (pvp == false ) { return; }
-
         totalCashCollected += bankAmount;
         currentBalance += bankAmount;
 
     }
-
-    public void Reset()
-    {
-        
-    }
-
-    public void Rebirth()
-    {
-
-    }
-
-    public void UpdateStatus()
-    {
-
-    }
-
+    
     private void FixedUpdate()
     {
 
         // Total Balance from each bank
         float bankValue = 0;
-        for (int i = 0;i < banks.Length; i++)
+        for (int i = 0; i < banks.Length; i++)
         {
             bankValue += banks[i].GetCash;
         }
 
         currentBalance += Mathf.RoundToInt(bankValue);
     }
+    // have tycoon check banks for multipliers to canculate total cash collected
 
 }

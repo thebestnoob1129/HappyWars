@@ -15,7 +15,7 @@ public class Dropper : Machine
     
     private Tycoon tycoon;
 
-    public float speed = 1;
+    float speed = 1;
     
     bool waiting = false;
 
@@ -23,6 +23,11 @@ public class Dropper : Machine
     {
         tycoon = GameObject.FindAnyObjectByType<Tycoon>();
         teamId = tycoon.GetTeam;
+    }
+
+    void Update()
+    {
+        speed = value;
     }
 
     private void FixedUpdate()

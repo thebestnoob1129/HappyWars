@@ -12,6 +12,10 @@ Concept:
 
 Parkour around the map and dodge obstacles.
 
+Large Ideas:
+
+Attribute System - all types of private data are made in one class
+
 (No where near correct)
 
 Plan:

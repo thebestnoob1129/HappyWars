@@ -8,19 +8,16 @@ public class Valuable : MonoBehaviour
 
     private float defaultValue = 0;
     
-    public float GetValue 
+    public float Value 
     { 
         get { return defaultValue * level; }
         set { if (defaultValue == 0) { defaultValue = value; } }
     }
-    public int GetTeam 
+    public int Team 
     { 
         get { return teamId; }
         set { if (teamId == -1) { teamId = value; } }
     }
-
-
-    public void SetTeam(int id) { if (teamId == -1) { teamId = id; } }
 
     public void SetValue(int value) { if (value == 0) { defaultValue = value; } }
 
