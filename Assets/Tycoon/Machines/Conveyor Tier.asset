@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c43a5bdf1bc63842a39d7edfd88e719, type: 3}
-  m_Name: WoodTiers
+  m_Name: Conveyor Tier
   m_EditorClassIdentifier: 
-  defaultValue: 0
-  level: 0
-  skins:
-  - {fileID: 6849118883707981242, guid: 13b761f253c07b045831fbd4092d4304, type: 3}
-  colors:
-  - {r: 1, g: 1, b: 1, a: 0}
-  cooldownTimer: 0
+  currentTier: 1
+  tier:
+  - reqLevel: 0
+    cost: 0
+    defaultValue: 1
+    skin: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}

@@ -1,73 +1,61 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Machine : MonoBehaviour
 {
-    private Tycoon tycoon;
-    public Tiers tiers;
-    float defaultValue = 0;
+
+    [SerializeField]
+    TierList tiers;
+
+    public int currentTier = 1;
+    public float tierValue;
+
     public int maxValue = 1;
-    public int maxLevel = 1;
-    public int cost = 0;
-    public bool inc = false;
     
-    [SerializeField] private int teamId = -1;
+    public bool PVP { get { return Game.pvp; } }
 
-    private int currentSkin;
+    public float Value { get { return tiers.Value; } }
 
-    private float value;
-    public float Value
-    {
-        get
-        {
-             if (inc) { value = 1 + (defaultValue * level); }
-            else { value = defaultValue * level; }
-        }
-        set { if (defaultValue == 0) { defaultValue = value; } }
-    }
-    public int Team 
-    { 
-        get { return teamId; }
-        set { if (teamId == -1) { teamId = value; } }
-    }
+    private int teamId = -1;
+    public int Team { get { return teamId; } }
 
-    public int Level 
-    {
-        get { return Level; }
-        private set;
-    } 
-    public int Cost 
-    {
-        get { return tiers.currentCost; }
-        private set;
-    }
+    private int level;
+    public int Level { get { return level; } }
+    public int MaxLevel { get { return tiers.Cap; } }
+
+    public int Cost {  get { return tiers.Cost; } }
+
+    private Tycoon tycoon;
+    public Tycoon GetBase { get{ return tycoon; } }
+
+    /*
+    [SerializeField]
+    private Bank bank;
+    public Bank GetBank { get { return bank; } }
+    */
 
     void Awake()
     {
-        if (tiers == null) { tiers = GetComponent<Tiers>(); }
-        if (tycoon == null) { tycoon = FindObjectOfType<Tycoon>(); }
+        if (tiers == null) { Debug.LogError("No Tiers?, ", gameObject); }
+        if (level < 1) { level = 1; }
+
+        tycoon = GameObject.FindAnyObjectByType<Tycoon>();
     }
 
-    void FixedUpdate()
+    public void GameUpdate()
     {
-        if (inc) { value = 1 + (defaultValue * level); }
-        else { value = defaultValue * level; }
-
-        if (level > maxLevel) {level = maxLevel; }
+        if (level > MaxLevel) {level = MaxLevel; }
         if (level < 1) { level = 1; }
-        
     }
 
     public void Upgrade()
     {
-        if (level < maxLevel) { level += 1; }
-        ChangeSkin(level);
+        if (level < MaxLevel) { level += 1; }
+        // Upgrade Tiers
     }
 
     public void Downgrade()
     {
         if (level > 0) { level -= 1; }
-        ChangeSkin(level);
+        // Include Tiers
     }
 }

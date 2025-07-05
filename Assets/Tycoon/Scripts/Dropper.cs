@@ -9,44 +9,43 @@ public class Dropper : Machine
     [SerializeField]
     GameObject product;
 
-    
     [SerializeField]
-    private int productValue = 1;
-    
-    private Tycoon tycoon;
+    float speed;
 
-    float speed = 1;
-    
+    [SerializeField]
+    float minSpeed = 0.1f;
+
     bool waiting = false;
-
-    private void Start()
-    {
-        tycoon = GameObject.FindAnyObjectByType<Tycoon>();
-        teamId = tycoon.GetTeam;
-    }
-
-    void Update()
-    {
-        speed = value;
-    }
 
     private void FixedUpdate()
     {
-        if (waiting != false) { return; }
-        waiting = true;
+        
+        // Value is Dropper Multiplier
 
-        GameObject cash = Instantiate(product, spawnPoint.position, Quaternion.identity);
-        cash.GetComponent<Valuable>().GetValue = productValue;
-        cash.GetComponent<Valuable>().GetTeam = teamId;
-        cash.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
-
-        StartCoroutine(WaitTime(speed));
+        GameUpdate();
+        if (waiting == false)
+        {
+            if (speed < minSpeed) { speed = minSpeed; }
+            StartCoroutine(WaitTime(speed));//here
+            waiting = true;
+        }
     }
 
     IEnumerator  WaitTime(float seconds)
     {
+        CreateProduct();
         yield return new WaitForSeconds(seconds);
         waiting = false;
     }
+    void CreateProduct()
+    {
+        GameObject cash = Instantiate(product, spawnPoint.position, Quaternion.identity);
+        float pv = Value * product.GetComponent<Valuable>().Value;//here
+
+        cash.GetComponent<Valuable>().Value = pv;
+        cash.GetComponent<Valuable>().Value = Team;
+        cash.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
+    }
+
 
 }

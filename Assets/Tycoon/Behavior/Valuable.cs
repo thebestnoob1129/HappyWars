@@ -6,7 +6,9 @@ public class Valuable : MonoBehaviour
 
     [SerializeField] float level = 1;
 
-    private float defaultValue = 0;
+    [SerializeField] TierList tiers;
+
+    private float defaultValue = 1;
     
     public float Value 
     { 
@@ -19,7 +21,10 @@ public class Valuable : MonoBehaviour
         set { if (teamId == -1) { teamId = value; } }
     }
 
-    public void SetValue(int value) { if (value == 0) { defaultValue = value; } }
+    private void FixedUpdate()
+    {
+        defaultValue = tiers.Value;
+    }
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -27,7 +32,7 @@ public class Valuable : MonoBehaviour
         if ( obj.GetComponent<Upgrader>() != null)
         {
             var u = obj.GetComponent<Upgrader>();
-            level += u.multiplier;
+            level += u.Value;
         }
     }
 }

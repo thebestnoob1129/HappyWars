@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Build;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -19,6 +20,8 @@ public class Game : PersistableObject
     public KeyCode saveAction = KeyCode.S;
     public KeyCode loadAction = KeyCode.L;
     public KeyCode destroyAction = KeyCode.X;
+
+    public static bool pvp = false;
 
     // UI
 
