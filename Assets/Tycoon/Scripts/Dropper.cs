@@ -15,12 +15,14 @@ public class Dropper : Machine
     [SerializeField]
     float minSpeed = 0.1f;
 
-    bool waiting = false;
-    bool canSpawn = true;
+
+    private bool waiting = false;
+    private bool canSpawn = true;
 
     void Start()
     {
         if (product == null) {Debug.LogError("No product assigned to Dropper", gameObject);}
+        physicalButton.GetComponent<Button>().SetMachine(this);
     }
 
     private void FixedUpdate()

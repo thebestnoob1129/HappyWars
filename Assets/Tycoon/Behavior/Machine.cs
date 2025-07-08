@@ -3,50 +3,39 @@ using TMPro;
 
 public class Machine : MonoBehaviour
 {
+    public bool canPurchase = true;
 
     [SerializeField]
     TierList tiers;
 
-    public bool canPurchase = true;
-    [SerializeField]
-    GameObject physicalButton;
-
-    private int teamId = -1;
-    private int level;
-
-    public int Team { get { return teamId; } }
-    public int Level { get { return level; } }
-    public float Value { get { return tiers.Value; } }
-    public int MaxLevel { get { return tiers.MaxLevel; } }
-    public Material Skin { get { return tiers.Skin; } }
-
+    [SerializeField] protected GameObject physicalButton;
     [SerializeField] int displayCost = -1;
-    private int cost;
+
+    protected int teamId = -1;
+    protected int level;
+    protected int cost;
+    protected Tycoon tycoon;
+
     public int Cost { get { return cost; } }
+    public int Level { get { return level; } }
+    public int MaxLevel { get { return tiers.MaxLevel; } }
+    public int Team { get { return teamId; } }
+    public float Value { get { return tiers.Value; } }
+    public Material Skin { get { return tiers.Skin; } }
+    public Tycoon GetTycoon { get { return tycoon; } }
+
     // Or just make cost = displayCost(multiplier) * tiers.Cost;
-
-    private Tycoon tycoon;
-    public Tycoon GetBase { get { return tycoon; } }
-
 
     public bool showText = true;
     [Header("Display Text")]
     [Tooltip("Text to display on the machine")]
-    //[TextArea(1, 3)]
-    //[Multiline(3)]
 
     [SerializeField]
     TMP_Text displayText;
 
-    /*
-    [SerializeField]
-    private Bank bank;
-    public Bank GetBank { get { return bank; } }
-    */
-
     void Awake()
     {
-        if (tiers == null) { Debug.LogError("No Tiers?, ", gameObject); }
+        if (tiers == null) { Debug.LogError("No Tiers for: " + gameObject.name, gameObject); }
 
         tycoon = GameObject.FindAnyObjectByType<Tycoon>();
         teamId = tycoon.Team;

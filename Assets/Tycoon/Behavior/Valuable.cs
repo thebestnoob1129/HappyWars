@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Valuable : MonoBehaviour
 {
-    private float multiplier;
+    protected float multiplier;
     [SerializeField] TierList tiers;
 
     public float Value { get { return Mathf.RoundToInt(tiers.Value * multiplier); } }

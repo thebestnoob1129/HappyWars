@@ -7,27 +7,18 @@ public class Button : Machine
     
     Vector3 defaultScale = new Vector3(1f, 0.1f, 1f);
 
+    private void Awake()
+    {
+        tycoon = GameObject.FindAnyObjectByType<Tycoon>();
+        if (controlBank == null) { controlBank = tycoon.GhostBank;}
+    }
+
     private void Start()
     {
         canPurchase = false;
 
-        if (controlMachine == null)
-        {
-            if (transform.parent == gameObject)
-            {
-                Debug.LogError("Button is parented to itself", gameObject);
-            }
-            else
-            {
-                controlMachine = transform.parent.GetComponent<Machine>();
-            }
-        }
-
-
-        if (controlBank == null) { controlBank = controlMachine.GetBase.GhostBank; }
-
-        if (controlMachine == null) { Debug.LogError("No Control Machine", gameObject); }
-        if (controlBank == null) { Debug.LogError("No Control Bank", gameObject); }
+        tycoon = GameObject.FindAnyObjectByType<Tycoon>();
+        controlBank = tycoon.GhostBank;
 
         if (controlMachine.canPurchase)
         {
@@ -41,6 +32,9 @@ public class Button : Machine
             Debug.LogWarning("Button is not purchasable", controlMachine);
         }
     }
+
+    public void SetBank(Bank bank) {if (!controlBank) { controlBank = bank; } }
+    public void SetMachine(Machine machine) {if (!controlMachine) { controlMachine = machine; } }
 
     private void FixedUpdate()
     {
