@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Build;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -9,6 +8,7 @@ using UnityEngine.UI;
 [RequireComponent(typeof(PersistentStorage))]
 public class Game : PersistableObject
 {
+    // This script relies on Game Management from a "Tutorial is only creates and manages objects inside the tutorial system
     public static Game Instance { get; private set; }
     
     const int saveVersion = 7;

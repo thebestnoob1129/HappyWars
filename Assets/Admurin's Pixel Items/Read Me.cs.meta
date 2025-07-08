@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d069b1aabc590f941bce577d1e991b65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/Read Me.cs
+  uploadId: 509172

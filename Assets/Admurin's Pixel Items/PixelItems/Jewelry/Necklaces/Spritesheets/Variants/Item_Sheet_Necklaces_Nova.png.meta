@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: 1058a5d38f6e2b14a90c68a0e9d722fd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Nova.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2341911148724565124
+    second: Item_Sheet_Necklaces_Nova_0
+  - first:
+      213: -3301822286358301776
+    second: Item_Sheet_Necklaces_Nova_1
+  - first:
+      213: 6216588094633163452
+    second: Item_Sheet_Necklaces_Nova_2
+  - first:
+      213: -1680563861754610437
+    second: Item_Sheet_Necklaces_Nova_3
+  - first:
+      213: -3087679881393369325
+    second: Item_Sheet_Necklaces_Nova_4
+  - first:
+      213: -5933744461058163132
+    second: Item_Sheet_Necklaces_Nova_5
+  - first:
+      213: 4583651995722541421
+    second: Item_Sheet_Necklaces_Nova_6
+  - first:
+      213: -4714017483628875219
+    second: Item_Sheet_Necklaces_Nova_7
+  - first:
+      213: 7365576307863218305
+    second: Item_Sheet_Necklaces_Nova_8
+  - first:
+      213: -2117604076175572345
+    second: Item_Sheet_Necklaces_Nova_9
+  - first:
+      213: -3849908844515565316
+    second: Item_Sheet_Necklaces_Nova_10
+  - first:
+      213: -6695359553237334256
+    second: Item_Sheet_Necklaces_Nova_11
+  - first:
+      213: -7064268068078382472
+    second: Item_Sheet_Necklaces_Nova_12
+  - first:
+      213: -3239880031711633435
+    second: Item_Sheet_Necklaces_Nova_13
+  - first:
+      213: 943692109669845057
+    second: Item_Sheet_Necklaces_Nova_14
+  - first:
+      213: -1287198555056027281
+    second: Item_Sheet_Necklaces_Nova_15
+  - first:
+      213: -5149358776059925443
+    second: Item_Sheet_Necklaces_Nova_16
+  - first:
+      213: 4886512393371776700
+    second: Item_Sheet_Necklaces_Nova_17
+  - first:
+      213: -2009142394411852862
+    second: Item_Sheet_Necklaces_Nova_18
+  - first:
+      213: -5043747895562558724
+    second: Item_Sheet_Necklaces_Nova_19
+  - first:
+      213: -6454991839951769468
+    second: Item_Sheet_Necklaces_Nova_20
+  - first:
+      213: -9136480844761578412
+    second: Item_Sheet_Necklaces_Nova_21
+  - first:
+      213: -553524820759601652
+    second: Item_Sheet_Necklaces_Nova_22
+  - first:
+      213: 5628613545139805423
+    second: Item_Sheet_Necklaces_Nova_23
+  - first:
+      213: -3543235471776978262
+    second: Item_Sheet_Necklaces_Nova_24
+  - first:
+      213: -1159349778220271319
+    second: Item_Sheet_Necklaces_Nova_25
+  - first:
+      213: 3204783418594218634
+    second: Item_Sheet_Necklaces_Nova_26
+  - first:
+      213: 2172484382799858426
+    second: Item_Sheet_Necklaces_Nova_27
+  - first:
+      213: -1602241100678186731
+    second: Item_Sheet_Necklaces_Nova_28
+  - first:
+      213: -3453360179703608814
+    second: Item_Sheet_Necklaces_Nova_29
+  - first:
+      213: 270824322437233196
+    second: Item_Sheet_Necklaces_Nova_30
+  - first:
+      213: 3221821061059683893
+    second: Item_Sheet_Necklaces_Nova_31
+  - first:
+      213: 4063417172009266002
+    second: Item_Sheet_Necklaces_Nova_32
+  - first:
+      213: 6145268264472378439
+    second: Item_Sheet_Necklaces_Nova_33
+  - first:
+      213: 8915097167791992633
+    second: Item_Sheet_Necklaces_Nova_34
+  - first:
+      213: -2739291937687997880
+    second: Item_Sheet_Necklaces_Nova_35
+  - first:
+      213: 3505875773048055240
+    second: Item_Sheet_Necklaces_Nova_36
+  - first:
+      213: 372186913648972925
+    second: Item_Sheet_Necklaces_Nova_37
+  - first:
+      213: -4868376258688085352
+    second: Item_Sheet_Necklaces_Nova_38
+  - first:
+      213: -6276153602228068421
+    second: Item_Sheet_Necklaces_Nova_39
+  - first:
+      213: 7131706520417025793
+    second: Item_Sheet_Necklaces_Nova_40
+  - first:
+      213: 1028086850175562560
+    second: Item_Sheet_Necklaces_Nova_41
+  - first:
+      213: 1756386919781950526
+    second: Item_Sheet_Necklaces_Nova_42
+  - first:
+      213: 5603333534580751903
+    second: Item_Sheet_Necklaces_Nova_43
+  - first:
+      213: 3506908604408821020
+    second: Item_Sheet_Necklaces_Nova_44
+  - first:
+      213: 1006130115937674937
+    second: Item_Sheet_Necklaces_Nova_45
+  - first:
+      213: -5157512059928808020
+    second: Item_Sheet_Necklaces_Nova_46
+  - first:
+      213: -7878574002417008591
+    second: Item_Sheet_Necklaces_Nova_47
+  - first:
+      213: -4359288492291982340
+    second: Item_Sheet_Necklaces_Nova_48
+  - first:
+      213: 5219698090417992657
+    second: Item_Sheet_Necklaces_Nova_49
+  - first:
+      213: 8520545903241845871
+    second: Item_Sheet_Necklaces_Nova_50
+  - first:
+      213: 874197597777168450
+    second: Item_Sheet_Necklaces_Nova_51
+  - first:
+      213: -2970654025198903016
+    second: Item_Sheet_Necklaces_Nova_52
+  - first:
+      213: 7909914479452188386
+    second: Item_Sheet_Necklaces_Nova_53
+  - first:
+      213: 375024945812655437
+    second: Item_Sheet_Necklaces_Nova_54
+  - first:
+      213: -3711124169537675845
+    second: Item_Sheet_Necklaces_Nova_55
+  - first:
+      213: 2735743329373593380
+    second: Item_Sheet_Necklaces_Nova_56
+  - first:
+      213: 6952897336594686742
+    second: Item_Sheet_Necklaces_Nova_57
+  - first:
+      213: -2633459180212448407
+    second: Item_Sheet_Necklaces_Nova_58
+  - first:
+      213: 2958391242249469127
+    second: Item_Sheet_Necklaces_Nova_59
+  - first:
+      213: 1171566577271323697
+    second: Item_Sheet_Necklaces_Nova_60
+  - first:
+      213: -4898579029349852789
+    second: Item_Sheet_Necklaces_Nova_61
+  - first:
+      213: -369673671259945295
+    second: Item_Sheet_Necklaces_Nova_62
+  - first:
+      213: 2193996419247684803
+    second: Item_Sheet_Necklaces_Nova_63
+  - first:
+      213: 8067353337928302587
+    second: Item_Sheet_Necklaces_Nova_64
+  - first:
+      213: 7302727237020766618
+    second: Item_Sheet_Necklaces_Nova_65
+  - first:
+      213: -6814003020002259658
+    second: Item_Sheet_Necklaces_Nova_66
+  - first:
+      213: 7975492442888729915
+    second: Item_Sheet_Necklaces_Nova_67
+  - first:
+      213: -5761374427748915515
+    second: Item_Sheet_Necklaces_Nova_68
+  - first:
+      213: -4965273332957486422
+    second: Item_Sheet_Necklaces_Nova_69
+  - first:
+      213: -8922393893546487521
+    second: Item_Sheet_Necklaces_Nova_70
+  - first:
+      213: 4942478965094264691
+    second: Item_Sheet_Necklaces_Nova_71
+  - first:
+      213: 7905651417326948755
+    second: Item_Sheet_Necklaces_Nova_72
+  - first:
+      213: -8686557520625622154
+    second: Item_Sheet_Necklaces_Nova_73
+  - first:
+      213: -5332887709004710528
+    second: Item_Sheet_Necklaces_Nova_74
+  - first:
+      213: 2722219097608285008
+    second: Item_Sheet_Necklaces_Nova_75
+  - first:
+      213: 2322926234530490601
+    second: Item_Sheet_Necklaces_Nova_76
+  - first:
+      213: 6770212240782787078
+    second: Item_Sheet_Necklaces_Nova_77
+  - first:
+      213: 4228627566753476164
+    second: Item_Sheet_Necklaces_Nova_78
+  - first:
+      213: -4009980212977890974
+    second: Item_Sheet_Necklaces_Nova_79
+  - first:
+      213: 3839723128834911801
+    second: Item_Sheet_Necklaces_Nova_80
+  - first:
+      213: -3956560695600886818
+    second: Item_Sheet_Necklaces_Nova_81
+  - first:
+      213: -236410508701449788
+    second: Item_Sheet_Necklaces_Nova_82
+  - first:
+      213: 3103229244122963940
+    second: Item_Sheet_Necklaces_Nova_83
+  - first:
+      213: -6872919937177001215
+    second: Item_Sheet_Necklaces_Nova_84
+  - first:
+      213: 4172277273198936539
+    second: Item_Sheet_Necklaces_Nova_85
+  - first:
+      213: -1574659291440743240
+    second: Item_Sheet_Necklaces_Nova_86
+  - first:
+      213: 6737746048574043115
+    second: Item_Sheet_Necklaces_Nova_87
+  - first:
+      213: 663371953483602356
+    second: Item_Sheet_Necklaces_Nova_88
+  - first:
+      213: -5900953753238706757
+    second: Item_Sheet_Necklaces_Nova_89
+  - first:
+      213: 7736519081648115846
+    second: Item_Sheet_Necklaces_Nova_90
+  - first:
+      213: -5873161044256585099
+    second: Item_Sheet_Necklaces_Nova_91
+  - first:
+      213: -4235876910992666250
+    second: Item_Sheet_Necklaces_Nova_92
+  - first:
+      213: 8110168436474667433
+    second: Item_Sheet_Necklaces_Nova_93
+  - first:
+      213: 763872992391475845
+    second: Item_Sheet_Necklaces_Nova_94
+  - first:
+      213: -4926972294820191234
+    second: Item_Sheet_Necklaces_Nova_95
+  - first:
+      213: 9006842455820662254
+    second: Item_Sheet_Necklaces_Nova_96
+  - first:
+      213: 2492080045315542357
+    second: Item_Sheet_Necklaces_Nova_97
+  - first:
+      213: 3610150553837057586
+    second: Item_Sheet_Necklaces_Nova_98
+  - first:
+      213: 1121989451223289721
+    second: Item_Sheet_Necklaces_Nova_99
+  - first:
+      213: -591756443792721329
+    second: Item_Sheet_Necklaces_Nova_100
+  - first:
+      213: 1616008428735889994
+    second: Item_Sheet_Necklaces_Nova_101
+  - first:
+      213: -1474208104568031292
+    second: Item_Sheet_Necklaces_Nova_102
+  - first:
+      213: 6232573116078129151
+    second: Item_Sheet_Necklaces_Nova_103
+  - first:
+      213: -4465218329796808085
+    second: Item_Sheet_Necklaces_Nova_104
+  - first:
+      213: 8699761673361254204
+    second: Item_Sheet_Necklaces_Nova_105
+  - first:
+      213: 2627799311581536619
+    second: Item_Sheet_Necklaces_Nova_106
+  - first:
+      213: -1265886775894508974
+    second: Item_Sheet_Necklaces_Nova_107
+  - first:
+      213: 6646694444526193531
+    second: Item_Sheet_Necklaces_Nova_108
+  - first:
+      213: 2865150003829631110
+    second: Item_Sheet_Necklaces_Nova_109
+  - first:
+      213: -4426717752773431010
+    second: Item_Sheet_Necklaces_Nova_110
+  - first:
+      213: -6641694092415930878
+    second: Item_Sheet_Necklaces_Nova_111
+  - first:
+      213: -2994982166847995122
+    second: Item_Sheet_Necklaces_Nova_112
+  - first:
+      213: -8757240793662872157
+    second: Item_Sheet_Necklaces_Nova_113
+  - first:
+      213: 7249195541263515717
+    second: Item_Sheet_Necklaces_Nova_114
+  - first:
+      213: 7848803547965115331
+    second: Item_Sheet_Necklaces_Nova_115
+  - first:
+      213: -3877660287500808901
+    second: Item_Sheet_Necklaces_Nova_116
+  - first:
+      213: 2558474004119697453
+    second: Item_Sheet_Necklaces_Nova_117
+  - first:
+      213: 6656119925427781076
+    second: Item_Sheet_Necklaces_Nova_118
+  - first:
+      213: 6636353698187842949
+    second: Item_Sheet_Necklaces_Nova_119
+  - first:
+      213: -3921460187873173594
+    second: Item_Sheet_Necklaces_Nova_120
+  - first:
+      213: 4929805710240466691
+    second: Item_Sheet_Necklaces_Nova_121
+  - first:
+      213: -1018480718670281641
+    second: Item_Sheet_Necklaces_Nova_122
+  - first:
+      213: 8612788713838481597
+    second: Item_Sheet_Necklaces_Nova_123
+  - first:
+      213: 4332115892408964641
+    second: Item_Sheet_Necklaces_Nova_124
+  - first:
+      213: -5467868785604920617
+    second: Item_Sheet_Necklaces_Nova_125
+  - first:
+      213: -153176861434258467
+    second: Item_Sheet_Necklaces_Nova_126
+  - first:
+      213: -4545254795292606375
+    second: Item_Sheet_Necklaces_Nova_127
+  - first:
+      213: 8442810887971146194
+    second: Item_Sheet_Necklaces_Nova_128
+  - first:
+      213: -4776131762661921870
+    second: Item_Sheet_Necklaces_Nova_129
+  - first:
+      213: 7149291064515689922
+    second: Item_Sheet_Necklaces_Nova_130
+  - first:
+      213: 6109676900167966261
+    second: Item_Sheet_Necklaces_Nova_131
+  - first:
+      213: -3568651553273395668
+    second: Item_Sheet_Necklaces_Nova_132
+  - first:
+      213: -1492146690613462103
+    second: Item_Sheet_Necklaces_Nova_133
+  - first:
+      213: 6666813743045899063
+    second: Item_Sheet_Necklaces_Nova_134
+  - first:
+      213: 6003383938092963642
+    second: Item_Sheet_Necklaces_Nova_135
+  - first:
+      213: -1650374491929121159
+    second: Item_Sheet_Necklaces_Nova_136
+  - first:
+      213: 3408085769640068657
+    second: Item_Sheet_Necklaces_Nova_137
+  - first:
+      213: 5186516649310089529
+    second: Item_Sheet_Necklaces_Nova_138
+  - first:
+      213: -2888939158246446141
+    second: Item_Sheet_Necklaces_Nova_139
+  - first:
+      213: -669687587131793909
+    second: Item_Sheet_Necklaces_Nova_140
+  - first:
+      213: 3519186132922346420
+    second: Item_Sheet_Necklaces_Nova_141
+  - first:
+      213: 3929389398101749009
+    second: Item_Sheet_Necklaces_Nova_142
+  - first:
+      213: -2593120038117040728
+    second: Item_Sheet_Necklaces_Nova_143
+  - first:
+      213: -6851482675996025690
+    second: Item_Sheet_Necklaces_Nova_144
+  - first:
+      213: 7539527187337776593
+    second: Item_Sheet_Necklaces_Nova_145
+  - first:
+      213: 1868478103219152799
+    second: Item_Sheet_Necklaces_Nova_146
+  - first:
+      213: 5600953884898737664
+    second: Item_Sheet_Necklaces_Nova_147
+  - first:
+      213: 4117920112868235439
+    second: Item_Sheet_Necklaces_Nova_148
+  - first:
+      213: 8488253973957465334
+    second: Item_Sheet_Necklaces_Nova_149
+  - first:
+      213: 2173717430945962312
+    second: Item_Sheet_Necklaces_Nova_150
+  - first:
+      213: -7873640315345045152
+    second: Item_Sheet_Necklaces_Nova_151
+  - first:
+      213: -7664852582999857359
+    second: Item_Sheet_Necklaces_Nova_152
+  - first:
+      213: 5744816125798996607
+    second: Item_Sheet_Necklaces_Nova_153
+  - first:
+      213: -565262983847008216
+    second: Item_Sheet_Necklaces_Nova_154
+  - first:
+      213: 2502811589936054668
+    second: Item_Sheet_Necklaces_Nova_155
+  - first:
+      213: 1177874043311564663
+    second: Item_Sheet_Necklaces_Nova_156
+  - first:
+      213: 1849481554562896876
+    second: Item_Sheet_Necklaces_Nova_157
+  - first:
+      213: -4475369503335149683
+    second: Item_Sheet_Necklaces_Nova_158
+  - first:
+      213: -1066066397728775900
+    second: Item_Sheet_Necklaces_Nova_159
+  - first:
+      213: 8837630367564395926
+    second: Item_Sheet_Necklaces_Nova_160
+  - first:
+      213: -926017462015907163
+    second: Item_Sheet_Necklaces_Nova_161
+  - first:
+      213: -8859877522125043754
+    second: Item_Sheet_Necklaces_Nova_162
+  - first:
+      213: -4702928342101087170
+    second: Item_Sheet_Necklaces_Nova_163
+  - first:
+      213: -3376305758068943967
+    second: Item_Sheet_Necklaces_Nova_164
+  - first:
+      213: -401687413575715796
+    second: Item_Sheet_Necklaces_Nova_165
+  - first:
+      213: -73729924407167234
+    second: Item_Sheet_Necklaces_Nova_166
+  - first:
+      213: 5928447252238504431
+    second: Item_Sheet_Necklaces_Nova_167
+  - first:
+      213: 2827498041944639238
+    second: Item_Sheet_Necklaces_Nova_168
+  - first:
+      213: -5838860657088012247
+    second: Item_Sheet_Necklaces_Nova_169
+  - first:
+      213: -272829896782873596
+    second: Item_Sheet_Necklaces_Nova_170
+  - first:
+      213: -6526401234323086329
+    second: Item_Sheet_Necklaces_Nova_171
+  - first:
+      213: -8036719490816305679
+    second: Item_Sheet_Necklaces_Nova_172
+  - first:
+      213: 6679239118981156183
+    second: Item_Sheet_Necklaces_Nova_173
+  - first:
+      213: 6753957081408720607
+    second: Item_Sheet_Necklaces_Nova_174
+  - first:
+      213: 9163200638756041297
+    second: Item_Sheet_Necklaces_Nova_175
+  - first:
+      213: -3257973682856369145
+    second: Item_Sheet_Necklaces_Nova_176
+  - first:
+      213: -5012323995806646685
+    second: Item_Sheet_Necklaces_Nova_177
+  - first:
+      213: -8374354815767417075
+    second: Item_Sheet_Necklaces_Nova_178
+  - first:
+      213: 884810270891140283
+    second: Item_Sheet_Necklaces_Nova_179
+  - first:
+      213: -3033854238529673964
+    second: Item_Sheet_Necklaces_Nova_180
+  - first:
+      213: 8800920943273391818
+    second: Item_Sheet_Necklaces_Nova_181
+  - first:
+      213: -3484120558904479103
+    second: Item_Sheet_Necklaces_Nova_182
+  - first:
+      213: -4350684280754503735
+    second: Item_Sheet_Necklaces_Nova_183
+  - first:
+      213: 5298237129702481277
+    second: Item_Sheet_Necklaces_Nova_184
+  - first:
+      213: -35942095167544716
+    second: Item_Sheet_Necklaces_Nova_185
+  - first:
+      213: 847444563552992984
+    second: Item_Sheet_Necklaces_Nova_186
+  - first:
+      213: 8243503017303119416
+    second: Item_Sheet_Necklaces_Nova_187
+  - first:
+      213: 5661256531025860099
+    second: Item_Sheet_Necklaces_Nova_188
+  - first:
+      213: -5847708610335017944
+    second: Item_Sheet_Necklaces_Nova_189
+  - first:
+      213: 3501683965114505439
+    second: Item_Sheet_Necklaces_Nova_190
+  - first:
+      213: 4085433934708668299
+    second: Item_Sheet_Necklaces_Nova_191
+  - first:
+      213: 4132586998165577903
+    second: Item_Sheet_Necklaces_Nova_192
+  - first:
+      213: -5961960518553627658
+    second: Item_Sheet_Necklaces_Nova_193
+  - first:
+      213: 8724420679284373006
+    second: Item_Sheet_Necklaces_Nova_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bcebcd73cdf7fd0800000000000000
+      internalID: -2341911148724565124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33526df129d22d0800000000000000
+      internalID: -3301822286358301776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba38876fe1c54650800000000000000
+      internalID: 6216588094633163452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf1cd52107da8e0800000000000000
+      internalID: -1680563861754610437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8d61d18b5625d0800000000000000
+      internalID: -3087679881393369325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebfaad9da17ada0800000000000000
+      internalID: -5933744461058163132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696d0374376c9f30800000000000000
+      internalID: 4583651995722541421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f1571312749eb0800000000000000
+      internalID: -4714017483628875219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1886834a0a8c73660800000000000000
+      internalID: 7365576307863218305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c2a0ff42cc92e0800000000000000
+      internalID: -2117604076175572345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e309bd40629ac0800000000000000
+      internalID: -3849908844515565316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01745c9b5fd4513a0800000000000000
+      internalID: -6695359553237334256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8729d04ce9da6fd90800000000000000
+      internalID: -7064268068078382472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef52fad642a903d0800000000000000
+      internalID: -3239880031711633435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c53e49faa81d00800000000000000
+      internalID: 943692109669845057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f694d7aebb3f22ee0800000000000000
+      internalID: -1287198555056027281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c68e3c97dc988b0800000000000000
+      internalID: -5149358776059925443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f775c12160d340800000000000000
+      internalID: 4886512393371776700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb57ed13a71e14e0800000000000000
+      internalID: -2009142394411852862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ae5c0302010ab0800000000000000
+      internalID: -5043747895562558724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48031af1f134b66a0800000000000000
+      internalID: -6454991839951769468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45443de2413b43180800000000000000
+      internalID: -9136480844761578412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e1344bb1c7158f0800000000000000
+      internalID: -553524820759601652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9208923adc1e40800000000000000
+      internalID: 5628613545139805423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa6b2d7c16e3dec0800000000000000
+      internalID: -3543235471776978262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b0cae48929efe0800000000000000
+      internalID: -1159349778220271319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82de5f1a8da97c20800000000000000
+      internalID: 3204783418594218634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa8edc2907362e10800000000000000
+      internalID: 2172484382799858426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519bb8d3532b3c9e0800000000000000
+      internalID: -1602241100678186731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a894796333310d0800000000000000
+      internalID: -3453360179703608814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a386f494922c300800000000000000
+      internalID: 270824322437233196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a5526f2536bc20800000000000000
+      internalID: 3221821061059683893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ba5d79368246830800000000000000
+      internalID: 4063417172009266002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7b517de0684550800000000000000
+      internalID: 6145268264472378439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2550d3a9c8bb70800000000000000
+      internalID: 8915097167791992633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f30efe741cf9d0800000000000000
+      internalID: -2739291937687997880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56d2fc07f57a030800000000000000
+      internalID: 3505875773048055240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74981aa6064a2500800000000000000
+      internalID: 372186913648972925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89293f3269d007cb0800000000000000
+      internalID: -4868376258688085352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf586f1d8f96e8a0800000000000000
+      internalID: -6276153602228068421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f3bcf7b49e8f260800000000000000
+      internalID: 7131706520417025793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043f6fe0b8f744e00800000000000000
+      internalID: 1028086850175562560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34eeb90990ff5810800000000000000
+      internalID: 1756386919781950526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e38b6792a03cd40800000000000000
+      internalID: 5603333534580751903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157c899bca0ba030800000000000000
+      internalID: 3506908604408821020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a94e720e76fd00800000000000000
+      internalID: 1006130115937674937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5762f6b16dc68b0800000000000000
+      internalID: -5157512059928808020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1308e41ffaea9a290800000000000000
+      internalID: -7878574002417008591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbfc777632b083c0800000000000000
+      internalID: -4359288492291982340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3362212c7107840800000000000000
+      internalID: 5219698090417992657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd32fea5f0f3670800000000000000
+      internalID: 8520545903241845871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248020f5516c12c00800000000000000
+      internalID: 874197597777168450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116f6d37ed16c6d0800000000000000
+      internalID: -2970654025198903016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee677f7f49a5cd60800000000000000
+      internalID: 7909914479452188386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc215833b543500800000000000000
+      internalID: 375024945812655437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd175dea307f7cc0800000000000000
+      internalID: -3711124169537675845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f15ff301057f520800000000000000
+      internalID: 2735743329373593380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136c732a47ad7060800000000000000
+      internalID: 6952897336594686742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96312f804d2147bd0800000000000000
+      internalID: -2633459180212448407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf7ec19215e0920800000000000000
+      internalID: 2958391242249469127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3af4489d324010800000000000000
+      internalID: 1171566577271323697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899c6b9350c40cb0800000000000000
+      internalID: -4898579029349852789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68cbd21c7aedaf0800000000000000
+      internalID: -369673671259945295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccbcb77e14a27e10800000000000000
+      internalID: 2193996419247684803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff37c04e1ff4ff60800000000000000
+      internalID: 8067353337928302587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9151360bbf785560800000000000000
+      internalID: 7302727237020766618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d835efa5ccf61a0800000000000000
+      internalID: -6814003020002259658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35f13fee14aeae60800000000000000
+      internalID: 7975492442888729915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a108ab7c7b00b0800000000000000
+      internalID: -5761374427748915515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26958f53ec71bb0800000000000000
+      internalID: -4965273332957486422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111c05d60a4d2480800000000000000
+      internalID: -8922393893546487521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa840be66379440800000000000000
+      internalID: 4942478965094264691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39116dff31486bd60800000000000000
+      internalID: 7905651417326948755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673ac1655f5237780800000000000000
+      internalID: -8686557520625622154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3abd22e6cdf5b0800000000000000
+      internalID: -5332887709004710528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be9b9a8d347c520800000000000000
+      internalID: 2722219097608285008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e820a85a11bc3020800000000000000
+      internalID: 2322926234530490601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020cd1b920a4fd50800000000000000
+      internalID: 6770212240782787078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee3c32e5a1faa30800000000000000
+      internalID: 4228627566753476164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698b19fd30b958c0800000000000000
+      internalID: -4009980212977890974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6e0a87df694530800000000000000
+      internalID: 3839723128834911801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbcf6692097719c0800000000000000
+      internalID: -3956560695600886818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14ea715e918bcf0800000000000000
+      internalID: -236410508701449788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9d805e82e01b20800000000000000
+      internalID: 3103229244122963940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036dde3bbb7e90a0800000000000000
+      internalID: -6872919937177001215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd145750318e6e930800000000000000
+      internalID: 4172277273198936539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf763a7bfa52ae0800000000000000
+      internalID: -1574659291440743240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be33c044558418d50800000000000000
+      internalID: 6737746048574043115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d859e645c43900800000000000000
+      internalID: 663371953483602356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e23673d99b1ea0800000000000000
+      internalID: -5900953753238706757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680daab6d13ad5b60800000000000000
+      internalID: 7736519081648115846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a8c68c5275e7ea0800000000000000
+      internalID: -5873161044256585099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671d00064642735c0800000000000000
+      internalID: -4235876910992666250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a168a4393b1d8070800000000000000
+      internalID: 8110168436474667433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582320d7072d99a00800000000000000
+      internalID: 763872992391475845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32d055dc0ef9bb0800000000000000
+      internalID: -4926972294820191234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f8174e7bbefc70800000000000000
+      internalID: 9006842455820662254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d4fdcf895a59220800000000000000
+      internalID: 2492080045315542357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23633232dc4d91230800000000000000
+      internalID: 3610150553837057586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f46e9167b129f00800000000000000
+      internalID: 1121989451223289721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4abf2e46a8a9c7f0800000000000000
+      internalID: -591756443792721329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4207dc9a173d6610800000000000000
+      internalID: 1616008428735889994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c778322a8f8a8be0800000000000000
+      internalID: -1474208104568031292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff7c7c3a3c8e7650800000000000000
+      internalID: 6232573116078129151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f5e7369b5802c0800000000000000
+      internalID: -4465218329796808085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37614b0623cbb870800000000000000
+      internalID: 8699761673361254204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6165db1d81d77420800000000000000
+      internalID: 2627799311581536619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a71fc2faaae6ee0800000000000000
+      internalID: -1265886775894508974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcb80b16dcd3c50800000000000000
+      internalID: 6646694444526193531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688697e8fbe03c720800000000000000
+      internalID: 2865150003829631110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11360958a32192c0800000000000000
+      internalID: -4426717752773431010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eecb28966f3d3a0800000000000000
+      internalID: -6641694092415930878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03456c569faf66d0800000000000000
+      internalID: -2994982166847995122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52a2165e7087680800000000000000
+      internalID: -8757240793662872157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408b58dfe05a9460800000000000000
+      internalID: 7249195541263515717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb494cfd3d8cec60800000000000000
+      internalID: 7848803547965115331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d00e36388cf2ac0800000000000000
+      internalID: -3877660287500808901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2830a62d86818320800000000000000
+      internalID: 2558474004119697453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb5897ec94f5c50800000000000000
+      internalID: 6656119925427781076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58516501780191c50800000000000000
+      internalID: 6636353698187842949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af9bf46cbc2499c0800000000000000
+      internalID: -3921460187873173594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307439a9c203a6440800000000000000
+      internalID: 4929805710240466691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c219be21add1f0800000000000000
+      internalID: -1018480718670281641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db016d5e3b5c68770800000000000000
+      internalID: 8612788713838481597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1265cdc9374ce1c30800000000000000
+      internalID: 4332115892408964641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da729b3f4a3e14b0800000000000000
+      internalID: -5467868785604920617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd662c47ecfddf0800000000000000
+      internalID: -153176861434258467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95081f078d20ce0c0800000000000000
+      internalID: -4545254795292606375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9025b45c3ea2570800000000000000
+      internalID: 8442810887971146194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb63168775c7bdb0800000000000000
+      internalID: -4776131762661921870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf4583852673360800000000000000
+      internalID: 7149291064515689922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53edbee25cee9c450800000000000000
+      internalID: 6109676900167966261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c264effd15a997ec0800000000000000
+      internalID: -3568651553273395668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb5399d74da4be0800000000000000
+      internalID: -1492146690613462103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73371f9e6c7458c50800000000000000
+      internalID: 6666813743045899063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37115862ed405350800000000000000
+      internalID: 6003383938092963642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee236c421b819e0800000000000000
+      internalID: -1650374491929121159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c57f53f3fb4f20800000000000000
+      internalID: 3408085769640068657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f6c7c9653af740800000000000000
+      internalID: 5186516649310089529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb210f442d68e7d0800000000000000
+      internalID: -2888939158246446141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e558a00bac4b6f0800000000000000
+      internalID: -669687587131793909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb21577429a6d030800000000000000
+      internalID: 3519186132922346420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6a0ab6def78630800000000000000
+      internalID: 3929389398101749009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad16147013630cd0800000000000000
+      internalID: -2593120038117040728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac93809ec4aae0a0800000000000000
+      internalID: -6851482675996025690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0bafd708c1a860800000000000000
+      internalID: 7539527187337776593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9729fc6fea2ee910800000000000000
+      internalID: 1868478103219152799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ebbb812e59abd40800000000000000
+      internalID: 5600953884898737664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa892f4668ac52930800000000000000
+      internalID: 4117920112868235439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4580144065cc570800000000000000
+      internalID: 8488253973957465334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849db919c789a2e10800000000000000
+      internalID: 2173717430945962312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f9aa79d53bb290800000000000000
+      internalID: -7873640315345045152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137ee869f29f0a590800000000000000
+      internalID: -7664852582999857359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5f2e34dfa9bf40800000000000000
+      internalID: 5744816125798996607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8282f13af48c728f0800000000000000
+      internalID: -565262983847008216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c818edd61e5cbb220800000000000000
+      internalID: 2502811589936054668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772db5a336a85010800000000000000
+      internalID: 1177874043311564663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3db56ccadaaa910800000000000000
+      internalID: 1849481554562896876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8713f52b44e1c0800000000000000
+      internalID: -4475369503335149683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421656072429431f0800000000000000
+      internalID: -1066066397728775900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69571eadef195aa70800000000000000
+      internalID: 8837630367564395926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaabb846002623f0800000000000000
+      internalID: -926017462015907163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7c444d5546b0580800000000000000
+      internalID: -8859877522125043754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca2fc0797dbbeb0800000000000000
+      internalID: -4702928342101087170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d13d2dc3f421d0800000000000000
+      internalID: -3376305758068943967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f213fc6bec6af0800000000000000
+      internalID: -401687413575715796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f46e360f0afef0800000000000000
+      internalID: -73729924407167234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1115b9d53164250800000000000000
+      internalID: 5928447252238504431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60709390d7a4d3720800000000000000
+      internalID: 2827498041944639238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e3410b2338fea0800000000000000
+      internalID: -5838860657088012247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c762687a6b63cf0800000000000000
+      internalID: -272829896782873596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704608ed7a09d65a0800000000000000
+      internalID: -6526401234323086329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f59f661436d77090800000000000000
+      internalID: -8036719490816305679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc3c0379c61bc50800000000000000
+      internalID: 6679239118981156183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec9997e20eabd50800000000000000
+      internalID: 6753957081408720607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152bfa6ae6a3a2f70800000000000000
+      internalID: 9163200638756041297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70466c9623a59c2d0800000000000000
+      internalID: -3257973682856369145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e37cad1e5a07ab0800000000000000
+      internalID: -5012323995806646685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe91f0aa058cb80800000000000000
+      internalID: -8374354815767417075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb46512e04a774c00800000000000000
+      internalID: 884810270891140283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152024e4a595e5d0800000000000000
+      internalID: -3033854238529673964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac63b18f7f6232a70800000000000000
+      internalID: 8800920943273391818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182fcd3bfcae5afc0800000000000000
+      internalID: -3484120558904479103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf70c392b34f93c0800000000000000
+      internalID: -4350684280754503735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d93b3299e178940800000000000000
+      internalID: 5298237129702481277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4722e09dade408ff0800000000000000
+      internalID: -35942095167544716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7961375ab2cb00800000000000000
+      internalID: 847444563552992984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836963b715ec66270800000000000000
+      internalID: 8243503017303119416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306182202d2d09e40800000000000000
+      internalID: 5661256531025860099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824fcfa5004c8dea0800000000000000
+      internalID: -5847708610335017944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d458730b789030800000000000000
+      internalID: 3501683965114505439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f2af948062b830800000000000000
+      internalID: 4085433934708668299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ae0dbaf5e95930800000000000000
+      internalID: 4132586998165577903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f315b60f7cd24da0800000000000000
+      internalID: -5961960518553627658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Nova_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0631d3426e531970800000000000000
+      internalID: 8724420679284373006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Nova_0: -2341911148724565124
+      Item_Sheet_Necklaces_Nova_1: -3301822286358301776
+      Item_Sheet_Necklaces_Nova_10: -3849908844515565316
+      Item_Sheet_Necklaces_Nova_100: -591756443792721329
+      Item_Sheet_Necklaces_Nova_101: 1616008428735889994
+      Item_Sheet_Necklaces_Nova_102: -1474208104568031292
+      Item_Sheet_Necklaces_Nova_103: 6232573116078129151
+      Item_Sheet_Necklaces_Nova_104: -4465218329796808085
+      Item_Sheet_Necklaces_Nova_105: 8699761673361254204
+      Item_Sheet_Necklaces_Nova_106: 2627799311581536619
+      Item_Sheet_Necklaces_Nova_107: -1265886775894508974
+      Item_Sheet_Necklaces_Nova_108: 6646694444526193531
+      Item_Sheet_Necklaces_Nova_109: 2865150003829631110
+      Item_Sheet_Necklaces_Nova_11: -6695359553237334256
+      Item_Sheet_Necklaces_Nova_110: -4426717752773431010
+      Item_Sheet_Necklaces_Nova_111: -6641694092415930878
+      Item_Sheet_Necklaces_Nova_112: -2994982166847995122
+      Item_Sheet_Necklaces_Nova_113: -8757240793662872157
+      Item_Sheet_Necklaces_Nova_114: 7249195541263515717
+      Item_Sheet_Necklaces_Nova_115: 7848803547965115331
+      Item_Sheet_Necklaces_Nova_116: -3877660287500808901
+      Item_Sheet_Necklaces_Nova_117: 2558474004119697453
+      Item_Sheet_Necklaces_Nova_118: 6656119925427781076
+      Item_Sheet_Necklaces_Nova_119: 6636353698187842949
+      Item_Sheet_Necklaces_Nova_12: -7064268068078382472
+      Item_Sheet_Necklaces_Nova_120: -3921460187873173594
+      Item_Sheet_Necklaces_Nova_121: 4929805710240466691
+      Item_Sheet_Necklaces_Nova_122: -1018480718670281641
+      Item_Sheet_Necklaces_Nova_123: 8612788713838481597
+      Item_Sheet_Necklaces_Nova_124: 4332115892408964641
+      Item_Sheet_Necklaces_Nova_125: -5467868785604920617
+      Item_Sheet_Necklaces_Nova_126: -153176861434258467
+      Item_Sheet_Necklaces_Nova_127: -4545254795292606375
+      Item_Sheet_Necklaces_Nova_128: 8442810887971146194
+      Item_Sheet_Necklaces_Nova_129: -4776131762661921870
+      Item_Sheet_Necklaces_Nova_13: -3239880031711633435
+      Item_Sheet_Necklaces_Nova_130: 7149291064515689922
+      Item_Sheet_Necklaces_Nova_131: 6109676900167966261
+      Item_Sheet_Necklaces_Nova_132: -3568651553273395668
+      Item_Sheet_Necklaces_Nova_133: -1492146690613462103
+      Item_Sheet_Necklaces_Nova_134: 6666813743045899063
+      Item_Sheet_Necklaces_Nova_135: 6003383938092963642
+      Item_Sheet_Necklaces_Nova_136: -1650374491929121159
+      Item_Sheet_Necklaces_Nova_137: 3408085769640068657
+      Item_Sheet_Necklaces_Nova_138: 5186516649310089529
+      Item_Sheet_Necklaces_Nova_139: -2888939158246446141
+      Item_Sheet_Necklaces_Nova_14: 943692109669845057
+      Item_Sheet_Necklaces_Nova_140: -669687587131793909
+      Item_Sheet_Necklaces_Nova_141: 3519186132922346420
+      Item_Sheet_Necklaces_Nova_142: 3929389398101749009
+      Item_Sheet_Necklaces_Nova_143: -2593120038117040728
+      Item_Sheet_Necklaces_Nova_144: -6851482675996025690
+      Item_Sheet_Necklaces_Nova_145: 7539527187337776593
+      Item_Sheet_Necklaces_Nova_146: 1868478103219152799
+      Item_Sheet_Necklaces_Nova_147: 5600953884898737664
+      Item_Sheet_Necklaces_Nova_148: 4117920112868235439
+      Item_Sheet_Necklaces_Nova_149: 8488253973957465334
+      Item_Sheet_Necklaces_Nova_15: -1287198555056027281
+      Item_Sheet_Necklaces_Nova_150: 2173717430945962312
+      Item_Sheet_Necklaces_Nova_151: -7873640315345045152
+      Item_Sheet_Necklaces_Nova_152: -7664852582999857359
+      Item_Sheet_Necklaces_Nova_153: 5744816125798996607
+      Item_Sheet_Necklaces_Nova_154: -565262983847008216
+      Item_Sheet_Necklaces_Nova_155: 2502811589936054668
+      Item_Sheet_Necklaces_Nova_156: 1177874043311564663
+      Item_Sheet_Necklaces_Nova_157: 1849481554562896876
+      Item_Sheet_Necklaces_Nova_158: -4475369503335149683
+      Item_Sheet_Necklaces_Nova_159: -1066066397728775900
+      Item_Sheet_Necklaces_Nova_16: -5149358776059925443
+      Item_Sheet_Necklaces_Nova_160: 8837630367564395926
+      Item_Sheet_Necklaces_Nova_161: -926017462015907163
+      Item_Sheet_Necklaces_Nova_162: -8859877522125043754
+      Item_Sheet_Necklaces_Nova_163: -4702928342101087170
+      Item_Sheet_Necklaces_Nova_164: -3376305758068943967
+      Item_Sheet_Necklaces_Nova_165: -401687413575715796
+      Item_Sheet_Necklaces_Nova_166: -73729924407167234
+      Item_Sheet_Necklaces_Nova_167: 5928447252238504431
+      Item_Sheet_Necklaces_Nova_168: 2827498041944639238
+      Item_Sheet_Necklaces_Nova_169: -5838860657088012247
+      Item_Sheet_Necklaces_Nova_17: 4886512393371776700
+      Item_Sheet_Necklaces_Nova_170: -272829896782873596
+      Item_Sheet_Necklaces_Nova_171: -6526401234323086329
+      Item_Sheet_Necklaces_Nova_172: -8036719490816305679
+      Item_Sheet_Necklaces_Nova_173: 6679239118981156183
+      Item_Sheet_Necklaces_Nova_174: 6753957081408720607
+      Item_Sheet_Necklaces_Nova_175: 9163200638756041297
+      Item_Sheet_Necklaces_Nova_176: -3257973682856369145
+      Item_Sheet_Necklaces_Nova_177: -5012323995806646685
+      Item_Sheet_Necklaces_Nova_178: -8374354815767417075
+      Item_Sheet_Necklaces_Nova_179: 884810270891140283
+      Item_Sheet_Necklaces_Nova_18: -2009142394411852862
+      Item_Sheet_Necklaces_Nova_180: -3033854238529673964
+      Item_Sheet_Necklaces_Nova_181: 8800920943273391818
+      Item_Sheet_Necklaces_Nova_182: -3484120558904479103
+      Item_Sheet_Necklaces_Nova_183: -4350684280754503735
+      Item_Sheet_Necklaces_Nova_184: 5298237129702481277
+      Item_Sheet_Necklaces_Nova_185: -35942095167544716
+      Item_Sheet_Necklaces_Nova_186: 847444563552992984
+      Item_Sheet_Necklaces_Nova_187: 8243503017303119416
+      Item_Sheet_Necklaces_Nova_188: 5661256531025860099
+      Item_Sheet_Necklaces_Nova_189: -5847708610335017944
+      Item_Sheet_Necklaces_Nova_19: -5043747895562558724
+      Item_Sheet_Necklaces_Nova_190: 3501683965114505439
+      Item_Sheet_Necklaces_Nova_191: 4085433934708668299
+      Item_Sheet_Necklaces_Nova_192: 4132586998165577903
+      Item_Sheet_Necklaces_Nova_193: -5961960518553627658
+      Item_Sheet_Necklaces_Nova_194: 8724420679284373006
+      Item_Sheet_Necklaces_Nova_2: 6216588094633163452
+      Item_Sheet_Necklaces_Nova_20: -6454991839951769468
+      Item_Sheet_Necklaces_Nova_21: -9136480844761578412
+      Item_Sheet_Necklaces_Nova_22: -553524820759601652
+      Item_Sheet_Necklaces_Nova_23: 5628613545139805423
+      Item_Sheet_Necklaces_Nova_24: -3543235471776978262
+      Item_Sheet_Necklaces_Nova_25: -1159349778220271319
+      Item_Sheet_Necklaces_Nova_26: 3204783418594218634
+      Item_Sheet_Necklaces_Nova_27: 2172484382799858426
+      Item_Sheet_Necklaces_Nova_28: -1602241100678186731
+      Item_Sheet_Necklaces_Nova_29: -3453360179703608814
+      Item_Sheet_Necklaces_Nova_3: -1680563861754610437
+      Item_Sheet_Necklaces_Nova_30: 270824322437233196
+      Item_Sheet_Necklaces_Nova_31: 3221821061059683893
+      Item_Sheet_Necklaces_Nova_32: 4063417172009266002
+      Item_Sheet_Necklaces_Nova_33: 6145268264472378439
+      Item_Sheet_Necklaces_Nova_34: 8915097167791992633
+      Item_Sheet_Necklaces_Nova_35: -2739291937687997880
+      Item_Sheet_Necklaces_Nova_36: 3505875773048055240
+      Item_Sheet_Necklaces_Nova_37: 372186913648972925
+      Item_Sheet_Necklaces_Nova_38: -4868376258688085352
+      Item_Sheet_Necklaces_Nova_39: -6276153602228068421
+      Item_Sheet_Necklaces_Nova_4: -3087679881393369325
+      Item_Sheet_Necklaces_Nova_40: 7131706520417025793
+      Item_Sheet_Necklaces_Nova_41: 1028086850175562560
+      Item_Sheet_Necklaces_Nova_42: 1756386919781950526
+      Item_Sheet_Necklaces_Nova_43: 5603333534580751903
+      Item_Sheet_Necklaces_Nova_44: 3506908604408821020
+      Item_Sheet_Necklaces_Nova_45: 1006130115937674937
+      Item_Sheet_Necklaces_Nova_46: -5157512059928808020
+      Item_Sheet_Necklaces_Nova_47: -7878574002417008591
+      Item_Sheet_Necklaces_Nova_48: -4359288492291982340
+      Item_Sheet_Necklaces_Nova_49: 5219698090417992657
+      Item_Sheet_Necklaces_Nova_5: -5933744461058163132
+      Item_Sheet_Necklaces_Nova_50: 8520545903241845871
+      Item_Sheet_Necklaces_Nova_51: 874197597777168450
+      Item_Sheet_Necklaces_Nova_52: -2970654025198903016
+      Item_Sheet_Necklaces_Nova_53: 7909914479452188386
+      Item_Sheet_Necklaces_Nova_54: 375024945812655437
+      Item_Sheet_Necklaces_Nova_55: -3711124169537675845
+      Item_Sheet_Necklaces_Nova_56: 2735743329373593380
+      Item_Sheet_Necklaces_Nova_57: 6952897336594686742
+      Item_Sheet_Necklaces_Nova_58: -2633459180212448407
+      Item_Sheet_Necklaces_Nova_59: 2958391242249469127
+      Item_Sheet_Necklaces_Nova_6: 4583651995722541421
+      Item_Sheet_Necklaces_Nova_60: 1171566577271323697
+      Item_Sheet_Necklaces_Nova_61: -4898579029349852789
+      Item_Sheet_Necklaces_Nova_62: -369673671259945295
+      Item_Sheet_Necklaces_Nova_63: 2193996419247684803
+      Item_Sheet_Necklaces_Nova_64: 8067353337928302587
+      Item_Sheet_Necklaces_Nova_65: 7302727237020766618
+      Item_Sheet_Necklaces_Nova_66: -6814003020002259658
+      Item_Sheet_Necklaces_Nova_67: 7975492442888729915
+      Item_Sheet_Necklaces_Nova_68: -5761374427748915515
+      Item_Sheet_Necklaces_Nova_69: -4965273332957486422
+      Item_Sheet_Necklaces_Nova_7: -4714017483628875219
+      Item_Sheet_Necklaces_Nova_70: -8922393893546487521
+      Item_Sheet_Necklaces_Nova_71: 4942478965094264691
+      Item_Sheet_Necklaces_Nova_72: 7905651417326948755
+      Item_Sheet_Necklaces_Nova_73: -8686557520625622154
+      Item_Sheet_Necklaces_Nova_74: -5332887709004710528
+      Item_Sheet_Necklaces_Nova_75: 2722219097608285008
+      Item_Sheet_Necklaces_Nova_76: 2322926234530490601
+      Item_Sheet_Necklaces_Nova_77: 6770212240782787078
+      Item_Sheet_Necklaces_Nova_78: 4228627566753476164
+      Item_Sheet_Necklaces_Nova_79: -4009980212977890974
+      Item_Sheet_Necklaces_Nova_8: 7365576307863218305
+      Item_Sheet_Necklaces_Nova_80: 3839723128834911801
+      Item_Sheet_Necklaces_Nova_81: -3956560695600886818
+      Item_Sheet_Necklaces_Nova_82: -236410508701449788
+      Item_Sheet_Necklaces_Nova_83: 3103229244122963940
+      Item_Sheet_Necklaces_Nova_84: -6872919937177001215
+      Item_Sheet_Necklaces_Nova_85: 4172277273198936539
+      Item_Sheet_Necklaces_Nova_86: -1574659291440743240
+      Item_Sheet_Necklaces_Nova_87: 6737746048574043115
+      Item_Sheet_Necklaces_Nova_88: 663371953483602356
+      Item_Sheet_Necklaces_Nova_89: -5900953753238706757
+      Item_Sheet_Necklaces_Nova_9: -2117604076175572345
+      Item_Sheet_Necklaces_Nova_90: 7736519081648115846
+      Item_Sheet_Necklaces_Nova_91: -5873161044256585099
+      Item_Sheet_Necklaces_Nova_92: -4235876910992666250
+      Item_Sheet_Necklaces_Nova_93: 8110168436474667433
+      Item_Sheet_Necklaces_Nova_94: 763872992391475845
+      Item_Sheet_Necklaces_Nova_95: -4926972294820191234
+      Item_Sheet_Necklaces_Nova_96: 9006842455820662254
+      Item_Sheet_Necklaces_Nova_97: 2492080045315542357
+      Item_Sheet_Necklaces_Nova_98: 3610150553837057586
+      Item_Sheet_Necklaces_Nova_99: 1121989451223289721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

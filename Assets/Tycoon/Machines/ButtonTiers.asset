@@ -17,6 +17,5 @@ MonoBehaviour:
   - defaultValue: 0
     reqLevel: 0
     cost: 0
-    cap: 0
     skin: {fileID: 2100000, guid: ea5953c0b81355e42bc3fd159fd80a58, type: 2}
     color: {r: 0, g: 0, b: 0, a: 0}

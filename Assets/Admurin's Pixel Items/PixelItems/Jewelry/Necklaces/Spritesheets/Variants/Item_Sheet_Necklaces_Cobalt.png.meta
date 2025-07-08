@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: 07b4892d4217da24490b963bf8249132
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Cobalt.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8088199564459432055
+    second: Item_Sheet_Necklaces_Cobalt_0
+  - first:
+      213: -6487437784844440290
+    second: Item_Sheet_Necklaces_Cobalt_1
+  - first:
+      213: -2027819484905903822
+    second: Item_Sheet_Necklaces_Cobalt_2
+  - first:
+      213: -2307856774224229210
+    second: Item_Sheet_Necklaces_Cobalt_3
+  - first:
+      213: -2775800979659295685
+    second: Item_Sheet_Necklaces_Cobalt_4
+  - first:
+      213: -243775035270694176
+    second: Item_Sheet_Necklaces_Cobalt_5
+  - first:
+      213: 6759647292841573803
+    second: Item_Sheet_Necklaces_Cobalt_6
+  - first:
+      213: 740987214538012544
+    second: Item_Sheet_Necklaces_Cobalt_7
+  - first:
+      213: 7006400617182443490
+    second: Item_Sheet_Necklaces_Cobalt_8
+  - first:
+      213: 4604587735646657338
+    second: Item_Sheet_Necklaces_Cobalt_9
+  - first:
+      213: 4122603036102551074
+    second: Item_Sheet_Necklaces_Cobalt_10
+  - first:
+      213: 7310084089700756390
+    second: Item_Sheet_Necklaces_Cobalt_11
+  - first:
+      213: 7686703989787988223
+    second: Item_Sheet_Necklaces_Cobalt_12
+  - first:
+      213: 7326104235981741051
+    second: Item_Sheet_Necklaces_Cobalt_13
+  - first:
+      213: -4262980469334617074
+    second: Item_Sheet_Necklaces_Cobalt_14
+  - first:
+      213: -2219347670212731611
+    second: Item_Sheet_Necklaces_Cobalt_15
+  - first:
+      213: 6685829571892338580
+    second: Item_Sheet_Necklaces_Cobalt_16
+  - first:
+      213: 3666689909996291271
+    second: Item_Sheet_Necklaces_Cobalt_17
+  - first:
+      213: 27241324758882425
+    second: Item_Sheet_Necklaces_Cobalt_18
+  - first:
+      213: -4475674975875491435
+    second: Item_Sheet_Necklaces_Cobalt_19
+  - first:
+      213: 4780327835372971879
+    second: Item_Sheet_Necklaces_Cobalt_20
+  - first:
+      213: -2712140683595484122
+    second: Item_Sheet_Necklaces_Cobalt_21
+  - first:
+      213: 62995578052708712
+    second: Item_Sheet_Necklaces_Cobalt_22
+  - first:
+      213: -595569837685180367
+    second: Item_Sheet_Necklaces_Cobalt_23
+  - first:
+      213: -5718076403784161536
+    second: Item_Sheet_Necklaces_Cobalt_24
+  - first:
+      213: 6006089991866451565
+    second: Item_Sheet_Necklaces_Cobalt_25
+  - first:
+      213: 2739016347888241510
+    second: Item_Sheet_Necklaces_Cobalt_26
+  - first:
+      213: 5489877837826127978
+    second: Item_Sheet_Necklaces_Cobalt_27
+  - first:
+      213: 7800546939964281796
+    second: Item_Sheet_Necklaces_Cobalt_28
+  - first:
+      213: -4995835520099619565
+    second: Item_Sheet_Necklaces_Cobalt_29
+  - first:
+      213: -5520176670683444931
+    second: Item_Sheet_Necklaces_Cobalt_30
+  - first:
+      213: -5567122612410048171
+    second: Item_Sheet_Necklaces_Cobalt_31
+  - first:
+      213: -1368679172103610482
+    second: Item_Sheet_Necklaces_Cobalt_32
+  - first:
+      213: -171712815076125258
+    second: Item_Sheet_Necklaces_Cobalt_33
+  - first:
+      213: 181345605705385558
+    second: Item_Sheet_Necklaces_Cobalt_34
+  - first:
+      213: -704269190048247011
+    second: Item_Sheet_Necklaces_Cobalt_35
+  - first:
+      213: -9067212330041432370
+    second: Item_Sheet_Necklaces_Cobalt_36
+  - first:
+      213: -8618377277019355192
+    second: Item_Sheet_Necklaces_Cobalt_37
+  - first:
+      213: 5575900846717913711
+    second: Item_Sheet_Necklaces_Cobalt_38
+  - first:
+      213: -4422403308420125802
+    second: Item_Sheet_Necklaces_Cobalt_39
+  - first:
+      213: -6719207330809253096
+    second: Item_Sheet_Necklaces_Cobalt_40
+  - first:
+      213: -3713101127224605321
+    second: Item_Sheet_Necklaces_Cobalt_41
+  - first:
+      213: 4141995062432004361
+    second: Item_Sheet_Necklaces_Cobalt_42
+  - first:
+      213: 1859670656421799088
+    second: Item_Sheet_Necklaces_Cobalt_43
+  - first:
+      213: -7259784467209338072
+    second: Item_Sheet_Necklaces_Cobalt_44
+  - first:
+      213: 60819075165855337
+    second: Item_Sheet_Necklaces_Cobalt_45
+  - first:
+      213: 3064171355257148135
+    second: Item_Sheet_Necklaces_Cobalt_46
+  - first:
+      213: -2311257528381031473
+    second: Item_Sheet_Necklaces_Cobalt_47
+  - first:
+      213: 7758552341895704577
+    second: Item_Sheet_Necklaces_Cobalt_48
+  - first:
+      213: 719489947203120227
+    second: Item_Sheet_Necklaces_Cobalt_49
+  - first:
+      213: 2213036649403809319
+    second: Item_Sheet_Necklaces_Cobalt_50
+  - first:
+      213: 5204253851038585074
+    second: Item_Sheet_Necklaces_Cobalt_51
+  - first:
+      213: 6540167498344675331
+    second: Item_Sheet_Necklaces_Cobalt_52
+  - first:
+      213: -2266108948191279095
+    second: Item_Sheet_Necklaces_Cobalt_53
+  - first:
+      213: -209831149743772912
+    second: Item_Sheet_Necklaces_Cobalt_54
+  - first:
+      213: 4738897265558147641
+    second: Item_Sheet_Necklaces_Cobalt_55
+  - first:
+      213: 234221224184122575
+    second: Item_Sheet_Necklaces_Cobalt_56
+  - first:
+      213: 235052224911289014
+    second: Item_Sheet_Necklaces_Cobalt_57
+  - first:
+      213: -7281702299432040473
+    second: Item_Sheet_Necklaces_Cobalt_58
+  - first:
+      213: -5307908042029988823
+    second: Item_Sheet_Necklaces_Cobalt_59
+  - first:
+      213: 3893653376262645145
+    second: Item_Sheet_Necklaces_Cobalt_60
+  - first:
+      213: -6553603769147066061
+    second: Item_Sheet_Necklaces_Cobalt_61
+  - first:
+      213: -2527462252333763500
+    second: Item_Sheet_Necklaces_Cobalt_62
+  - first:
+      213: -5592495177009643337
+    second: Item_Sheet_Necklaces_Cobalt_63
+  - first:
+      213: -2049759174936391187
+    second: Item_Sheet_Necklaces_Cobalt_64
+  - first:
+      213: 8972097139685486635
+    second: Item_Sheet_Necklaces_Cobalt_65
+  - first:
+      213: 3741639847587246841
+    second: Item_Sheet_Necklaces_Cobalt_66
+  - first:
+      213: 8008887686386085131
+    second: Item_Sheet_Necklaces_Cobalt_67
+  - first:
+      213: -7783213300251388337
+    second: Item_Sheet_Necklaces_Cobalt_68
+  - first:
+      213: -9063151784089999638
+    second: Item_Sheet_Necklaces_Cobalt_69
+  - first:
+      213: 6680907666865173534
+    second: Item_Sheet_Necklaces_Cobalt_70
+  - first:
+      213: -2334461846948353820
+    second: Item_Sheet_Necklaces_Cobalt_71
+  - first:
+      213: -358425452268985727
+    second: Item_Sheet_Necklaces_Cobalt_72
+  - first:
+      213: -289566560506891740
+    second: Item_Sheet_Necklaces_Cobalt_73
+  - first:
+      213: -5128129156532399470
+    second: Item_Sheet_Necklaces_Cobalt_74
+  - first:
+      213: -2183183818752886838
+    second: Item_Sheet_Necklaces_Cobalt_75
+  - first:
+      213: 6779614698633179154
+    second: Item_Sheet_Necklaces_Cobalt_76
+  - first:
+      213: -8945931267014065750
+    second: Item_Sheet_Necklaces_Cobalt_77
+  - first:
+      213: 3176694608466347400
+    second: Item_Sheet_Necklaces_Cobalt_78
+  - first:
+      213: 5867324895619911933
+    second: Item_Sheet_Necklaces_Cobalt_79
+  - first:
+      213: 7518942851489517594
+    second: Item_Sheet_Necklaces_Cobalt_80
+  - first:
+      213: -5863545363939778969
+    second: Item_Sheet_Necklaces_Cobalt_81
+  - first:
+      213: 5469490920030905724
+    second: Item_Sheet_Necklaces_Cobalt_82
+  - first:
+      213: 3128031534697395289
+    second: Item_Sheet_Necklaces_Cobalt_83
+  - first:
+      213: -7155638622532928401
+    second: Item_Sheet_Necklaces_Cobalt_84
+  - first:
+      213: -773775479528660920
+    second: Item_Sheet_Necklaces_Cobalt_85
+  - first:
+      213: -8521400983018594603
+    second: Item_Sheet_Necklaces_Cobalt_86
+  - first:
+      213: -1567392724736460808
+    second: Item_Sheet_Necklaces_Cobalt_87
+  - first:
+      213: 5837974746815780171
+    second: Item_Sheet_Necklaces_Cobalt_88
+  - first:
+      213: 1223881253512082418
+    second: Item_Sheet_Necklaces_Cobalt_89
+  - first:
+      213: 4123759761995161043
+    second: Item_Sheet_Necklaces_Cobalt_90
+  - first:
+      213: 5408646877944782728
+    second: Item_Sheet_Necklaces_Cobalt_91
+  - first:
+      213: 4366309764881635166
+    second: Item_Sheet_Necklaces_Cobalt_92
+  - first:
+      213: -9086373284793150896
+    second: Item_Sheet_Necklaces_Cobalt_93
+  - first:
+      213: -3573998962575787401
+    second: Item_Sheet_Necklaces_Cobalt_94
+  - first:
+      213: -7598015922342630523
+    second: Item_Sheet_Necklaces_Cobalt_95
+  - first:
+      213: -1759797527775444236
+    second: Item_Sheet_Necklaces_Cobalt_96
+  - first:
+      213: -1844168557854042485
+    second: Item_Sheet_Necklaces_Cobalt_97
+  - first:
+      213: -6480104947576839796
+    second: Item_Sheet_Necklaces_Cobalt_98
+  - first:
+      213: 3088228499256583120
+    second: Item_Sheet_Necklaces_Cobalt_99
+  - first:
+      213: 1422864555382477741
+    second: Item_Sheet_Necklaces_Cobalt_100
+  - first:
+      213: 3148161788527499974
+    second: Item_Sheet_Necklaces_Cobalt_101
+  - first:
+      213: 7544018509694485136
+    second: Item_Sheet_Necklaces_Cobalt_102
+  - first:
+      213: 8551899771398089848
+    second: Item_Sheet_Necklaces_Cobalt_103
+  - first:
+      213: 6662139630859478139
+    second: Item_Sheet_Necklaces_Cobalt_104
+  - first:
+      213: -7859170789378813010
+    second: Item_Sheet_Necklaces_Cobalt_105
+  - first:
+      213: 7838513977535413647
+    second: Item_Sheet_Necklaces_Cobalt_106
+  - first:
+      213: 8153383806396001348
+    second: Item_Sheet_Necklaces_Cobalt_107
+  - first:
+      213: -4928060480706494915
+    second: Item_Sheet_Necklaces_Cobalt_108
+  - first:
+      213: 4768331561202724475
+    second: Item_Sheet_Necklaces_Cobalt_109
+  - first:
+      213: -6844449184642538335
+    second: Item_Sheet_Necklaces_Cobalt_110
+  - first:
+      213: -6964368686281159079
+    second: Item_Sheet_Necklaces_Cobalt_111
+  - first:
+      213: 8581615538454778654
+    second: Item_Sheet_Necklaces_Cobalt_112
+  - first:
+      213: -4133875698202753749
+    second: Item_Sheet_Necklaces_Cobalt_113
+  - first:
+      213: 2543064403624846100
+    second: Item_Sheet_Necklaces_Cobalt_114
+  - first:
+      213: 7196840922321882696
+    second: Item_Sheet_Necklaces_Cobalt_115
+  - first:
+      213: 4657669693799725156
+    second: Item_Sheet_Necklaces_Cobalt_116
+  - first:
+      213: 8837307252870980589
+    second: Item_Sheet_Necklaces_Cobalt_117
+  - first:
+      213: 8674789988547334362
+    second: Item_Sheet_Necklaces_Cobalt_118
+  - first:
+      213: -7903701605115307979
+    second: Item_Sheet_Necklaces_Cobalt_119
+  - first:
+      213: -6095600232507673852
+    second: Item_Sheet_Necklaces_Cobalt_120
+  - first:
+      213: -8351267199153919137
+    second: Item_Sheet_Necklaces_Cobalt_121
+  - first:
+      213: -3754957518221506487
+    second: Item_Sheet_Necklaces_Cobalt_122
+  - first:
+      213: -5244807396698537127
+    second: Item_Sheet_Necklaces_Cobalt_123
+  - first:
+      213: 8897849418831837366
+    second: Item_Sheet_Necklaces_Cobalt_124
+  - first:
+      213: -8893099276327220803
+    second: Item_Sheet_Necklaces_Cobalt_125
+  - first:
+      213: -11735574433408046
+    second: Item_Sheet_Necklaces_Cobalt_126
+  - first:
+      213: 1754916780343362795
+    second: Item_Sheet_Necklaces_Cobalt_127
+  - first:
+      213: 2927855917444644804
+    second: Item_Sheet_Necklaces_Cobalt_128
+  - first:
+      213: 8633562991698483892
+    second: Item_Sheet_Necklaces_Cobalt_129
+  - first:
+      213: -1240915094366917699
+    second: Item_Sheet_Necklaces_Cobalt_130
+  - first:
+      213: -3931627758162605658
+    second: Item_Sheet_Necklaces_Cobalt_131
+  - first:
+      213: -7446845388181246621
+    second: Item_Sheet_Necklaces_Cobalt_132
+  - first:
+      213: 7450542437653255575
+    second: Item_Sheet_Necklaces_Cobalt_133
+  - first:
+      213: -1316286896874078050
+    second: Item_Sheet_Necklaces_Cobalt_134
+  - first:
+      213: 2494738948076848091
+    second: Item_Sheet_Necklaces_Cobalt_135
+  - first:
+      213: -8521682618311866227
+    second: Item_Sheet_Necklaces_Cobalt_136
+  - first:
+      213: -2676127162379698611
+    second: Item_Sheet_Necklaces_Cobalt_137
+  - first:
+      213: 4074998234994129047
+    second: Item_Sheet_Necklaces_Cobalt_138
+  - first:
+      213: 1051389236226557228
+    second: Item_Sheet_Necklaces_Cobalt_139
+  - first:
+      213: -2599092229170330235
+    second: Item_Sheet_Necklaces_Cobalt_140
+  - first:
+      213: -6692148820304260216
+    second: Item_Sheet_Necklaces_Cobalt_141
+  - first:
+      213: -5915754117912029065
+    second: Item_Sheet_Necklaces_Cobalt_142
+  - first:
+      213: 8857785191852789698
+    second: Item_Sheet_Necklaces_Cobalt_143
+  - first:
+      213: -5463112540081975944
+    second: Item_Sheet_Necklaces_Cobalt_144
+  - first:
+      213: 5408681688791302855
+    second: Item_Sheet_Necklaces_Cobalt_145
+  - first:
+      213: 66531507384199068
+    second: Item_Sheet_Necklaces_Cobalt_146
+  - first:
+      213: -5461832065195559633
+    second: Item_Sheet_Necklaces_Cobalt_147
+  - first:
+      213: -4041828520006727006
+    second: Item_Sheet_Necklaces_Cobalt_148
+  - first:
+      213: -3168366340267322406
+    second: Item_Sheet_Necklaces_Cobalt_149
+  - first:
+      213: -7970570565576613492
+    second: Item_Sheet_Necklaces_Cobalt_150
+  - first:
+      213: 5703107685980816075
+    second: Item_Sheet_Necklaces_Cobalt_151
+  - first:
+      213: -2313308425121617127
+    second: Item_Sheet_Necklaces_Cobalt_152
+  - first:
+      213: 1582258782706349528
+    second: Item_Sheet_Necklaces_Cobalt_153
+  - first:
+      213: 2572317736980734007
+    second: Item_Sheet_Necklaces_Cobalt_154
+  - first:
+      213: 466222452125437108
+    second: Item_Sheet_Necklaces_Cobalt_155
+  - first:
+      213: -8319776926352374273
+    second: Item_Sheet_Necklaces_Cobalt_156
+  - first:
+      213: -3419982623750858384
+    second: Item_Sheet_Necklaces_Cobalt_157
+  - first:
+      213: -7356404867233409416
+    second: Item_Sheet_Necklaces_Cobalt_158
+  - first:
+      213: 6504076204798819827
+    second: Item_Sheet_Necklaces_Cobalt_159
+  - first:
+      213: 8688476011635916276
+    second: Item_Sheet_Necklaces_Cobalt_160
+  - first:
+      213: -5867732050914673054
+    second: Item_Sheet_Necklaces_Cobalt_161
+  - first:
+      213: 4537196897287105729
+    second: Item_Sheet_Necklaces_Cobalt_162
+  - first:
+      213: -2737129263776240769
+    second: Item_Sheet_Necklaces_Cobalt_163
+  - first:
+      213: 6360232288826060745
+    second: Item_Sheet_Necklaces_Cobalt_164
+  - first:
+      213: -9045481892790673381
+    second: Item_Sheet_Necklaces_Cobalt_165
+  - first:
+      213: -7603749135517003936
+    second: Item_Sheet_Necklaces_Cobalt_166
+  - first:
+      213: 6532146031638658885
+    second: Item_Sheet_Necklaces_Cobalt_167
+  - first:
+      213: 5936328358595050594
+    second: Item_Sheet_Necklaces_Cobalt_168
+  - first:
+      213: -1383497778429731492
+    second: Item_Sheet_Necklaces_Cobalt_169
+  - first:
+      213: -7341915439813590699
+    second: Item_Sheet_Necklaces_Cobalt_170
+  - first:
+      213: 8868452625680377490
+    second: Item_Sheet_Necklaces_Cobalt_171
+  - first:
+      213: -2159952763100724979
+    second: Item_Sheet_Necklaces_Cobalt_172
+  - first:
+      213: 2504749087207983358
+    second: Item_Sheet_Necklaces_Cobalt_173
+  - first:
+      213: -969830336851206201
+    second: Item_Sheet_Necklaces_Cobalt_174
+  - first:
+      213: -1614494884945109966
+    second: Item_Sheet_Necklaces_Cobalt_175
+  - first:
+      213: -2827704910853213758
+    second: Item_Sheet_Necklaces_Cobalt_176
+  - first:
+      213: 2916986498871542801
+    second: Item_Sheet_Necklaces_Cobalt_177
+  - first:
+      213: -7810278757679920903
+    second: Item_Sheet_Necklaces_Cobalt_178
+  - first:
+      213: -8745512702976987021
+    second: Item_Sheet_Necklaces_Cobalt_179
+  - first:
+      213: -5462953738017667344
+    second: Item_Sheet_Necklaces_Cobalt_180
+  - first:
+      213: 2759219601213265497
+    second: Item_Sheet_Necklaces_Cobalt_181
+  - first:
+      213: -1096807790935339779
+    second: Item_Sheet_Necklaces_Cobalt_182
+  - first:
+      213: -3203598010248143347
+    second: Item_Sheet_Necklaces_Cobalt_183
+  - first:
+      213: 2479559759917153913
+    second: Item_Sheet_Necklaces_Cobalt_184
+  - first:
+      213: -8358847246579785223
+    second: Item_Sheet_Necklaces_Cobalt_185
+  - first:
+      213: 3207549015747375742
+    second: Item_Sheet_Necklaces_Cobalt_186
+  - first:
+      213: -2699016878630855854
+    second: Item_Sheet_Necklaces_Cobalt_187
+  - first:
+      213: -3379258033008407545
+    second: Item_Sheet_Necklaces_Cobalt_188
+  - first:
+      213: -7082681658128067183
+    second: Item_Sheet_Necklaces_Cobalt_189
+  - first:
+      213: 363190986371550217
+    second: Item_Sheet_Necklaces_Cobalt_190
+  - first:
+      213: 2571587058699825230
+    second: Item_Sheet_Necklaces_Cobalt_191
+  - first:
+      213: -983868940433631308
+    second: Item_Sheet_Necklaces_Cobalt_192
+  - first:
+      213: 622828252727922167
+    second: Item_Sheet_Necklaces_Cobalt_193
+  - first:
+      213: -5687825054700473672
+    second: Item_Sheet_Necklaces_Cobalt_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9872de76951f0cf80800000000000000
+      internalID: -8088199564459432055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d66e3e4bdf7f5a0800000000000000
+      internalID: -6487437784844440290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239619d1cecbbd3e0800000000000000
+      internalID: -2027819484905903822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc2ebcd78d8ffd0800000000000000
+      internalID: -2307856774224229210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f93047bf5a79d0800000000000000
+      internalID: -2775800979659295685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf491a5efed9cf0800000000000000
+      internalID: -243775035270694176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb0c016671fcd50800000000000000
+      internalID: 6759647292841573803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f4a912f3884a00800000000000000
+      internalID: 740987214538012544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7bc356d3cbb3160800000000000000
+      internalID: 7006400617182443490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd6504628c6ef30800000000000000
+      internalID: 4604587735646657338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e6dc6e9d663930800000000000000
+      internalID: 4122603036102551074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab29d4cfb2a27560800000000000000
+      internalID: 7310084089700756390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff014e48d88acaa60800000000000000
+      internalID: 7686703989787988223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb1d2dbcfc8ba560800000000000000
+      internalID: 7326104235981741051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d1e079d9d6d4c0800000000000000
+      internalID: -4262980469334617074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d11e37d0b4331e0800000000000000
+      internalID: -2219347670212731611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd1759296d8cc50800000000000000
+      internalID: 6685829571892338580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c486d2db03b2e230800000000000000
+      internalID: 3666689909996291271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d67d27d7c06000800000000000000
+      internalID: 27241324758882425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59916d4925533e1c0800000000000000
+      internalID: -4475674975875491435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7676159c6d2275240800000000000000
+      internalID: 4780327835372971879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f765fa6a8c5ad0800000000000000
+      internalID: -2712140683595484122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869804cf42ecfd000800000000000000
+      internalID: 62995578052708712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13876d9536c1cb7f0800000000000000
+      internalID: -595569837685180367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e6e17ecf45a0b0800000000000000
+      internalID: -5718076403784161536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668a36a60be95350800000000000000
+      internalID: 6006089991866451565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bcdd14bd0f20620800000000000000
+      internalID: 2739016347888241510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687aef8ec6ff2c40800000000000000
+      internalID: 5489877837826127978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d452ec1c114c60800000000000000
+      internalID: 7800546939964281796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dee24401a3baab0800000000000000
+      internalID: -4995835520099619565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c38ea0946463b0800000000000000
+      internalID: -5520176670683444931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551214ada7b9db2b0800000000000000
+      internalID: -5567122612410048171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd9476b89710de0800000000000000
+      internalID: -1368679172103610482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5510eba14fd9df0800000000000000
+      internalID: -171712815076125258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c5a91ed4448200800000000000000
+      internalID: 181345605705385558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131cec27eee936f0800000000000000
+      internalID: -704269190048247011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6a6dc0d6aca2280800000000000000
+      internalID: -9067212330041432370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c786f6578f556880800000000000000
+      internalID: -8618377277019355192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6acb671744916d40800000000000000
+      internalID: 5575900846717913711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b2b143f9770a2c0800000000000000
+      internalID: -4422403308420125802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813f9e2588490c2a0800000000000000
+      internalID: -6719207330809253096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775cca8923a687cc0800000000000000
+      internalID: -3713101127224605321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097ea560925b7930800000000000000
+      internalID: 4141995062432004361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b42d3beb90eec910800000000000000
+      internalID: 1859670656421799088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c616bd70104b90800000000000000
+      internalID: -7259784467209338072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e14da60a218d000800000000000000
+      internalID: 60819075165855337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e29709ec9f168a20800000000000000
+      internalID: 3064171355257148135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb6640683ccefd0800000000000000
+      internalID: -2311257528381031473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f7f59f3aebab60800000000000000
+      internalID: 7758552341895704577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca1828b442cf900800000000000000
+      internalID: 719489947203120227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e72a28b1946be10800000000000000
+      internalID: 2213036649403809319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f01d10ed49393840800000000000000
+      internalID: 5204253851038585074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b36e30b753ca50800000000000000
+      internalID: 6540167498344675331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90889b00be92d80e0800000000000000
+      internalID: -2266108948191279095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be5b85ea7861df0800000000000000
+      internalID: -209831149743772912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d9ac84f1f3c140800000000000000
+      internalID: 4738897265558147641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc0a5266fe104300800000000000000
+      internalID: 234221224184122575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa081d0c2134300800000000000000
+      internalID: 235052224911289014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7453ab65232fa90800000000000000
+      internalID: -7281702299432040473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240d5e12c58656b0800000000000000
+      internalID: -5307908042029988823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a2a2cd19090630800000000000000
+      internalID: 3893653376262645145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f35d281cec05a0800000000000000
+      internalID: -6553603769147066061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ff6af876acecd0800000000000000
+      internalID: -2527462252333763500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0414e44477362b0800000000000000
+      internalID: -5592495177009643337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de191d6f3eacd83e0800000000000000
+      internalID: -2049759174936391187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207045ffca438c70800000000000000
+      internalID: 8972097139685486635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f272e80e99fce330800000000000000
+      internalID: 3741639847587246841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dea09fae8452f60800000000000000
+      internalID: 8008887686386085131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f469b6b9db87cf390800000000000000
+      internalID: -7783213300251388337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62ed39877393280800000000000000
+      internalID: -9063151784089999638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14bea4402a57bc50800000000000000
+      internalID: 6680907666865173534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e0f691535a9fd0800000000000000
+      internalID: -2334461846948353820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826c0f33fd960bf0800000000000000
+      internalID: -358425452268985727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422b7265fb04bfbf0800000000000000
+      internalID: -289566560506891740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292109eb3b935d8b0800000000000000
+      internalID: -5128129156532399470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77ad342e5c3b1e0800000000000000
+      internalID: -2183183818752886838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2103c0206a7061e50800000000000000
+      internalID: 6779614698633179154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1019409eaa9d380800000000000000
+      internalID: -8945931267014065750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88509816ae2e51c20800000000000000
+      internalID: 3176694608466347400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df01b39f7ecec6150800000000000000
+      internalID: 5867324895619911933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10de75bfa6a85860800000000000000
+      internalID: 7518942851489517594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e1bf1de8080aea0800000000000000
+      internalID: -5863545363939778969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75aaae530987eb40800000000000000
+      internalID: 5469490920030905724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954bbd79b10096b20800000000000000
+      internalID: 3128031534697395289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfbd2c59012bc90800000000000000
+      internalID: -7155638622532928401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84069ce0d4ff245f0800000000000000
+      internalID: -773775479528660920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de138a44f6edb980800000000000000
+      internalID: -8521400983018594603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73d8a0f908f3ae0800000000000000
+      internalID: -1567392724736460808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45d7afe917a40150800000000000000
+      internalID: 5837974746815780171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f8d204891cf010800000000000000
+      internalID: 1223881253512082418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd55c8a7a98a3930800000000000000
+      internalID: 4123759761995161043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9c63edaf5f0b40800000000000000
+      internalID: 5408646877944782728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d613f89f389c30800000000000000
+      internalID: 4366309764881635166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521e4f93a7b6e180800000000000000
+      internalID: -9086373284793150896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3e0021ea966ec0800000000000000
+      internalID: -3573998962575787401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b610f46cc6e8690800000000000000
+      internalID: -7598015922342630523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f28558e871f397e0800000000000000
+      internalID: -1759797527775444236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865a2ba7723866e0800000000000000
+      internalID: -1844168557854042485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816e6c12ea0216a0800000000000000
+      internalID: -6480104947576839796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32d6b35779bda20800000000000000
+      internalID: 3088228499256583120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3111346c70fb310800000000000000
+      internalID: 1422864555382477741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cad3ac877480bb20800000000000000
+      internalID: 3148161788527499974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092cf495ddcb1b860800000000000000
+      internalID: 7544018509694485136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6dec38837ea670800000000000000
+      internalID: 8551899771398089848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746e6d52bca47c50800000000000000
+      internalID: 6662139630859478139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea313f58ecd9ee290800000000000000
+      internalID: -7859170789378813010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dbeedaeeef7cc60800000000000000
+      internalID: 7838513977535413647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce7a99f53a62170800000000000000
+      internalID: 8153383806396001348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e39df4a130c9bb0800000000000000
+      internalID: -4928060480706494915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea5cc8a448c2240800000000000000
+      internalID: 4768331561202724475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46b22eab1a301a0800000000000000
+      internalID: -6844449184642538335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8b512497995f90800000000000000
+      internalID: -6964368686281159079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d1986dd5081770800000000000000
+      internalID: 8581615538454778654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25410764f581a6c0800000000000000
+      internalID: -4133875698202753749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413eff2f997ca4320800000000000000
+      internalID: 2543064403624846100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e8df730b050e360800000000000000
+      internalID: 7196840922321882696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f80cb8ed53a040800000000000000
+      internalID: 4657669693799725156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ab5adf1c64aa70800000000000000
+      internalID: 8837307252870980589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09a78988b036870800000000000000
+      internalID: 8674789988547334362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538da680449605290800000000000000
+      internalID: -7903701605115307979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403779862e3186ba0800000000000000
+      internalID: -6095600232507673852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2f02bab65a1c80800000000000000
+      internalID: -8351267199153919137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94889b32806b3ebc0800000000000000
+      internalID: -3754957518221506487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953417cf573b637b0800000000000000
+      internalID: -5244807396698537127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8336257e28b7b70800000000000000
+      internalID: 8897849418831837366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98b3a635d559480800000000000000
+      internalID: -8893099276327220803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db59a6ae8e46dff0800000000000000
+      internalID: -11735574433408046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be40db68387ba5810800000000000000
+      internalID: 1754916780343362795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf30d8c175d1a820800000000000000
+      internalID: 2927855917444644804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba95226cc390d770800000000000000
+      internalID: 8633562991698483892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe6dbdb4267cee0800000000000000
+      internalID: -1240915094366917699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a907a5726d0079c0800000000000000
+      internalID: -3931627758162605658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d6334139d77a890800000000000000
+      internalID: -7446845388181246621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7959b445fd4a56760800000000000000
+      internalID: 7450542437653255575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c1519a0c9bbde0800000000000000
+      internalID: -1316286896874078050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c3770bd71f9220800000000000000
+      internalID: 2494738948076848091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8886e6fec6ecb980800000000000000
+      internalID: -8521682618311866227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7598468c7cdad0800000000000000
+      internalID: -2676127162379698611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7983b21fd4d4d8830800000000000000
+      internalID: 4074998234994129047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2504f990f8479e00800000000000000
+      internalID: 1051389236226557228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58503dd536b2eebd0800000000000000
+      internalID: -2599092229170330235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88317bdba16b023a0800000000000000
+      internalID: -6692148820304260216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789c4709f407eda0800000000000000
+      internalID: -5915754117912029065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc91193bc2dea70800000000000000
+      internalID: 8857785191852789698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8e60f6102f24b0800000000000000
+      internalID: -5463112540081975944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c09be65f7f0b40800000000000000
+      internalID: 5408681688791302855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a100bd0e5ce000800000000000000
+      internalID: 66531507384199068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f253e2bbcaca334b0800000000000000
+      internalID: -5461832065195559633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac4f5206a88e7c0800000000000000
+      internalID: -4041828520006727006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3df0aa993b704d0800000000000000
+      internalID: -3168366340267322406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812f9dec48d26190800000000000000
+      internalID: -7970570565576613492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cfaa5932852f40800000000000000
+      internalID: 5703107685980816075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b25b86e3a75efd0800000000000000
+      internalID: -2313308425121617127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d534fdcaff45f510800000000000000
+      internalID: 1582258782706349528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7306c226a55b2b320800000000000000
+      internalID: 2572317736980734007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8f3d99da587600800000000000000
+      internalID: 466222452125437108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5864e27f63a8c80800000000000000
+      internalID: -8319776926352374273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079525d6ce7c980d0800000000000000
+      internalID: -3419982623750858384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8761998cfbcc8e990800000000000000
+      internalID: -7356404867233409416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdba1329de134a50800000000000000
+      internalID: 6504076204798819827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdbf0926eaa39870800000000000000
+      internalID: 8688476011635916276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e7e0cc9c0a19ea0800000000000000
+      internalID: -5867732050914673054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc6dcaf98c57fe30800000000000000
+      internalID: 4537196897287105729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6a40cf63c30ad0800000000000000
+      internalID: -2737129263776240769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf62789195144850800000000000000
+      internalID: 6360232288826060745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ebfdb42ef77280800000000000000
+      internalID: -9045481892790673381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4358927e0a7690800000000000000
+      internalID: -7603749135517003936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbcccf438d6aa50800000000000000
+      internalID: 6532146031638658885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb22ca033126250800000000000000
+      internalID: 5936328358595050594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d5721c914dccce0800000000000000
+      internalID: -1383497778429731492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55184fe7ec64c1a90800000000000000
+      internalID: -7341915439813590699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962f0d0da2131b70800000000000000
+      internalID: 8868452625680377490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0102c7e76e4602e0800000000000000
+      internalID: -2159952763100724979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8048a2608a2c220800000000000000
+      internalID: 2504749087207983358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf169f62787a82f0800000000000000
+      internalID: -969830336851206201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5923c4792899e0800000000000000
+      internalID: -1614494884945109966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c177fa8d59f1c8d0800000000000000
+      internalID: -2827704910853213758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11449df04c73b7820800000000000000
+      internalID: 2916986498871542801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f885bbb9d05c9390800000000000000
+      internalID: -7810278757679920903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f3684882b1a680800000000000000
+      internalID: -8745512702976987021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6801de480bf24b0800000000000000
+      internalID: -5462953738017667344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569c9bbb97ba4620800000000000000
+      internalID: 2759219601213265497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc0b62102b57c0f0800000000000000
+      internalID: -1096807790935339779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed20445988a83d0800000000000000
+      internalID: -3203598010248143347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef631e67a296220800000000000000
+      internalID: 2479559759917153913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f12cdf57b86ffb80800000000000000
+      internalID: -8358847246579785223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b643e5d0838c20800000000000000
+      internalID: 3207549015747375742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9c6ae27a2b8ad0800000000000000
+      internalID: -2699016878630855854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c062a19b67a11d0800000000000000
+      internalID: -3379258033008407545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1951a1ebe8245bd90800000000000000
+      internalID: -7082681658128067183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ccc4027405a0500800000000000000
+      internalID: 363190986371550217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e407bc61ecc10b320800000000000000
+      internalID: 2571587058699825230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d9e359689852f0800000000000000
+      internalID: -983868940433631308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdcce7fefab4a800800000000000000
+      internalID: 622828252727922167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Cobalt_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f2068f39c011b0800000000000000
+      internalID: -5687825054700473672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Cobalt_0: -8088199564459432055
+      Item_Sheet_Necklaces_Cobalt_1: -6487437784844440290
+      Item_Sheet_Necklaces_Cobalt_10: 4122603036102551074
+      Item_Sheet_Necklaces_Cobalt_100: 1422864555382477741
+      Item_Sheet_Necklaces_Cobalt_101: 3148161788527499974
+      Item_Sheet_Necklaces_Cobalt_102: 7544018509694485136
+      Item_Sheet_Necklaces_Cobalt_103: 8551899771398089848
+      Item_Sheet_Necklaces_Cobalt_104: 6662139630859478139
+      Item_Sheet_Necklaces_Cobalt_105: -7859170789378813010
+      Item_Sheet_Necklaces_Cobalt_106: 7838513977535413647
+      Item_Sheet_Necklaces_Cobalt_107: 8153383806396001348
+      Item_Sheet_Necklaces_Cobalt_108: -4928060480706494915
+      Item_Sheet_Necklaces_Cobalt_109: 4768331561202724475
+      Item_Sheet_Necklaces_Cobalt_11: 7310084089700756390
+      Item_Sheet_Necklaces_Cobalt_110: -6844449184642538335
+      Item_Sheet_Necklaces_Cobalt_111: -6964368686281159079
+      Item_Sheet_Necklaces_Cobalt_112: 8581615538454778654
+      Item_Sheet_Necklaces_Cobalt_113: -4133875698202753749
+      Item_Sheet_Necklaces_Cobalt_114: 2543064403624846100
+      Item_Sheet_Necklaces_Cobalt_115: 7196840922321882696
+      Item_Sheet_Necklaces_Cobalt_116: 4657669693799725156
+      Item_Sheet_Necklaces_Cobalt_117: 8837307252870980589
+      Item_Sheet_Necklaces_Cobalt_118: 8674789988547334362
+      Item_Sheet_Necklaces_Cobalt_119: -7903701605115307979
+      Item_Sheet_Necklaces_Cobalt_12: 7686703989787988223
+      Item_Sheet_Necklaces_Cobalt_120: -6095600232507673852
+      Item_Sheet_Necklaces_Cobalt_121: -8351267199153919137
+      Item_Sheet_Necklaces_Cobalt_122: -3754957518221506487
+      Item_Sheet_Necklaces_Cobalt_123: -5244807396698537127
+      Item_Sheet_Necklaces_Cobalt_124: 8897849418831837366
+      Item_Sheet_Necklaces_Cobalt_125: -8893099276327220803
+      Item_Sheet_Necklaces_Cobalt_126: -11735574433408046
+      Item_Sheet_Necklaces_Cobalt_127: 1754916780343362795
+      Item_Sheet_Necklaces_Cobalt_128: 2927855917444644804
+      Item_Sheet_Necklaces_Cobalt_129: 8633562991698483892
+      Item_Sheet_Necklaces_Cobalt_13: 7326104235981741051
+      Item_Sheet_Necklaces_Cobalt_130: -1240915094366917699
+      Item_Sheet_Necklaces_Cobalt_131: -3931627758162605658
+      Item_Sheet_Necklaces_Cobalt_132: -7446845388181246621
+      Item_Sheet_Necklaces_Cobalt_133: 7450542437653255575
+      Item_Sheet_Necklaces_Cobalt_134: -1316286896874078050
+      Item_Sheet_Necklaces_Cobalt_135: 2494738948076848091
+      Item_Sheet_Necklaces_Cobalt_136: -8521682618311866227
+      Item_Sheet_Necklaces_Cobalt_137: -2676127162379698611
+      Item_Sheet_Necklaces_Cobalt_138: 4074998234994129047
+      Item_Sheet_Necklaces_Cobalt_139: 1051389236226557228
+      Item_Sheet_Necklaces_Cobalt_14: -4262980469334617074
+      Item_Sheet_Necklaces_Cobalt_140: -2599092229170330235
+      Item_Sheet_Necklaces_Cobalt_141: -6692148820304260216
+      Item_Sheet_Necklaces_Cobalt_142: -5915754117912029065
+      Item_Sheet_Necklaces_Cobalt_143: 8857785191852789698
+      Item_Sheet_Necklaces_Cobalt_144: -5463112540081975944
+      Item_Sheet_Necklaces_Cobalt_145: 5408681688791302855
+      Item_Sheet_Necklaces_Cobalt_146: 66531507384199068
+      Item_Sheet_Necklaces_Cobalt_147: -5461832065195559633
+      Item_Sheet_Necklaces_Cobalt_148: -4041828520006727006
+      Item_Sheet_Necklaces_Cobalt_149: -3168366340267322406
+      Item_Sheet_Necklaces_Cobalt_15: -2219347670212731611
+      Item_Sheet_Necklaces_Cobalt_150: -7970570565576613492
+      Item_Sheet_Necklaces_Cobalt_151: 5703107685980816075
+      Item_Sheet_Necklaces_Cobalt_152: -2313308425121617127
+      Item_Sheet_Necklaces_Cobalt_153: 1582258782706349528
+      Item_Sheet_Necklaces_Cobalt_154: 2572317736980734007
+      Item_Sheet_Necklaces_Cobalt_155: 466222452125437108
+      Item_Sheet_Necklaces_Cobalt_156: -8319776926352374273
+      Item_Sheet_Necklaces_Cobalt_157: -3419982623750858384
+      Item_Sheet_Necklaces_Cobalt_158: -7356404867233409416
+      Item_Sheet_Necklaces_Cobalt_159: 6504076204798819827
+      Item_Sheet_Necklaces_Cobalt_16: 6685829571892338580
+      Item_Sheet_Necklaces_Cobalt_160: 8688476011635916276
+      Item_Sheet_Necklaces_Cobalt_161: -5867732050914673054
+      Item_Sheet_Necklaces_Cobalt_162: 4537196897287105729
+      Item_Sheet_Necklaces_Cobalt_163: -2737129263776240769
+      Item_Sheet_Necklaces_Cobalt_164: 6360232288826060745
+      Item_Sheet_Necklaces_Cobalt_165: -9045481892790673381
+      Item_Sheet_Necklaces_Cobalt_166: -7603749135517003936
+      Item_Sheet_Necklaces_Cobalt_167: 6532146031638658885
+      Item_Sheet_Necklaces_Cobalt_168: 5936328358595050594
+      Item_Sheet_Necklaces_Cobalt_169: -1383497778429731492
+      Item_Sheet_Necklaces_Cobalt_17: 3666689909996291271
+      Item_Sheet_Necklaces_Cobalt_170: -7341915439813590699
+      Item_Sheet_Necklaces_Cobalt_171: 8868452625680377490
+      Item_Sheet_Necklaces_Cobalt_172: -2159952763100724979
+      Item_Sheet_Necklaces_Cobalt_173: 2504749087207983358
+      Item_Sheet_Necklaces_Cobalt_174: -969830336851206201
+      Item_Sheet_Necklaces_Cobalt_175: -1614494884945109966
+      Item_Sheet_Necklaces_Cobalt_176: -2827704910853213758
+      Item_Sheet_Necklaces_Cobalt_177: 2916986498871542801
+      Item_Sheet_Necklaces_Cobalt_178: -7810278757679920903
+      Item_Sheet_Necklaces_Cobalt_179: -8745512702976987021
+      Item_Sheet_Necklaces_Cobalt_18: 27241324758882425
+      Item_Sheet_Necklaces_Cobalt_180: -5462953738017667344
+      Item_Sheet_Necklaces_Cobalt_181: 2759219601213265497
+      Item_Sheet_Necklaces_Cobalt_182: -1096807790935339779
+      Item_Sheet_Necklaces_Cobalt_183: -3203598010248143347
+      Item_Sheet_Necklaces_Cobalt_184: 2479559759917153913
+      Item_Sheet_Necklaces_Cobalt_185: -8358847246579785223
+      Item_Sheet_Necklaces_Cobalt_186: 3207549015747375742
+      Item_Sheet_Necklaces_Cobalt_187: -2699016878630855854
+      Item_Sheet_Necklaces_Cobalt_188: -3379258033008407545
+      Item_Sheet_Necklaces_Cobalt_189: -7082681658128067183
+      Item_Sheet_Necklaces_Cobalt_19: -4475674975875491435
+      Item_Sheet_Necklaces_Cobalt_190: 363190986371550217
+      Item_Sheet_Necklaces_Cobalt_191: 2571587058699825230
+      Item_Sheet_Necklaces_Cobalt_192: -983868940433631308
+      Item_Sheet_Necklaces_Cobalt_193: 622828252727922167
+      Item_Sheet_Necklaces_Cobalt_194: -5687825054700473672
+      Item_Sheet_Necklaces_Cobalt_2: -2027819484905903822
+      Item_Sheet_Necklaces_Cobalt_20: 4780327835372971879
+      Item_Sheet_Necklaces_Cobalt_21: -2712140683595484122
+      Item_Sheet_Necklaces_Cobalt_22: 62995578052708712
+      Item_Sheet_Necklaces_Cobalt_23: -595569837685180367
+      Item_Sheet_Necklaces_Cobalt_24: -5718076403784161536
+      Item_Sheet_Necklaces_Cobalt_25: 6006089991866451565
+      Item_Sheet_Necklaces_Cobalt_26: 2739016347888241510
+      Item_Sheet_Necklaces_Cobalt_27: 5489877837826127978
+      Item_Sheet_Necklaces_Cobalt_28: 7800546939964281796
+      Item_Sheet_Necklaces_Cobalt_29: -4995835520099619565
+      Item_Sheet_Necklaces_Cobalt_3: -2307856774224229210
+      Item_Sheet_Necklaces_Cobalt_30: -5520176670683444931
+      Item_Sheet_Necklaces_Cobalt_31: -5567122612410048171
+      Item_Sheet_Necklaces_Cobalt_32: -1368679172103610482
+      Item_Sheet_Necklaces_Cobalt_33: -171712815076125258
+      Item_Sheet_Necklaces_Cobalt_34: 181345605705385558
+      Item_Sheet_Necklaces_Cobalt_35: -704269190048247011
+      Item_Sheet_Necklaces_Cobalt_36: -9067212330041432370
+      Item_Sheet_Necklaces_Cobalt_37: -8618377277019355192
+      Item_Sheet_Necklaces_Cobalt_38: 5575900846717913711
+      Item_Sheet_Necklaces_Cobalt_39: -4422403308420125802
+      Item_Sheet_Necklaces_Cobalt_4: -2775800979659295685
+      Item_Sheet_Necklaces_Cobalt_40: -6719207330809253096
+      Item_Sheet_Necklaces_Cobalt_41: -3713101127224605321
+      Item_Sheet_Necklaces_Cobalt_42: 4141995062432004361
+      Item_Sheet_Necklaces_Cobalt_43: 1859670656421799088
+      Item_Sheet_Necklaces_Cobalt_44: -7259784467209338072
+      Item_Sheet_Necklaces_Cobalt_45: 60819075165855337
+      Item_Sheet_Necklaces_Cobalt_46: 3064171355257148135
+      Item_Sheet_Necklaces_Cobalt_47: -2311257528381031473
+      Item_Sheet_Necklaces_Cobalt_48: 7758552341895704577
+      Item_Sheet_Necklaces_Cobalt_49: 719489947203120227
+      Item_Sheet_Necklaces_Cobalt_5: -243775035270694176
+      Item_Sheet_Necklaces_Cobalt_50: 2213036649403809319
+      Item_Sheet_Necklaces_Cobalt_51: 5204253851038585074
+      Item_Sheet_Necklaces_Cobalt_52: 6540167498344675331
+      Item_Sheet_Necklaces_Cobalt_53: -2266108948191279095
+      Item_Sheet_Necklaces_Cobalt_54: -209831149743772912
+      Item_Sheet_Necklaces_Cobalt_55: 4738897265558147641
+      Item_Sheet_Necklaces_Cobalt_56: 234221224184122575
+      Item_Sheet_Necklaces_Cobalt_57: 235052224911289014
+      Item_Sheet_Necklaces_Cobalt_58: -7281702299432040473
+      Item_Sheet_Necklaces_Cobalt_59: -5307908042029988823
+      Item_Sheet_Necklaces_Cobalt_6: 6759647292841573803
+      Item_Sheet_Necklaces_Cobalt_60: 3893653376262645145
+      Item_Sheet_Necklaces_Cobalt_61: -6553603769147066061
+      Item_Sheet_Necklaces_Cobalt_62: -2527462252333763500
+      Item_Sheet_Necklaces_Cobalt_63: -5592495177009643337
+      Item_Sheet_Necklaces_Cobalt_64: -2049759174936391187
+      Item_Sheet_Necklaces_Cobalt_65: 8972097139685486635
+      Item_Sheet_Necklaces_Cobalt_66: 3741639847587246841
+      Item_Sheet_Necklaces_Cobalt_67: 8008887686386085131
+      Item_Sheet_Necklaces_Cobalt_68: -7783213300251388337
+      Item_Sheet_Necklaces_Cobalt_69: -9063151784089999638
+      Item_Sheet_Necklaces_Cobalt_7: 740987214538012544
+      Item_Sheet_Necklaces_Cobalt_70: 6680907666865173534
+      Item_Sheet_Necklaces_Cobalt_71: -2334461846948353820
+      Item_Sheet_Necklaces_Cobalt_72: -358425452268985727
+      Item_Sheet_Necklaces_Cobalt_73: -289566560506891740
+      Item_Sheet_Necklaces_Cobalt_74: -5128129156532399470
+      Item_Sheet_Necklaces_Cobalt_75: -2183183818752886838
+      Item_Sheet_Necklaces_Cobalt_76: 6779614698633179154
+      Item_Sheet_Necklaces_Cobalt_77: -8945931267014065750
+      Item_Sheet_Necklaces_Cobalt_78: 3176694608466347400
+      Item_Sheet_Necklaces_Cobalt_79: 5867324895619911933
+      Item_Sheet_Necklaces_Cobalt_8: 7006400617182443490
+      Item_Sheet_Necklaces_Cobalt_80: 7518942851489517594
+      Item_Sheet_Necklaces_Cobalt_81: -5863545363939778969
+      Item_Sheet_Necklaces_Cobalt_82: 5469490920030905724
+      Item_Sheet_Necklaces_Cobalt_83: 3128031534697395289
+      Item_Sheet_Necklaces_Cobalt_84: -7155638622532928401
+      Item_Sheet_Necklaces_Cobalt_85: -773775479528660920
+      Item_Sheet_Necklaces_Cobalt_86: -8521400983018594603
+      Item_Sheet_Necklaces_Cobalt_87: -1567392724736460808
+      Item_Sheet_Necklaces_Cobalt_88: 5837974746815780171
+      Item_Sheet_Necklaces_Cobalt_89: 1223881253512082418
+      Item_Sheet_Necklaces_Cobalt_9: 4604587735646657338
+      Item_Sheet_Necklaces_Cobalt_90: 4123759761995161043
+      Item_Sheet_Necklaces_Cobalt_91: 5408646877944782728
+      Item_Sheet_Necklaces_Cobalt_92: 4366309764881635166
+      Item_Sheet_Necklaces_Cobalt_93: -9086373284793150896
+      Item_Sheet_Necklaces_Cobalt_94: -3573998962575787401
+      Item_Sheet_Necklaces_Cobalt_95: -7598015922342630523
+      Item_Sheet_Necklaces_Cobalt_96: -1759797527775444236
+      Item_Sheet_Necklaces_Cobalt_97: -1844168557854042485
+      Item_Sheet_Necklaces_Cobalt_98: -6480104947576839796
+      Item_Sheet_Necklaces_Cobalt_99: 3088228499256583120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

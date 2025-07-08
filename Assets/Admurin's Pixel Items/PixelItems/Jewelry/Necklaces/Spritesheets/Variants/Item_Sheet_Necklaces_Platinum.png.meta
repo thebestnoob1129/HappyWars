@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: bf03b697b92b3144f978c4e2a97d85d7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Platinum.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 491454759692316414
+    second: Item_Sheet_Necklaces_Platinum_0
+  - first:
+      213: 195641081090489375
+    second: Item_Sheet_Necklaces_Platinum_1
+  - first:
+      213: -3965113362359250075
+    second: Item_Sheet_Necklaces_Platinum_2
+  - first:
+      213: -1572372734737303122
+    second: Item_Sheet_Necklaces_Platinum_3
+  - first:
+      213: 9070718457979302749
+    second: Item_Sheet_Necklaces_Platinum_4
+  - first:
+      213: -8866972674859533149
+    second: Item_Sheet_Necklaces_Platinum_5
+  - first:
+      213: -725178853716444257
+    second: Item_Sheet_Necklaces_Platinum_6
+  - first:
+      213: -7837951859927980394
+    second: Item_Sheet_Necklaces_Platinum_7
+  - first:
+      213: -6193768161206855606
+    second: Item_Sheet_Necklaces_Platinum_8
+  - first:
+      213: -6097916305989957796
+    second: Item_Sheet_Necklaces_Platinum_9
+  - first:
+      213: 2840766991528980522
+    second: Item_Sheet_Necklaces_Platinum_10
+  - first:
+      213: -7493018771148949969
+    second: Item_Sheet_Necklaces_Platinum_11
+  - first:
+      213: 8483501911380380889
+    second: Item_Sheet_Necklaces_Platinum_12
+  - first:
+      213: -1730659318462484531
+    second: Item_Sheet_Necklaces_Platinum_13
+  - first:
+      213: -8856747405038931761
+    second: Item_Sheet_Necklaces_Platinum_14
+  - first:
+      213: 5075641438699067873
+    second: Item_Sheet_Necklaces_Platinum_15
+  - first:
+      213: -2177578529756070908
+    second: Item_Sheet_Necklaces_Platinum_16
+  - first:
+      213: 6201893233186748634
+    second: Item_Sheet_Necklaces_Platinum_17
+  - first:
+      213: -4955907674942789431
+    second: Item_Sheet_Necklaces_Platinum_18
+  - first:
+      213: -4771540001128755511
+    second: Item_Sheet_Necklaces_Platinum_19
+  - first:
+      213: -5046946078468329469
+    second: Item_Sheet_Necklaces_Platinum_20
+  - first:
+      213: 903641587963415690
+    second: Item_Sheet_Necklaces_Platinum_21
+  - first:
+      213: 457395211037015686
+    second: Item_Sheet_Necklaces_Platinum_22
+  - first:
+      213: 8840090723944217493
+    second: Item_Sheet_Necklaces_Platinum_23
+  - first:
+      213: -2147376068155054399
+    second: Item_Sheet_Necklaces_Platinum_24
+  - first:
+      213: 6057335906452029105
+    second: Item_Sheet_Necklaces_Platinum_25
+  - first:
+      213: 7326678288676243675
+    second: Item_Sheet_Necklaces_Platinum_26
+  - first:
+      213: 963426180161411175
+    second: Item_Sheet_Necklaces_Platinum_27
+  - first:
+      213: 89826034288823754
+    second: Item_Sheet_Necklaces_Platinum_28
+  - first:
+      213: -8514215274306119305
+    second: Item_Sheet_Necklaces_Platinum_29
+  - first:
+      213: 8257297663335247746
+    second: Item_Sheet_Necklaces_Platinum_30
+  - first:
+      213: 8222720334862324421
+    second: Item_Sheet_Necklaces_Platinum_31
+  - first:
+      213: -8204064418732995453
+    second: Item_Sheet_Necklaces_Platinum_32
+  - first:
+      213: -8702105243244025409
+    second: Item_Sheet_Necklaces_Platinum_33
+  - first:
+      213: 6012488090320678428
+    second: Item_Sheet_Necklaces_Platinum_34
+  - first:
+      213: 6883375999970870377
+    second: Item_Sheet_Necklaces_Platinum_35
+  - first:
+      213: -3999514884581170551
+    second: Item_Sheet_Necklaces_Platinum_36
+  - first:
+      213: 3526368035678341543
+    second: Item_Sheet_Necklaces_Platinum_37
+  - first:
+      213: 151866883265825223
+    second: Item_Sheet_Necklaces_Platinum_38
+  - first:
+      213: 1604740504534041240
+    second: Item_Sheet_Necklaces_Platinum_39
+  - first:
+      213: -8858494212361257322
+    second: Item_Sheet_Necklaces_Platinum_40
+  - first:
+      213: 3823420693863383813
+    second: Item_Sheet_Necklaces_Platinum_41
+  - first:
+      213: -7603592042922694457
+    second: Item_Sheet_Necklaces_Platinum_42
+  - first:
+      213: -8441408247998366623
+    second: Item_Sheet_Necklaces_Platinum_43
+  - first:
+      213: 3977450447543411038
+    second: Item_Sheet_Necklaces_Platinum_44
+  - first:
+      213: -1618437682621514070
+    second: Item_Sheet_Necklaces_Platinum_45
+  - first:
+      213: -9122167379267876514
+    second: Item_Sheet_Necklaces_Platinum_46
+  - first:
+      213: -5358706607313312010
+    second: Item_Sheet_Necklaces_Platinum_47
+  - first:
+      213: -8941395850300197344
+    second: Item_Sheet_Necklaces_Platinum_48
+  - first:
+      213: -2867021115016561439
+    second: Item_Sheet_Necklaces_Platinum_49
+  - first:
+      213: -7274408060405583364
+    second: Item_Sheet_Necklaces_Platinum_50
+  - first:
+      213: 8223309887094029307
+    second: Item_Sheet_Necklaces_Platinum_51
+  - first:
+      213: 8319366603662062815
+    second: Item_Sheet_Necklaces_Platinum_52
+  - first:
+      213: 9199029028282628906
+    second: Item_Sheet_Necklaces_Platinum_53
+  - first:
+      213: -6124072481006050424
+    second: Item_Sheet_Necklaces_Platinum_54
+  - first:
+      213: 2415289654565647908
+    second: Item_Sheet_Necklaces_Platinum_55
+  - first:
+      213: 675671116530276984
+    second: Item_Sheet_Necklaces_Platinum_56
+  - first:
+      213: 1043711542176566855
+    second: Item_Sheet_Necklaces_Platinum_57
+  - first:
+      213: -3491807391958104648
+    second: Item_Sheet_Necklaces_Platinum_58
+  - first:
+      213: -1785749299717809986
+    second: Item_Sheet_Necklaces_Platinum_59
+  - first:
+      213: -2023229082440214344
+    second: Item_Sheet_Necklaces_Platinum_60
+  - first:
+      213: -3661997534910100854
+    second: Item_Sheet_Necklaces_Platinum_61
+  - first:
+      213: -2606831670069370043
+    second: Item_Sheet_Necklaces_Platinum_62
+  - first:
+      213: -1543618688440377202
+    second: Item_Sheet_Necklaces_Platinum_63
+  - first:
+      213: 3937182033953852892
+    second: Item_Sheet_Necklaces_Platinum_64
+  - first:
+      213: -7391720883937929483
+    second: Item_Sheet_Necklaces_Platinum_65
+  - first:
+      213: -6410651588117106124
+    second: Item_Sheet_Necklaces_Platinum_66
+  - first:
+      213: -143309825085116127
+    second: Item_Sheet_Necklaces_Platinum_67
+  - first:
+      213: -2801161481381067909
+    second: Item_Sheet_Necklaces_Platinum_68
+  - first:
+      213: -1040561940024602023
+    second: Item_Sheet_Necklaces_Platinum_69
+  - first:
+      213: 4615126591360677340
+    second: Item_Sheet_Necklaces_Platinum_70
+  - first:
+      213: -3558986512568025886
+    second: Item_Sheet_Necklaces_Platinum_71
+  - first:
+      213: 3405462635341920500
+    second: Item_Sheet_Necklaces_Platinum_72
+  - first:
+      213: -5382496022489028062
+    second: Item_Sheet_Necklaces_Platinum_73
+  - first:
+      213: 7143794917455030922
+    second: Item_Sheet_Necklaces_Platinum_74
+  - first:
+      213: -1652192578695850969
+    second: Item_Sheet_Necklaces_Platinum_75
+  - first:
+      213: -2766853405957670310
+    second: Item_Sheet_Necklaces_Platinum_76
+  - first:
+      213: -6515875625209309715
+    second: Item_Sheet_Necklaces_Platinum_77
+  - first:
+      213: 8374706812798248058
+    second: Item_Sheet_Necklaces_Platinum_78
+  - first:
+      213: 310236840512934653
+    second: Item_Sheet_Necklaces_Platinum_79
+  - first:
+      213: 2951157655311257224
+    second: Item_Sheet_Necklaces_Platinum_80
+  - first:
+      213: 4092725961626542807
+    second: Item_Sheet_Necklaces_Platinum_81
+  - first:
+      213: 1677331667501767638
+    second: Item_Sheet_Necklaces_Platinum_82
+  - first:
+      213: 55625933284175350
+    second: Item_Sheet_Necklaces_Platinum_83
+  - first:
+      213: 8793953085509216370
+    second: Item_Sheet_Necklaces_Platinum_84
+  - first:
+      213: -2657822598417534855
+    second: Item_Sheet_Necklaces_Platinum_85
+  - first:
+      213: -588977307514760270
+    second: Item_Sheet_Necklaces_Platinum_86
+  - first:
+      213: 7317713445925236418
+    second: Item_Sheet_Necklaces_Platinum_87
+  - first:
+      213: 5521498842917273348
+    second: Item_Sheet_Necklaces_Platinum_88
+  - first:
+      213: 1704016293492584003
+    second: Item_Sheet_Necklaces_Platinum_89
+  - first:
+      213: 8880181124640988243
+    second: Item_Sheet_Necklaces_Platinum_90
+  - first:
+      213: 7248443316463135419
+    second: Item_Sheet_Necklaces_Platinum_91
+  - first:
+      213: -770717290630922253
+    second: Item_Sheet_Necklaces_Platinum_92
+  - first:
+      213: 3434396775254864846
+    second: Item_Sheet_Necklaces_Platinum_93
+  - first:
+      213: -6305683009523913463
+    second: Item_Sheet_Necklaces_Platinum_94
+  - first:
+      213: 7518285635042042366
+    second: Item_Sheet_Necklaces_Platinum_95
+  - first:
+      213: 6307958781816720809
+    second: Item_Sheet_Necklaces_Platinum_96
+  - first:
+      213: 3624463651261751703
+    second: Item_Sheet_Necklaces_Platinum_97
+  - first:
+      213: -7085188314631642356
+    second: Item_Sheet_Necklaces_Platinum_98
+  - first:
+      213: -2546596967892242730
+    second: Item_Sheet_Necklaces_Platinum_99
+  - first:
+      213: -4606781677924674663
+    second: Item_Sheet_Necklaces_Platinum_100
+  - first:
+      213: 701832169886584493
+    second: Item_Sheet_Necklaces_Platinum_101
+  - first:
+      213: 7304214774722571702
+    second: Item_Sheet_Necklaces_Platinum_102
+  - first:
+      213: 5546206644121781619
+    second: Item_Sheet_Necklaces_Platinum_103
+  - first:
+      213: -8925524657757023219
+    second: Item_Sheet_Necklaces_Platinum_104
+  - first:
+      213: 2585812786711447000
+    second: Item_Sheet_Necklaces_Platinum_105
+  - first:
+      213: 4202426598048253173
+    second: Item_Sheet_Necklaces_Platinum_106
+  - first:
+      213: 116236290710968512
+    second: Item_Sheet_Necklaces_Platinum_107
+  - first:
+      213: -6742362969779938868
+    second: Item_Sheet_Necklaces_Platinum_108
+  - first:
+      213: 159456938942713657
+    second: Item_Sheet_Necklaces_Platinum_109
+  - first:
+      213: 5312808909784739932
+    second: Item_Sheet_Necklaces_Platinum_110
+  - first:
+      213: -5886070173022189033
+    second: Item_Sheet_Necklaces_Platinum_111
+  - first:
+      213: 703444272227183834
+    second: Item_Sheet_Necklaces_Platinum_112
+  - first:
+      213: -66390309967063344
+    second: Item_Sheet_Necklaces_Platinum_113
+  - first:
+      213: 7436950820279182532
+    second: Item_Sheet_Necklaces_Platinum_114
+  - first:
+      213: 7360624091885376765
+    second: Item_Sheet_Necklaces_Platinum_115
+  - first:
+      213: 4699323183113757749
+    second: Item_Sheet_Necklaces_Platinum_116
+  - first:
+      213: -3639731632774484720
+    second: Item_Sheet_Necklaces_Platinum_117
+  - first:
+      213: 6800603310211539088
+    second: Item_Sheet_Necklaces_Platinum_118
+  - first:
+      213: 7348363918698495638
+    second: Item_Sheet_Necklaces_Platinum_119
+  - first:
+      213: 834909804712643336
+    second: Item_Sheet_Necklaces_Platinum_120
+  - first:
+      213: 4677394586749894570
+    second: Item_Sheet_Necklaces_Platinum_121
+  - first:
+      213: -5312606095218758558
+    second: Item_Sheet_Necklaces_Platinum_122
+  - first:
+      213: 1960591229551250626
+    second: Item_Sheet_Necklaces_Platinum_123
+  - first:
+      213: 7388926679555686532
+    second: Item_Sheet_Necklaces_Platinum_124
+  - first:
+      213: 4706152329173293119
+    second: Item_Sheet_Necklaces_Platinum_125
+  - first:
+      213: -4650837890953672598
+    second: Item_Sheet_Necklaces_Platinum_126
+  - first:
+      213: 4899284608411926687
+    second: Item_Sheet_Necklaces_Platinum_127
+  - first:
+      213: 4779198675970174726
+    second: Item_Sheet_Necklaces_Platinum_128
+  - first:
+      213: -7102805030628730449
+    second: Item_Sheet_Necklaces_Platinum_129
+  - first:
+      213: 1773720473519862004
+    second: Item_Sheet_Necklaces_Platinum_130
+  - first:
+      213: -478174980743497310
+    second: Item_Sheet_Necklaces_Platinum_131
+  - first:
+      213: -7515088768317887103
+    second: Item_Sheet_Necklaces_Platinum_132
+  - first:
+      213: -8014888485121936350
+    second: Item_Sheet_Necklaces_Platinum_133
+  - first:
+      213: -2554525931721877765
+    second: Item_Sheet_Necklaces_Platinum_134
+  - first:
+      213: -2493302999919547710
+    second: Item_Sheet_Necklaces_Platinum_135
+  - first:
+      213: -7338951785460558448
+    second: Item_Sheet_Necklaces_Platinum_136
+  - first:
+      213: -5056960562685832495
+    second: Item_Sheet_Necklaces_Platinum_137
+  - first:
+      213: 2280378116281538812
+    second: Item_Sheet_Necklaces_Platinum_138
+  - first:
+      213: 3820848638732872203
+    second: Item_Sheet_Necklaces_Platinum_139
+  - first:
+      213: 4884732562902222870
+    second: Item_Sheet_Necklaces_Platinum_140
+  - first:
+      213: -6781827744530494081
+    second: Item_Sheet_Necklaces_Platinum_141
+  - first:
+      213: -2017258971916052779
+    second: Item_Sheet_Necklaces_Platinum_142
+  - first:
+      213: -67331371520966746
+    second: Item_Sheet_Necklaces_Platinum_143
+  - first:
+      213: -428394495658706126
+    second: Item_Sheet_Necklaces_Platinum_144
+  - first:
+      213: 7917038280508682521
+    second: Item_Sheet_Necklaces_Platinum_145
+  - first:
+      213: -7121215780170003134
+    second: Item_Sheet_Necklaces_Platinum_146
+  - first:
+      213: 8594467233843847821
+    second: Item_Sheet_Necklaces_Platinum_147
+  - first:
+      213: -7629922120915567165
+    second: Item_Sheet_Necklaces_Platinum_148
+  - first:
+      213: 5817614467632884854
+    second: Item_Sheet_Necklaces_Platinum_149
+  - first:
+      213: 4542856222744923010
+    second: Item_Sheet_Necklaces_Platinum_150
+  - first:
+      213: 176047098082306390
+    second: Item_Sheet_Necklaces_Platinum_151
+  - first:
+      213: 2919223983614372106
+    second: Item_Sheet_Necklaces_Platinum_152
+  - first:
+      213: 2096113505081724574
+    second: Item_Sheet_Necklaces_Platinum_153
+  - first:
+      213: -6349717443615893321
+    second: Item_Sheet_Necklaces_Platinum_154
+  - first:
+      213: 1850396332975218586
+    second: Item_Sheet_Necklaces_Platinum_155
+  - first:
+      213: -6518656601567327826
+    second: Item_Sheet_Necklaces_Platinum_156
+  - first:
+      213: 5465215546780604553
+    second: Item_Sheet_Necklaces_Platinum_157
+  - first:
+      213: 7885570838530578375
+    second: Item_Sheet_Necklaces_Platinum_158
+  - first:
+      213: -5859246851341512882
+    second: Item_Sheet_Necklaces_Platinum_159
+  - first:
+      213: 5033499732750371874
+    second: Item_Sheet_Necklaces_Platinum_160
+  - first:
+      213: -4320925548386471070
+    second: Item_Sheet_Necklaces_Platinum_161
+  - first:
+      213: -6463701919790927801
+    second: Item_Sheet_Necklaces_Platinum_162
+  - first:
+      213: 222867877892519873
+    second: Item_Sheet_Necklaces_Platinum_163
+  - first:
+      213: -56394502773884924
+    second: Item_Sheet_Necklaces_Platinum_164
+  - first:
+      213: 4897553212399362161
+    second: Item_Sheet_Necklaces_Platinum_165
+  - first:
+      213: -2336387782555278714
+    second: Item_Sheet_Necklaces_Platinum_166
+  - first:
+      213: -7473181450826585713
+    second: Item_Sheet_Necklaces_Platinum_167
+  - first:
+      213: 2225537256787689337
+    second: Item_Sheet_Necklaces_Platinum_168
+  - first:
+      213: 2952870608060780973
+    second: Item_Sheet_Necklaces_Platinum_169
+  - first:
+      213: 7533960002964522246
+    second: Item_Sheet_Necklaces_Platinum_170
+  - first:
+      213: 8449168517576544059
+    second: Item_Sheet_Necklaces_Platinum_171
+  - first:
+      213: -6386128499470116818
+    second: Item_Sheet_Necklaces_Platinum_172
+  - first:
+      213: 8886056569920895862
+    second: Item_Sheet_Necklaces_Platinum_173
+  - first:
+      213: -2144387689609267845
+    second: Item_Sheet_Necklaces_Platinum_174
+  - first:
+      213: 956847509423594174
+    second: Item_Sheet_Necklaces_Platinum_175
+  - first:
+      213: -2858641576002231688
+    second: Item_Sheet_Necklaces_Platinum_176
+  - first:
+      213: 8333173497650325478
+    second: Item_Sheet_Necklaces_Platinum_177
+  - first:
+      213: -552723689081903931
+    second: Item_Sheet_Necklaces_Platinum_178
+  - first:
+      213: 1540795073101773546
+    second: Item_Sheet_Necklaces_Platinum_179
+  - first:
+      213: 5065441281205777963
+    second: Item_Sheet_Necklaces_Platinum_180
+  - first:
+      213: 2222679860217984005
+    second: Item_Sheet_Necklaces_Platinum_181
+  - first:
+      213: 2716933932946604439
+    second: Item_Sheet_Necklaces_Platinum_182
+  - first:
+      213: -3411404746803522947
+    second: Item_Sheet_Necklaces_Platinum_183
+  - first:
+      213: -1920173946151932075
+    second: Item_Sheet_Necklaces_Platinum_184
+  - first:
+      213: 7803882061770636741
+    second: Item_Sheet_Necklaces_Platinum_185
+  - first:
+      213: -825707329093389998
+    second: Item_Sheet_Necklaces_Platinum_186
+  - first:
+      213: 1701609148796680572
+    second: Item_Sheet_Necklaces_Platinum_187
+  - first:
+      213: -363369510804454893
+    second: Item_Sheet_Necklaces_Platinum_188
+  - first:
+      213: -2771248584608120775
+    second: Item_Sheet_Necklaces_Platinum_189
+  - first:
+      213: -4737196252368738366
+    second: Item_Sheet_Necklaces_Platinum_190
+  - first:
+      213: -4587694904837952238
+    second: Item_Sheet_Necklaces_Platinum_191
+  - first:
+      213: 4061679184337134513
+    second: Item_Sheet_Necklaces_Platinum_192
+  - first:
+      213: 2822537157424318273
+    second: Item_Sheet_Necklaces_Platinum_193
+  - first:
+      213: 114765946728527905
+    second: Item_Sheet_Necklaces_Platinum_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea2a6008ff1d600800000000000000
+      internalID: 491454759692316414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3fd5d68e07b200800000000000000
+      internalID: 195641081090489375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631c6ea76619f8c0800000000000000
+      internalID: -3965113362359250075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9397b145fcd2ae0800000000000000
+      internalID: -1572372734737303122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537f69f06aa1ed70800000000000000
+      internalID: 9070718457979302749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf6e9d45f22f480800000000000000
+      internalID: -8866972674859533149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b3b99bca5afe5f0800000000000000
+      internalID: -725178853716444257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69661668f400a3390800000000000000
+      internalID: -7837951859927980394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4814226ca05b0aa0800000000000000
+      internalID: -6193768161206855606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5708678d69df5ba0800000000000000
+      internalID: -6097916305989957796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207dbb178e6c6720800000000000000
+      internalID: 2840766991528980522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26355a9023730890800000000000000
+      internalID: -7493018771148949969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dccc277a047bb570800000000000000
+      internalID: 8483501911380380889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe2dfe4867bf7e0800000000000000
+      internalID: -1730659318462484531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ba410923861580800000000000000
+      internalID: -8856747405038931761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e919e02ffc407640800000000000000
+      internalID: 5075641438699067873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c3f5f4ddfa7c1e0800000000000000
+      internalID: -2177578529756070908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8befa590d811650800000000000000
+      internalID: 6201893233186748634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c827672a34193bb0800000000000000
+      internalID: -4955907674942789431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce472156a518cdb0800000000000000
+      internalID: -4771540001128755511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30038501845a5f9b0800000000000000
+      internalID: -5046946078468329469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c44de8c316a8c00800000000000000
+      internalID: 903641587963415690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e73d3658ef85600800000000000000
+      internalID: 457395211037015686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bbbe63daf4eaa70800000000000000
+      internalID: 8840090723944217493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66172e7dcf232e0800000000000000
+      internalID: -2147376068155054399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beba4de9eaff0450800000000000000
+      internalID: 6057335906452029105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84d1cc5179da560800000000000000
+      internalID: 7326678288676243675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76815d3a107ce5d00800000000000000
+      internalID: 963426180161411175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd0e516d402f3100800000000000000
+      internalID: 89826034288823754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77957c9715e67d980800000000000000
+      internalID: -8514215274306119305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa2cbc970d79270800000000000000
+      internalID: 8257297663335247746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c299d62498fc1270800000000000000
+      internalID: 8222720334862324421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8ffec0ee452e80800000000000000
+      internalID: -8204064418732995453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb920621369eb3780800000000000000
+      internalID: -8702105243244025409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea4d70016a07350800000000000000
+      internalID: 6012488090320678428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96486b5900aa68f50800000000000000
+      internalID: 6883375999970870377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e6ae176ede78c0800000000000000
+      internalID: -3999514884581170551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a946e18b0d20f030800000000000000
+      internalID: 3526368035678341543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9843e202a8b1200800000000000000
+      internalID: 151866883265825223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892ce619cfe254610800000000000000
+      internalID: 1604740504534041240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7a5bb27e401580800000000000000
+      internalID: -8858494212361257322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ca9c1dd48f0530800000000000000
+      internalID: 3823420693863383813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c82b90925d9a7690800000000000000
+      internalID: -7603592042922694457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c31064ce71ada80800000000000000
+      internalID: -8441408247998366623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512b8dcb1eb23730800000000000000
+      internalID: 3977450447543411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaefc34a0872a89e0800000000000000
+      internalID: -1618437682621514070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e590511991d876180800000000000000
+      internalID: -9122167379267876514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62d877bbc02a5b0800000000000000
+      internalID: -5358706607313312010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02674b209d7c9e380800000000000000
+      internalID: -8941395850300197344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb4eb6c7b4638d0800000000000000
+      internalID: -2867021115016561439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf17948196c1c0b90800000000000000
+      internalID: -7274408060405583364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb723af5c01f1270800000000000000
+      internalID: 8223309887094029307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4768f19d3547370800000000000000
+      internalID: 8319366603662062815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bfa45a92489af70800000000000000
+      internalID: 9199029028282628906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883a3e6768ce20ba0800000000000000
+      internalID: -6124072481006050424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426bf02e425d48120800000000000000
+      internalID: 2415289654565647908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a57c5fc47706900800000000000000
+      internalID: 675671116530276984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec8672e120c7e00800000000000000
+      internalID: 1043711542176566855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5014a6dab9a8fc0800000000000000
+      internalID: -3491807391958104648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8da64297eb737e0800000000000000
+      internalID: -1785749299717809986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b859e97edb0ce3e0800000000000000
+      internalID: -2023229082440214344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac353e4a8fd2dc0800000000000000
+      internalID: -3661997534910100854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e64c586ca2dbd0800000000000000
+      internalID: -2606831670069370043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806bd63bf6f39ae0800000000000000
+      internalID: -1543618688440377202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd8ed5233ea3a630800000000000000
+      internalID: 3937182033953852892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61b02e4055b6990800000000000000
+      internalID: -7391720883937929483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327c7f785ac807a0800000000000000
+      internalID: -6410651588117106124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217afe297cd20ef0800000000000000
+      internalID: -143309825085116127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7346cf49764029d0800000000000000
+      internalID: -2801161481381067909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952da0ebd6e2f81f0800000000000000
+      internalID: -1040561940024602023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5338fce293c0040800000000000000
+      internalID: 4615126591360677340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf9f58f90fb9ec0800000000000000
+      internalID: -3558986512568025886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8bb635932a24f20800000000000000
+      internalID: 3405462635341920500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aa69e92688d45b0800000000000000
+      internalID: -5382496022489028062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae523c0abd32360800000000000000
+      internalID: 7143794917455030922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241c467a9b3219e0800000000000000
+      internalID: -1652192578695850969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a30589c792a99d0800000000000000
+      internalID: -2766853405957670310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d5c634a5f295a0800000000000000
+      internalID: -6515875625209309715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7422e2a97fe83470800000000000000
+      internalID: 8374706812798248058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2530343ce2e4400800000000000000
+      internalID: 310236840512934653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e8009604e94f820800000000000000
+      internalID: 2951157655311257224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e4c1f3984cc830800000000000000
+      internalID: 4092725961626542807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd4f3c344174710800000000000000
+      internalID: 1677331667501767638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde3b9dd7f95c000800000000000000
+      internalID: 55625933284175350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782a392db56a0a70800000000000000
+      internalID: 8793953085509216370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9703151bd648d1bd0800000000000000
+      internalID: -2657822598417534855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b311d4624883d7f0800000000000000
+      internalID: -588977307514760270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2970bb9dbd8560800000000000000
+      internalID: 7317713445925236418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f70d781fd40ac40800000000000000
+      internalID: 5521498842917273348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6a196ac1e5a710800000000000000
+      internalID: 1704016293492584003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cda530fadbc3b70800000000000000
+      internalID: 8880181124640988243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae65cdac4a79460800000000000000
+      internalID: 7248443316463135419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff31b525bcdd45f0800000000000000
+      internalID: -770717290630922253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec330debbad69af20800000000000000
+      internalID: 3434396775254864846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6c1736b6bd78a0800000000000000
+      internalID: -6305683009523913463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef16a9493f0565860800000000000000
+      internalID: 7518285635042042366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcdff471f5a8750800000000000000
+      internalID: 6307958781816720809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a5c2dc7eac4230800000000000000
+      internalID: 3624463651261751703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e1ab44ca5cad90800000000000000
+      internalID: -7085188314631642356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de22b6dc8ba8acd0800000000000000
+      internalID: -2546596967892242730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939581c87c6110c0800000000000000
+      internalID: -4606781677924674663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae080ad3a86db900800000000000000
+      internalID: 701832169886584493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdaf7263a8cd5560800000000000000
+      internalID: 7304214774722571702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754ac9ce8518fc40800000000000000
+      internalID: 5546206644121781619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04176cfc9a222480800000000000000
+      internalID: -8925524657757023219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5499f7707a2e320800000000000000
+      internalID: 2585812786711447000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c15bb9b4025a30800000000000000
+      internalID: 4202426598048253173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c816d16a44fc9100800000000000000
+      internalID: 116236290710968512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d48ff9905e62a0800000000000000
+      internalID: -6742362969779938868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc6aabd31863200800000000000000
+      internalID: 159456938942713657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ff331e83eab940800000000000000
+      internalID: 5312808909784739932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a8df50d5a705ea0800000000000000
+      internalID: -5886070173022189033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc626da6d223c900800000000000000
+      internalID: 703444272227183834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d692e56d52241ff0800000000000000
+      internalID: -66390309967063344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c46ace4e5b553760800000000000000
+      internalID: 7436950820279182532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df492020d90362660800000000000000
+      internalID: 7360624091885376765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534e0467989573140800000000000000
+      internalID: 4699323183113757749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d69b63d531d7dc0800000000000000
+      internalID: -3639731632774484720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902183fda8906e50800000000000000
+      internalID: 6800603310211539088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e325efc02aaf560800000000000000
+      internalID: 7348363918698495638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b43693b02369b00800000000000000
+      internalID: 834909804712643336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafff81489179e040800000000000000
+      internalID: 4677394586749894570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c29ee57e4d546b0800000000000000
+      internalID: -5312606095218758558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc062be55b653b10800000000000000
+      internalID: 1960591229551250626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c256baadba8660800000000000000
+      internalID: 7388926679555686532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38504feb9c9f4140800000000000000
+      internalID: 4706152329173293119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6887c15497e47fb0800000000000000
+      internalID: -4650837890953672598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f908ee1d461cdf340800000000000000
+      internalID: 4899284608411926687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f2830efdf135240800000000000000
+      internalID: 4779198675970174726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa95488f474cd6d90800000000000000
+      internalID: -7102805030628730449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03df28f558d9810800000000000000
+      internalID: 1773720473519862004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9fd44736e2d59f0800000000000000
+      internalID: -478174980743497310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d62e4f49a05b790800000000000000
+      internalID: -7515088768317887103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22430f1336565c090800000000000000
+      internalID: -8014888485121936350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6913613308c8cd0800000000000000
+      internalID: -2554525931721877765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca2164b122066dd0800000000000000
+      internalID: -2493302999919547710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09597eb0c3ec62a90800000000000000
+      internalID: -7338951785460558448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d293f1492112d9b0800000000000000
+      internalID: -5056960562685832495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8198690d785af10800000000000000
+      internalID: 2280378116281538812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a253cd791660530800000000000000
+      internalID: 3820848638732872203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180292b26e0ac340800000000000000
+      internalID: 4884732562902222870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d0f57199b12e1a0800000000000000
+      internalID: -6781827744530494081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d659f627a14104e0800000000000000
+      internalID: -2017258971916052779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb04e697ac01ff0800000000000000
+      internalID: -67331371520966746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bb786d9790e0af0800000000000000
+      internalID: -428394495658706126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b3eeae58fedd60800000000000000
+      internalID: 7917038280508682521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8f0e4afb5c2d90800000000000000
+      internalID: -7121215780170003134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822ffae96ea54770800000000000000
+      internalID: 8594467233843847821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdbeee81421d1690800000000000000
+      internalID: -7629922120915567165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6e6709815cb050800000000000000
+      internalID: 5817614467632884854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b426e5aa77b0f30800000000000000
+      internalID: 4542856222744923010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592fe827e1717200800000000000000
+      internalID: 176047098082306390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a2231fba238820800000000000000
+      internalID: 2919223983614372106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e8b4f8024e61d10800000000000000
+      internalID: 2096113505081724574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85c2590a541e7a0800000000000000
+      internalID: -6349717443615893321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f5ca839adeda910800000000000000
+      internalID: 1850396332975218586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea903d2bb541985a0800000000000000
+      internalID: -6518656601567327826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988dcc6759858db40800000000000000
+      internalID: 5465215546780604553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75bc9e5ec2f6d60800000000000000
+      internalID: 7885570838530578375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f86764806cfaea0800000000000000
+      internalID: -5859246851341512882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0c9b96559ad540800000000000000
+      internalID: 5033499732750371874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263b3836b1df804c0800000000000000
+      internalID: -4320925548386471070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f9d0a9515c46a0800000000000000
+      internalID: -6463701919790927801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f0a57729c71300800000000000000
+      internalID: 222867877892519873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b0ee9f75a73ff0800000000000000
+      internalID: -56394502773884924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17023a5c2ba97f340800000000000000
+      internalID: 4897553212399362161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ea33c0bb739fd0800000000000000
+      internalID: -2336387782555278714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896179a01de94890800000000000000
+      internalID: -7473181450826585713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3a39f752b2ee10800000000000000
+      internalID: 2225537256787689337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1972d4c24baf820800000000000000
+      internalID: 2952870608060780973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60583b0c4b00e8860800000000000000
+      internalID: 7533960002964522246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4099400a714570800000000000000
+      internalID: 8449168517576544059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28d51307f9ef57a0800000000000000
+      internalID: -6386128499470116818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3928be5d915b70800000000000000
+      internalID: 8886056569920895862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b757e1cf1ca9d32e0800000000000000
+      internalID: -2144387689609267845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba196f7db7674d00800000000000000
+      internalID: 956847509423594174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8726932e1a01458d0800000000000000
+      internalID: -2858641576002231688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a523252165a370800000000000000
+      internalID: 8333173497650325478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c46455bbb45458f0800000000000000
+      internalID: -552723689081903931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea37eb94f0026510800000000000000
+      internalID: 1540795073101773546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bed4e1001c4640800000000000000
+      internalID: 5065441281205777963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50435bd7e8b88de10800000000000000
+      internalID: 2222679860217984005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791cc7f540d74b520800000000000000
+      internalID: 2716933932946604439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72d1b9057148a0d0800000000000000
+      internalID: -3411404746803522947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f67a038fb2a55e0800000000000000
+      internalID: -1920173946151932075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb1e07365fc4c60800000000000000
+      internalID: 7803882061770636741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b3f81f8f7a84f0800000000000000
+      internalID: -825707329093389998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b49c51845d9710800000000000000
+      internalID: 1701609148796680572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120b4aea5d05faf0800000000000000
+      internalID: -363369510804454893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9300122581c8a89d0800000000000000
+      internalID: -2771248584608120775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ef327b19124eb0800000000000000
+      internalID: -4737196252368738366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da34b6acb3550c0800000000000000
+      internalID: -4587694904837952238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3630ec2bbfd5830800000000000000
+      internalID: 4061679184337134513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1470e99179aab2720800000000000000
+      internalID: 2822537157424318273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Platinum_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b01f350bb79100800000000000000
+      internalID: 114765946728527905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Platinum_0: 491454759692316414
+      Item_Sheet_Necklaces_Platinum_1: 195641081090489375
+      Item_Sheet_Necklaces_Platinum_10: 2840766991528980522
+      Item_Sheet_Necklaces_Platinum_100: -4606781677924674663
+      Item_Sheet_Necklaces_Platinum_101: 701832169886584493
+      Item_Sheet_Necklaces_Platinum_102: 7304214774722571702
+      Item_Sheet_Necklaces_Platinum_103: 5546206644121781619
+      Item_Sheet_Necklaces_Platinum_104: -8925524657757023219
+      Item_Sheet_Necklaces_Platinum_105: 2585812786711447000
+      Item_Sheet_Necklaces_Platinum_106: 4202426598048253173
+      Item_Sheet_Necklaces_Platinum_107: 116236290710968512
+      Item_Sheet_Necklaces_Platinum_108: -6742362969779938868
+      Item_Sheet_Necklaces_Platinum_109: 159456938942713657
+      Item_Sheet_Necklaces_Platinum_11: -7493018771148949969
+      Item_Sheet_Necklaces_Platinum_110: 5312808909784739932
+      Item_Sheet_Necklaces_Platinum_111: -5886070173022189033
+      Item_Sheet_Necklaces_Platinum_112: 703444272227183834
+      Item_Sheet_Necklaces_Platinum_113: -66390309967063344
+      Item_Sheet_Necklaces_Platinum_114: 7436950820279182532
+      Item_Sheet_Necklaces_Platinum_115: 7360624091885376765
+      Item_Sheet_Necklaces_Platinum_116: 4699323183113757749
+      Item_Sheet_Necklaces_Platinum_117: -3639731632774484720
+      Item_Sheet_Necklaces_Platinum_118: 6800603310211539088
+      Item_Sheet_Necklaces_Platinum_119: 7348363918698495638
+      Item_Sheet_Necklaces_Platinum_12: 8483501911380380889
+      Item_Sheet_Necklaces_Platinum_120: 834909804712643336
+      Item_Sheet_Necklaces_Platinum_121: 4677394586749894570
+      Item_Sheet_Necklaces_Platinum_122: -5312606095218758558
+      Item_Sheet_Necklaces_Platinum_123: 1960591229551250626
+      Item_Sheet_Necklaces_Platinum_124: 7388926679555686532
+      Item_Sheet_Necklaces_Platinum_125: 4706152329173293119
+      Item_Sheet_Necklaces_Platinum_126: -4650837890953672598
+      Item_Sheet_Necklaces_Platinum_127: 4899284608411926687
+      Item_Sheet_Necklaces_Platinum_128: 4779198675970174726
+      Item_Sheet_Necklaces_Platinum_129: -7102805030628730449
+      Item_Sheet_Necklaces_Platinum_13: -1730659318462484531
+      Item_Sheet_Necklaces_Platinum_130: 1773720473519862004
+      Item_Sheet_Necklaces_Platinum_131: -478174980743497310
+      Item_Sheet_Necklaces_Platinum_132: -7515088768317887103
+      Item_Sheet_Necklaces_Platinum_133: -8014888485121936350
+      Item_Sheet_Necklaces_Platinum_134: -2554525931721877765
+      Item_Sheet_Necklaces_Platinum_135: -2493302999919547710
+      Item_Sheet_Necklaces_Platinum_136: -7338951785460558448
+      Item_Sheet_Necklaces_Platinum_137: -5056960562685832495
+      Item_Sheet_Necklaces_Platinum_138: 2280378116281538812
+      Item_Sheet_Necklaces_Platinum_139: 3820848638732872203
+      Item_Sheet_Necklaces_Platinum_14: -8856747405038931761
+      Item_Sheet_Necklaces_Platinum_140: 4884732562902222870
+      Item_Sheet_Necklaces_Platinum_141: -6781827744530494081
+      Item_Sheet_Necklaces_Platinum_142: -2017258971916052779
+      Item_Sheet_Necklaces_Platinum_143: -67331371520966746
+      Item_Sheet_Necklaces_Platinum_144: -428394495658706126
+      Item_Sheet_Necklaces_Platinum_145: 7917038280508682521
+      Item_Sheet_Necklaces_Platinum_146: -7121215780170003134
+      Item_Sheet_Necklaces_Platinum_147: 8594467233843847821
+      Item_Sheet_Necklaces_Platinum_148: -7629922120915567165
+      Item_Sheet_Necklaces_Platinum_149: 5817614467632884854
+      Item_Sheet_Necklaces_Platinum_15: 5075641438699067873
+      Item_Sheet_Necklaces_Platinum_150: 4542856222744923010
+      Item_Sheet_Necklaces_Platinum_151: 176047098082306390
+      Item_Sheet_Necklaces_Platinum_152: 2919223983614372106
+      Item_Sheet_Necklaces_Platinum_153: 2096113505081724574
+      Item_Sheet_Necklaces_Platinum_154: -6349717443615893321
+      Item_Sheet_Necklaces_Platinum_155: 1850396332975218586
+      Item_Sheet_Necklaces_Platinum_156: -6518656601567327826
+      Item_Sheet_Necklaces_Platinum_157: 5465215546780604553
+      Item_Sheet_Necklaces_Platinum_158: 7885570838530578375
+      Item_Sheet_Necklaces_Platinum_159: -5859246851341512882
+      Item_Sheet_Necklaces_Platinum_16: -2177578529756070908
+      Item_Sheet_Necklaces_Platinum_160: 5033499732750371874
+      Item_Sheet_Necklaces_Platinum_161: -4320925548386471070
+      Item_Sheet_Necklaces_Platinum_162: -6463701919790927801
+      Item_Sheet_Necklaces_Platinum_163: 222867877892519873
+      Item_Sheet_Necklaces_Platinum_164: -56394502773884924
+      Item_Sheet_Necklaces_Platinum_165: 4897553212399362161
+      Item_Sheet_Necklaces_Platinum_166: -2336387782555278714
+      Item_Sheet_Necklaces_Platinum_167: -7473181450826585713
+      Item_Sheet_Necklaces_Platinum_168: 2225537256787689337
+      Item_Sheet_Necklaces_Platinum_169: 2952870608060780973
+      Item_Sheet_Necklaces_Platinum_17: 6201893233186748634
+      Item_Sheet_Necklaces_Platinum_170: 7533960002964522246
+      Item_Sheet_Necklaces_Platinum_171: 8449168517576544059
+      Item_Sheet_Necklaces_Platinum_172: -6386128499470116818
+      Item_Sheet_Necklaces_Platinum_173: 8886056569920895862
+      Item_Sheet_Necklaces_Platinum_174: -2144387689609267845
+      Item_Sheet_Necklaces_Platinum_175: 956847509423594174
+      Item_Sheet_Necklaces_Platinum_176: -2858641576002231688
+      Item_Sheet_Necklaces_Platinum_177: 8333173497650325478
+      Item_Sheet_Necklaces_Platinum_178: -552723689081903931
+      Item_Sheet_Necklaces_Platinum_179: 1540795073101773546
+      Item_Sheet_Necklaces_Platinum_18: -4955907674942789431
+      Item_Sheet_Necklaces_Platinum_180: 5065441281205777963
+      Item_Sheet_Necklaces_Platinum_181: 2222679860217984005
+      Item_Sheet_Necklaces_Platinum_182: 2716933932946604439
+      Item_Sheet_Necklaces_Platinum_183: -3411404746803522947
+      Item_Sheet_Necklaces_Platinum_184: -1920173946151932075
+      Item_Sheet_Necklaces_Platinum_185: 7803882061770636741
+      Item_Sheet_Necklaces_Platinum_186: -825707329093389998
+      Item_Sheet_Necklaces_Platinum_187: 1701609148796680572
+      Item_Sheet_Necklaces_Platinum_188: -363369510804454893
+      Item_Sheet_Necklaces_Platinum_189: -2771248584608120775
+      Item_Sheet_Necklaces_Platinum_19: -4771540001128755511
+      Item_Sheet_Necklaces_Platinum_190: -4737196252368738366
+      Item_Sheet_Necklaces_Platinum_191: -4587694904837952238
+      Item_Sheet_Necklaces_Platinum_192: 4061679184337134513
+      Item_Sheet_Necklaces_Platinum_193: 2822537157424318273
+      Item_Sheet_Necklaces_Platinum_194: 114765946728527905
+      Item_Sheet_Necklaces_Platinum_2: -3965113362359250075
+      Item_Sheet_Necklaces_Platinum_20: -5046946078468329469
+      Item_Sheet_Necklaces_Platinum_21: 903641587963415690
+      Item_Sheet_Necklaces_Platinum_22: 457395211037015686
+      Item_Sheet_Necklaces_Platinum_23: 8840090723944217493
+      Item_Sheet_Necklaces_Platinum_24: -2147376068155054399
+      Item_Sheet_Necklaces_Platinum_25: 6057335906452029105
+      Item_Sheet_Necklaces_Platinum_26: 7326678288676243675
+      Item_Sheet_Necklaces_Platinum_27: 963426180161411175
+      Item_Sheet_Necklaces_Platinum_28: 89826034288823754
+      Item_Sheet_Necklaces_Platinum_29: -8514215274306119305
+      Item_Sheet_Necklaces_Platinum_3: -1572372734737303122
+      Item_Sheet_Necklaces_Platinum_30: 8257297663335247746
+      Item_Sheet_Necklaces_Platinum_31: 8222720334862324421
+      Item_Sheet_Necklaces_Platinum_32: -8204064418732995453
+      Item_Sheet_Necklaces_Platinum_33: -8702105243244025409
+      Item_Sheet_Necklaces_Platinum_34: 6012488090320678428
+      Item_Sheet_Necklaces_Platinum_35: 6883375999970870377
+      Item_Sheet_Necklaces_Platinum_36: -3999514884581170551
+      Item_Sheet_Necklaces_Platinum_37: 3526368035678341543
+      Item_Sheet_Necklaces_Platinum_38: 151866883265825223
+      Item_Sheet_Necklaces_Platinum_39: 1604740504534041240
+      Item_Sheet_Necklaces_Platinum_4: 9070718457979302749
+      Item_Sheet_Necklaces_Platinum_40: -8858494212361257322
+      Item_Sheet_Necklaces_Platinum_41: 3823420693863383813
+      Item_Sheet_Necklaces_Platinum_42: -7603592042922694457
+      Item_Sheet_Necklaces_Platinum_43: -8441408247998366623
+      Item_Sheet_Necklaces_Platinum_44: 3977450447543411038
+      Item_Sheet_Necklaces_Platinum_45: -1618437682621514070
+      Item_Sheet_Necklaces_Platinum_46: -9122167379267876514
+      Item_Sheet_Necklaces_Platinum_47: -5358706607313312010
+      Item_Sheet_Necklaces_Platinum_48: -8941395850300197344
+      Item_Sheet_Necklaces_Platinum_49: -2867021115016561439
+      Item_Sheet_Necklaces_Platinum_5: -8866972674859533149
+      Item_Sheet_Necklaces_Platinum_50: -7274408060405583364
+      Item_Sheet_Necklaces_Platinum_51: 8223309887094029307
+      Item_Sheet_Necklaces_Platinum_52: 8319366603662062815
+      Item_Sheet_Necklaces_Platinum_53: 9199029028282628906
+      Item_Sheet_Necklaces_Platinum_54: -6124072481006050424
+      Item_Sheet_Necklaces_Platinum_55: 2415289654565647908
+      Item_Sheet_Necklaces_Platinum_56: 675671116530276984
+      Item_Sheet_Necklaces_Platinum_57: 1043711542176566855
+      Item_Sheet_Necklaces_Platinum_58: -3491807391958104648
+      Item_Sheet_Necklaces_Platinum_59: -1785749299717809986
+      Item_Sheet_Necklaces_Platinum_6: -725178853716444257
+      Item_Sheet_Necklaces_Platinum_60: -2023229082440214344
+      Item_Sheet_Necklaces_Platinum_61: -3661997534910100854
+      Item_Sheet_Necklaces_Platinum_62: -2606831670069370043
+      Item_Sheet_Necklaces_Platinum_63: -1543618688440377202
+      Item_Sheet_Necklaces_Platinum_64: 3937182033953852892
+      Item_Sheet_Necklaces_Platinum_65: -7391720883937929483
+      Item_Sheet_Necklaces_Platinum_66: -6410651588117106124
+      Item_Sheet_Necklaces_Platinum_67: -143309825085116127
+      Item_Sheet_Necklaces_Platinum_68: -2801161481381067909
+      Item_Sheet_Necklaces_Platinum_69: -1040561940024602023
+      Item_Sheet_Necklaces_Platinum_7: -7837951859927980394
+      Item_Sheet_Necklaces_Platinum_70: 4615126591360677340
+      Item_Sheet_Necklaces_Platinum_71: -3558986512568025886
+      Item_Sheet_Necklaces_Platinum_72: 3405462635341920500
+      Item_Sheet_Necklaces_Platinum_73: -5382496022489028062
+      Item_Sheet_Necklaces_Platinum_74: 7143794917455030922
+      Item_Sheet_Necklaces_Platinum_75: -1652192578695850969
+      Item_Sheet_Necklaces_Platinum_76: -2766853405957670310
+      Item_Sheet_Necklaces_Platinum_77: -6515875625209309715
+      Item_Sheet_Necklaces_Platinum_78: 8374706812798248058
+      Item_Sheet_Necklaces_Platinum_79: 310236840512934653
+      Item_Sheet_Necklaces_Platinum_8: -6193768161206855606
+      Item_Sheet_Necklaces_Platinum_80: 2951157655311257224
+      Item_Sheet_Necklaces_Platinum_81: 4092725961626542807
+      Item_Sheet_Necklaces_Platinum_82: 1677331667501767638
+      Item_Sheet_Necklaces_Platinum_83: 55625933284175350
+      Item_Sheet_Necklaces_Platinum_84: 8793953085509216370
+      Item_Sheet_Necklaces_Platinum_85: -2657822598417534855
+      Item_Sheet_Necklaces_Platinum_86: -588977307514760270
+      Item_Sheet_Necklaces_Platinum_87: 7317713445925236418
+      Item_Sheet_Necklaces_Platinum_88: 5521498842917273348
+      Item_Sheet_Necklaces_Platinum_89: 1704016293492584003
+      Item_Sheet_Necklaces_Platinum_9: -6097916305989957796
+      Item_Sheet_Necklaces_Platinum_90: 8880181124640988243
+      Item_Sheet_Necklaces_Platinum_91: 7248443316463135419
+      Item_Sheet_Necklaces_Platinum_92: -770717290630922253
+      Item_Sheet_Necklaces_Platinum_93: 3434396775254864846
+      Item_Sheet_Necklaces_Platinum_94: -6305683009523913463
+      Item_Sheet_Necklaces_Platinum_95: 7518285635042042366
+      Item_Sheet_Necklaces_Platinum_96: 6307958781816720809
+      Item_Sheet_Necklaces_Platinum_97: 3624463651261751703
+      Item_Sheet_Necklaces_Platinum_98: -7085188314631642356
+      Item_Sheet_Necklaces_Platinum_99: -2546596967892242730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

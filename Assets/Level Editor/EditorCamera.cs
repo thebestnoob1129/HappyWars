@@ -40,6 +40,7 @@ public class EditorCamera : MonoBehaviour
         moveAction = playerInput.actions.FindAction("Move");
         lookAction = playerInput.actions.FindAction("Look");
         rotateAction = playerInput.actions.FindAction("Rotate");
+        
 
         if (moveAction == null) { Debug.LogError("No Move Action"); }
         if (lookAction == null) { Debug.LogError("No Look Action"); }

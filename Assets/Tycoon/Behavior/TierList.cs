@@ -7,16 +7,14 @@ public class TierList : ScriptableObject
     int currentTier = 1; // Current Tier
 
     [System.Serializable]
-    public struct Tier 
-    { 
+    public struct Tier
+    {
         public float defaultValue;
-        
+
         public int reqLevel;
 
         public int cost;
 
-        public int cap; 
-        
         public Material skin;
 
         public Color color;
@@ -29,40 +27,24 @@ public class TierList : ScriptableObject
     public float Value { get { return tier[currentTier - 1].defaultValue; } }
     public int Cost { get { return tier[currentTier - 1].cost; } }
     public int ReqLevel { get { return tier[currentTier - 1].reqLevel; } }
-    public int Cap { get { return tier[currentTier - 1].cap; } }
     public Material Skin { get { return tier[currentTier - 1].skin; } }
     public Color Color { get { return tier[currentTier - 1].color; } }
 
     public int CurrentTier { get { return currentTier; } }
-    public float MaxLexel { get { return tier[tier.Length-1].reqLevel; } }
+    public int MaxLevel { get { return tier[tier.Length - 1].reqLevel; } }
 
-    public Tier Upgrade()
+    public void Upgrade(int level)
     {
-        if (currentTier < tier[currentTier - 1].reqLevel)
+        // Change current tier based on level
+        if (level >= ReqLevel)
         {
             currentTier += 1;
-            return tier[currentTier - 1];
-        }
-        else
-        {
-            return tier[tier.Length-1];
+            if (currentTier > tier.Length) { currentTier = tier.Length; }
         }
     }
-
-    public Tier Downgrade()
+    public void Downgrade()
     {
-        if (currentTier <= 0) { return tier[tier.Length-1]; }
-
-        if (currentTier > tier[currentTier - 1].reqLevel)
-        {
-            currentTier -= 1;
-            return tier[currentTier - 1];
-        }
-        else
-        {
-            return tier[tier.Length-1];
-        }
+        currentTier -= 1;
+        if (currentTier < 1) { currentTier = 1; }
     }
-    
-
 }

@@ -18,7 +18,9 @@ public class Collector : Machine
         if (collider.GetComponent<Valuable>())
         {
             Valuable val = collider.GetComponent<Valuable>();
-            
+
+            // Waiting For PVP
+            /*
             if (val.Team != Team)
             {
                 Debug.LogWarning("Valuable belongs to a different team: " + val.Team);
@@ -32,7 +34,7 @@ public class Collector : Machine
                 }
                 return;
             }
-
+            */
             bank.AddCash(val); 
             
             Destroy(collider);

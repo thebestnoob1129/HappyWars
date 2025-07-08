@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-
 [RequireComponent(typeof(PlayerInput))]
 [RequireComponent (typeof(Rigidbody))]
 //[RequireComponent(typeof(PlayerInputManager))]

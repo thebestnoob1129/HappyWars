@@ -16,36 +16,32 @@ public class Dropper : Machine
     float minSpeed = 0.1f;
 
     bool waiting = false;
+    bool canSpawn = true;
+
+    void Start()
+    {
+        if (product == null) {Debug.LogError("No product assigned to Dropper", gameObject);}
+    }
 
     private void FixedUpdate()
     {
-        
+
         // Value is Dropper Multiplier
 
         GameUpdate();
         if (waiting == false)
         {
             if (speed < minSpeed) { speed = minSpeed; }
-            StartCoroutine(WaitTime(speed));//here
+            StartCoroutine(CreateProduct(speed));//here
             waiting = true;
         }
     }
 
-    IEnumerator  WaitTime(float seconds)
+    IEnumerator CreateProduct(float seconds)
     {
-        CreateProduct();
+        if (!canSpawn) { yield break; }
+        Instantiate(product, spawnPoint.position, Quaternion.identity);
         yield return new WaitForSeconds(seconds);
         waiting = false;
     }
-    void CreateProduct()
-    {
-        GameObject cash = Instantiate(product, spawnPoint.position, Quaternion.identity);
-        float pv = Value * product.GetComponent<Valuable>().Value;//here
-
-        cash.GetComponent<Valuable>().Value = pv;
-        cash.GetComponent<Valuable>().Value = Team;
-        cash.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
-    }
-
-
 }

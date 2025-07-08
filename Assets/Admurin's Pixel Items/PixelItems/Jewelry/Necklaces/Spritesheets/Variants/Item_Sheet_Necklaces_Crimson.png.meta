@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: a9bc6f149e822204ea176254be0b9966
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Crimson.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3832274745630481404
+    second: Item_Sheet_Necklaces_Crimson_0
+  - first:
+      213: -1715367768470617967
+    second: Item_Sheet_Necklaces_Crimson_1
+  - first:
+      213: 2662690864932145781
+    second: Item_Sheet_Necklaces_Crimson_2
+  - first:
+      213: -6975787703639385867
+    second: Item_Sheet_Necklaces_Crimson_3
+  - first:
+      213: -6163141475952114656
+    second: Item_Sheet_Necklaces_Crimson_4
+  - first:
+      213: -2767537954910771456
+    second: Item_Sheet_Necklaces_Crimson_5
+  - first:
+      213: 1520653197350247097
+    second: Item_Sheet_Necklaces_Crimson_6
+  - first:
+      213: 7287714346032252482
+    second: Item_Sheet_Necklaces_Crimson_7
+  - first:
+      213: 6062935520186185075
+    second: Item_Sheet_Necklaces_Crimson_8
+  - first:
+      213: -993963606466253471
+    second: Item_Sheet_Necklaces_Crimson_9
+  - first:
+      213: 9094013733016585206
+    second: Item_Sheet_Necklaces_Crimson_10
+  - first:
+      213: -6234718068897988786
+    second: Item_Sheet_Necklaces_Crimson_11
+  - first:
+      213: 7838793300846215196
+    second: Item_Sheet_Necklaces_Crimson_12
+  - first:
+      213: 6127294362325858530
+    second: Item_Sheet_Necklaces_Crimson_13
+  - first:
+      213: 3213616669184094081
+    second: Item_Sheet_Necklaces_Crimson_14
+  - first:
+      213: 3798000284030232335
+    second: Item_Sheet_Necklaces_Crimson_15
+  - first:
+      213: 3277772119216900074
+    second: Item_Sheet_Necklaces_Crimson_16
+  - first:
+      213: -6402999869411168283
+    second: Item_Sheet_Necklaces_Crimson_17
+  - first:
+      213: 5714192630182276568
+    second: Item_Sheet_Necklaces_Crimson_18
+  - first:
+      213: -5254551075452643020
+    second: Item_Sheet_Necklaces_Crimson_19
+  - first:
+      213: -5146296660710288502
+    second: Item_Sheet_Necklaces_Crimson_20
+  - first:
+      213: 6635008398982034093
+    second: Item_Sheet_Necklaces_Crimson_21
+  - first:
+      213: -3753252132375129609
+    second: Item_Sheet_Necklaces_Crimson_22
+  - first:
+      213: -8564424727906433708
+    second: Item_Sheet_Necklaces_Crimson_23
+  - first:
+      213: -4927730457717165065
+    second: Item_Sheet_Necklaces_Crimson_24
+  - first:
+      213: -7257730462919112988
+    second: Item_Sheet_Necklaces_Crimson_25
+  - first:
+      213: -6702749220934575592
+    second: Item_Sheet_Necklaces_Crimson_26
+  - first:
+      213: -1885692479861954967
+    second: Item_Sheet_Necklaces_Crimson_27
+  - first:
+      213: 640983991447912591
+    second: Item_Sheet_Necklaces_Crimson_28
+  - first:
+      213: 4168077786915827728
+    second: Item_Sheet_Necklaces_Crimson_29
+  - first:
+      213: 2792191725814990727
+    second: Item_Sheet_Necklaces_Crimson_30
+  - first:
+      213: -8801891351321011540
+    second: Item_Sheet_Necklaces_Crimson_31
+  - first:
+      213: -47733626602128901
+    second: Item_Sheet_Necklaces_Crimson_32
+  - first:
+      213: 7193289194385481454
+    second: Item_Sheet_Necklaces_Crimson_33
+  - first:
+      213: 4974228313045202479
+    second: Item_Sheet_Necklaces_Crimson_34
+  - first:
+      213: 144746266591539781
+    second: Item_Sheet_Necklaces_Crimson_35
+  - first:
+      213: 6287316632962689987
+    second: Item_Sheet_Necklaces_Crimson_36
+  - first:
+      213: -9061038891849123106
+    second: Item_Sheet_Necklaces_Crimson_37
+  - first:
+      213: -5671809728774060913
+    second: Item_Sheet_Necklaces_Crimson_38
+  - first:
+      213: 3889232254375828581
+    second: Item_Sheet_Necklaces_Crimson_39
+  - first:
+      213: -8645269621268452975
+    second: Item_Sheet_Necklaces_Crimson_40
+  - first:
+      213: -2811811752178098917
+    second: Item_Sheet_Necklaces_Crimson_41
+  - first:
+      213: -8491316337982709804
+    second: Item_Sheet_Necklaces_Crimson_42
+  - first:
+      213: -4017244874270382071
+    second: Item_Sheet_Necklaces_Crimson_43
+  - first:
+      213: 7772445598951005165
+    second: Item_Sheet_Necklaces_Crimson_44
+  - first:
+      213: -6013995968762086859
+    second: Item_Sheet_Necklaces_Crimson_45
+  - first:
+      213: 2914514093147921267
+    second: Item_Sheet_Necklaces_Crimson_46
+  - first:
+      213: -5380946585693886421
+    second: Item_Sheet_Necklaces_Crimson_47
+  - first:
+      213: 7589839195208742605
+    second: Item_Sheet_Necklaces_Crimson_48
+  - first:
+      213: -6484448123182388092
+    second: Item_Sheet_Necklaces_Crimson_49
+  - first:
+      213: -6049931539596313535
+    second: Item_Sheet_Necklaces_Crimson_50
+  - first:
+      213: -1093286027859743636
+    second: Item_Sheet_Necklaces_Crimson_51
+  - first:
+      213: 7612557673672582813
+    second: Item_Sheet_Necklaces_Crimson_52
+  - first:
+      213: -1605369345350207174
+    second: Item_Sheet_Necklaces_Crimson_53
+  - first:
+      213: -7460253896929727365
+    second: Item_Sheet_Necklaces_Crimson_54
+  - first:
+      213: -1042159525668285414
+    second: Item_Sheet_Necklaces_Crimson_55
+  - first:
+      213: -266696453216449463
+    second: Item_Sheet_Necklaces_Crimson_56
+  - first:
+      213: -1476933715264941195
+    second: Item_Sheet_Necklaces_Crimson_57
+  - first:
+      213: 6391347381798132671
+    second: Item_Sheet_Necklaces_Crimson_58
+  - first:
+      213: -5219535238579784918
+    second: Item_Sheet_Necklaces_Crimson_59
+  - first:
+      213: -1647874846060640046
+    second: Item_Sheet_Necklaces_Crimson_60
+  - first:
+      213: -1057087098681088003
+    second: Item_Sheet_Necklaces_Crimson_61
+  - first:
+      213: -9151975421969855912
+    second: Item_Sheet_Necklaces_Crimson_62
+  - first:
+      213: -89838489276368700
+    second: Item_Sheet_Necklaces_Crimson_63
+  - first:
+      213: 1170932560521618118
+    second: Item_Sheet_Necklaces_Crimson_64
+  - first:
+      213: -7257909157462777724
+    second: Item_Sheet_Necklaces_Crimson_65
+  - first:
+      213: 5703667432110281772
+    second: Item_Sheet_Necklaces_Crimson_66
+  - first:
+      213: -8705402480702039960
+    second: Item_Sheet_Necklaces_Crimson_67
+  - first:
+      213: 7506550761073229423
+    second: Item_Sheet_Necklaces_Crimson_68
+  - first:
+      213: 5517823779285414946
+    second: Item_Sheet_Necklaces_Crimson_69
+  - first:
+      213: 5497927408748629929
+    second: Item_Sheet_Necklaces_Crimson_70
+  - first:
+      213: 237144473836156597
+    second: Item_Sheet_Necklaces_Crimson_71
+  - first:
+      213: 890199707287247672
+    second: Item_Sheet_Necklaces_Crimson_72
+  - first:
+      213: -8941033119293930946
+    second: Item_Sheet_Necklaces_Crimson_73
+  - first:
+      213: -7075089304001463019
+    second: Item_Sheet_Necklaces_Crimson_74
+  - first:
+      213: -6292800251603561249
+    second: Item_Sheet_Necklaces_Crimson_75
+  - first:
+      213: 713183935110987978
+    second: Item_Sheet_Necklaces_Crimson_76
+  - first:
+      213: -7509084238631008816
+    second: Item_Sheet_Necklaces_Crimson_77
+  - first:
+      213: -4919294133594073210
+    second: Item_Sheet_Necklaces_Crimson_78
+  - first:
+      213: -5096663961119914649
+    second: Item_Sheet_Necklaces_Crimson_79
+  - first:
+      213: 5515298086983304237
+    second: Item_Sheet_Necklaces_Crimson_80
+  - first:
+      213: 519073923548412061
+    second: Item_Sheet_Necklaces_Crimson_81
+  - first:
+      213: -2504000595169137761
+    second: Item_Sheet_Necklaces_Crimson_82
+  - first:
+      213: 4038956883033802033
+    second: Item_Sheet_Necklaces_Crimson_83
+  - first:
+      213: 778438556085357428
+    second: Item_Sheet_Necklaces_Crimson_84
+  - first:
+      213: -3685502509207163635
+    second: Item_Sheet_Necklaces_Crimson_85
+  - first:
+      213: 5991626391743827634
+    second: Item_Sheet_Necklaces_Crimson_86
+  - first:
+      213: 1816322908448515839
+    second: Item_Sheet_Necklaces_Crimson_87
+  - first:
+      213: -2540287666880809468
+    second: Item_Sheet_Necklaces_Crimson_88
+  - first:
+      213: -645464379619479791
+    second: Item_Sheet_Necklaces_Crimson_89
+  - first:
+      213: 5525441634926659482
+    second: Item_Sheet_Necklaces_Crimson_90
+  - first:
+      213: 7265801801397118495
+    second: Item_Sheet_Necklaces_Crimson_91
+  - first:
+      213: -3095302948381023856
+    second: Item_Sheet_Necklaces_Crimson_92
+  - first:
+      213: -599405727698603227
+    second: Item_Sheet_Necklaces_Crimson_93
+  - first:
+      213: -6648478332263881887
+    second: Item_Sheet_Necklaces_Crimson_94
+  - first:
+      213: -2858974312749187380
+    second: Item_Sheet_Necklaces_Crimson_95
+  - first:
+      213: -1662996689715510373
+    second: Item_Sheet_Necklaces_Crimson_96
+  - first:
+      213: -117152706877454291
+    second: Item_Sheet_Necklaces_Crimson_97
+  - first:
+      213: -6571620335297823010
+    second: Item_Sheet_Necklaces_Crimson_98
+  - first:
+      213: -8495282513975215672
+    second: Item_Sheet_Necklaces_Crimson_99
+  - first:
+      213: 8226047866779664061
+    second: Item_Sheet_Necklaces_Crimson_100
+  - first:
+      213: -1551527278952171436
+    second: Item_Sheet_Necklaces_Crimson_101
+  - first:
+      213: 2550497021276705881
+    second: Item_Sheet_Necklaces_Crimson_102
+  - first:
+      213: 521067483132049639
+    second: Item_Sheet_Necklaces_Crimson_103
+  - first:
+      213: 4435078464118009525
+    second: Item_Sheet_Necklaces_Crimson_104
+  - first:
+      213: -8598442766680631199
+    second: Item_Sheet_Necklaces_Crimson_105
+  - first:
+      213: -5896294481907379033
+    second: Item_Sheet_Necklaces_Crimson_106
+  - first:
+      213: 2274565926131705491
+    second: Item_Sheet_Necklaces_Crimson_107
+  - first:
+      213: 7771103952592945812
+    second: Item_Sheet_Necklaces_Crimson_108
+  - first:
+      213: 6974286286305864179
+    second: Item_Sheet_Necklaces_Crimson_109
+  - first:
+      213: -3304179502713839327
+    second: Item_Sheet_Necklaces_Crimson_110
+  - first:
+      213: -7170443791691816661
+    second: Item_Sheet_Necklaces_Crimson_111
+  - first:
+      213: -6546265334761228257
+    second: Item_Sheet_Necklaces_Crimson_112
+  - first:
+      213: -7157497966002863367
+    second: Item_Sheet_Necklaces_Crimson_113
+  - first:
+      213: 7709845329083671612
+    second: Item_Sheet_Necklaces_Crimson_114
+  - first:
+      213: 3134282451807740667
+    second: Item_Sheet_Necklaces_Crimson_115
+  - first:
+      213: -256262910047671062
+    second: Item_Sheet_Necklaces_Crimson_116
+  - first:
+      213: 4342879904597491440
+    second: Item_Sheet_Necklaces_Crimson_117
+  - first:
+      213: 2128244263516033153
+    second: Item_Sheet_Necklaces_Crimson_118
+  - first:
+      213: -178931790206709952
+    second: Item_Sheet_Necklaces_Crimson_119
+  - first:
+      213: -1398404757479806390
+    second: Item_Sheet_Necklaces_Crimson_120
+  - first:
+      213: 5509774112338234584
+    second: Item_Sheet_Necklaces_Crimson_121
+  - first:
+      213: -2221269712755914148
+    second: Item_Sheet_Necklaces_Crimson_122
+  - first:
+      213: -3568985192425971639
+    second: Item_Sheet_Necklaces_Crimson_123
+  - first:
+      213: -2517711937803542848
+    second: Item_Sheet_Necklaces_Crimson_124
+  - first:
+      213: 9064383658805466997
+    second: Item_Sheet_Necklaces_Crimson_125
+  - first:
+      213: 2838468999369840550
+    second: Item_Sheet_Necklaces_Crimson_126
+  - first:
+      213: -1923297374689505820
+    second: Item_Sheet_Necklaces_Crimson_127
+  - first:
+      213: -1523899620401746618
+    second: Item_Sheet_Necklaces_Crimson_128
+  - first:
+      213: 7135029608186672241
+    second: Item_Sheet_Necklaces_Crimson_129
+  - first:
+      213: 4535174104795581015
+    second: Item_Sheet_Necklaces_Crimson_130
+  - first:
+      213: -4737563133716438938
+    second: Item_Sheet_Necklaces_Crimson_131
+  - first:
+      213: -4386135682329349827
+    second: Item_Sheet_Necklaces_Crimson_132
+  - first:
+      213: -4274766840382589851
+    second: Item_Sheet_Necklaces_Crimson_133
+  - first:
+      213: 1132279861071042936
+    second: Item_Sheet_Necklaces_Crimson_134
+  - first:
+      213: -5538939085059428194
+    second: Item_Sheet_Necklaces_Crimson_135
+  - first:
+      213: 7892980379898261721
+    second: Item_Sheet_Necklaces_Crimson_136
+  - first:
+      213: 9126058850283010039
+    second: Item_Sheet_Necklaces_Crimson_137
+  - first:
+      213: -2278328420269725916
+    second: Item_Sheet_Necklaces_Crimson_138
+  - first:
+      213: 6659708140701976867
+    second: Item_Sheet_Necklaces_Crimson_139
+  - first:
+      213: 8774038338101442885
+    second: Item_Sheet_Necklaces_Crimson_140
+  - first:
+      213: 8245301329298548502
+    second: Item_Sheet_Necklaces_Crimson_141
+  - first:
+      213: 2217750814892774676
+    second: Item_Sheet_Necklaces_Crimson_142
+  - first:
+      213: -6354249743952238481
+    second: Item_Sheet_Necklaces_Crimson_143
+  - first:
+      213: 3574109574365638525
+    second: Item_Sheet_Necklaces_Crimson_144
+  - first:
+      213: 136321014148935520
+    second: Item_Sheet_Necklaces_Crimson_145
+  - first:
+      213: 1416607535052987083
+    second: Item_Sheet_Necklaces_Crimson_146
+  - first:
+      213: -5576040627883431031
+    second: Item_Sheet_Necklaces_Crimson_147
+  - first:
+      213: 1778566549743577588
+    second: Item_Sheet_Necklaces_Crimson_148
+  - first:
+      213: -4174218531393414329
+    second: Item_Sheet_Necklaces_Crimson_149
+  - first:
+      213: 6335626888361973764
+    second: Item_Sheet_Necklaces_Crimson_150
+  - first:
+      213: 6577868566187216894
+    second: Item_Sheet_Necklaces_Crimson_151
+  - first:
+      213: -1114275327800624449
+    second: Item_Sheet_Necklaces_Crimson_152
+  - first:
+      213: 1764256321260684961
+    second: Item_Sheet_Necklaces_Crimson_153
+  - first:
+      213: 6742404217997959902
+    second: Item_Sheet_Necklaces_Crimson_154
+  - first:
+      213: -340388347368793422
+    second: Item_Sheet_Necklaces_Crimson_155
+  - first:
+      213: -1336064337625378349
+    second: Item_Sheet_Necklaces_Crimson_156
+  - first:
+      213: -1317117872865426662
+    second: Item_Sheet_Necklaces_Crimson_157
+  - first:
+      213: -3960922686394238652
+    second: Item_Sheet_Necklaces_Crimson_158
+  - first:
+      213: 2326895099049130819
+    second: Item_Sheet_Necklaces_Crimson_159
+  - first:
+      213: -7966213795906014001
+    second: Item_Sheet_Necklaces_Crimson_160
+  - first:
+      213: 4080855809199206702
+    second: Item_Sheet_Necklaces_Crimson_161
+  - first:
+      213: 8740528438312723062
+    second: Item_Sheet_Necklaces_Crimson_162
+  - first:
+      213: 7036445192821721176
+    second: Item_Sheet_Necklaces_Crimson_163
+  - first:
+      213: 8803274588497309447
+    second: Item_Sheet_Necklaces_Crimson_164
+  - first:
+      213: -4541905696126616769
+    second: Item_Sheet_Necklaces_Crimson_165
+  - first:
+      213: -5366027580055083615
+    second: Item_Sheet_Necklaces_Crimson_166
+  - first:
+      213: -5894571798744376514
+    second: Item_Sheet_Necklaces_Crimson_167
+  - first:
+      213: 7632049790194807441
+    second: Item_Sheet_Necklaces_Crimson_168
+  - first:
+      213: 809866638473365032
+    second: Item_Sheet_Necklaces_Crimson_169
+  - first:
+      213: -537545566129338777
+    second: Item_Sheet_Necklaces_Crimson_170
+  - first:
+      213: 3718997712295926028
+    second: Item_Sheet_Necklaces_Crimson_171
+  - first:
+      213: 2218588137685126007
+    second: Item_Sheet_Necklaces_Crimson_172
+  - first:
+      213: -1386015890310690223
+    second: Item_Sheet_Necklaces_Crimson_173
+  - first:
+      213: 4025208067869242221
+    second: Item_Sheet_Necklaces_Crimson_174
+  - first:
+      213: -1514612538730085601
+    second: Item_Sheet_Necklaces_Crimson_175
+  - first:
+      213: 5063915991878675226
+    second: Item_Sheet_Necklaces_Crimson_176
+  - first:
+      213: -8907807096718736193
+    second: Item_Sheet_Necklaces_Crimson_177
+  - first:
+      213: -239193704141072958
+    second: Item_Sheet_Necklaces_Crimson_178
+  - first:
+      213: -6625224424891380540
+    second: Item_Sheet_Necklaces_Crimson_179
+  - first:
+      213: 8336766253344682404
+    second: Item_Sheet_Necklaces_Crimson_180
+  - first:
+      213: -8487629473273357848
+    second: Item_Sheet_Necklaces_Crimson_181
+  - first:
+      213: 5701505274835356050
+    second: Item_Sheet_Necklaces_Crimson_182
+  - first:
+      213: -2359368934509253343
+    second: Item_Sheet_Necklaces_Crimson_183
+  - first:
+      213: 1422604324655599514
+    second: Item_Sheet_Necklaces_Crimson_184
+  - first:
+      213: -6680242435708006638
+    second: Item_Sheet_Necklaces_Crimson_185
+  - first:
+      213: 4120407951615794405
+    second: Item_Sheet_Necklaces_Crimson_186
+  - first:
+      213: -2006799602036990407
+    second: Item_Sheet_Necklaces_Crimson_187
+  - first:
+      213: -2670809986260724548
+    second: Item_Sheet_Necklaces_Crimson_188
+  - first:
+      213: 886971411252699563
+    second: Item_Sheet_Necklaces_Crimson_189
+  - first:
+      213: -1596790122545696745
+    second: Item_Sheet_Necklaces_Crimson_190
+  - first:
+      213: 8337671824643203482
+    second: Item_Sheet_Necklaces_Crimson_191
+  - first:
+      213: -9024431420564428062
+    second: Item_Sheet_Necklaces_Crimson_192
+  - first:
+      213: 6905279011761511864
+    second: Item_Sheet_Necklaces_Crimson_193
+  - first:
+      213: -7262225744252577254
+    second: Item_Sheet_Necklaces_Crimson_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404aef05c6601dac0800000000000000
+      internalID: -3832274745630481404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190872d5a1ac138e0800000000000000
+      internalID: -1715367768470617967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a45feeb37c3f420800000000000000
+      internalID: 2662690864932145781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85908fa06013f90800000000000000
+      internalID: -6975787703639385867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c5693b7f187aa0800000000000000
+      internalID: -6163141475952114656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e12f94eab799d0800000000000000
+      internalID: -2767537954910771456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9f96b6027a1510800000000000000
+      internalID: 1520653197350247097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24645c3f599232560800000000000000
+      internalID: 7287714346032252482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375bbc89bbfd32450800000000000000
+      internalID: 6062935520186185075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da9ecbd5bb432f0800000000000000
+      internalID: -993963606466253471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34afade4d643e70800000000000000
+      internalID: 9094013733016585206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f30a403f4d979a0800000000000000
+      internalID: -6234718068897988786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1086a4b9fcf8cc60800000000000000
+      internalID: 7838793300846215196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8bfac32c5880550800000000000000
+      internalID: 6127294362325858530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fedfa855f099c20800000000000000
+      internalID: 3213616669184094081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07647ab22535b430800000000000000
+      internalID: 3798000284030232335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74a94406cfc7d20800000000000000
+      internalID: 3277772119216900074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efefd61b89f327a0800000000000000
+      internalID: -6402999869411168283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6b2c0ce3ec4f40800000000000000
+      internalID: 5714192630182276568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4399f7df2a51417b0800000000000000
+      internalID: -5254551075452643020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83959d047ea498b0800000000000000
+      internalID: -5146296660710288502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2be0f2cf8441c50800000000000000
+      internalID: 6635008398982034093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19d493215c9ebc0800000000000000
+      internalID: -3753252132375129609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455c093161d052980800000000000000
+      internalID: -8564424727906433708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f335e6c14f2d9bb0800000000000000
+      internalID: -4927730457717165065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6cc2ad89c574b90800000000000000
+      internalID: -7257730462919112988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a1ba3a81d0bf2a0800000000000000
+      internalID: -6702749220934575592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e33e2eaca4d5e0800000000000000
+      internalID: -1885692479861954967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8007fc4b8b35e800800000000000000
+      internalID: 640983991447912591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010705de9acf7d930800000000000000
+      internalID: 4168077786915827728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ccf9b49bdfb620800000000000000
+      internalID: 2792191725814990727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9dec437669d580800000000000000
+      internalID: -8801891351321011540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9f98ef48a665ff0800000000000000
+      internalID: -47733626602128901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee900e1962b3d360800000000000000
+      internalID: 7193289194385481454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ffbecb42080540800000000000000
+      internalID: 4974228313045202479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542b0ca66fd320200800000000000000
+      internalID: 144746266591539781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb65228a29014750800000000000000
+      internalID: 6287316632962689987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda7553a229b04280800000000000000
+      internalID: -9061038891849123106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8441da2a1fa941b0800000000000000
+      internalID: -5671809728774060913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c101b112459f530800000000000000
+      internalID: 3889232254375828581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19961d48515d50880800000000000000
+      internalID: -8645269621268452975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dd728eb107af8d0800000000000000
+      internalID: -2811811752178098917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd11f87c8c82a80800000000000000
+      internalID: -8491316337982709804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ea553211ef38c0800000000000000
+      internalID: -4017244874270382071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd58197164ddb60800000000000000
+      internalID: 7772445598951005165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53afd49a78ef98ca0800000000000000
+      internalID: -6013995968762086859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b93fe302f627820800000000000000
+      internalID: 2914514093147921267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286d5cf6990355b0800000000000000
+      internalID: -5380946585693886421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f0cc0986845960800000000000000
+      internalID: 7589839195208742605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ce34db9cc9206a0800000000000000
+      internalID: -6484448123182388092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cfde291535a0ca0800000000000000
+      internalID: -6049931539596313535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca58f662ed3d0f0800000000000000
+      internalID: -1093286027859743636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ad630fdc35a960800000000000000
+      internalID: 7612557673672582813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397915061598b9e0800000000000000
+      internalID: -1605369345350207174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca74b5b9ad77890800000000000000
+      internalID: -7460253896929727365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149049de618981f0800000000000000
+      internalID: -1042159525668285414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c4d232df08c4cf0800000000000000
+      internalID: -266696453216449463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d5d07c90e08be0800000000000000
+      internalID: -1476933715264941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb5338b490a2b850800000000000000
+      internalID: 6391347381798132671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2371d3da5c7097b0800000000000000
+      internalID: -5219535238579784918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8014eee829129e0800000000000000
+      internalID: -1647874846060640046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7277a62e87451f0800000000000000
+      internalID: -1057087098681088003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a816cc7d6adf080800000000000000
+      internalID: -9151975421969855912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83687be54d0cef0800000000000000
+      internalID: -89838489276368700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c264ddb5fcff3010800000000000000
+      internalID: 1170932560521618118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806069431ab64b90800000000000000
+      internalID: -7257909157462777724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d5e76f4f772f40800000000000000
+      internalID: 5703667432110281772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86853f62192303780800000000000000
+      internalID: -8705402480702039960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e35325520ac2860800000000000000
+      internalID: 7506550761073229423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b2891e7f339c40800000000000000
+      internalID: 5517823779285414946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af885759df8c4c40800000000000000
+      internalID: 5497927408748629929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6737b74a18a4300800000000000000
+      internalID: 237144473836156597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5304daef9a5c00800000000000000
+      internalID: 890199707287247672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e328b77efb11be380800000000000000
+      internalID: -8941033119293930946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db3d073cb30dd90800000000000000
+      internalID: -7075089304001463019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45ea8038b7ba8a0800000000000000
+      internalID: -6292800251603561249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04ec7a20db5e900800000000000000
+      internalID: 713183935110987978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50ae77baf5ac790800000000000000
+      internalID: -7509084238631008816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687567d8c082bbbb0800000000000000
+      internalID: -4919294133594073210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76589e171230549b0800000000000000
+      internalID: -5096663961119914649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24080983664a8c40800000000000000
+      internalID: 5515298086983304237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987549bbfe143700800000000000000
+      internalID: 519073923548412061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ba397b9b0004dd0800000000000000
+      internalID: -2504000595169137761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1354954c2e14d0830800000000000000
+      internalID: 4038956883033802033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8fee0eb19dca00800000000000000
+      internalID: 778438556085357428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d65e79ef67adcc0800000000000000
+      internalID: -3685502509207163635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0fb25578862350800000000000000
+      internalID: 5991626391743827634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff66a7bdf00e43910800000000000000
+      internalID: 1816322908448515839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406734473d51fbcd0800000000000000
+      internalID: -2540287666880809468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fec990199da07f0800000000000000
+      internalID: -645464379619479791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9705f454ef4eac40800000000000000
+      internalID: 5525441634926659482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162ba41e3055d460800000000000000
+      internalID: 7265801801397118495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091a7893e564b05d0800000000000000
+      internalID: -3095302948381023856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b03c9aab7ea7f0800000000000000
+      internalID: -599405727698603227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a7849e2cdbb3a0800000000000000
+      internalID: -6648478332263881887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3e929202e258d0800000000000000
+      internalID: -2858974312749187380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b934bd65259dbe8e0800000000000000
+      internalID: -1662996689715510373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28081adb3acf5ef0800000000000000
+      internalID: -117152706877454291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef6db7f1aecc4a0800000000000000
+      internalID: -6571620335297823010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c97bef3091ba1a80800000000000000
+      internalID: -8495282513975215672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef2cc83fac82270800000000000000
+      internalID: 8226047866779664061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583abef82ed77ae0800000000000000
+      internalID: -1551527278952171436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d3e9178f256320800000000000000
+      internalID: 2550497021276705881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b71c7d143b3700800000000000000
+      internalID: 521067483132049639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2db47d509c8d30800000000000000
+      internalID: 4435078464118009525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16859763cd13ca880800000000000000
+      internalID: -8598442766680631199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a490da98672c2ea0800000000000000
+      internalID: -5896294481907379033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a94d98a1e09f10800000000000000
+      internalID: 2274565926131705491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492cfee2fd188db60800000000000000
+      internalID: 7771103952592945812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a3211d64a9c060800000000000000
+      internalID: 6974286286305864179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216d92af323522d0800000000000000
+      internalID: -3304179502713839327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21ed42bc577d7c90800000000000000
+      internalID: -7170443791691816661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187a149c5ef625a0800000000000000
+      internalID: -6546265334761228257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f281df95857bac90800000000000000
+      internalID: -7157497966002863367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ac317a7fdefa60800000000000000
+      internalID: 7709845329083671612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2adb5a8453f7b20800000000000000
+      internalID: 3134282451807740667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2085bd32917cf0800000000000000
+      internalID: -256262910047671062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe37bf7342054c30800000000000000
+      internalID: 4342879904597491440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d22ab1ea098d10800000000000000
+      internalID: 2128244263516033153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f44bd1c7e448df0800000000000000
+      internalID: -178931790206709952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a233a384ed79ce0800000000000000
+      internalID: -1398404757479806390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4096fc56a67c40800000000000000
+      internalID: 5509774112338234584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a89dc07f67c21e0800000000000000
+      internalID: -2221269712755914148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94022d470ea687ec0800000000000000
+      internalID: -3568985192425971639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce957cf45a4f0dd0800000000000000
+      internalID: -2517711937803542848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57794fa99e82bcd70800000000000000
+      internalID: 9064383658805466997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d56d1484446720800000000000000
+      internalID: 2838468999369840550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc0305a331f45e0800000000000000
+      internalID: -1923297374689505820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de9948e550adae0800000000000000
+      internalID: -1523899620401746618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747cd920a7b40360800000000000000
+      internalID: 7135029608186672241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a04e6e1dc20fe30800000000000000
+      internalID: 4535174104795581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66068d93e6bc04eb0800000000000000
+      internalID: -4737563133716438938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f71ee5d05123c0800000000000000
+      internalID: -4386135682329349827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647065153afca4c0800000000000000
+      internalID: -4274766840382589851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879d779d88aa6bf00800000000000000
+      internalID: 1132279861071042936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90718aaf3cb123b0800000000000000
+      internalID: -5538939085059428194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b6f236df798d60800000000000000
+      internalID: 7892980379898261721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7bd622c2646ae70800000000000000
+      internalID: 9126058850283010039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42765247f50c160e0800000000000000
+      internalID: -2278328420269725916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3298152f4490c6c50800000000000000
+      internalID: 6659708140701976867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f134b165a3c970800000000000000
+      internalID: 8774038338101442885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61765ee9fd13d6270800000000000000
+      internalID: 8245301329298548502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155402bd9807ce10800000000000000
+      internalID: 2217750814892774676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f682c9d268b21d7a0800000000000000
+      internalID: -6354249743952238481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe260b8b9c99130800000000000000
+      internalID: 3574109574365638525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa4c77d3f44e100800000000000000
+      internalID: 136321014148935520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca99f03c0dc8a310800000000000000
+      internalID: 1416607535052987083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bacd1979ced92b0800000000000000
+      internalID: -5576040627883431031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9abde8adcbea810800000000000000
+      internalID: 1778566549743577588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b51759c523216c0800000000000000
+      internalID: -4174218531393414329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4089a3e561bace750800000000000000
+      internalID: 6335626888361973764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0cc22c98494b50800000000000000
+      internalID: 6577868566187216894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba36783e7c4980f0800000000000000
+      internalID: -1114275327800624449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a60b79d6c5eb7810800000000000000
+      internalID: 1764256321260684961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed22dd9d9e4d19d50800000000000000
+      internalID: 6742404217997959902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba966df992b64bf0800000000000000
+      internalID: -340388347368793422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d195ce4098557de0800000000000000
+      internalID: -1336064337625378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c984e548a8bde0800000000000000
+      internalID: -1317117872865426662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4497fa67dc9f709c0800000000000000
+      internalID: -3960922686394238652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bbb60a3caca4020800000000000000
+      internalID: 2326895099049130819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b43a62c2527190800000000000000
+      internalID: -7966213795906014001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2178e6bcbc12a830800000000000000
+      internalID: 4080855809199206702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67264da2e489c4970800000000000000
+      internalID: 8740528438312723062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c4a74f9976a160800000000000000
+      internalID: 7036445192821721176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fea93b8938b2a70800000000000000
+      internalID: 8803274588497309447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bbc0b55d8e7f0c0800000000000000
+      internalID: -4541905696126616769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52edba85a0885b0800000000000000
+      internalID: -5366027580055083615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b5ec80e26423ea0800000000000000
+      internalID: -5894571798744376514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192f7ac09dc7ae960800000000000000
+      internalID: 7632049790194807441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82605a5ba693d3b00800000000000000
+      internalID: 809866638473365032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7664648d7214a88f0800000000000000
+      internalID: -537545566129338777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0993e917b88c9330800000000000000
+      internalID: 3718997712295926028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0e9918220ace10800000000000000
+      internalID: 2218588137685126007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a0cf424e1e3cce0800000000000000
+      internalID: -1386015890310690223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f16849696cd730800000000000000
+      internalID: 4025208067869242221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1304a8bbe30bfae0800000000000000
+      internalID: -1514612538730085601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b295cc3c4a64640800000000000000
+      internalID: 5063915991878675226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4406024ac116480800000000000000
+      internalID: -8907807096718736193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c55928e7963eacf0800000000000000
+      internalID: -239193704141072958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc8b1dcc797e04a0800000000000000
+      internalID: -6625224424891380540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f212ccb422b370800000000000000
+      internalID: 8336766253344682404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d764a6f1e53a80800000000000000
+      internalID: -8487629473273357848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299c39fe6d0df1f40800000000000000
+      internalID: 5701505274835356050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12deb7c5476d14fd0800000000000000
+      internalID: -2359368934509253343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f0803981b1eb310800000000000000
+      internalID: 1422604324655599514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f422ee5e20b43a0800000000000000
+      internalID: -6680242435708006638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec11cd7331ae2930800000000000000
+      internalID: 4120407951615794405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e9039f46a6624e0800000000000000
+      internalID: -2006799602036990407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41d52d7706fead0800000000000000
+      internalID: -2670809986260724548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1e4a59cc72f4c00800000000000000
+      internalID: 886971411252699563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710bfccf7df07d9e0800000000000000
+      internalID: -1596790122545696745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9124a1895c55b370800000000000000
+      internalID: 8337671824643203482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea226dbf67c2c280800000000000000
+      internalID: -9024431420564428062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd510becaa74df50800000000000000
+      internalID: 6905279011761511864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Crimson_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad02b9924673b90800000000000000
+      internalID: -7262225744252577254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Crimson_0: -3832274745630481404
+      Item_Sheet_Necklaces_Crimson_1: -1715367768470617967
+      Item_Sheet_Necklaces_Crimson_10: 9094013733016585206
+      Item_Sheet_Necklaces_Crimson_100: 8226047866779664061
+      Item_Sheet_Necklaces_Crimson_101: -1551527278952171436
+      Item_Sheet_Necklaces_Crimson_102: 2550497021276705881
+      Item_Sheet_Necklaces_Crimson_103: 521067483132049639
+      Item_Sheet_Necklaces_Crimson_104: 4435078464118009525
+      Item_Sheet_Necklaces_Crimson_105: -8598442766680631199
+      Item_Sheet_Necklaces_Crimson_106: -5896294481907379033
+      Item_Sheet_Necklaces_Crimson_107: 2274565926131705491
+      Item_Sheet_Necklaces_Crimson_108: 7771103952592945812
+      Item_Sheet_Necklaces_Crimson_109: 6974286286305864179
+      Item_Sheet_Necklaces_Crimson_11: -6234718068897988786
+      Item_Sheet_Necklaces_Crimson_110: -3304179502713839327
+      Item_Sheet_Necklaces_Crimson_111: -7170443791691816661
+      Item_Sheet_Necklaces_Crimson_112: -6546265334761228257
+      Item_Sheet_Necklaces_Crimson_113: -7157497966002863367
+      Item_Sheet_Necklaces_Crimson_114: 7709845329083671612
+      Item_Sheet_Necklaces_Crimson_115: 3134282451807740667
+      Item_Sheet_Necklaces_Crimson_116: -256262910047671062
+      Item_Sheet_Necklaces_Crimson_117: 4342879904597491440
+      Item_Sheet_Necklaces_Crimson_118: 2128244263516033153
+      Item_Sheet_Necklaces_Crimson_119: -178931790206709952
+      Item_Sheet_Necklaces_Crimson_12: 7838793300846215196
+      Item_Sheet_Necklaces_Crimson_120: -1398404757479806390
+      Item_Sheet_Necklaces_Crimson_121: 5509774112338234584
+      Item_Sheet_Necklaces_Crimson_122: -2221269712755914148
+      Item_Sheet_Necklaces_Crimson_123: -3568985192425971639
+      Item_Sheet_Necklaces_Crimson_124: -2517711937803542848
+      Item_Sheet_Necklaces_Crimson_125: 9064383658805466997
+      Item_Sheet_Necklaces_Crimson_126: 2838468999369840550
+      Item_Sheet_Necklaces_Crimson_127: -1923297374689505820
+      Item_Sheet_Necklaces_Crimson_128: -1523899620401746618
+      Item_Sheet_Necklaces_Crimson_129: 7135029608186672241
+      Item_Sheet_Necklaces_Crimson_13: 6127294362325858530
+      Item_Sheet_Necklaces_Crimson_130: 4535174104795581015
+      Item_Sheet_Necklaces_Crimson_131: -4737563133716438938
+      Item_Sheet_Necklaces_Crimson_132: -4386135682329349827
+      Item_Sheet_Necklaces_Crimson_133: -4274766840382589851
+      Item_Sheet_Necklaces_Crimson_134: 1132279861071042936
+      Item_Sheet_Necklaces_Crimson_135: -5538939085059428194
+      Item_Sheet_Necklaces_Crimson_136: 7892980379898261721
+      Item_Sheet_Necklaces_Crimson_137: 9126058850283010039
+      Item_Sheet_Necklaces_Crimson_138: -2278328420269725916
+      Item_Sheet_Necklaces_Crimson_139: 6659708140701976867
+      Item_Sheet_Necklaces_Crimson_14: 3213616669184094081
+      Item_Sheet_Necklaces_Crimson_140: 8774038338101442885
+      Item_Sheet_Necklaces_Crimson_141: 8245301329298548502
+      Item_Sheet_Necklaces_Crimson_142: 2217750814892774676
+      Item_Sheet_Necklaces_Crimson_143: -6354249743952238481
+      Item_Sheet_Necklaces_Crimson_144: 3574109574365638525
+      Item_Sheet_Necklaces_Crimson_145: 136321014148935520
+      Item_Sheet_Necklaces_Crimson_146: 1416607535052987083
+      Item_Sheet_Necklaces_Crimson_147: -5576040627883431031
+      Item_Sheet_Necklaces_Crimson_148: 1778566549743577588
+      Item_Sheet_Necklaces_Crimson_149: -4174218531393414329
+      Item_Sheet_Necklaces_Crimson_15: 3798000284030232335
+      Item_Sheet_Necklaces_Crimson_150: 6335626888361973764
+      Item_Sheet_Necklaces_Crimson_151: 6577868566187216894
+      Item_Sheet_Necklaces_Crimson_152: -1114275327800624449
+      Item_Sheet_Necklaces_Crimson_153: 1764256321260684961
+      Item_Sheet_Necklaces_Crimson_154: 6742404217997959902
+      Item_Sheet_Necklaces_Crimson_155: -340388347368793422
+      Item_Sheet_Necklaces_Crimson_156: -1336064337625378349
+      Item_Sheet_Necklaces_Crimson_157: -1317117872865426662
+      Item_Sheet_Necklaces_Crimson_158: -3960922686394238652
+      Item_Sheet_Necklaces_Crimson_159: 2326895099049130819
+      Item_Sheet_Necklaces_Crimson_16: 3277772119216900074
+      Item_Sheet_Necklaces_Crimson_160: -7966213795906014001
+      Item_Sheet_Necklaces_Crimson_161: 4080855809199206702
+      Item_Sheet_Necklaces_Crimson_162: 8740528438312723062
+      Item_Sheet_Necklaces_Crimson_163: 7036445192821721176
+      Item_Sheet_Necklaces_Crimson_164: 8803274588497309447
+      Item_Sheet_Necklaces_Crimson_165: -4541905696126616769
+      Item_Sheet_Necklaces_Crimson_166: -5366027580055083615
+      Item_Sheet_Necklaces_Crimson_167: -5894571798744376514
+      Item_Sheet_Necklaces_Crimson_168: 7632049790194807441
+      Item_Sheet_Necklaces_Crimson_169: 809866638473365032
+      Item_Sheet_Necklaces_Crimson_17: -6402999869411168283
+      Item_Sheet_Necklaces_Crimson_170: -537545566129338777
+      Item_Sheet_Necklaces_Crimson_171: 3718997712295926028
+      Item_Sheet_Necklaces_Crimson_172: 2218588137685126007
+      Item_Sheet_Necklaces_Crimson_173: -1386015890310690223
+      Item_Sheet_Necklaces_Crimson_174: 4025208067869242221
+      Item_Sheet_Necklaces_Crimson_175: -1514612538730085601
+      Item_Sheet_Necklaces_Crimson_176: 5063915991878675226
+      Item_Sheet_Necklaces_Crimson_177: -8907807096718736193
+      Item_Sheet_Necklaces_Crimson_178: -239193704141072958
+      Item_Sheet_Necklaces_Crimson_179: -6625224424891380540
+      Item_Sheet_Necklaces_Crimson_18: 5714192630182276568
+      Item_Sheet_Necklaces_Crimson_180: 8336766253344682404
+      Item_Sheet_Necklaces_Crimson_181: -8487629473273357848
+      Item_Sheet_Necklaces_Crimson_182: 5701505274835356050
+      Item_Sheet_Necklaces_Crimson_183: -2359368934509253343
+      Item_Sheet_Necklaces_Crimson_184: 1422604324655599514
+      Item_Sheet_Necklaces_Crimson_185: -6680242435708006638
+      Item_Sheet_Necklaces_Crimson_186: 4120407951615794405
+      Item_Sheet_Necklaces_Crimson_187: -2006799602036990407
+      Item_Sheet_Necklaces_Crimson_188: -2670809986260724548
+      Item_Sheet_Necklaces_Crimson_189: 886971411252699563
+      Item_Sheet_Necklaces_Crimson_19: -5254551075452643020
+      Item_Sheet_Necklaces_Crimson_190: -1596790122545696745
+      Item_Sheet_Necklaces_Crimson_191: 8337671824643203482
+      Item_Sheet_Necklaces_Crimson_192: -9024431420564428062
+      Item_Sheet_Necklaces_Crimson_193: 6905279011761511864
+      Item_Sheet_Necklaces_Crimson_194: -7262225744252577254
+      Item_Sheet_Necklaces_Crimson_2: 2662690864932145781
+      Item_Sheet_Necklaces_Crimson_20: -5146296660710288502
+      Item_Sheet_Necklaces_Crimson_21: 6635008398982034093
+      Item_Sheet_Necklaces_Crimson_22: -3753252132375129609
+      Item_Sheet_Necklaces_Crimson_23: -8564424727906433708
+      Item_Sheet_Necklaces_Crimson_24: -4927730457717165065
+      Item_Sheet_Necklaces_Crimson_25: -7257730462919112988
+      Item_Sheet_Necklaces_Crimson_26: -6702749220934575592
+      Item_Sheet_Necklaces_Crimson_27: -1885692479861954967
+      Item_Sheet_Necklaces_Crimson_28: 640983991447912591
+      Item_Sheet_Necklaces_Crimson_29: 4168077786915827728
+      Item_Sheet_Necklaces_Crimson_3: -6975787703639385867
+      Item_Sheet_Necklaces_Crimson_30: 2792191725814990727
+      Item_Sheet_Necklaces_Crimson_31: -8801891351321011540
+      Item_Sheet_Necklaces_Crimson_32: -47733626602128901
+      Item_Sheet_Necklaces_Crimson_33: 7193289194385481454
+      Item_Sheet_Necklaces_Crimson_34: 4974228313045202479
+      Item_Sheet_Necklaces_Crimson_35: 144746266591539781
+      Item_Sheet_Necklaces_Crimson_36: 6287316632962689987
+      Item_Sheet_Necklaces_Crimson_37: -9061038891849123106
+      Item_Sheet_Necklaces_Crimson_38: -5671809728774060913
+      Item_Sheet_Necklaces_Crimson_39: 3889232254375828581
+      Item_Sheet_Necklaces_Crimson_4: -6163141475952114656
+      Item_Sheet_Necklaces_Crimson_40: -8645269621268452975
+      Item_Sheet_Necklaces_Crimson_41: -2811811752178098917
+      Item_Sheet_Necklaces_Crimson_42: -8491316337982709804
+      Item_Sheet_Necklaces_Crimson_43: -4017244874270382071
+      Item_Sheet_Necklaces_Crimson_44: 7772445598951005165
+      Item_Sheet_Necklaces_Crimson_45: -6013995968762086859
+      Item_Sheet_Necklaces_Crimson_46: 2914514093147921267
+      Item_Sheet_Necklaces_Crimson_47: -5380946585693886421
+      Item_Sheet_Necklaces_Crimson_48: 7589839195208742605
+      Item_Sheet_Necklaces_Crimson_49: -6484448123182388092
+      Item_Sheet_Necklaces_Crimson_5: -2767537954910771456
+      Item_Sheet_Necklaces_Crimson_50: -6049931539596313535
+      Item_Sheet_Necklaces_Crimson_51: -1093286027859743636
+      Item_Sheet_Necklaces_Crimson_52: 7612557673672582813
+      Item_Sheet_Necklaces_Crimson_53: -1605369345350207174
+      Item_Sheet_Necklaces_Crimson_54: -7460253896929727365
+      Item_Sheet_Necklaces_Crimson_55: -1042159525668285414
+      Item_Sheet_Necklaces_Crimson_56: -266696453216449463
+      Item_Sheet_Necklaces_Crimson_57: -1476933715264941195
+      Item_Sheet_Necklaces_Crimson_58: 6391347381798132671
+      Item_Sheet_Necklaces_Crimson_59: -5219535238579784918
+      Item_Sheet_Necklaces_Crimson_6: 1520653197350247097
+      Item_Sheet_Necklaces_Crimson_60: -1647874846060640046
+      Item_Sheet_Necklaces_Crimson_61: -1057087098681088003
+      Item_Sheet_Necklaces_Crimson_62: -9151975421969855912
+      Item_Sheet_Necklaces_Crimson_63: -89838489276368700
+      Item_Sheet_Necklaces_Crimson_64: 1170932560521618118
+      Item_Sheet_Necklaces_Crimson_65: -7257909157462777724
+      Item_Sheet_Necklaces_Crimson_66: 5703667432110281772
+      Item_Sheet_Necklaces_Crimson_67: -8705402480702039960
+      Item_Sheet_Necklaces_Crimson_68: 7506550761073229423
+      Item_Sheet_Necklaces_Crimson_69: 5517823779285414946
+      Item_Sheet_Necklaces_Crimson_7: 7287714346032252482
+      Item_Sheet_Necklaces_Crimson_70: 5497927408748629929
+      Item_Sheet_Necklaces_Crimson_71: 237144473836156597
+      Item_Sheet_Necklaces_Crimson_72: 890199707287247672
+      Item_Sheet_Necklaces_Crimson_73: -8941033119293930946
+      Item_Sheet_Necklaces_Crimson_74: -7075089304001463019
+      Item_Sheet_Necklaces_Crimson_75: -6292800251603561249
+      Item_Sheet_Necklaces_Crimson_76: 713183935110987978
+      Item_Sheet_Necklaces_Crimson_77: -7509084238631008816
+      Item_Sheet_Necklaces_Crimson_78: -4919294133594073210
+      Item_Sheet_Necklaces_Crimson_79: -5096663961119914649
+      Item_Sheet_Necklaces_Crimson_8: 6062935520186185075
+      Item_Sheet_Necklaces_Crimson_80: 5515298086983304237
+      Item_Sheet_Necklaces_Crimson_81: 519073923548412061
+      Item_Sheet_Necklaces_Crimson_82: -2504000595169137761
+      Item_Sheet_Necklaces_Crimson_83: 4038956883033802033
+      Item_Sheet_Necklaces_Crimson_84: 778438556085357428
+      Item_Sheet_Necklaces_Crimson_85: -3685502509207163635
+      Item_Sheet_Necklaces_Crimson_86: 5991626391743827634
+      Item_Sheet_Necklaces_Crimson_87: 1816322908448515839
+      Item_Sheet_Necklaces_Crimson_88: -2540287666880809468
+      Item_Sheet_Necklaces_Crimson_89: -645464379619479791
+      Item_Sheet_Necklaces_Crimson_9: -993963606466253471
+      Item_Sheet_Necklaces_Crimson_90: 5525441634926659482
+      Item_Sheet_Necklaces_Crimson_91: 7265801801397118495
+      Item_Sheet_Necklaces_Crimson_92: -3095302948381023856
+      Item_Sheet_Necklaces_Crimson_93: -599405727698603227
+      Item_Sheet_Necklaces_Crimson_94: -6648478332263881887
+      Item_Sheet_Necklaces_Crimson_95: -2858974312749187380
+      Item_Sheet_Necklaces_Crimson_96: -1662996689715510373
+      Item_Sheet_Necklaces_Crimson_97: -117152706877454291
+      Item_Sheet_Necklaces_Crimson_98: -6571620335297823010
+      Item_Sheet_Necklaces_Crimson_99: -8495282513975215672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,20 +1,18 @@
 using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 [DisallowMultipleComponent]
 public class Tycoon : MonoBehaviour
 {
     [SerializeField] private Machine[] machines;
+    public Machine[] Machines { get { return machines; } }
     [SerializeField] private Bank[] banks;
+    public Bank[] Banks { get { return banks; } }
 
-    [SerializeField]
     int team;
-    public int GetTeam { get { return team; } }
+    public int Team { get { return team; } }
 
-    [SerializeField]
-    bool pvp;
+    bool pvp = false;
 
     private GameObject[] treasures;
 
@@ -25,13 +23,19 @@ public class Tycoon : MonoBehaviour
     public int Balance { get { return balance; } }// currentBalance
 
     private GameObject ghostBank;
+    public Bank GhostBank { get { return ghostBank.GetComponent<Bank>(); } }// Ghost Bank
 
     private float multiplier = 1f;
     public float Multiplier { get { return multiplier; } }// Multiplier (name)
-    
+
+    void Awake()
+    {
+        ghostBank = CreateBank(false);
+    }
+
     private void Start()
     {
-        ghostBank = CreateBank();
+        GameObject[] rootObjects = UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects();
         for (int i = 0; i < machines.Length; i++)
         {
             if (machines[i] == null) { return; }
@@ -42,11 +46,30 @@ public class Tycoon : MonoBehaviour
 
     private void FixedUpdate()
     {
-        
-
         balance = UpdateBanks();
     }
-    
+    /*
+    public void SetTeam(GameObject teamObject, int teamId = -1)
+    {
+        if (teamObject == null) { Debug.LogWarning("No Team Object", gameObject); return; }
+        if (teamId < 0) { teamId = SceneManager.GetActiveScene().buildIndex; }
+
+        team = teamId;
+        gameObject.name = $"Tycoon {teamId}";
+
+        for (int i = 0; i < machines.Length; i++)
+        {
+            machines[i].GetComponent<Machine>().SetTeam(this);
+        }
+
+        for (int i = 0; i < banks.Length; i++)
+        {
+            banks[i].GetComponent<Bank>().SetTeam(this);
+        }
+    }
+    */
+
+    // Economic Functions
     public void CollectAll()
     {
         foreach (var bank in banks)
@@ -62,7 +85,7 @@ public class Tycoon : MonoBehaviour
         
         totalCash += bank.Balance;
         balance += bank.Balance;
-        bank.Balance = -1;
+        bank.OnCollect(this);
 
     }
 

@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: eafa6c7dff9250142b9e9b0f8fd96497
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Fateful.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 370575958904315455
+    second: Item_Sheet_Necklaces_Fateful_0
+  - first:
+      213: -1646661500217269978
+    second: Item_Sheet_Necklaces_Fateful_1
+  - first:
+      213: -3814104698506103107
+    second: Item_Sheet_Necklaces_Fateful_2
+  - first:
+      213: -486255439419284672
+    second: Item_Sheet_Necklaces_Fateful_3
+  - first:
+      213: 5852028602108269152
+    second: Item_Sheet_Necklaces_Fateful_4
+  - first:
+      213: 8165727498071030115
+    second: Item_Sheet_Necklaces_Fateful_5
+  - first:
+      213: 2420489832443611699
+    second: Item_Sheet_Necklaces_Fateful_6
+  - first:
+      213: 4185459353559585951
+    second: Item_Sheet_Necklaces_Fateful_7
+  - first:
+      213: 2058204062637432572
+    second: Item_Sheet_Necklaces_Fateful_8
+  - first:
+      213: 6899526280620197858
+    second: Item_Sheet_Necklaces_Fateful_9
+  - first:
+      213: 8146625902879563913
+    second: Item_Sheet_Necklaces_Fateful_10
+  - first:
+      213: 5234383809350415453
+    second: Item_Sheet_Necklaces_Fateful_11
+  - first:
+      213: 4428079475744483763
+    second: Item_Sheet_Necklaces_Fateful_12
+  - first:
+      213: 5024252756686322709
+    second: Item_Sheet_Necklaces_Fateful_13
+  - first:
+      213: -8679097830898566056
+    second: Item_Sheet_Necklaces_Fateful_14
+  - first:
+      213: 6573859537769357086
+    second: Item_Sheet_Necklaces_Fateful_15
+  - first:
+      213: 5788643737859867162
+    second: Item_Sheet_Necklaces_Fateful_16
+  - first:
+      213: 7871170413594045963
+    second: Item_Sheet_Necklaces_Fateful_17
+  - first:
+      213: -2586308559846759644
+    second: Item_Sheet_Necklaces_Fateful_18
+  - first:
+      213: -5886962406042216546
+    second: Item_Sheet_Necklaces_Fateful_19
+  - first:
+      213: -9210283358929739131
+    second: Item_Sheet_Necklaces_Fateful_20
+  - first:
+      213: 487937718459865833
+    second: Item_Sheet_Necklaces_Fateful_21
+  - first:
+      213: 451061209290991094
+    second: Item_Sheet_Necklaces_Fateful_22
+  - first:
+      213: 5412327173783735825
+    second: Item_Sheet_Necklaces_Fateful_23
+  - first:
+      213: -2514566087955186782
+    second: Item_Sheet_Necklaces_Fateful_24
+  - first:
+      213: 5677594250660971793
+    second: Item_Sheet_Necklaces_Fateful_25
+  - first:
+      213: -3052681967814162831
+    second: Item_Sheet_Necklaces_Fateful_26
+  - first:
+      213: 6087888093397661798
+    second: Item_Sheet_Necklaces_Fateful_27
+  - first:
+      213: 8844883963454687817
+    second: Item_Sheet_Necklaces_Fateful_28
+  - first:
+      213: 5045542635099646536
+    second: Item_Sheet_Necklaces_Fateful_29
+  - first:
+      213: 6121233177315644190
+    second: Item_Sheet_Necklaces_Fateful_30
+  - first:
+      213: -1298793370460090413
+    second: Item_Sheet_Necklaces_Fateful_31
+  - first:
+      213: -5477210457998368469
+    second: Item_Sheet_Necklaces_Fateful_32
+  - first:
+      213: 4842839024592426255
+    second: Item_Sheet_Necklaces_Fateful_33
+  - first:
+      213: -6386034345474936254
+    second: Item_Sheet_Necklaces_Fateful_34
+  - first:
+      213: -1717434186992723445
+    second: Item_Sheet_Necklaces_Fateful_35
+  - first:
+      213: -5437081040893262085
+    second: Item_Sheet_Necklaces_Fateful_36
+  - first:
+      213: 5959530343756819692
+    second: Item_Sheet_Necklaces_Fateful_37
+  - first:
+      213: 5347690573954909221
+    second: Item_Sheet_Necklaces_Fateful_38
+  - first:
+      213: -6541960508400927892
+    second: Item_Sheet_Necklaces_Fateful_39
+  - first:
+      213: -955442193770039890
+    second: Item_Sheet_Necklaces_Fateful_40
+  - first:
+      213: 2270158901475146636
+    second: Item_Sheet_Necklaces_Fateful_41
+  - first:
+      213: 1281187314076207078
+    second: Item_Sheet_Necklaces_Fateful_42
+  - first:
+      213: 419625119072724688
+    second: Item_Sheet_Necklaces_Fateful_43
+  - first:
+      213: -6984500363762868832
+    second: Item_Sheet_Necklaces_Fateful_44
+  - first:
+      213: 3208455320845448058
+    second: Item_Sheet_Necklaces_Fateful_45
+  - first:
+      213: 5861576554810189748
+    second: Item_Sheet_Necklaces_Fateful_46
+  - first:
+      213: -863047731047121713
+    second: Item_Sheet_Necklaces_Fateful_47
+  - first:
+      213: 3068956381619257749
+    second: Item_Sheet_Necklaces_Fateful_48
+  - first:
+      213: -4505319654544181098
+    second: Item_Sheet_Necklaces_Fateful_49
+  - first:
+      213: -4255047489610292102
+    second: Item_Sheet_Necklaces_Fateful_50
+  - first:
+      213: -3514160809499122741
+    second: Item_Sheet_Necklaces_Fateful_51
+  - first:
+      213: -5224731494344561254
+    second: Item_Sheet_Necklaces_Fateful_52
+  - first:
+      213: -5779319461752111219
+    second: Item_Sheet_Necklaces_Fateful_53
+  - first:
+      213: 4341583887933161940
+    second: Item_Sheet_Necklaces_Fateful_54
+  - first:
+      213: -8444969082997224756
+    second: Item_Sheet_Necklaces_Fateful_55
+  - first:
+      213: -377743773711713243
+    second: Item_Sheet_Necklaces_Fateful_56
+  - first:
+      213: -7011483747347114427
+    second: Item_Sheet_Necklaces_Fateful_57
+  - first:
+      213: 1907223256695919888
+    second: Item_Sheet_Necklaces_Fateful_58
+  - first:
+      213: -3352554678921500325
+    second: Item_Sheet_Necklaces_Fateful_59
+  - first:
+      213: 975026288412752133
+    second: Item_Sheet_Necklaces_Fateful_60
+  - first:
+      213: 6574143577638849370
+    second: Item_Sheet_Necklaces_Fateful_61
+  - first:
+      213: 2961186405652043082
+    second: Item_Sheet_Necklaces_Fateful_62
+  - first:
+      213: 2585447007474461659
+    second: Item_Sheet_Necklaces_Fateful_63
+  - first:
+      213: 2874275219458328480
+    second: Item_Sheet_Necklaces_Fateful_64
+  - first:
+      213: 3786016423538268894
+    second: Item_Sheet_Necklaces_Fateful_65
+  - first:
+      213: 7164633237311669922
+    second: Item_Sheet_Necklaces_Fateful_66
+  - first:
+      213: 359561051191192608
+    second: Item_Sheet_Necklaces_Fateful_67
+  - first:
+      213: -5754152558453799380
+    second: Item_Sheet_Necklaces_Fateful_68
+  - first:
+      213: -6969430709335427456
+    second: Item_Sheet_Necklaces_Fateful_69
+  - first:
+      213: -5051772589889057316
+    second: Item_Sheet_Necklaces_Fateful_70
+  - first:
+      213: 6024868645655783192
+    second: Item_Sheet_Necklaces_Fateful_71
+  - first:
+      213: 768262905225139962
+    second: Item_Sheet_Necklaces_Fateful_72
+  - first:
+      213: 4739376089324134036
+    second: Item_Sheet_Necklaces_Fateful_73
+  - first:
+      213: -4992944741203923197
+    second: Item_Sheet_Necklaces_Fateful_74
+  - first:
+      213: -9155427187233285772
+    second: Item_Sheet_Necklaces_Fateful_75
+  - first:
+      213: -2248919010804867116
+    second: Item_Sheet_Necklaces_Fateful_76
+  - first:
+      213: -4816967655469393766
+    second: Item_Sheet_Necklaces_Fateful_77
+  - first:
+      213: -7621481738167527363
+    second: Item_Sheet_Necklaces_Fateful_78
+  - first:
+      213: -3846506630033278890
+    second: Item_Sheet_Necklaces_Fateful_79
+  - first:
+      213: 5741604150056183125
+    second: Item_Sheet_Necklaces_Fateful_80
+  - first:
+      213: -8846412525474530259
+    second: Item_Sheet_Necklaces_Fateful_81
+  - first:
+      213: -7513211506739321228
+    second: Item_Sheet_Necklaces_Fateful_82
+  - first:
+      213: 659831041823431972
+    second: Item_Sheet_Necklaces_Fateful_83
+  - first:
+      213: 4921080352742253235
+    second: Item_Sheet_Necklaces_Fateful_84
+  - first:
+      213: 4319112480592005417
+    second: Item_Sheet_Necklaces_Fateful_85
+  - first:
+      213: -2687174064769696756
+    second: Item_Sheet_Necklaces_Fateful_86
+  - first:
+      213: -9150517433289963864
+    second: Item_Sheet_Necklaces_Fateful_87
+  - first:
+      213: -3728344077948215060
+    second: Item_Sheet_Necklaces_Fateful_88
+  - first:
+      213: 4092326346238564275
+    second: Item_Sheet_Necklaces_Fateful_89
+  - first:
+      213: -1436658738448151096
+    second: Item_Sheet_Necklaces_Fateful_90
+  - first:
+      213: -1464796997457690991
+    second: Item_Sheet_Necklaces_Fateful_91
+  - first:
+      213: 8116215066482431720
+    second: Item_Sheet_Necklaces_Fateful_92
+  - first:
+      213: -2047513461843498467
+    second: Item_Sheet_Necklaces_Fateful_93
+  - first:
+      213: 5518712122513645087
+    second: Item_Sheet_Necklaces_Fateful_94
+  - first:
+      213: 2103257120196409900
+    second: Item_Sheet_Necklaces_Fateful_95
+  - first:
+      213: 8334072068302924458
+    second: Item_Sheet_Necklaces_Fateful_96
+  - first:
+      213: 7260563829556076739
+    second: Item_Sheet_Necklaces_Fateful_97
+  - first:
+      213: -2425972825055989552
+    second: Item_Sheet_Necklaces_Fateful_98
+  - first:
+      213: 7537609964487306571
+    second: Item_Sheet_Necklaces_Fateful_99
+  - first:
+      213: -7267659863808456366
+    second: Item_Sheet_Necklaces_Fateful_100
+  - first:
+      213: 1182939045546956920
+    second: Item_Sheet_Necklaces_Fateful_101
+  - first:
+      213: 2998239262051377273
+    second: Item_Sheet_Necklaces_Fateful_102
+  - first:
+      213: -5150135753154578926
+    second: Item_Sheet_Necklaces_Fateful_103
+  - first:
+      213: -1387270030061126393
+    second: Item_Sheet_Necklaces_Fateful_104
+  - first:
+      213: 3540295564992238578
+    second: Item_Sheet_Necklaces_Fateful_105
+  - first:
+      213: 7628548494820220894
+    second: Item_Sheet_Necklaces_Fateful_106
+  - first:
+      213: 2200222772213902664
+    second: Item_Sheet_Necklaces_Fateful_107
+  - first:
+      213: -8668646209753218315
+    second: Item_Sheet_Necklaces_Fateful_108
+  - first:
+      213: 367324953294716121
+    second: Item_Sheet_Necklaces_Fateful_109
+  - first:
+      213: -3297395659281545727
+    second: Item_Sheet_Necklaces_Fateful_110
+  - first:
+      213: 7067457349684325472
+    second: Item_Sheet_Necklaces_Fateful_111
+  - first:
+      213: -3896233364269533508
+    second: Item_Sheet_Necklaces_Fateful_112
+  - first:
+      213: 7881781737132883225
+    second: Item_Sheet_Necklaces_Fateful_113
+  - first:
+      213: 7244190603293699217
+    second: Item_Sheet_Necklaces_Fateful_114
+  - first:
+      213: -4306871736258107092
+    second: Item_Sheet_Necklaces_Fateful_115
+  - first:
+      213: 1042026852166519548
+    second: Item_Sheet_Necklaces_Fateful_116
+  - first:
+      213: 1216110302137718064
+    second: Item_Sheet_Necklaces_Fateful_117
+  - first:
+      213: -4227163413065402175
+    second: Item_Sheet_Necklaces_Fateful_118
+  - first:
+      213: 1671279306792204402
+    second: Item_Sheet_Necklaces_Fateful_119
+  - first:
+      213: 2110916410365750815
+    second: Item_Sheet_Necklaces_Fateful_120
+  - first:
+      213: -62066604585870892
+    second: Item_Sheet_Necklaces_Fateful_121
+  - first:
+      213: 2489578204796569497
+    second: Item_Sheet_Necklaces_Fateful_122
+  - first:
+      213: 5909771346654925680
+    second: Item_Sheet_Necklaces_Fateful_123
+  - first:
+      213: -196676525530847237
+    second: Item_Sheet_Necklaces_Fateful_124
+  - first:
+      213: -3441577913630393719
+    second: Item_Sheet_Necklaces_Fateful_125
+  - first:
+      213: -5279260194286077863
+    second: Item_Sheet_Necklaces_Fateful_126
+  - first:
+      213: -339079407366320735
+    second: Item_Sheet_Necklaces_Fateful_127
+  - first:
+      213: 860597875783274338
+    second: Item_Sheet_Necklaces_Fateful_128
+  - first:
+      213: 2417587764949361229
+    second: Item_Sheet_Necklaces_Fateful_129
+  - first:
+      213: 8791925115419192278
+    second: Item_Sheet_Necklaces_Fateful_130
+  - first:
+      213: 839719379499708708
+    second: Item_Sheet_Necklaces_Fateful_131
+  - first:
+      213: -2749537435467148475
+    second: Item_Sheet_Necklaces_Fateful_132
+  - first:
+      213: 6755149681079272987
+    second: Item_Sheet_Necklaces_Fateful_133
+  - first:
+      213: -3723268846967893266
+    second: Item_Sheet_Necklaces_Fateful_134
+  - first:
+      213: 6717508701001032644
+    second: Item_Sheet_Necklaces_Fateful_135
+  - first:
+      213: 7368998514492608792
+    second: Item_Sheet_Necklaces_Fateful_136
+  - first:
+      213: 307898252158841888
+    second: Item_Sheet_Necklaces_Fateful_137
+  - first:
+      213: -7895980515888010935
+    second: Item_Sheet_Necklaces_Fateful_138
+  - first:
+      213: -4738227514788684789
+    second: Item_Sheet_Necklaces_Fateful_139
+  - first:
+      213: -6975548119281607549
+    second: Item_Sheet_Necklaces_Fateful_140
+  - first:
+      213: 1407998391147538597
+    second: Item_Sheet_Necklaces_Fateful_141
+  - first:
+      213: 5715136490433260556
+    second: Item_Sheet_Necklaces_Fateful_142
+  - first:
+      213: -2576470075061773734
+    second: Item_Sheet_Necklaces_Fateful_143
+  - first:
+      213: 8466337446115225877
+    second: Item_Sheet_Necklaces_Fateful_144
+  - first:
+      213: 4362672359001088939
+    second: Item_Sheet_Necklaces_Fateful_145
+  - first:
+      213: 4768102380128124366
+    second: Item_Sheet_Necklaces_Fateful_146
+  - first:
+      213: -6768660831496520970
+    second: Item_Sheet_Necklaces_Fateful_147
+  - first:
+      213: 7139052395843607621
+    second: Item_Sheet_Necklaces_Fateful_148
+  - first:
+      213: -6683460551634838842
+    second: Item_Sheet_Necklaces_Fateful_149
+  - first:
+      213: -8259027423261971799
+    second: Item_Sheet_Necklaces_Fateful_150
+  - first:
+      213: -7495517903556148746
+    second: Item_Sheet_Necklaces_Fateful_151
+  - first:
+      213: 8518130131462468599
+    second: Item_Sheet_Necklaces_Fateful_152
+  - first:
+      213: -3034117088038635176
+    second: Item_Sheet_Necklaces_Fateful_153
+  - first:
+      213: 389312996262247311
+    second: Item_Sheet_Necklaces_Fateful_154
+  - first:
+      213: 6827852334563684066
+    second: Item_Sheet_Necklaces_Fateful_155
+  - first:
+      213: 7462050727427499440
+    second: Item_Sheet_Necklaces_Fateful_156
+  - first:
+      213: -8237841772834769480
+    second: Item_Sheet_Necklaces_Fateful_157
+  - first:
+      213: 1721222261824856473
+    second: Item_Sheet_Necklaces_Fateful_158
+  - first:
+      213: -736088733938036923
+    second: Item_Sheet_Necklaces_Fateful_159
+  - first:
+      213: -3051707845902342212
+    second: Item_Sheet_Necklaces_Fateful_160
+  - first:
+      213: 6025435065867836557
+    second: Item_Sheet_Necklaces_Fateful_161
+  - first:
+      213: 1510030919607741719
+    second: Item_Sheet_Necklaces_Fateful_162
+  - first:
+      213: 7994452868700333591
+    second: Item_Sheet_Necklaces_Fateful_163
+  - first:
+      213: 5490296788674634306
+    second: Item_Sheet_Necklaces_Fateful_164
+  - first:
+      213: -8798549160030898053
+    second: Item_Sheet_Necklaces_Fateful_165
+  - first:
+      213: -5571993193205570681
+    second: Item_Sheet_Necklaces_Fateful_166
+  - first:
+      213: 1233190744856300498
+    second: Item_Sheet_Necklaces_Fateful_167
+  - first:
+      213: 4438874567798238650
+    second: Item_Sheet_Necklaces_Fateful_168
+  - first:
+      213: -3319098407775850560
+    second: Item_Sheet_Necklaces_Fateful_169
+  - first:
+      213: -2761479357400370577
+    second: Item_Sheet_Necklaces_Fateful_170
+  - first:
+      213: -7595856207574485002
+    second: Item_Sheet_Necklaces_Fateful_171
+  - first:
+      213: 4540301284920033108
+    second: Item_Sheet_Necklaces_Fateful_172
+  - first:
+      213: -4508963202106359202
+    second: Item_Sheet_Necklaces_Fateful_173
+  - first:
+      213: 1200270349716111664
+    second: Item_Sheet_Necklaces_Fateful_174
+  - first:
+      213: 8771327241508294911
+    second: Item_Sheet_Necklaces_Fateful_175
+  - first:
+      213: -8591807740328922111
+    second: Item_Sheet_Necklaces_Fateful_176
+  - first:
+      213: -1523613126205918911
+    second: Item_Sheet_Necklaces_Fateful_177
+  - first:
+      213: -3723859121896287007
+    second: Item_Sheet_Necklaces_Fateful_178
+  - first:
+      213: -8420029683065780864
+    second: Item_Sheet_Necklaces_Fateful_179
+  - first:
+      213: -3997657621231094774
+    second: Item_Sheet_Necklaces_Fateful_180
+  - first:
+      213: -1250348974945370641
+    second: Item_Sheet_Necklaces_Fateful_181
+  - first:
+      213: 4606412949770973411
+    second: Item_Sheet_Necklaces_Fateful_182
+  - first:
+      213: 5274961651453152213
+    second: Item_Sheet_Necklaces_Fateful_183
+  - first:
+      213: -7267397209128876194
+    second: Item_Sheet_Necklaces_Fateful_184
+  - first:
+      213: -1783548603655610808
+    second: Item_Sheet_Necklaces_Fateful_185
+  - first:
+      213: -7825820846899508192
+    second: Item_Sheet_Necklaces_Fateful_186
+  - first:
+      213: -6149402271539605145
+    second: Item_Sheet_Necklaces_Fateful_187
+  - first:
+      213: -9176937494538452447
+    second: Item_Sheet_Necklaces_Fateful_188
+  - first:
+      213: -5928785052081195944
+    second: Item_Sheet_Necklaces_Fateful_189
+  - first:
+      213: -8395081960060555282
+    second: Item_Sheet_Necklaces_Fateful_190
+  - first:
+      213: 7011835556815626208
+    second: Item_Sheet_Necklaces_Fateful_191
+  - first:
+      213: -1079075177115395477
+    second: Item_Sheet_Necklaces_Fateful_192
+  - first:
+      213: -7595777435395536467
+    second: Item_Sheet_Necklaces_Fateful_193
+  - first:
+      213: -1646738757920015293
+    second: Item_Sheet_Necklaces_Fateful_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e9ac80fdc842500800000000000000
+      internalID: 370575958904315455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ec360712e529e0800000000000000
+      internalID: -1646661500217269978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db635651cf3911bc0800000000000000
+      internalID: -3814104698506103107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ef4f01497049f0800000000000000
+      internalID: -486255439419284672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d61c1205963150800000000000000
+      internalID: 5852028602108269152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b92745ed725170800000000000000
+      internalID: 8165727498071030115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a0f35adae479120800000000000000
+      internalID: 2420489832443611699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9451c64b1db51a30800000000000000
+      internalID: 4185459353559585951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe15cca0b5309c10800000000000000
+      internalID: 2058204062637432572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c6d2d89a00cf50800000000000000
+      internalID: 6899526280620197858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980e1239811ae0170800000000000000
+      internalID: 8146625902879563913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543366775444a840800000000000000
+      internalID: 5234383809350415453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a2fc72d2b37d30800000000000000
+      internalID: 4428079475744483763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cb018334bb9b540800000000000000
+      internalID: 5024252756686322709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c7d62b186ad8780800000000000000
+      internalID: -8679097830898566056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5e087b6a0b3b50800000000000000
+      internalID: 6573859537769357086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124d6e5fc4655050800000000000000
+      internalID: 5788643737859867162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e66d4b9c30c3d60800000000000000
+      internalID: 7871170413594045963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42328c251169b1cd0800000000000000
+      internalID: -2586308559846759644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9756c5d1ee4d4ea0800000000000000
+      internalID: -5886962406042216546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822d4e45108e2080800000000000000
+      internalID: -9210283358929739131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea905d05c085c600800000000000000
+      internalID: 487937718459865833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56fbfa7cd724600800000000000000
+      internalID: 451061209290991094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ec29983e27c1b40800000000000000
+      internalID: 5412327173783735825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abff2b37777a1dd0800000000000000
+      internalID: -2514566087955186782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1158279c3eddace40800000000000000
+      internalID: 5677594250660971793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17642309ce1b2a5d0800000000000000
+      internalID: -3052681967814162831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6683c4747f58c7450800000000000000
+      internalID: 6087888093397661798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a04414a175fba70800000000000000
+      internalID: 8844883963454687817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae3305b4e550640800000000000000
+      internalID: 5045542635099646536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131c31a42df2f450800000000000000
+      internalID: 6121233177315644190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df08159f42c9fde0800000000000000
+      internalID: -1298793370460090413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e3f2ab1a0df3b0800000000000000
+      internalID: -5477210457998368469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051b353f68353340800000000000000
+      internalID: 4842839024592426255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b582f89f3067a0800000000000000
+      internalID: -6386034345474936254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0adf2fc4b27a28e0800000000000000
+      internalID: -1717434186992723445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6cb86a99b9b84b0800000000000000
+      internalID: -5437081040893262085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec69cfc54184b250800000000000000
+      internalID: 5959530343756819692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52489456e30d63a40800000000000000
+      internalID: 5347690573954909221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bf02214994635a0800000000000000
+      internalID: -6541960508400927892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5baec03669db2f0800000000000000
+      internalID: -955442193770039890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bfd1a3e79318f10800000000000000
+      internalID: 2270158901475146636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cf3af211b7c110800000000000000
+      internalID: 1281187314076207078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6292192dec2d500800000000000000
+      internalID: 419625119072724688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add354bce1121f90800000000000000
+      internalID: -6984500363762868832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7374bc7d19b68c20800000000000000
+      internalID: 3208455320845448058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7283512d0885150800000000000000
+      internalID: 5861576554810189748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccbab649a6d504f0800000000000000
+      internalID: -863047731047121713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591859da19f179a20800000000000000
+      internalID: 3068956381619257749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698fe47f4a3e971c0800000000000000
+      internalID: -4505319654544181098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a746c573ad803f4c0800000000000000
+      internalID: -4255047489610292102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a432dc513b3fc0800000000000000
+      internalID: -3514160809499122741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9debc043660e77b0800000000000000
+      internalID: -5224731494344561254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f73c6d19bbbcfa0800000000000000
+      internalID: -5779319461752111219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c0da1b87604c30800000000000000
+      internalID: 4341583887933161940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca4bc4cc517dca80800000000000000
+      internalID: -8444969082997224756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3cc70a0cf1caf0800000000000000
+      internalID: -377743773711713243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54653f22ea432be90800000000000000
+      internalID: -7011483747347114427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01559b27271d77a10800000000000000
+      internalID: 1907223256695919888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b596fc838455971d0800000000000000
+      internalID: -3352554678921500325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509728f4e3df78d00800000000000000
+      internalID: 975026288412752133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b4497a0cc0c3b50800000000000000
+      internalID: 6574143577638849370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451b9ec85f381920800000000000000
+      internalID: 2961186405652043082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbac12ea5a51e320800000000000000
+      internalID: 2585447007474461659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78582651a73e720800000000000000
+      internalID: 2874275219458328480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda1bc6c0e1aa8430800000000000000
+      internalID: 3786016423538268894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64bef28f3ed6360800000000000000
+      internalID: 7164633237311669922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c215bfeda6df400800000000000000
+      internalID: 359561051191192608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c4f12cb42520b0800000000000000
+      internalID: -5754152558453799380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086fc5b02bb974f90800000000000000
+      internalID: -6969430709335427456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd8b9d489f74e9b0800000000000000
+      internalID: -5051772589889057316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a3b2bc12ac9350800000000000000
+      internalID: 6024868645655783192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6dd08ba0b69aa00800000000000000
+      internalID: 768262905225139962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e15256175a5c140800000000000000
+      internalID: 4739376089324134036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa26d263f75bab0800000000000000
+      internalID: -4992944741203923197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47991021b7361f080800000000000000
+      internalID: -9155427187233285772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5a50331c3ac0e0800000000000000
+      internalID: -2248919010804867116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9853315071b62db0800000000000000
+      internalID: -4816967655469393766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d56e4dbe0b3690800000000000000
+      internalID: -7621481738167527363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6587ea289967e9ac0800000000000000
+      internalID: -3846506630033278890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e10ddd864eaf40800000000000000
+      internalID: 5741604150056183125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c368aadaa3b3580800000000000000
+      internalID: -8846412525474530259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476ec6af0f5bbb790800000000000000
+      internalID: -7513211506739321228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d59ab26d0382900800000000000000
+      internalID: 659831041823431972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22b5002803b4440800000000000000
+      internalID: 4921080352742253235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92984aedae190fb30800000000000000
+      internalID: 4319112480592005417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c72c3ec6d35bad0800000000000000
+      internalID: -2687174064769696756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a68bbd30e4d20180800000000000000
+      internalID: -9150517433289963864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0277190d2424cc0800000000000000
+      internalID: -3728344077948215060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7958c312ddac830800000000000000
+      internalID: 4092326346238564275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd46573d76ff0ce0800000000000000
+      internalID: -1436658738448151096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb97244eefbabe0800000000000000
+      internalID: -1464796997457690991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6db56f99692a070800000000000000
+      internalID: 8116215066482431720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aecf9ca55c593e0800000000000000
+      internalID: -2047513461843498467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5110af67669c40800000000000000
+      internalID: 5518712122513645087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3e901535403d10800000000000000
+      internalID: 2103257120196409900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa63bbe36298a370800000000000000
+      internalID: 8334072068302924458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06db9b554b2c460800000000000000
+      internalID: 7260563829556076739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d079c7a196355ed0800000000000000
+      internalID: -2425972825055989552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de5b4a358fa9860800000000000000
+      internalID: 7537609964487306571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259455d0cd5142b90800000000000000
+      internalID: -7267659863808456366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87814c06bc4aa6010800000000000000
+      internalID: 1182939045546956920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a33639b2eb9920800000000000000
+      internalID: 2998239262051377273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216be20b1da0788b0800000000000000
+      internalID: -5150135753154578926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d39aaf14d6fbce0800000000000000
+      internalID: -1387270030061126393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d04f1f08a12130800000000000000
+      internalID: 3540295564992238578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9991307c0ed960800000000000000
+      internalID: 7628548494820220894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84de88c34f2c88e10800000000000000
+      internalID: 2200222772213902664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28f106338c2b780800000000000000
+      internalID: -8668646209753218315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb44e4910091500800000000000000
+      internalID: 367324953294716121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106cb944e1c4d32d0800000000000000
+      internalID: -3297395659281545727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c6829b307a41260800000000000000
+      internalID: 7067457349684325472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb670b8f56ccde9c0800000000000000
+      internalID: -3896233364269533508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d77fefab6b16d60800000000000000
+      internalID: 7881781737132883225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c2b8ae8f8888460800000000000000
+      internalID: 7244190603293699217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296a2389faea34c0800000000000000
+      internalID: -4306871736258107092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfacdc1b6e5067e00800000000000000
+      internalID: 1042026852166519548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359c9660ed70e010800000000000000
+      internalID: 1216110302137718064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c875b4b5491655c0800000000000000
+      internalID: -4227163413065402175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787fc9bca3913710800000000000000
+      internalID: 1671279306792204402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ea4668a4b7b4d10800000000000000
+      internalID: 2110916410365750815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99e3180ce732ff0800000000000000
+      internalID: -62066604585870892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974479df22cc8220800000000000000
+      internalID: 2489578204796569497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073162d7ab9b30250800000000000000
+      internalID: 5909771346654925680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf76318fdb3454df0800000000000000
+      internalID: -196676525530847237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98afa3f2f1f0d30d0800000000000000
+      internalID: -3441577913630393719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f7b2f2dc4cb6b0800000000000000
+      internalID: -5279260194286077863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc74553195b4bf0800000000000000
+      internalID: -339079407366320735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8488553571fb00800000000000000
+      internalID: 860597875783274338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422327634ffc8120800000000000000
+      internalID: 2417587764949361229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db65649f41330a70800000000000000
+      internalID: 8791925115419192278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421771e935847ab00800000000000000
+      internalID: 839719379499708708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439756254ea7d9d0800000000000000
+      internalID: -2749537435467148475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16c25938dc1fbd50800000000000000
+      internalID: 6755149681079272987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2533dd5ba445cc0800000000000000
+      internalID: -3723268846967893266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c323ca9292693d50800000000000000
+      internalID: 6717508701001032644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81196b63b11f34660800000000000000
+      internalID: 7368998514492608792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02434ea34dfd54400800000000000000
+      internalID: 307898252158841888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e6153e87db6290800000000000000
+      internalID: -7895980515888010935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cd904fd2f6e3eb0800000000000000
+      internalID: -4738227514788684789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c539c81ffd13f90800000000000000
+      internalID: -6975548119281607549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8abaca3173a8310800000000000000
+      internalID: 1407998391147538597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca523ab5e305f40800000000000000
+      internalID: 5715136490433260556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad4811e1a8e3cd0800000000000000
+      internalID: -2576470075061773734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5113948fc097e7570800000000000000
+      internalID: 8466337446115225877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3eca565635b8c30800000000000000
+      internalID: 4362672359001088939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3b3c2ad3bb2240800000000000000
+      internalID: 4768102380128124366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fabc8de5d2e012a0800000000000000
+      internalID: -6768660831496520970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd8276452031360800000000000000
+      internalID: 7139052395843607621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca187de9049f33a0800000000000000
+      internalID: -6683460551634838842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa246115a026d80800000000000000
+      internalID: -8259027423261971799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f184fefd229af790800000000000000
+      internalID: -7495517903556148746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33f5c393a763670800000000000000
+      internalID: 8518130131462468599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b3887596a4e5d0800000000000000
+      internalID: -3034117088038635176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b77a08b1e176500800000000000000
+      internalID: 389312996262247311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6d74d58761ce50800000000000000
+      internalID: 6827852334563684066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5e248d9978e8760800000000000000
+      internalID: 7462050727427499440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b53f46bd8e4dad80800000000000000
+      internalID: -8237841772834769480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a097178203e710800000000000000
+      internalID: 1721222261824856473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc47a4233e8c5f0800000000000000
+      internalID: -736088733938036923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e7bef1e726a5d0800000000000000
+      internalID: -3051707845902342212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1c3ea445ae9350800000000000000
+      internalID: 6025435065867836557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d6313fe15b4f410800000000000000
+      internalID: 1510030919607741719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7166c74178002fe60800000000000000
+      internalID: 7994452868700333591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2426b6827d3713c40800000000000000
+      internalID: 5490296788674634306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78fb89d72645e580800000000000000
+      internalID: -8798549160030898053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783661466bd4ca2b0800000000000000
+      internalID: -5571993193205570681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db857fd27c2d1110800000000000000
+      internalID: 1233190744856300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2128b6ec0a9d30800000000000000
+      internalID: 4438874567798238650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa4fd559130f1d0800000000000000
+      internalID: -3319098407775850560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b397c7214da9d0800000000000000
+      internalID: -2761479357400370577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b3961609169690800000000000000
+      internalID: -7595856207574485002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f78ec86f3620f30800000000000000
+      internalID: 4540301284920033108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5284217bd1fc61c0800000000000000
+      internalID: -4508963202106359202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0314345168738a010800000000000000
+      internalID: 1200270349716111664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01fc657a30ab970800000000000000
+      internalID: 8771327241508294911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043e3ba164c3c880800000000000000
+      internalID: -8591807740328922111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141bf552fe90bdae0800000000000000
+      internalID: -1523613126205918911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e416c5cbd1325cc0800000000000000
+      internalID: -3723859121896287007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0858e9e4d9b062b80800000000000000
+      internalID: -8420029683065780864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0433e0f2977588c0800000000000000
+      internalID: -3997657621231094774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7b1f5b3ed5aee0800000000000000
+      internalID: -1250348974945370641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0bbd70c244def30800000000000000
+      internalID: 4606412949770973411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4cae8cad643940800000000000000
+      internalID: 5274961651453152213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57453c1eb4052b90800000000000000
+      internalID: -7267397209128876194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e967f9eff8f37e0800000000000000
+      internalID: -1783548603655610808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c45b81769156390800000000000000
+      internalID: -7825820846899508192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d6e7073fe8aaa0800000000000000
+      internalID: -6149402271539605145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122821068f7f4a080800000000000000
+      internalID: -9176937494538452447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854fd0d3869b8bda0800000000000000
+      internalID: -5928785052081195944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefec46bf6dae7b80800000000000000
+      internalID: -8395081960060555282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd273e94b0f4160800000000000000
+      internalID: 7011835556815626208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a5816f7da5601f0800000000000000
+      internalID: -1079075177115395477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9425aaaa0669690800000000000000
+      internalID: -7595777435395536467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Fateful_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3f4013db9529e0800000000000000
+      internalID: -1646738757920015293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Fateful_0: 370575958904315455
+      Item_Sheet_Necklaces_Fateful_1: -1646661500217269978
+      Item_Sheet_Necklaces_Fateful_10: 8146625902879563913
+      Item_Sheet_Necklaces_Fateful_100: -7267659863808456366
+      Item_Sheet_Necklaces_Fateful_101: 1182939045546956920
+      Item_Sheet_Necklaces_Fateful_102: 2998239262051377273
+      Item_Sheet_Necklaces_Fateful_103: -5150135753154578926
+      Item_Sheet_Necklaces_Fateful_104: -1387270030061126393
+      Item_Sheet_Necklaces_Fateful_105: 3540295564992238578
+      Item_Sheet_Necklaces_Fateful_106: 7628548494820220894
+      Item_Sheet_Necklaces_Fateful_107: 2200222772213902664
+      Item_Sheet_Necklaces_Fateful_108: -8668646209753218315
+      Item_Sheet_Necklaces_Fateful_109: 367324953294716121
+      Item_Sheet_Necklaces_Fateful_11: 5234383809350415453
+      Item_Sheet_Necklaces_Fateful_110: -3297395659281545727
+      Item_Sheet_Necklaces_Fateful_111: 7067457349684325472
+      Item_Sheet_Necklaces_Fateful_112: -3896233364269533508
+      Item_Sheet_Necklaces_Fateful_113: 7881781737132883225
+      Item_Sheet_Necklaces_Fateful_114: 7244190603293699217
+      Item_Sheet_Necklaces_Fateful_115: -4306871736258107092
+      Item_Sheet_Necklaces_Fateful_116: 1042026852166519548
+      Item_Sheet_Necklaces_Fateful_117: 1216110302137718064
+      Item_Sheet_Necklaces_Fateful_118: -4227163413065402175
+      Item_Sheet_Necklaces_Fateful_119: 1671279306792204402
+      Item_Sheet_Necklaces_Fateful_12: 4428079475744483763
+      Item_Sheet_Necklaces_Fateful_120: 2110916410365750815
+      Item_Sheet_Necklaces_Fateful_121: -62066604585870892
+      Item_Sheet_Necklaces_Fateful_122: 2489578204796569497
+      Item_Sheet_Necklaces_Fateful_123: 5909771346654925680
+      Item_Sheet_Necklaces_Fateful_124: -196676525530847237
+      Item_Sheet_Necklaces_Fateful_125: -3441577913630393719
+      Item_Sheet_Necklaces_Fateful_126: -5279260194286077863
+      Item_Sheet_Necklaces_Fateful_127: -339079407366320735
+      Item_Sheet_Necklaces_Fateful_128: 860597875783274338
+      Item_Sheet_Necklaces_Fateful_129: 2417587764949361229
+      Item_Sheet_Necklaces_Fateful_13: 5024252756686322709
+      Item_Sheet_Necklaces_Fateful_130: 8791925115419192278
+      Item_Sheet_Necklaces_Fateful_131: 839719379499708708
+      Item_Sheet_Necklaces_Fateful_132: -2749537435467148475
+      Item_Sheet_Necklaces_Fateful_133: 6755149681079272987
+      Item_Sheet_Necklaces_Fateful_134: -3723268846967893266
+      Item_Sheet_Necklaces_Fateful_135: 6717508701001032644
+      Item_Sheet_Necklaces_Fateful_136: 7368998514492608792
+      Item_Sheet_Necklaces_Fateful_137: 307898252158841888
+      Item_Sheet_Necklaces_Fateful_138: -7895980515888010935
+      Item_Sheet_Necklaces_Fateful_139: -4738227514788684789
+      Item_Sheet_Necklaces_Fateful_14: -8679097830898566056
+      Item_Sheet_Necklaces_Fateful_140: -6975548119281607549
+      Item_Sheet_Necklaces_Fateful_141: 1407998391147538597
+      Item_Sheet_Necklaces_Fateful_142: 5715136490433260556
+      Item_Sheet_Necklaces_Fateful_143: -2576470075061773734
+      Item_Sheet_Necklaces_Fateful_144: 8466337446115225877
+      Item_Sheet_Necklaces_Fateful_145: 4362672359001088939
+      Item_Sheet_Necklaces_Fateful_146: 4768102380128124366
+      Item_Sheet_Necklaces_Fateful_147: -6768660831496520970
+      Item_Sheet_Necklaces_Fateful_148: 7139052395843607621
+      Item_Sheet_Necklaces_Fateful_149: -6683460551634838842
+      Item_Sheet_Necklaces_Fateful_15: 6573859537769357086
+      Item_Sheet_Necklaces_Fateful_150: -8259027423261971799
+      Item_Sheet_Necklaces_Fateful_151: -7495517903556148746
+      Item_Sheet_Necklaces_Fateful_152: 8518130131462468599
+      Item_Sheet_Necklaces_Fateful_153: -3034117088038635176
+      Item_Sheet_Necklaces_Fateful_154: 389312996262247311
+      Item_Sheet_Necklaces_Fateful_155: 6827852334563684066
+      Item_Sheet_Necklaces_Fateful_156: 7462050727427499440
+      Item_Sheet_Necklaces_Fateful_157: -8237841772834769480
+      Item_Sheet_Necklaces_Fateful_158: 1721222261824856473
+      Item_Sheet_Necklaces_Fateful_159: -736088733938036923
+      Item_Sheet_Necklaces_Fateful_16: 5788643737859867162
+      Item_Sheet_Necklaces_Fateful_160: -3051707845902342212
+      Item_Sheet_Necklaces_Fateful_161: 6025435065867836557
+      Item_Sheet_Necklaces_Fateful_162: 1510030919607741719
+      Item_Sheet_Necklaces_Fateful_163: 7994452868700333591
+      Item_Sheet_Necklaces_Fateful_164: 5490296788674634306
+      Item_Sheet_Necklaces_Fateful_165: -8798549160030898053
+      Item_Sheet_Necklaces_Fateful_166: -5571993193205570681
+      Item_Sheet_Necklaces_Fateful_167: 1233190744856300498
+      Item_Sheet_Necklaces_Fateful_168: 4438874567798238650
+      Item_Sheet_Necklaces_Fateful_169: -3319098407775850560
+      Item_Sheet_Necklaces_Fateful_17: 7871170413594045963
+      Item_Sheet_Necklaces_Fateful_170: -2761479357400370577
+      Item_Sheet_Necklaces_Fateful_171: -7595856207574485002
+      Item_Sheet_Necklaces_Fateful_172: 4540301284920033108
+      Item_Sheet_Necklaces_Fateful_173: -4508963202106359202
+      Item_Sheet_Necklaces_Fateful_174: 1200270349716111664
+      Item_Sheet_Necklaces_Fateful_175: 8771327241508294911
+      Item_Sheet_Necklaces_Fateful_176: -8591807740328922111
+      Item_Sheet_Necklaces_Fateful_177: -1523613126205918911
+      Item_Sheet_Necklaces_Fateful_178: -3723859121896287007
+      Item_Sheet_Necklaces_Fateful_179: -8420029683065780864
+      Item_Sheet_Necklaces_Fateful_18: -2586308559846759644
+      Item_Sheet_Necklaces_Fateful_180: -3997657621231094774
+      Item_Sheet_Necklaces_Fateful_181: -1250348974945370641
+      Item_Sheet_Necklaces_Fateful_182: 4606412949770973411
+      Item_Sheet_Necklaces_Fateful_183: 5274961651453152213
+      Item_Sheet_Necklaces_Fateful_184: -7267397209128876194
+      Item_Sheet_Necklaces_Fateful_185: -1783548603655610808
+      Item_Sheet_Necklaces_Fateful_186: -7825820846899508192
+      Item_Sheet_Necklaces_Fateful_187: -6149402271539605145
+      Item_Sheet_Necklaces_Fateful_188: -9176937494538452447
+      Item_Sheet_Necklaces_Fateful_189: -5928785052081195944
+      Item_Sheet_Necklaces_Fateful_19: -5886962406042216546
+      Item_Sheet_Necklaces_Fateful_190: -8395081960060555282
+      Item_Sheet_Necklaces_Fateful_191: 7011835556815626208
+      Item_Sheet_Necklaces_Fateful_192: -1079075177115395477
+      Item_Sheet_Necklaces_Fateful_193: -7595777435395536467
+      Item_Sheet_Necklaces_Fateful_194: -1646738757920015293
+      Item_Sheet_Necklaces_Fateful_2: -3814104698506103107
+      Item_Sheet_Necklaces_Fateful_20: -9210283358929739131
+      Item_Sheet_Necklaces_Fateful_21: 487937718459865833
+      Item_Sheet_Necklaces_Fateful_22: 451061209290991094
+      Item_Sheet_Necklaces_Fateful_23: 5412327173783735825
+      Item_Sheet_Necklaces_Fateful_24: -2514566087955186782
+      Item_Sheet_Necklaces_Fateful_25: 5677594250660971793
+      Item_Sheet_Necklaces_Fateful_26: -3052681967814162831
+      Item_Sheet_Necklaces_Fateful_27: 6087888093397661798
+      Item_Sheet_Necklaces_Fateful_28: 8844883963454687817
+      Item_Sheet_Necklaces_Fateful_29: 5045542635099646536
+      Item_Sheet_Necklaces_Fateful_3: -486255439419284672
+      Item_Sheet_Necklaces_Fateful_30: 6121233177315644190
+      Item_Sheet_Necklaces_Fateful_31: -1298793370460090413
+      Item_Sheet_Necklaces_Fateful_32: -5477210457998368469
+      Item_Sheet_Necklaces_Fateful_33: 4842839024592426255
+      Item_Sheet_Necklaces_Fateful_34: -6386034345474936254
+      Item_Sheet_Necklaces_Fateful_35: -1717434186992723445
+      Item_Sheet_Necklaces_Fateful_36: -5437081040893262085
+      Item_Sheet_Necklaces_Fateful_37: 5959530343756819692
+      Item_Sheet_Necklaces_Fateful_38: 5347690573954909221
+      Item_Sheet_Necklaces_Fateful_39: -6541960508400927892
+      Item_Sheet_Necklaces_Fateful_4: 5852028602108269152
+      Item_Sheet_Necklaces_Fateful_40: -955442193770039890
+      Item_Sheet_Necklaces_Fateful_41: 2270158901475146636
+      Item_Sheet_Necklaces_Fateful_42: 1281187314076207078
+      Item_Sheet_Necklaces_Fateful_43: 419625119072724688
+      Item_Sheet_Necklaces_Fateful_44: -6984500363762868832
+      Item_Sheet_Necklaces_Fateful_45: 3208455320845448058
+      Item_Sheet_Necklaces_Fateful_46: 5861576554810189748
+      Item_Sheet_Necklaces_Fateful_47: -863047731047121713
+      Item_Sheet_Necklaces_Fateful_48: 3068956381619257749
+      Item_Sheet_Necklaces_Fateful_49: -4505319654544181098
+      Item_Sheet_Necklaces_Fateful_5: 8165727498071030115
+      Item_Sheet_Necklaces_Fateful_50: -4255047489610292102
+      Item_Sheet_Necklaces_Fateful_51: -3514160809499122741
+      Item_Sheet_Necklaces_Fateful_52: -5224731494344561254
+      Item_Sheet_Necklaces_Fateful_53: -5779319461752111219
+      Item_Sheet_Necklaces_Fateful_54: 4341583887933161940
+      Item_Sheet_Necklaces_Fateful_55: -8444969082997224756
+      Item_Sheet_Necklaces_Fateful_56: -377743773711713243
+      Item_Sheet_Necklaces_Fateful_57: -7011483747347114427
+      Item_Sheet_Necklaces_Fateful_58: 1907223256695919888
+      Item_Sheet_Necklaces_Fateful_59: -3352554678921500325
+      Item_Sheet_Necklaces_Fateful_6: 2420489832443611699
+      Item_Sheet_Necklaces_Fateful_60: 975026288412752133
+      Item_Sheet_Necklaces_Fateful_61: 6574143577638849370
+      Item_Sheet_Necklaces_Fateful_62: 2961186405652043082
+      Item_Sheet_Necklaces_Fateful_63: 2585447007474461659
+      Item_Sheet_Necklaces_Fateful_64: 2874275219458328480
+      Item_Sheet_Necklaces_Fateful_65: 3786016423538268894
+      Item_Sheet_Necklaces_Fateful_66: 7164633237311669922
+      Item_Sheet_Necklaces_Fateful_67: 359561051191192608
+      Item_Sheet_Necklaces_Fateful_68: -5754152558453799380
+      Item_Sheet_Necklaces_Fateful_69: -6969430709335427456
+      Item_Sheet_Necklaces_Fateful_7: 4185459353559585951
+      Item_Sheet_Necklaces_Fateful_70: -5051772589889057316
+      Item_Sheet_Necklaces_Fateful_71: 6024868645655783192
+      Item_Sheet_Necklaces_Fateful_72: 768262905225139962
+      Item_Sheet_Necklaces_Fateful_73: 4739376089324134036
+      Item_Sheet_Necklaces_Fateful_74: -4992944741203923197
+      Item_Sheet_Necklaces_Fateful_75: -9155427187233285772
+      Item_Sheet_Necklaces_Fateful_76: -2248919010804867116
+      Item_Sheet_Necklaces_Fateful_77: -4816967655469393766
+      Item_Sheet_Necklaces_Fateful_78: -7621481738167527363
+      Item_Sheet_Necklaces_Fateful_79: -3846506630033278890
+      Item_Sheet_Necklaces_Fateful_8: 2058204062637432572
+      Item_Sheet_Necklaces_Fateful_80: 5741604150056183125
+      Item_Sheet_Necklaces_Fateful_81: -8846412525474530259
+      Item_Sheet_Necklaces_Fateful_82: -7513211506739321228
+      Item_Sheet_Necklaces_Fateful_83: 659831041823431972
+      Item_Sheet_Necklaces_Fateful_84: 4921080352742253235
+      Item_Sheet_Necklaces_Fateful_85: 4319112480592005417
+      Item_Sheet_Necklaces_Fateful_86: -2687174064769696756
+      Item_Sheet_Necklaces_Fateful_87: -9150517433289963864
+      Item_Sheet_Necklaces_Fateful_88: -3728344077948215060
+      Item_Sheet_Necklaces_Fateful_89: 4092326346238564275
+      Item_Sheet_Necklaces_Fateful_9: 6899526280620197858
+      Item_Sheet_Necklaces_Fateful_90: -1436658738448151096
+      Item_Sheet_Necklaces_Fateful_91: -1464796997457690991
+      Item_Sheet_Necklaces_Fateful_92: 8116215066482431720
+      Item_Sheet_Necklaces_Fateful_93: -2047513461843498467
+      Item_Sheet_Necklaces_Fateful_94: 5518712122513645087
+      Item_Sheet_Necklaces_Fateful_95: 2103257120196409900
+      Item_Sheet_Necklaces_Fateful_96: 8334072068302924458
+      Item_Sheet_Necklaces_Fateful_97: 7260563829556076739
+      Item_Sheet_Necklaces_Fateful_98: -2425972825055989552
+      Item_Sheet_Necklaces_Fateful_99: 7537609964487306571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

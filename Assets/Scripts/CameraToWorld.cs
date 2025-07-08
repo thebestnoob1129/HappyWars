@@ -13,7 +13,6 @@ public class CameraToWorld : MonoBehaviour
     //public int fovMIN = 5;
     //public int fovMAX = 150;
 
-
     private void Start()
     {
         if (GetComponent<AudioListener>()) { Destroy(GetComponent<AudioListener>()); };

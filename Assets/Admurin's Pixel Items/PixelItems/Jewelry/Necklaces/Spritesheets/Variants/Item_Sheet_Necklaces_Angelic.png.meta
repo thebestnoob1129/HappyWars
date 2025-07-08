@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: 30a690036f4a4e2439b5051de4068164
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Angelic.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2251487942522544079
+    second: Item_Sheet_Necklaces_Angelic_0
+  - first:
+      213: -5594569454820577433
+    second: Item_Sheet_Necklaces_Angelic_1
+  - first:
+      213: -5939022504603233951
+    second: Item_Sheet_Necklaces_Angelic_2
+  - first:
+      213: 2690207426147107385
+    second: Item_Sheet_Necklaces_Angelic_3
+  - first:
+      213: 2533286945291539350
+    second: Item_Sheet_Necklaces_Angelic_4
+  - first:
+      213: 7897987452929440194
+    second: Item_Sheet_Necklaces_Angelic_5
+  - first:
+      213: -8050036757604202651
+    second: Item_Sheet_Necklaces_Angelic_6
+  - first:
+      213: -3695959527999832957
+    second: Item_Sheet_Necklaces_Angelic_7
+  - first:
+      213: -7575444397598302221
+    second: Item_Sheet_Necklaces_Angelic_8
+  - first:
+      213: 2715888868330170351
+    second: Item_Sheet_Necklaces_Angelic_9
+  - first:
+      213: 5804028786778408753
+    second: Item_Sheet_Necklaces_Angelic_10
+  - first:
+      213: -3885923784432077291
+    second: Item_Sheet_Necklaces_Angelic_11
+  - first:
+      213: -452765782558843120
+    second: Item_Sheet_Necklaces_Angelic_12
+  - first:
+      213: 4982848825778693212
+    second: Item_Sheet_Necklaces_Angelic_13
+  - first:
+      213: 2544677383380889915
+    second: Item_Sheet_Necklaces_Angelic_14
+  - first:
+      213: -2108127876124192316
+    second: Item_Sheet_Necklaces_Angelic_15
+  - first:
+      213: -8094391642289000170
+    second: Item_Sheet_Necklaces_Angelic_16
+  - first:
+      213: 6951419643527783712
+    second: Item_Sheet_Necklaces_Angelic_17
+  - first:
+      213: 8481507340427080343
+    second: Item_Sheet_Necklaces_Angelic_18
+  - first:
+      213: 8156000675390164395
+    second: Item_Sheet_Necklaces_Angelic_19
+  - first:
+      213: -1171079073762003839
+    second: Item_Sheet_Necklaces_Angelic_20
+  - first:
+      213: -920402992446588657
+    second: Item_Sheet_Necklaces_Angelic_21
+  - first:
+      213: 2616868553494490775
+    second: Item_Sheet_Necklaces_Angelic_22
+  - first:
+      213: 6896273511430825240
+    second: Item_Sheet_Necklaces_Angelic_23
+  - first:
+      213: -7778858574856636404
+    second: Item_Sheet_Necklaces_Angelic_24
+  - first:
+      213: 3956189820244512512
+    second: Item_Sheet_Necklaces_Angelic_25
+  - first:
+      213: 709185556046689776
+    second: Item_Sheet_Necklaces_Angelic_26
+  - first:
+      213: -1883929373868042791
+    second: Item_Sheet_Necklaces_Angelic_27
+  - first:
+      213: 2423236279379019640
+    second: Item_Sheet_Necklaces_Angelic_28
+  - first:
+      213: 8447975061668767467
+    second: Item_Sheet_Necklaces_Angelic_29
+  - first:
+      213: -3824463154708992677
+    second: Item_Sheet_Necklaces_Angelic_30
+  - first:
+      213: -2885032347492262039
+    second: Item_Sheet_Necklaces_Angelic_31
+  - first:
+      213: 4423486295272147149
+    second: Item_Sheet_Necklaces_Angelic_32
+  - first:
+      213: -7520027118455565117
+    second: Item_Sheet_Necklaces_Angelic_33
+  - first:
+      213: -2843442961372611025
+    second: Item_Sheet_Necklaces_Angelic_34
+  - first:
+      213: -7269341466387532684
+    second: Item_Sheet_Necklaces_Angelic_35
+  - first:
+      213: -3963543155074693719
+    second: Item_Sheet_Necklaces_Angelic_36
+  - first:
+      213: -3283654786193029463
+    second: Item_Sheet_Necklaces_Angelic_37
+  - first:
+      213: 4230700290292138427
+    second: Item_Sheet_Necklaces_Angelic_38
+  - first:
+      213: 3061377815664930377
+    second: Item_Sheet_Necklaces_Angelic_39
+  - first:
+      213: -3068575761806628412
+    second: Item_Sheet_Necklaces_Angelic_40
+  - first:
+      213: -5932875531617546083
+    second: Item_Sheet_Necklaces_Angelic_41
+  - first:
+      213: -9174753725477358390
+    second: Item_Sheet_Necklaces_Angelic_42
+  - first:
+      213: 1757466629268673304
+    second: Item_Sheet_Necklaces_Angelic_43
+  - first:
+      213: 367004682771895945
+    second: Item_Sheet_Necklaces_Angelic_44
+  - first:
+      213: -3625398568947449996
+    second: Item_Sheet_Necklaces_Angelic_45
+  - first:
+      213: -4021010479637446822
+    second: Item_Sheet_Necklaces_Angelic_46
+  - first:
+      213: 2046043462100956725
+    second: Item_Sheet_Necklaces_Angelic_47
+  - first:
+      213: 1423577895245727439
+    second: Item_Sheet_Necklaces_Angelic_48
+  - first:
+      213: 6193058121532093989
+    second: Item_Sheet_Necklaces_Angelic_49
+  - first:
+      213: 5079840205809517051
+    second: Item_Sheet_Necklaces_Angelic_50
+  - first:
+      213: -1331561837554935518
+    second: Item_Sheet_Necklaces_Angelic_51
+  - first:
+      213: 5053987098604344571
+    second: Item_Sheet_Necklaces_Angelic_52
+  - first:
+      213: -4588197777333509376
+    second: Item_Sheet_Necklaces_Angelic_53
+  - first:
+      213: 3766374963369310448
+    second: Item_Sheet_Necklaces_Angelic_54
+  - first:
+      213: -3454361393024877919
+    second: Item_Sheet_Necklaces_Angelic_55
+  - first:
+      213: -6133842053611055054
+    second: Item_Sheet_Necklaces_Angelic_56
+  - first:
+      213: -454558783528571213
+    second: Item_Sheet_Necklaces_Angelic_57
+  - first:
+      213: -2278977849706480480
+    second: Item_Sheet_Necklaces_Angelic_58
+  - first:
+      213: 2555502662056806011
+    second: Item_Sheet_Necklaces_Angelic_59
+  - first:
+      213: -3855048634814802706
+    second: Item_Sheet_Necklaces_Angelic_60
+  - first:
+      213: 8499005477030448479
+    second: Item_Sheet_Necklaces_Angelic_61
+  - first:
+      213: 9032868973282698230
+    second: Item_Sheet_Necklaces_Angelic_62
+  - first:
+      213: 7954673128992257118
+    second: Item_Sheet_Necklaces_Angelic_63
+  - first:
+      213: -8908025414658677764
+    second: Item_Sheet_Necklaces_Angelic_64
+  - first:
+      213: -7774046408985227479
+    second: Item_Sheet_Necklaces_Angelic_65
+  - first:
+      213: -8327946776158202815
+    second: Item_Sheet_Necklaces_Angelic_66
+  - first:
+      213: -6249134327045804732
+    second: Item_Sheet_Necklaces_Angelic_67
+  - first:
+      213: -2451821164927607012
+    second: Item_Sheet_Necklaces_Angelic_68
+  - first:
+      213: -6389612495432044409
+    second: Item_Sheet_Necklaces_Angelic_69
+  - first:
+      213: 7410720690650529712
+    second: Item_Sheet_Necklaces_Angelic_70
+  - first:
+      213: 3687393775940109864
+    second: Item_Sheet_Necklaces_Angelic_71
+  - first:
+      213: -8461159130408215394
+    second: Item_Sheet_Necklaces_Angelic_72
+  - first:
+      213: 6073282022550538152
+    second: Item_Sheet_Necklaces_Angelic_73
+  - first:
+      213: -2450149449054503218
+    second: Item_Sheet_Necklaces_Angelic_74
+  - first:
+      213: -8226816918162614013
+    second: Item_Sheet_Necklaces_Angelic_75
+  - first:
+      213: 6737859285418359641
+    second: Item_Sheet_Necklaces_Angelic_76
+  - first:
+      213: -36263293597128311
+    second: Item_Sheet_Necklaces_Angelic_77
+  - first:
+      213: 5060347191849381719
+    second: Item_Sheet_Necklaces_Angelic_78
+  - first:
+      213: -4495819244706309588
+    second: Item_Sheet_Necklaces_Angelic_79
+  - first:
+      213: 4874201883944359064
+    second: Item_Sheet_Necklaces_Angelic_80
+  - first:
+      213: -8948729957815787265
+    second: Item_Sheet_Necklaces_Angelic_81
+  - first:
+      213: 8419649507572327431
+    second: Item_Sheet_Necklaces_Angelic_82
+  - first:
+      213: -1387103023546604204
+    second: Item_Sheet_Necklaces_Angelic_83
+  - first:
+      213: -8658418667140228816
+    second: Item_Sheet_Necklaces_Angelic_84
+  - first:
+      213: 1247871643208476691
+    second: Item_Sheet_Necklaces_Angelic_85
+  - first:
+      213: 8167268081176672913
+    second: Item_Sheet_Necklaces_Angelic_86
+  - first:
+      213: 6289804414207622664
+    second: Item_Sheet_Necklaces_Angelic_87
+  - first:
+      213: 5410041543342117531
+    second: Item_Sheet_Necklaces_Angelic_88
+  - first:
+      213: -5134638624984708663
+    second: Item_Sheet_Necklaces_Angelic_89
+  - first:
+      213: -6867652797449188749
+    second: Item_Sheet_Necklaces_Angelic_90
+  - first:
+      213: -9173616438668829131
+    second: Item_Sheet_Necklaces_Angelic_91
+  - first:
+      213: -3167899187054038568
+    second: Item_Sheet_Necklaces_Angelic_92
+  - first:
+      213: -1426209705368389432
+    second: Item_Sheet_Necklaces_Angelic_93
+  - first:
+      213: -7804062962362565591
+    second: Item_Sheet_Necklaces_Angelic_94
+  - first:
+      213: 5331474192204331076
+    second: Item_Sheet_Necklaces_Angelic_95
+  - first:
+      213: 2979563123727515519
+    second: Item_Sheet_Necklaces_Angelic_96
+  - first:
+      213: 8781252371704264972
+    second: Item_Sheet_Necklaces_Angelic_97
+  - first:
+      213: -5280334455932957515
+    second: Item_Sheet_Necklaces_Angelic_98
+  - first:
+      213: 3926798158660880137
+    second: Item_Sheet_Necklaces_Angelic_99
+  - first:
+      213: 1326398662317402592
+    second: Item_Sheet_Necklaces_Angelic_100
+  - first:
+      213: -458579233074117707
+    second: Item_Sheet_Necklaces_Angelic_101
+  - first:
+      213: -8596932800254041260
+    second: Item_Sheet_Necklaces_Angelic_102
+  - first:
+      213: 4778255194313154881
+    second: Item_Sheet_Necklaces_Angelic_103
+  - first:
+      213: -7775856840321321336
+    second: Item_Sheet_Necklaces_Angelic_104
+  - first:
+      213: 8322638149515593389
+    second: Item_Sheet_Necklaces_Angelic_105
+  - first:
+      213: 6399888195075308090
+    second: Item_Sheet_Necklaces_Angelic_106
+  - first:
+      213: -6688932318761518002
+    second: Item_Sheet_Necklaces_Angelic_107
+  - first:
+      213: 5623079667077077570
+    second: Item_Sheet_Necklaces_Angelic_108
+  - first:
+      213: -2663146549630449229
+    second: Item_Sheet_Necklaces_Angelic_109
+  - first:
+      213: -7924668730496351490
+    second: Item_Sheet_Necklaces_Angelic_110
+  - first:
+      213: -6780738818116816400
+    second: Item_Sheet_Necklaces_Angelic_111
+  - first:
+      213: 2512128491925470364
+    second: Item_Sheet_Necklaces_Angelic_112
+  - first:
+      213: -7831785489925007529
+    second: Item_Sheet_Necklaces_Angelic_113
+  - first:
+      213: 8519823725555065871
+    second: Item_Sheet_Necklaces_Angelic_114
+  - first:
+      213: 2152757744047641056
+    second: Item_Sheet_Necklaces_Angelic_115
+  - first:
+      213: -9104785710826657032
+    second: Item_Sheet_Necklaces_Angelic_116
+  - first:
+      213: -7819035129357259366
+    second: Item_Sheet_Necklaces_Angelic_117
+  - first:
+      213: 2534070612138560192
+    second: Item_Sheet_Necklaces_Angelic_118
+  - first:
+      213: 9129117326629619252
+    second: Item_Sheet_Necklaces_Angelic_119
+  - first:
+      213: -6469571056316720313
+    second: Item_Sheet_Necklaces_Angelic_120
+  - first:
+      213: 1918296503394207638
+    second: Item_Sheet_Necklaces_Angelic_121
+  - first:
+      213: 1904636336042396209
+    second: Item_Sheet_Necklaces_Angelic_122
+  - first:
+      213: -8801648221447827795
+    second: Item_Sheet_Necklaces_Angelic_123
+  - first:
+      213: -7702343535033505261
+    second: Item_Sheet_Necklaces_Angelic_124
+  - first:
+      213: 3450557484030603573
+    second: Item_Sheet_Necklaces_Angelic_125
+  - first:
+      213: -7506182458400638326
+    second: Item_Sheet_Necklaces_Angelic_126
+  - first:
+      213: 6080741055650685824
+    second: Item_Sheet_Necklaces_Angelic_127
+  - first:
+      213: -4326486478833745386
+    second: Item_Sheet_Necklaces_Angelic_128
+  - first:
+      213: -4855108308685975467
+    second: Item_Sheet_Necklaces_Angelic_129
+  - first:
+      213: -797863810883003154
+    second: Item_Sheet_Necklaces_Angelic_130
+  - first:
+      213: -5816070088426927819
+    second: Item_Sheet_Necklaces_Angelic_131
+  - first:
+      213: 5432317697229299792
+    second: Item_Sheet_Necklaces_Angelic_132
+  - first:
+      213: 5967235442389122155
+    second: Item_Sheet_Necklaces_Angelic_133
+  - first:
+      213: -8060351213897848901
+    second: Item_Sheet_Necklaces_Angelic_134
+  - first:
+      213: 5860773440488280810
+    second: Item_Sheet_Necklaces_Angelic_135
+  - first:
+      213: -6036077495548868200
+    second: Item_Sheet_Necklaces_Angelic_136
+  - first:
+      213: 5717471011180082932
+    second: Item_Sheet_Necklaces_Angelic_137
+  - first:
+      213: -6763985563216178358
+    second: Item_Sheet_Necklaces_Angelic_138
+  - first:
+      213: 2281391815364414069
+    second: Item_Sheet_Necklaces_Angelic_139
+  - first:
+      213: 7935109577887047521
+    second: Item_Sheet_Necklaces_Angelic_140
+  - first:
+      213: 747106564667696762
+    second: Item_Sheet_Necklaces_Angelic_141
+  - first:
+      213: -1659594298068687112
+    second: Item_Sheet_Necklaces_Angelic_142
+  - first:
+      213: 725796340659152723
+    second: Item_Sheet_Necklaces_Angelic_143
+  - first:
+      213: 229884686959667395
+    second: Item_Sheet_Necklaces_Angelic_144
+  - first:
+      213: 5856185947911685071
+    second: Item_Sheet_Necklaces_Angelic_145
+  - first:
+      213: -7381357455026121817
+    second: Item_Sheet_Necklaces_Angelic_146
+  - first:
+      213: -2144390824778185228
+    second: Item_Sheet_Necklaces_Angelic_147
+  - first:
+      213: 8063153360181440659
+    second: Item_Sheet_Necklaces_Angelic_148
+  - first:
+      213: 1353885674917760353
+    second: Item_Sheet_Necklaces_Angelic_149
+  - first:
+      213: 7719401402168147868
+    second: Item_Sheet_Necklaces_Angelic_150
+  - first:
+      213: -7259503027581219470
+    second: Item_Sheet_Necklaces_Angelic_151
+  - first:
+      213: 2491689795591921665
+    second: Item_Sheet_Necklaces_Angelic_152
+  - first:
+      213: -441406714788308227
+    second: Item_Sheet_Necklaces_Angelic_153
+  - first:
+      213: -8503475762306566088
+    second: Item_Sheet_Necklaces_Angelic_154
+  - first:
+      213: 7695563685755536556
+    second: Item_Sheet_Necklaces_Angelic_155
+  - first:
+      213: 6615208067563945443
+    second: Item_Sheet_Necklaces_Angelic_156
+  - first:
+      213: 5043642792680584516
+    second: Item_Sheet_Necklaces_Angelic_157
+  - first:
+      213: 3769770380675349068
+    second: Item_Sheet_Necklaces_Angelic_158
+  - first:
+      213: -4055725674045282162
+    second: Item_Sheet_Necklaces_Angelic_159
+  - first:
+      213: -7512190899165223399
+    second: Item_Sheet_Necklaces_Angelic_160
+  - first:
+      213: 1134067705729785975
+    second: Item_Sheet_Necklaces_Angelic_161
+  - first:
+      213: 8444463792153752038
+    second: Item_Sheet_Necklaces_Angelic_162
+  - first:
+      213: 937204571854035825
+    second: Item_Sheet_Necklaces_Angelic_163
+  - first:
+      213: -7691497745321380503
+    second: Item_Sheet_Necklaces_Angelic_164
+  - first:
+      213: 3203617628573914858
+    second: Item_Sheet_Necklaces_Angelic_165
+  - first:
+      213: -4475557324302066545
+    second: Item_Sheet_Necklaces_Angelic_166
+  - first:
+      213: -4240589880581720252
+    second: Item_Sheet_Necklaces_Angelic_167
+  - first:
+      213: 7119421494100317928
+    second: Item_Sheet_Necklaces_Angelic_168
+  - first:
+      213: 3631592654384894174
+    second: Item_Sheet_Necklaces_Angelic_169
+  - first:
+      213: 1422543082478402281
+    second: Item_Sheet_Necklaces_Angelic_170
+  - first:
+      213: -8667167913630886432
+    second: Item_Sheet_Necklaces_Angelic_171
+  - first:
+      213: 5037341778391119201
+    second: Item_Sheet_Necklaces_Angelic_172
+  - first:
+      213: -1721416950971860015
+    second: Item_Sheet_Necklaces_Angelic_173
+  - first:
+      213: 6620536619032399782
+    second: Item_Sheet_Necklaces_Angelic_174
+  - first:
+      213: -5177491201225600471
+    second: Item_Sheet_Necklaces_Angelic_175
+  - first:
+      213: 8763736840895740301
+    second: Item_Sheet_Necklaces_Angelic_176
+  - first:
+      213: 7483008613389578876
+    second: Item_Sheet_Necklaces_Angelic_177
+  - first:
+      213: -8070838453385326396
+    second: Item_Sheet_Necklaces_Angelic_178
+  - first:
+      213: -6236887027243860043
+    second: Item_Sheet_Necklaces_Angelic_179
+  - first:
+      213: 577549314633971494
+    second: Item_Sheet_Necklaces_Angelic_180
+  - first:
+      213: 2932178774721209413
+    second: Item_Sheet_Necklaces_Angelic_181
+  - first:
+      213: 5090195658204028789
+    second: Item_Sheet_Necklaces_Angelic_182
+  - first:
+      213: -3130607432678968728
+    second: Item_Sheet_Necklaces_Angelic_183
+  - first:
+      213: 1345088846052325287
+    second: Item_Sheet_Necklaces_Angelic_184
+  - first:
+      213: 4858042792622709363
+    second: Item_Sheet_Necklaces_Angelic_185
+  - first:
+      213: 6423549281118504553
+    second: Item_Sheet_Necklaces_Angelic_186
+  - first:
+      213: -3535867236933196575
+    second: Item_Sheet_Necklaces_Angelic_187
+  - first:
+      213: 2918019574240359033
+    second: Item_Sheet_Necklaces_Angelic_188
+  - first:
+      213: -2518962173512965566
+    second: Item_Sheet_Necklaces_Angelic_189
+  - first:
+      213: -7019690128421103162
+    second: Item_Sheet_Necklaces_Angelic_190
+  - first:
+      213: -5447051106423743406
+    second: Item_Sheet_Necklaces_Angelic_191
+  - first:
+      213: 8894224596646581192
+    second: Item_Sheet_Necklaces_Angelic_192
+  - first:
+      213: 8022105156195003213
+    second: Item_Sheet_Necklaces_Angelic_193
+  - first:
+      213: -3058867983074811326
+    second: Item_Sheet_Necklaces_Angelic_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1306ed925ab11c0e0800000000000000
+      internalID: -2251487942522544079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2b2ed8b81c52b0800000000000000
+      internalID: -5594569454820577433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d2149f7a549da0800000000000000
+      internalID: -5939022504603233951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cd979669855520800000000000000
+      internalID: 2690207426147107385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939c380e0b082320800000000000000
+      internalID: 2533286945291539350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f95c3eb94b9d60800000000000000
+      internalID: 7897987452929440194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670a2a4836884090800000000000000
+      internalID: -8050036757604202651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c795d246055bcc0800000000000000
+      internalID: -3695959527999832957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1e61f47d9ed690800000000000000
+      internalID: -7575444397598302221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7e14e4986c0b520800000000000000
+      internalID: 2715888868330170351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13781163e6d0c8050800000000000000
+      internalID: 5804028786778408753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163fa418ec621ac0800000000000000
+      internalID: -3885923784432077291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd02c6be377b9f0800000000000000
+      internalID: -452765782558843120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e2065b92a62540800000000000000
+      internalID: 4982848825778693212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3173601992805320800000000000000
+      internalID: 2544677383380889915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d482bddc6eb2e0800000000000000
+      internalID: -2108127876124192316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113970ffa1faaf80800000000000000
+      internalID: -8094391642289000170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256529e557687060800000000000000
+      internalID: 6951419643527783712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792360a3dfd54b570800000000000000
+      internalID: 8481507340427080343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0a74e66fef2170800000000000000
+      internalID: 8156000675390164395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184b58c79cd7fbfe0800000000000000
+      internalID: -1171079073762003839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b309da521a33f0800000000000000
+      internalID: -920402992446588657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eedeaa51cf05420800000000000000
+      internalID: 2616868553494490775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81525ca783c74bf50800000000000000
+      internalID: 6896273511430825240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c083baf1751fb0490800000000000000
+      internalID: -7778858574856636404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc0b34ea537e630800000000000000
+      internalID: 3956189820244512512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5300c718887d900800000000000000
+      internalID: 709185556046689776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5dba84730fad5e0800000000000000
+      internalID: -1883929373868042791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c937ae8011a120800000000000000
+      internalID: 2423236279379019640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6202e2f8c3d3570800000000000000
+      internalID: 8447975061668767467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d200f0607cceac0800000000000000
+      internalID: -3824463154708992677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f56329d5e46f7d0800000000000000
+      internalID: -2885032347492262039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc841825951636d30800000000000000
+      internalID: 4423486295272147149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d627bd2f73a790800000000000000
+      internalID: -7520027118455565117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2efc4c11bf0a88d0800000000000000
+      internalID: -2843442961372611025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47434f0737c1e1b90800000000000000
+      internalID: -7269341466387532684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a587dd008aaef8c0800000000000000
+      internalID: -3963543155074693719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a604f79e5d1e62d0800000000000000
+      internalID: -3283654786193029463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14102bf7776ba30800000000000000
+      internalID: 4230700290292138427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e28f947e23c7a20800000000000000
+      internalID: 3061377815664930377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c964274a9a3a65d0800000000000000
+      internalID: -3068575761806628412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90545143213aada0800000000000000
+      internalID: -5932875531617546083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4fa3bb81abca080800000000000000
+      internalID: -9174753725477358390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813992e7696c36810800000000000000
+      internalID: 1757466629268673304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986168380dcd71500800000000000000
+      internalID: 367004682771895945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f7da0b53fffadc0800000000000000
+      internalID: -3625398568947449996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3613e5408238c0800000000000000
+      internalID: -4021010479637446822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b98930b1056c10800000000000000
+      internalID: 2046043462100956725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64834ad8091c310800000000000000
+      internalID: 1423577895245727439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b44f9c8922f550800000000000000
+      internalID: 6193058121532093989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf10607c0c73f7640800000000000000
+      internalID: 5079840205809517051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229521c4097558de0800000000000000
+      internalID: -1331561837554935518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf418bf2d7e532640800000000000000
+      internalID: 5053987098604344571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003acca4e627350c0800000000000000
+      internalID: -4588197777333509376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87d86f21ad44430800000000000000
+      internalID: 3766374963369310448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabde27d94af00d0800000000000000
+      internalID: -3454361393024877919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381926962730eaa0800000000000000
+      internalID: -6133842053611055054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beee3ad13511b9f0800000000000000
+      internalID: -454558783528571213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf24168b17f50e0800000000000000
+      internalID: -2278977849706480480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76067aa128f67320800000000000000
+      internalID: 2555502662056806011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4520a01bd108ac0800000000000000
+      internalID: -3855048634814802706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dcf72a37882f570800000000000000
+      internalID: 8499005477030448479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a92719723b5d70800000000000000
+      internalID: 9032868973282698230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54bdeda01da46e60800000000000000
+      internalID: 7954673128992257118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf32e150516506480800000000000000
+      internalID: -8908025414658677764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fc80dcaf90d1490800000000000000
+      internalID: -7774046408985227479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441bbac7803d6c80800000000000000
+      internalID: -8327946776158202815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d2cba507d9649a0800000000000000
+      internalID: -6249134327045804732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f94bb04a169fdd0800000000000000
+      internalID: -2451821164927607012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780306df9498357a0800000000000000
+      internalID: -6389612495432044409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfbcd7543b28d660800000000000000
+      internalID: 7410720690650529712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82685e14a114c2330800000000000000
+      internalID: 3687393775940109864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c17fb999ce39a80800000000000000
+      internalID: -8461159130408215394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a704e662d1a84450800000000000000
+      internalID: 6073282022550538152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebc7abe025ffdd0800000000000000
+      internalID: -2450149449054503218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095eb8b99974dd80800000000000000
+      internalID: -8226816918162614013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbde5425fa18d50800000000000000
+      internalID: 6737859285418359641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e1c20aba2f7ff0800000000000000
+      internalID: -36263293597128311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe35ac5f6f93640800000000000000
+      internalID: 5060347191849381719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5ae08734ab91c0800000000000000
+      internalID: -4495819244706309588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941b00f9c4a4a340800000000000000
+      internalID: 4874201883944359064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06e790489bfc380800000000000000
+      internalID: -8948729957815787265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70424203e9a98d470800000000000000
+      internalID: 8419649507572327431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45562a6362500cce0800000000000000
+      internalID: -1387103023546604204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039de74b81e17d780800000000000000
+      internalID: -8658418667140228816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31869b2e5a4515110800000000000000
+      internalID: 1247871643208476691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19afbeb3c07f75170800000000000000
+      internalID: 8167268081176672913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e77873acfd94750800000000000000
+      internalID: 6289804414207622664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92530bbe14541b40800000000000000
+      internalID: 5410041543342117531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c949c300691eb8b0800000000000000
+      internalID: -5134638624984708663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac257ca2231b0a0800000000000000
+      internalID: -6867652797449188749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed573f374c0b080800000000000000
+      internalID: -9173616438668829131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1356f397c5904d0800000000000000
+      internalID: -3167899187054038568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87d4054d5153ce0800000000000000
+      internalID: -1426209705368389432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb89b551662b390800000000000000
+      internalID: -7804062962362565591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448708bc7833df940800000000000000
+      internalID: 5331474192204331076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb1a7efd8895920800000000000000
+      internalID: 2979563123727515519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c093d7ac1864dd970800000000000000
+      internalID: 8781252371704264972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4cdae9cb78b6b0800000000000000
+      internalID: -5280334455932957515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c3a7ce1ace7630800000000000000
+      internalID: 3926798158660880137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96bf94e80586210800000000000000
+      internalID: 1326398662317402592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30f3ffd9cc2a9f0800000000000000
+      internalID: -458579233074117707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45324faaa2f81b880800000000000000
+      internalID: -8596932800254041260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141633f68c5cf4240800000000000000
+      internalID: 4778255194313154881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863b58e66b961490800000000000000
+      internalID: -7775856840321321336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6cdff3d43ff7370800000000000000
+      internalID: 8322638149515593389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afda5c768f0d850800000000000000
+      internalID: 6399888195075308090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cf69dde732c23a0800000000000000
+      internalID: -6688932318761518002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad9d33a21390e40800000000000000
+      internalID: 5623079667077077570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94874b25a9a0bd0800000000000000
+      internalID: -2663146549630449229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28e1cb6cbe50290800000000000000
+      internalID: -7924668730496351490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f17788f9f5e1a0800000000000000
+      internalID: -6780738818116816400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cfa57bd8fdcd220800000000000000
+      internalID: 2512128491925470364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75716fb6798ef4390800000000000000
+      internalID: -7831785489925007529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a7a6d98e7c3670800000000000000
+      internalID: 8519823725555065871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15e6d23c120ed10800000000000000
+      internalID: 2152757744047641056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faef1e92ad45a180800000000000000
+      internalID: -9104785710826657032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d2c541af43d7390800000000000000
+      internalID: -7819035129357259366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8640bbc3da2320800000000000000
+      internalID: 2534070612138560192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364f9627d321be70800000000000000
+      internalID: 9129117326629619252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd71bc6677736a0800000000000000
+      internalID: -6469571056316720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978faa91882f9a10800000000000000
+      internalID: 1918296503394207638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13acb1c08a0ae6a10800000000000000
+      internalID: 1904636336042396209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae47a263934ad580800000000000000
+      internalID: -8801648221447827795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2d481d57cb1590800000000000000
+      internalID: -7702343535033505261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b5b8ffb7d2ef20800000000000000
+      internalID: 3450557484030603573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af2c3d2dea4d790800000000000000
+      internalID: -7506182458400638326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836131e5c1236450800000000000000
+      internalID: 6080741055650685824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612859f587b35f3c0800000000000000
+      internalID: -4326486478833745386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55099ba77b03f9cb0800000000000000
+      internalID: -4855108308685975467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecdd2d571b6de4f0800000000000000
+      internalID: -797863810883003154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c986c11b294fa0800000000000000
+      internalID: -5816070088426927819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ab6af928736b40800000000000000
+      internalID: 5432317697229299792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c79b2e401efc250800000000000000
+      internalID: 5967235442389122155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7eabac641e32090800000000000000
+      internalID: -8060351213897848901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae219557466a55150800000000000000
+      internalID: 5860773440488280810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89984119f7b8b3ca0800000000000000
+      internalID: -6036077495548868200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f67bfa9799885f40800000000000000
+      internalID: 5717471011180082932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4311a6a7fe7122a0800000000000000
+      internalID: -6763985563216178358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a874cc4c129af10800000000000000
+      internalID: 2281391815364414069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd1cb7e1c2f1e60800000000000000
+      internalID: 7935109577887047521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76616456714e5a00800000000000000
+      internalID: 747106564667696762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62a5067cfe7f8e0800000000000000
+      internalID: -1659594298068687112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35764482deb821a00800000000000000
+      internalID: 725796340659152723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c86881a7e6b03300800000000000000
+      internalID: 229884686959667395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc309eb971a554150800000000000000
+      internalID: 5856185947911685071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39cf4b086209990800000000000000
+      internalID: -7381357455026121817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f54d7508e79d32e0800000000000000
+      internalID: -2144390824778185228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390bc1bb24316ef60800000000000000
+      internalID: 8063153360181440659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d86ff19d7f9c210800000000000000
+      internalID: 1353885674917760353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f72e61da2d02b60800000000000000
+      internalID: 7719401402168147868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d062b7570114b90800000000000000
+      internalID: -7259503027581219470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e8b4eaa2449220800000000000000
+      internalID: 2491689795591921665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa129b7eeecfd9f0800000000000000
+      internalID: -441406714788308227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838b297f8d59df980800000000000000
+      internalID: -8503475762306566088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4cadb36622cca60800000000000000
+      internalID: 7695563685755536556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed727640b0fdcb50800000000000000
+      internalID: 6615208067563945443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4457fa7c56e9ef540800000000000000
+      internalID: 5043642792680584516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a71f8203ae05430800000000000000
+      internalID: 3769770380675349068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886914dcfa27b7c0800000000000000
+      internalID: -4055725674045282162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a552bd265fb790800000000000000
+      internalID: -7512190899165223399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770244fd1940dbf00800000000000000
+      internalID: 1134067705729785975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f8f90413c03570800000000000000
+      internalID: 8444463792153752038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5b33b79e910d00800000000000000
+      internalID: 937204571854035825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b66b4d8f424590800000000000000
+      internalID: -7691497745321380503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d35b7249857c20800000000000000
+      internalID: 3203617628573914858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd3197350a3e1c0800000000000000
+      internalID: -4475557324302066545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477fc1a8f56625c0800000000000000
+      internalID: -4240589880581720252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6512ae0244dc260800000000000000
+      internalID: 7119421494100317928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed097853742066230800000000000000
+      internalID: 3631592654384894174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea70d48563edb310800000000000000
+      internalID: 1422543082478402281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51e5304b808b780800000000000000
+      internalID: -8667167913630886432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165bc3198ab38e540800000000000000
+      internalID: 5037341778391119201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7cfe476c4c18e0800000000000000
+      internalID: -1721416950971860015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af44e75afed0eb50800000000000000
+      internalID: 6620536619032399782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922dc3b1f2bd528b0800000000000000
+      internalID: -5177491201225600471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89389a793c0f9970800000000000000
+      internalID: 8763736840895740301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72364cefacf8d760800000000000000
+      internalID: 7483008613389578876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09762103f9eff80800000000000000
+      internalID: -8070838453385326396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf33ec0b402279a0800000000000000
+      internalID: -6236887027243860043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627370baa0ed30800800000000000000
+      internalID: 577549314633971494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a23d6f0131b820800000000000000
+      internalID: 2932178774721209413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9c7c6bf104a640800000000000000
+      internalID: 5090195658204028789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f8fb6029dd84d0800000000000000
+      internalID: -3130607432678968728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7f94ccd27baa210800000000000000
+      internalID: 1345088846052325287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5ced4e2c3b6340800000000000000
+      internalID: 4858042792622709363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c84aa908052950800000000000000
+      internalID: 6423549281118504553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4a7a95b731eeec0800000000000000
+      internalID: -3535867236933196575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972bb3aa753ee7820800000000000000
+      internalID: 2918019574240359033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422d1dcf39da0dd0800000000000000
+      internalID: -2518962173512965566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d426250d059e90800000000000000
+      internalID: -7019690128421103162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd630e0ef2864b0800000000000000
+      internalID: -5447051106423743406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c359a3a522ae6b70800000000000000
+      internalID: 8894224596646581192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b25d9f22e345f60800000000000000
+      internalID: 8022105156195003213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Angelic_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a206a6c7bc85d0800000000000000
+      internalID: -3058867983074811326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Angelic_0: -2251487942522544079
+      Item_Sheet_Necklaces_Angelic_1: -5594569454820577433
+      Item_Sheet_Necklaces_Angelic_10: 5804028786778408753
+      Item_Sheet_Necklaces_Angelic_100: 1326398662317402592
+      Item_Sheet_Necklaces_Angelic_101: -458579233074117707
+      Item_Sheet_Necklaces_Angelic_102: -8596932800254041260
+      Item_Sheet_Necklaces_Angelic_103: 4778255194313154881
+      Item_Sheet_Necklaces_Angelic_104: -7775856840321321336
+      Item_Sheet_Necklaces_Angelic_105: 8322638149515593389
+      Item_Sheet_Necklaces_Angelic_106: 6399888195075308090
+      Item_Sheet_Necklaces_Angelic_107: -6688932318761518002
+      Item_Sheet_Necklaces_Angelic_108: 5623079667077077570
+      Item_Sheet_Necklaces_Angelic_109: -2663146549630449229
+      Item_Sheet_Necklaces_Angelic_11: -3885923784432077291
+      Item_Sheet_Necklaces_Angelic_110: -7924668730496351490
+      Item_Sheet_Necklaces_Angelic_111: -6780738818116816400
+      Item_Sheet_Necklaces_Angelic_112: 2512128491925470364
+      Item_Sheet_Necklaces_Angelic_113: -7831785489925007529
+      Item_Sheet_Necklaces_Angelic_114: 8519823725555065871
+      Item_Sheet_Necklaces_Angelic_115: 2152757744047641056
+      Item_Sheet_Necklaces_Angelic_116: -9104785710826657032
+      Item_Sheet_Necklaces_Angelic_117: -7819035129357259366
+      Item_Sheet_Necklaces_Angelic_118: 2534070612138560192
+      Item_Sheet_Necklaces_Angelic_119: 9129117326629619252
+      Item_Sheet_Necklaces_Angelic_12: -452765782558843120
+      Item_Sheet_Necklaces_Angelic_120: -6469571056316720313
+      Item_Sheet_Necklaces_Angelic_121: 1918296503394207638
+      Item_Sheet_Necklaces_Angelic_122: 1904636336042396209
+      Item_Sheet_Necklaces_Angelic_123: -8801648221447827795
+      Item_Sheet_Necklaces_Angelic_124: -7702343535033505261
+      Item_Sheet_Necklaces_Angelic_125: 3450557484030603573
+      Item_Sheet_Necklaces_Angelic_126: -7506182458400638326
+      Item_Sheet_Necklaces_Angelic_127: 6080741055650685824
+      Item_Sheet_Necklaces_Angelic_128: -4326486478833745386
+      Item_Sheet_Necklaces_Angelic_129: -4855108308685975467
+      Item_Sheet_Necklaces_Angelic_13: 4982848825778693212
+      Item_Sheet_Necklaces_Angelic_130: -797863810883003154
+      Item_Sheet_Necklaces_Angelic_131: -5816070088426927819
+      Item_Sheet_Necklaces_Angelic_132: 5432317697229299792
+      Item_Sheet_Necklaces_Angelic_133: 5967235442389122155
+      Item_Sheet_Necklaces_Angelic_134: -8060351213897848901
+      Item_Sheet_Necklaces_Angelic_135: 5860773440488280810
+      Item_Sheet_Necklaces_Angelic_136: -6036077495548868200
+      Item_Sheet_Necklaces_Angelic_137: 5717471011180082932
+      Item_Sheet_Necklaces_Angelic_138: -6763985563216178358
+      Item_Sheet_Necklaces_Angelic_139: 2281391815364414069
+      Item_Sheet_Necklaces_Angelic_14: 2544677383380889915
+      Item_Sheet_Necklaces_Angelic_140: 7935109577887047521
+      Item_Sheet_Necklaces_Angelic_141: 747106564667696762
+      Item_Sheet_Necklaces_Angelic_142: -1659594298068687112
+      Item_Sheet_Necklaces_Angelic_143: 725796340659152723
+      Item_Sheet_Necklaces_Angelic_144: 229884686959667395
+      Item_Sheet_Necklaces_Angelic_145: 5856185947911685071
+      Item_Sheet_Necklaces_Angelic_146: -7381357455026121817
+      Item_Sheet_Necklaces_Angelic_147: -2144390824778185228
+      Item_Sheet_Necklaces_Angelic_148: 8063153360181440659
+      Item_Sheet_Necklaces_Angelic_149: 1353885674917760353
+      Item_Sheet_Necklaces_Angelic_15: -2108127876124192316
+      Item_Sheet_Necklaces_Angelic_150: 7719401402168147868
+      Item_Sheet_Necklaces_Angelic_151: -7259503027581219470
+      Item_Sheet_Necklaces_Angelic_152: 2491689795591921665
+      Item_Sheet_Necklaces_Angelic_153: -441406714788308227
+      Item_Sheet_Necklaces_Angelic_154: -8503475762306566088
+      Item_Sheet_Necklaces_Angelic_155: 7695563685755536556
+      Item_Sheet_Necklaces_Angelic_156: 6615208067563945443
+      Item_Sheet_Necklaces_Angelic_157: 5043642792680584516
+      Item_Sheet_Necklaces_Angelic_158: 3769770380675349068
+      Item_Sheet_Necklaces_Angelic_159: -4055725674045282162
+      Item_Sheet_Necklaces_Angelic_16: -8094391642289000170
+      Item_Sheet_Necklaces_Angelic_160: -7512190899165223399
+      Item_Sheet_Necklaces_Angelic_161: 1134067705729785975
+      Item_Sheet_Necklaces_Angelic_162: 8444463792153752038
+      Item_Sheet_Necklaces_Angelic_163: 937204571854035825
+      Item_Sheet_Necklaces_Angelic_164: -7691497745321380503
+      Item_Sheet_Necklaces_Angelic_165: 3203617628573914858
+      Item_Sheet_Necklaces_Angelic_166: -4475557324302066545
+      Item_Sheet_Necklaces_Angelic_167: -4240589880581720252
+      Item_Sheet_Necklaces_Angelic_168: 7119421494100317928
+      Item_Sheet_Necklaces_Angelic_169: 3631592654384894174
+      Item_Sheet_Necklaces_Angelic_17: 6951419643527783712
+      Item_Sheet_Necklaces_Angelic_170: 1422543082478402281
+      Item_Sheet_Necklaces_Angelic_171: -8667167913630886432
+      Item_Sheet_Necklaces_Angelic_172: 5037341778391119201
+      Item_Sheet_Necklaces_Angelic_173: -1721416950971860015
+      Item_Sheet_Necklaces_Angelic_174: 6620536619032399782
+      Item_Sheet_Necklaces_Angelic_175: -5177491201225600471
+      Item_Sheet_Necklaces_Angelic_176: 8763736840895740301
+      Item_Sheet_Necklaces_Angelic_177: 7483008613389578876
+      Item_Sheet_Necklaces_Angelic_178: -8070838453385326396
+      Item_Sheet_Necklaces_Angelic_179: -6236887027243860043
+      Item_Sheet_Necklaces_Angelic_18: 8481507340427080343
+      Item_Sheet_Necklaces_Angelic_180: 577549314633971494
+      Item_Sheet_Necklaces_Angelic_181: 2932178774721209413
+      Item_Sheet_Necklaces_Angelic_182: 5090195658204028789
+      Item_Sheet_Necklaces_Angelic_183: -3130607432678968728
+      Item_Sheet_Necklaces_Angelic_184: 1345088846052325287
+      Item_Sheet_Necklaces_Angelic_185: 4858042792622709363
+      Item_Sheet_Necklaces_Angelic_186: 6423549281118504553
+      Item_Sheet_Necklaces_Angelic_187: -3535867236933196575
+      Item_Sheet_Necklaces_Angelic_188: 2918019574240359033
+      Item_Sheet_Necklaces_Angelic_189: -2518962173512965566
+      Item_Sheet_Necklaces_Angelic_19: 8156000675390164395
+      Item_Sheet_Necklaces_Angelic_190: -7019690128421103162
+      Item_Sheet_Necklaces_Angelic_191: -5447051106423743406
+      Item_Sheet_Necklaces_Angelic_192: 8894224596646581192
+      Item_Sheet_Necklaces_Angelic_193: 8022105156195003213
+      Item_Sheet_Necklaces_Angelic_194: -3058867983074811326
+      Item_Sheet_Necklaces_Angelic_2: -5939022504603233951
+      Item_Sheet_Necklaces_Angelic_20: -1171079073762003839
+      Item_Sheet_Necklaces_Angelic_21: -920402992446588657
+      Item_Sheet_Necklaces_Angelic_22: 2616868553494490775
+      Item_Sheet_Necklaces_Angelic_23: 6896273511430825240
+      Item_Sheet_Necklaces_Angelic_24: -7778858574856636404
+      Item_Sheet_Necklaces_Angelic_25: 3956189820244512512
+      Item_Sheet_Necklaces_Angelic_26: 709185556046689776
+      Item_Sheet_Necklaces_Angelic_27: -1883929373868042791
+      Item_Sheet_Necklaces_Angelic_28: 2423236279379019640
+      Item_Sheet_Necklaces_Angelic_29: 8447975061668767467
+      Item_Sheet_Necklaces_Angelic_3: 2690207426147107385
+      Item_Sheet_Necklaces_Angelic_30: -3824463154708992677
+      Item_Sheet_Necklaces_Angelic_31: -2885032347492262039
+      Item_Sheet_Necklaces_Angelic_32: 4423486295272147149
+      Item_Sheet_Necklaces_Angelic_33: -7520027118455565117
+      Item_Sheet_Necklaces_Angelic_34: -2843442961372611025
+      Item_Sheet_Necklaces_Angelic_35: -7269341466387532684
+      Item_Sheet_Necklaces_Angelic_36: -3963543155074693719
+      Item_Sheet_Necklaces_Angelic_37: -3283654786193029463
+      Item_Sheet_Necklaces_Angelic_38: 4230700290292138427
+      Item_Sheet_Necklaces_Angelic_39: 3061377815664930377
+      Item_Sheet_Necklaces_Angelic_4: 2533286945291539350
+      Item_Sheet_Necklaces_Angelic_40: -3068575761806628412
+      Item_Sheet_Necklaces_Angelic_41: -5932875531617546083
+      Item_Sheet_Necklaces_Angelic_42: -9174753725477358390
+      Item_Sheet_Necklaces_Angelic_43: 1757466629268673304
+      Item_Sheet_Necklaces_Angelic_44: 367004682771895945
+      Item_Sheet_Necklaces_Angelic_45: -3625398568947449996
+      Item_Sheet_Necklaces_Angelic_46: -4021010479637446822
+      Item_Sheet_Necklaces_Angelic_47: 2046043462100956725
+      Item_Sheet_Necklaces_Angelic_48: 1423577895245727439
+      Item_Sheet_Necklaces_Angelic_49: 6193058121532093989
+      Item_Sheet_Necklaces_Angelic_5: 7897987452929440194
+      Item_Sheet_Necklaces_Angelic_50: 5079840205809517051
+      Item_Sheet_Necklaces_Angelic_51: -1331561837554935518
+      Item_Sheet_Necklaces_Angelic_52: 5053987098604344571
+      Item_Sheet_Necklaces_Angelic_53: -4588197777333509376
+      Item_Sheet_Necklaces_Angelic_54: 3766374963369310448
+      Item_Sheet_Necklaces_Angelic_55: -3454361393024877919
+      Item_Sheet_Necklaces_Angelic_56: -6133842053611055054
+      Item_Sheet_Necklaces_Angelic_57: -454558783528571213
+      Item_Sheet_Necklaces_Angelic_58: -2278977849706480480
+      Item_Sheet_Necklaces_Angelic_59: 2555502662056806011
+      Item_Sheet_Necklaces_Angelic_6: -8050036757604202651
+      Item_Sheet_Necklaces_Angelic_60: -3855048634814802706
+      Item_Sheet_Necklaces_Angelic_61: 8499005477030448479
+      Item_Sheet_Necklaces_Angelic_62: 9032868973282698230
+      Item_Sheet_Necklaces_Angelic_63: 7954673128992257118
+      Item_Sheet_Necklaces_Angelic_64: -8908025414658677764
+      Item_Sheet_Necklaces_Angelic_65: -7774046408985227479
+      Item_Sheet_Necklaces_Angelic_66: -8327946776158202815
+      Item_Sheet_Necklaces_Angelic_67: -6249134327045804732
+      Item_Sheet_Necklaces_Angelic_68: -2451821164927607012
+      Item_Sheet_Necklaces_Angelic_69: -6389612495432044409
+      Item_Sheet_Necklaces_Angelic_7: -3695959527999832957
+      Item_Sheet_Necklaces_Angelic_70: 7410720690650529712
+      Item_Sheet_Necklaces_Angelic_71: 3687393775940109864
+      Item_Sheet_Necklaces_Angelic_72: -8461159130408215394
+      Item_Sheet_Necklaces_Angelic_73: 6073282022550538152
+      Item_Sheet_Necklaces_Angelic_74: -2450149449054503218
+      Item_Sheet_Necklaces_Angelic_75: -8226816918162614013
+      Item_Sheet_Necklaces_Angelic_76: 6737859285418359641
+      Item_Sheet_Necklaces_Angelic_77: -36263293597128311
+      Item_Sheet_Necklaces_Angelic_78: 5060347191849381719
+      Item_Sheet_Necklaces_Angelic_79: -4495819244706309588
+      Item_Sheet_Necklaces_Angelic_8: -7575444397598302221
+      Item_Sheet_Necklaces_Angelic_80: 4874201883944359064
+      Item_Sheet_Necklaces_Angelic_81: -8948729957815787265
+      Item_Sheet_Necklaces_Angelic_82: 8419649507572327431
+      Item_Sheet_Necklaces_Angelic_83: -1387103023546604204
+      Item_Sheet_Necklaces_Angelic_84: -8658418667140228816
+      Item_Sheet_Necklaces_Angelic_85: 1247871643208476691
+      Item_Sheet_Necklaces_Angelic_86: 8167268081176672913
+      Item_Sheet_Necklaces_Angelic_87: 6289804414207622664
+      Item_Sheet_Necklaces_Angelic_88: 5410041543342117531
+      Item_Sheet_Necklaces_Angelic_89: -5134638624984708663
+      Item_Sheet_Necklaces_Angelic_9: 2715888868330170351
+      Item_Sheet_Necklaces_Angelic_90: -6867652797449188749
+      Item_Sheet_Necklaces_Angelic_91: -9173616438668829131
+      Item_Sheet_Necklaces_Angelic_92: -3167899187054038568
+      Item_Sheet_Necklaces_Angelic_93: -1426209705368389432
+      Item_Sheet_Necklaces_Angelic_94: -7804062962362565591
+      Item_Sheet_Necklaces_Angelic_95: 5331474192204331076
+      Item_Sheet_Necklaces_Angelic_96: 2979563123727515519
+      Item_Sheet_Necklaces_Angelic_97: 8781252371704264972
+      Item_Sheet_Necklaces_Angelic_98: -5280334455932957515
+      Item_Sheet_Necklaces_Angelic_99: 3926798158660880137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

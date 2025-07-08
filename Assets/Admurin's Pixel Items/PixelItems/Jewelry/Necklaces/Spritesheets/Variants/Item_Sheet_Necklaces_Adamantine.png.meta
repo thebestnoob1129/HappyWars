@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: 8ad12fd8e479d3247b7bc5f5d8b246a5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Adamantine.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -194559792649223629
+    second: Item_Sheet_Necklaces_Adamantine_0
+  - first:
+      213: 1179311323294180930
+    second: Item_Sheet_Necklaces_Adamantine_1
+  - first:
+      213: 3704051071621916699
+    second: Item_Sheet_Necklaces_Adamantine_2
+  - first:
+      213: 7697425596321452140
+    second: Item_Sheet_Necklaces_Adamantine_3
+  - first:
+      213: 4408405063930567986
+    second: Item_Sheet_Necklaces_Adamantine_4
+  - first:
+      213: -6753266312289285989
+    second: Item_Sheet_Necklaces_Adamantine_5
+  - first:
+      213: -6815898020325689632
+    second: Item_Sheet_Necklaces_Adamantine_6
+  - first:
+      213: 3611733349269576043
+    second: Item_Sheet_Necklaces_Adamantine_7
+  - first:
+      213: -7407360292948935622
+    second: Item_Sheet_Necklaces_Adamantine_8
+  - first:
+      213: -3932278335446242498
+    second: Item_Sheet_Necklaces_Adamantine_9
+  - first:
+      213: -7736185627856267058
+    second: Item_Sheet_Necklaces_Adamantine_10
+  - first:
+      213: 1929792741237068192
+    second: Item_Sheet_Necklaces_Adamantine_11
+  - first:
+      213: 9015252995959043819
+    second: Item_Sheet_Necklaces_Adamantine_12
+  - first:
+      213: -4171238837069174310
+    second: Item_Sheet_Necklaces_Adamantine_13
+  - first:
+      213: 3882130540147306920
+    second: Item_Sheet_Necklaces_Adamantine_14
+  - first:
+      213: 5934648550085838852
+    second: Item_Sheet_Necklaces_Adamantine_15
+  - first:
+      213: -1762785922346107440
+    second: Item_Sheet_Necklaces_Adamantine_16
+  - first:
+      213: -5614532168394285561
+    second: Item_Sheet_Necklaces_Adamantine_17
+  - first:
+      213: 1991357504444380865
+    second: Item_Sheet_Necklaces_Adamantine_18
+  - first:
+      213: 2712167065482783882
+    second: Item_Sheet_Necklaces_Adamantine_19
+  - first:
+      213: -5317623762025552460
+    second: Item_Sheet_Necklaces_Adamantine_20
+  - first:
+      213: 3955323637575046852
+    second: Item_Sheet_Necklaces_Adamantine_21
+  - first:
+      213: 2837305519088681338
+    second: Item_Sheet_Necklaces_Adamantine_22
+  - first:
+      213: -139940122186239845
+    second: Item_Sheet_Necklaces_Adamantine_23
+  - first:
+      213: 5144112735217593537
+    second: Item_Sheet_Necklaces_Adamantine_24
+  - first:
+      213: 3088220018534136827
+    second: Item_Sheet_Necklaces_Adamantine_25
+  - first:
+      213: -6189798792723042983
+    second: Item_Sheet_Necklaces_Adamantine_26
+  - first:
+      213: -3342365752114372830
+    second: Item_Sheet_Necklaces_Adamantine_27
+  - first:
+      213: -2845035402851114431
+    second: Item_Sheet_Necklaces_Adamantine_28
+  - first:
+      213: 5531285791058588133
+    second: Item_Sheet_Necklaces_Adamantine_29
+  - first:
+      213: -8769016418757111228
+    second: Item_Sheet_Necklaces_Adamantine_30
+  - first:
+      213: -2763116465669334869
+    second: Item_Sheet_Necklaces_Adamantine_31
+  - first:
+      213: 8372067741875201251
+    second: Item_Sheet_Necklaces_Adamantine_32
+  - first:
+      213: 3013618198067233260
+    second: Item_Sheet_Necklaces_Adamantine_33
+  - first:
+      213: -9013310404579091696
+    second: Item_Sheet_Necklaces_Adamantine_34
+  - first:
+      213: -3547326185977429445
+    second: Item_Sheet_Necklaces_Adamantine_35
+  - first:
+      213: 3767227218470572164
+    second: Item_Sheet_Necklaces_Adamantine_36
+  - first:
+      213: -3974394699219579070
+    second: Item_Sheet_Necklaces_Adamantine_37
+  - first:
+      213: 4529582865699966859
+    second: Item_Sheet_Necklaces_Adamantine_38
+  - first:
+      213: -3055593351174639983
+    second: Item_Sheet_Necklaces_Adamantine_39
+  - first:
+      213: 1917451482566709441
+    second: Item_Sheet_Necklaces_Adamantine_40
+  - first:
+      213: -6207955781463317530
+    second: Item_Sheet_Necklaces_Adamantine_41
+  - first:
+      213: 6159142590136709507
+    second: Item_Sheet_Necklaces_Adamantine_42
+  - first:
+      213: -237233899577566352
+    second: Item_Sheet_Necklaces_Adamantine_43
+  - first:
+      213: -219950207755499132
+    second: Item_Sheet_Necklaces_Adamantine_44
+  - first:
+      213: 43632990319020222
+    second: Item_Sheet_Necklaces_Adamantine_45
+  - first:
+      213: 1716461001607488071
+    second: Item_Sheet_Necklaces_Adamantine_46
+  - first:
+      213: 4065842304376244409
+    second: Item_Sheet_Necklaces_Adamantine_47
+  - first:
+      213: -379032544986409769
+    second: Item_Sheet_Necklaces_Adamantine_48
+  - first:
+      213: 5223236924119041335
+    second: Item_Sheet_Necklaces_Adamantine_49
+  - first:
+      213: 8749642729167218993
+    second: Item_Sheet_Necklaces_Adamantine_50
+  - first:
+      213: 8215879905933704175
+    second: Item_Sheet_Necklaces_Adamantine_51
+  - first:
+      213: -9114065678836394607
+    second: Item_Sheet_Necklaces_Adamantine_52
+  - first:
+      213: 4923964557204031383
+    second: Item_Sheet_Necklaces_Adamantine_53
+  - first:
+      213: 1220885428220241012
+    second: Item_Sheet_Necklaces_Adamantine_54
+  - first:
+      213: -3339367701739528275
+    second: Item_Sheet_Necklaces_Adamantine_55
+  - first:
+      213: -6855304208200794311
+    second: Item_Sheet_Necklaces_Adamantine_56
+  - first:
+      213: 1806351826465800971
+    second: Item_Sheet_Necklaces_Adamantine_57
+  - first:
+      213: 7381547249782247040
+    second: Item_Sheet_Necklaces_Adamantine_58
+  - first:
+      213: 3245697455235567904
+    second: Item_Sheet_Necklaces_Adamantine_59
+  - first:
+      213: -3972476414611415543
+    second: Item_Sheet_Necklaces_Adamantine_60
+  - first:
+      213: 6865970911230833754
+    second: Item_Sheet_Necklaces_Adamantine_61
+  - first:
+      213: -4618678591888863277
+    second: Item_Sheet_Necklaces_Adamantine_62
+  - first:
+      213: -8065117418016012450
+    second: Item_Sheet_Necklaces_Adamantine_63
+  - first:
+      213: 3876023471192801385
+    second: Item_Sheet_Necklaces_Adamantine_64
+  - first:
+      213: -255358059809986457
+    second: Item_Sheet_Necklaces_Adamantine_65
+  - first:
+      213: -6587793466070332565
+    second: Item_Sheet_Necklaces_Adamantine_66
+  - first:
+      213: -7454313747034687402
+    second: Item_Sheet_Necklaces_Adamantine_67
+  - first:
+      213: -8355102942558779931
+    second: Item_Sheet_Necklaces_Adamantine_68
+  - first:
+      213: 8593910286376076521
+    second: Item_Sheet_Necklaces_Adamantine_69
+  - first:
+      213: 3558288387407150437
+    second: Item_Sheet_Necklaces_Adamantine_70
+  - first:
+      213: -1632419512420216835
+    second: Item_Sheet_Necklaces_Adamantine_71
+  - first:
+      213: -1531868560376061590
+    second: Item_Sheet_Necklaces_Adamantine_72
+  - first:
+      213: -8850624129200061554
+    second: Item_Sheet_Necklaces_Adamantine_73
+  - first:
+      213: 4671999874260132348
+    second: Item_Sheet_Necklaces_Adamantine_74
+  - first:
+      213: -9197601505732634400
+    second: Item_Sheet_Necklaces_Adamantine_75
+  - first:
+      213: -545485125306124822
+    second: Item_Sheet_Necklaces_Adamantine_76
+  - first:
+      213: 7717773776525206226
+    second: Item_Sheet_Necklaces_Adamantine_77
+  - first:
+      213: 7982736547063347012
+    second: Item_Sheet_Necklaces_Adamantine_78
+  - first:
+      213: -5414494717184990907
+    second: Item_Sheet_Necklaces_Adamantine_79
+  - first:
+      213: 3223227315745515001
+    second: Item_Sheet_Necklaces_Adamantine_80
+  - first:
+      213: -4837816435620887332
+    second: Item_Sheet_Necklaces_Adamantine_81
+  - first:
+      213: 8085349835634895584
+    second: Item_Sheet_Necklaces_Adamantine_82
+  - first:
+      213: -5215698620868000093
+    second: Item_Sheet_Necklaces_Adamantine_83
+  - first:
+      213: -2337365913735337988
+    second: Item_Sheet_Necklaces_Adamantine_84
+  - first:
+      213: -4152626649205316590
+    second: Item_Sheet_Necklaces_Adamantine_85
+  - first:
+      213: -8209445253439198768
+    second: Item_Sheet_Necklaces_Adamantine_86
+  - first:
+      213: 5216979574508074716
+    second: Item_Sheet_Necklaces_Adamantine_87
+  - first:
+      213: -1957888569551871004
+    second: Item_Sheet_Necklaces_Adamantine_88
+  - first:
+      213: -2699459056045512584
+    second: Item_Sheet_Necklaces_Adamantine_89
+  - first:
+      213: 7635707813903201798
+    second: Item_Sheet_Necklaces_Adamantine_90
+  - first:
+      213: -4686271454857995709
+    second: Item_Sheet_Necklaces_Adamantine_91
+  - first:
+      213: 6670963789208649908
+    second: Item_Sheet_Necklaces_Adamantine_92
+  - first:
+      213: -2189307127204625685
+    second: Item_Sheet_Necklaces_Adamantine_93
+  - first:
+      213: 3050671825606014861
+    second: Item_Sheet_Necklaces_Adamantine_94
+  - first:
+      213: 754837308262450275
+    second: Item_Sheet_Necklaces_Adamantine_95
+  - first:
+      213: 8247202990591596212
+    second: Item_Sheet_Necklaces_Adamantine_96
+  - first:
+      213: 4040699880620472730
+    second: Item_Sheet_Necklaces_Adamantine_97
+  - first:
+      213: -7246509296420535606
+    second: Item_Sheet_Necklaces_Adamantine_98
+  - first:
+      213: -8704059390778273613
+    second: Item_Sheet_Necklaces_Adamantine_99
+  - first:
+      213: 3315539950363788722
+    second: Item_Sheet_Necklaces_Adamantine_100
+  - first:
+      213: 2596695637917807847
+    second: Item_Sheet_Necklaces_Adamantine_101
+  - first:
+      213: 2651062920856747143
+    second: Item_Sheet_Necklaces_Adamantine_102
+  - first:
+      213: -6595074780983935785
+    second: Item_Sheet_Necklaces_Adamantine_103
+  - first:
+      213: -8122522210197086041
+    second: Item_Sheet_Necklaces_Adamantine_104
+  - first:
+      213: 6979515524623083362
+    second: Item_Sheet_Necklaces_Adamantine_105
+  - first:
+      213: 1368106974694040382
+    second: Item_Sheet_Necklaces_Adamantine_106
+  - first:
+      213: 112919532639267843
+    second: Item_Sheet_Necklaces_Adamantine_107
+  - first:
+      213: -484505157039641297
+    second: Item_Sheet_Necklaces_Adamantine_108
+  - first:
+      213: 6534725597941864660
+    second: Item_Sheet_Necklaces_Adamantine_109
+  - first:
+      213: -2969638934212684623
+    second: Item_Sheet_Necklaces_Adamantine_110
+  - first:
+      213: -5178328728302981906
+    second: Item_Sheet_Necklaces_Adamantine_111
+  - first:
+      213: -9217748404863373005
+    second: Item_Sheet_Necklaces_Adamantine_112
+  - first:
+      213: 3501399315275496624
+    second: Item_Sheet_Necklaces_Adamantine_113
+  - first:
+      213: 2594931642020770496
+    second: Item_Sheet_Necklaces_Adamantine_114
+  - first:
+      213: -3446891903570273776
+    second: Item_Sheet_Necklaces_Adamantine_115
+  - first:
+      213: -4445329681325464702
+    second: Item_Sheet_Necklaces_Adamantine_116
+  - first:
+      213: -2940517492909227145
+    second: Item_Sheet_Necklaces_Adamantine_117
+  - first:
+      213: -2830705475202834516
+    second: Item_Sheet_Necklaces_Adamantine_118
+  - first:
+      213: -1915157506889201355
+    second: Item_Sheet_Necklaces_Adamantine_119
+  - first:
+      213: 7682903222690346498
+    second: Item_Sheet_Necklaces_Adamantine_120
+  - first:
+      213: 7251900695571000610
+    second: Item_Sheet_Necklaces_Adamantine_121
+  - first:
+      213: 2503283615478828387
+    second: Item_Sheet_Necklaces_Adamantine_122
+  - first:
+      213: 8767420814749698909
+    second: Item_Sheet_Necklaces_Adamantine_123
+  - first:
+      213: 5168070237275066433
+    second: Item_Sheet_Necklaces_Adamantine_124
+  - first:
+      213: -8072236995741449451
+    second: Item_Sheet_Necklaces_Adamantine_125
+  - first:
+      213: -2976388234655694541
+    second: Item_Sheet_Necklaces_Adamantine_126
+  - first:
+      213: 5318397591049651007
+    second: Item_Sheet_Necklaces_Adamantine_127
+  - first:
+      213: 7515903993200728649
+    second: Item_Sheet_Necklaces_Adamantine_128
+  - first:
+      213: -3422631201761792746
+    second: Item_Sheet_Necklaces_Adamantine_129
+  - first:
+      213: 6245860084250252889
+    second: Item_Sheet_Necklaces_Adamantine_130
+  - first:
+      213: -6878028886546996733
+    second: Item_Sheet_Necklaces_Adamantine_131
+  - first:
+      213: -1955264284176349791
+    second: Item_Sheet_Necklaces_Adamantine_132
+  - first:
+      213: -4646300192933922508
+    second: Item_Sheet_Necklaces_Adamantine_133
+  - first:
+      213: -814125674361913347
+    second: Item_Sheet_Necklaces_Adamantine_134
+  - first:
+      213: 8833025536518456441
+    second: Item_Sheet_Necklaces_Adamantine_135
+  - first:
+      213: -7876726027160026140
+    second: Item_Sheet_Necklaces_Adamantine_136
+  - first:
+      213: 7764406911988524412
+    second: Item_Sheet_Necklaces_Adamantine_137
+  - first:
+      213: 4107110433557500848
+    second: Item_Sheet_Necklaces_Adamantine_138
+  - first:
+      213: 2170369449010462132
+    second: Item_Sheet_Necklaces_Adamantine_139
+  - first:
+      213: -7768008351698691993
+    second: Item_Sheet_Necklaces_Adamantine_140
+  - first:
+      213: -4355114699125664169
+    second: Item_Sheet_Necklaces_Adamantine_141
+  - first:
+      213: -7005235234294461000
+    second: Item_Sheet_Necklaces_Adamantine_142
+  - first:
+      213: -5681455744587960660
+    second: Item_Sheet_Necklaces_Adamantine_143
+  - first:
+      213: -5596250120098685589
+    second: Item_Sheet_Necklaces_Adamantine_144
+  - first:
+      213: -8134624513565404261
+    second: Item_Sheet_Necklaces_Adamantine_145
+  - first:
+      213: -3050005662680249427
+    second: Item_Sheet_Necklaces_Adamantine_146
+  - first:
+      213: 7832097567944882009
+    second: Item_Sheet_Necklaces_Adamantine_147
+  - first:
+      213: 305770838558912972
+    second: Item_Sheet_Necklaces_Adamantine_148
+  - first:
+      213: -5076415863384889544
+    second: Item_Sheet_Necklaces_Adamantine_149
+  - first:
+      213: -8731914689523593020
+    second: Item_Sheet_Necklaces_Adamantine_150
+  - first:
+      213: -505875049317323832
+    second: Item_Sheet_Necklaces_Adamantine_151
+  - first:
+      213: -7833811689496958908
+    second: Item_Sheet_Necklaces_Adamantine_152
+  - first:
+      213: -5985200226453359928
+    second: Item_Sheet_Necklaces_Adamantine_153
+  - first:
+      213: 6876090651770633970
+    second: Item_Sheet_Necklaces_Adamantine_154
+  - first:
+      213: 7906601853600418116
+    second: Item_Sheet_Necklaces_Adamantine_155
+  - first:
+      213: 5711884430504294376
+    second: Item_Sheet_Necklaces_Adamantine_156
+  - first:
+      213: -1205370557764738817
+    second: Item_Sheet_Necklaces_Adamantine_157
+  - first:
+      213: 4221963562546435661
+    second: Item_Sheet_Necklaces_Adamantine_158
+  - first:
+      213: 259519784593881131
+    second: Item_Sheet_Necklaces_Adamantine_159
+  - first:
+      213: 2930963939344851501
+    second: Item_Sheet_Necklaces_Adamantine_160
+  - first:
+      213: 5629086345959894895
+    second: Item_Sheet_Necklaces_Adamantine_161
+  - first:
+      213: -7442628312490104413
+    second: Item_Sheet_Necklaces_Adamantine_162
+  - first:
+      213: -2468273847939812846
+    second: Item_Sheet_Necklaces_Adamantine_163
+  - first:
+      213: -8603143046402497205
+    second: Item_Sheet_Necklaces_Adamantine_164
+  - first:
+      213: 8544966228250050899
+    second: Item_Sheet_Necklaces_Adamantine_165
+  - first:
+      213: -1079278830055722965
+    second: Item_Sheet_Necklaces_Adamantine_166
+  - first:
+      213: -285430107133337042
+    second: Item_Sheet_Necklaces_Adamantine_167
+  - first:
+      213: -3118979708679127286
+    second: Item_Sheet_Necklaces_Adamantine_168
+  - first:
+      213: 2610955292550931105
+    second: Item_Sheet_Necklaces_Adamantine_169
+  - first:
+      213: 6910595491538224659
+    second: Item_Sheet_Necklaces_Adamantine_170
+  - first:
+      213: -2146743660710558578
+    second: Item_Sheet_Necklaces_Adamantine_171
+  - first:
+      213: 5155336190790963381
+    second: Item_Sheet_Necklaces_Adamantine_172
+  - first:
+      213: -710607280833837527
+    second: Item_Sheet_Necklaces_Adamantine_173
+  - first:
+      213: 6569151584100444087
+    second: Item_Sheet_Necklaces_Adamantine_174
+  - first:
+      213: 8808536204070352002
+    second: Item_Sheet_Necklaces_Adamantine_175
+  - first:
+      213: -1470566018399266215
+    second: Item_Sheet_Necklaces_Adamantine_176
+  - first:
+      213: 3216731882838932618
+    second: Item_Sheet_Necklaces_Adamantine_177
+  - first:
+      213: 532312718372363616
+    second: Item_Sheet_Necklaces_Adamantine_178
+  - first:
+      213: -2124539411845399273
+    second: Item_Sheet_Necklaces_Adamantine_179
+  - first:
+      213: 8655416436178299571
+    second: Item_Sheet_Necklaces_Adamantine_180
+  - first:
+      213: -5488846984837534599
+    second: Item_Sheet_Necklaces_Adamantine_181
+  - first:
+      213: -8365776665372469302
+    second: Item_Sheet_Necklaces_Adamantine_182
+  - first:
+      213: -1460585497314177525
+    second: Item_Sheet_Necklaces_Adamantine_183
+  - first:
+      213: 2032930571609460922
+    second: Item_Sheet_Necklaces_Adamantine_184
+  - first:
+      213: -1011604175015792434
+    second: Item_Sheet_Necklaces_Adamantine_185
+  - first:
+      213: 4744731124660765938
+    second: Item_Sheet_Necklaces_Adamantine_186
+  - first:
+      213: -7163450968635471226
+    second: Item_Sheet_Necklaces_Adamantine_187
+  - first:
+      213: 3599920839273888684
+    second: Item_Sheet_Necklaces_Adamantine_188
+  - first:
+      213: 6045994893728736117
+    second: Item_Sheet_Necklaces_Adamantine_189
+  - first:
+      213: -3523986452736543383
+    second: Item_Sheet_Necklaces_Adamantine_190
+  - first:
+      213: -6984380875910866457
+    second: Item_Sheet_Necklaces_Adamantine_191
+  - first:
+      213: -4339818657451440873
+    second: Item_Sheet_Necklaces_Adamantine_192
+  - first:
+      213: 1281800055201098080
+    second: Item_Sheet_Necklaces_Adamantine_193
+  - first:
+      213: 4158504533771102552
+    second: Item_Sheet_Necklaces_Adamantine_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c19f36e8cc4df0800000000000000
+      internalID: -194559792649223629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ab887661cd5010800000000000000
+      internalID: 1179311323294180930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ede123de676330800000000000000
+      internalID: 3704051071621916699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605db11ccfb2da60800000000000000
+      internalID: 7697425596321452140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d5d958c0dcd2d30800000000000000
+      internalID: 4408405063930567986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98826eb1149742a0800000000000000
+      internalID: -6753266312289285989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f239dcd01961a0800000000000000
+      internalID: -6815898020325689632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6915aa68547f1230800000000000000
+      internalID: 3611733349269576043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf1773f05c33990800000000000000
+      internalID: -7407360292948935622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b23c120bdbd69c0800000000000000
+      internalID: -3932278335446242498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec81527d82c83a490800000000000000
+      internalID: -7736185627856267058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1109f064008ca10800000000000000
+      internalID: 1929792741237068192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63a60c5dc9c1d70800000000000000
+      internalID: 9015252995959043819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ad2bb068cc16c0800000000000000
+      internalID: -4171238837069174310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1fc29682910e530800000000000000
+      internalID: 3882130540147306920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40847a6c96b1c5250800000000000000
+      internalID: 5934648550085838852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd30831b835987e0800000000000000
+      internalID: -1762785922346107440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70edada6dbc2512b0800000000000000
+      internalID: -5614532168394285561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c637318919b2ab10800000000000000
+      internalID: 1991357504444380865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c6d9d839d83a520800000000000000
+      internalID: 2712167065482783882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56a47cc510436b0800000000000000
+      internalID: -5317623762025552460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6dd5564e124e630800000000000000
+      internalID: 3955323637575046852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7149804652206720800000000000000
+      internalID: 2837305519088681338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b3474335de0ef0800000000000000
+      internalID: -139940122186239845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc253b274f836740800000000000000
+      internalID: 5144112735217593537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb3af8aebf8bda20800000000000000
+      internalID: 3088220018534136827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de9900bca691aa0800000000000000
+      internalID: -6189798792723042983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9acb9e088d91d0800000000000000
+      internalID: -3342365752114372830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14226afef576488d0800000000000000
+      internalID: -2845035402851114431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17637fe1313cc40800000000000000
+      internalID: 5531285791058588133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4421a6207023e4680800000000000000
+      internalID: -8769016418757111228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81fbec63077a9d0800000000000000
+      internalID: -2763116465669334869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e46afd014f8f2470800000000000000
+      internalID: 8372067741875201251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14378c8c582d920800000000000000
+      internalID: 3013618198067233260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1bbc01f94ae280800000000000000
+      internalID: -9013310404579091696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32cf5ed0ad55cec0800000000000000
+      internalID: -3547326185977429445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4801f111231e74430800000000000000
+      internalID: 3767227218470572164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f42db041d18d8c0800000000000000
+      internalID: -3974394699219579070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0eba1e9f4cde30800000000000000
+      internalID: 4529582865699966859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea03d490a5895d0800000000000000
+      internalID: -3055593351174639983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c05f6cd6f72c9a10800000000000000
+      internalID: 1917451482566709441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3eb80ab19e8d9a0800000000000000
+      internalID: -6207955781463317530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f31e9d8ba97550800000000000000
+      internalID: 6159142590136709507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9ff6760d25bcf0800000000000000
+      internalID: -237233899577566352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489c57e837492fcf0800000000000000
+      internalID: -219950207755499132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8047839f30b9000800000000000000
+      internalID: 43632990319020222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74220afcf2812d710800000000000000
+      internalID: 1716461001607488071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b80a19b806cc6830800000000000000
+      internalID: 4065842304376244409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d5c598e76dbaf0800000000000000
+      internalID: -379032544986409769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735c1dffe4aac7840800000000000000
+      internalID: 5223236924119041335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139679f54b9fc6970800000000000000
+      internalID: 8749642729167218993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb27eae3ba40270800000000000000
+      internalID: 8215879905933704175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959061bd85548180800000000000000
+      internalID: -9114065678836394607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79782ce2daf655440800000000000000
+      internalID: 4923964557204031383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a48414d471f010800000000000000
+      internalID: 1220885428220241012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf176b94ce28a1d0800000000000000
+      internalID: -3339367701739528275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f73f2c4211dd0a0800000000000000
+      internalID: -6855304208200794311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034fdb6a63711910800000000000000
+      internalID: 1806351826465800971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e48045d16807660800000000000000
+      internalID: 7381547249782247040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02194bb93a80b0d20800000000000000
+      internalID: 3245697455235567904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e187c7fbdeed8c0800000000000000
+      internalID: -3972476414611415543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5434129a24d84f50800000000000000
+      internalID: 6865970911230833754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df43ce9a4827efb0800000000000000
+      internalID: -4618678591888863277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57075b6072f21090800000000000000
+      internalID: -8065117418016012450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960068d9fc66ac530800000000000000
+      internalID: 3876023471192801385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682e729239c47cf0800000000000000
+      internalID: -255358059809986457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0d390fb47394a0800000000000000
+      internalID: -6587793466070332565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658bfa74425fc8890800000000000000
+      internalID: -7454313747034687402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e586f61426bc0c80800000000000000
+      internalID: -8355102942558779931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4850b7fd3b34770800000000000000
+      internalID: 8593910286376076521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dfccb8f64916130800000000000000
+      internalID: 3558288387407150437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc6c53a1b7859e0800000000000000
+      internalID: -1632419512420216835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61223819a5bdbae0800000000000000
+      internalID: -1531868560376061590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8387824f344c2580800000000000000
+      internalID: -8850624129200061554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1e1ffd12746d040800000000000000
+      internalID: 4671999874260132348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85539592e8b5080800000000000000
+      internalID: -9197601505732634400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae57edb2b2c0e68f0800000000000000
+      internalID: -545485125306124822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22c96fb5a0b1b60800000000000000
+      internalID: 7717773776525206226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473d3f589068ce60800000000000000
+      internalID: 7982736547063347012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a5ffedb9dbd4b0800000000000000
+      internalID: -5414494717184990907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e8519a243bbc20800000000000000
+      internalID: 3223227315745515001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4454a659f9cdcb0800000000000000
+      internalID: -4837816435620887332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eae7c566dee43070800000000000000
+      internalID: 8085349835634895584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60baffcbd1e97b0800000000000000
+      internalID: -5215698620868000093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e2b9d512009fd0800000000000000
+      internalID: -2337365913735337988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214eb496018ee56c0800000000000000
+      internalID: -4152626649205316590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96db99901321e80800000000000000
+      internalID: -8209445253439198768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b503484f666840800000000000000
+      internalID: 5216979574508074716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3201628be24d4e0800000000000000
+      internalID: -1957888569551871004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87822b67a48998ad0800000000000000
+      internalID: -2699459056045512584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ff501dcb77f960800000000000000
+      internalID: 7635707813903201798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad224d0f407feb0800000000000000
+      internalID: -4686271454857995709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08645d836049c50800000000000000
+      internalID: 6670963789208649908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ccba64c40e91e0800000000000000
+      internalID: -2189307127204625685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f98bbcd9265a20800000000000000
+      internalID: 3050671825606014861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36402365888b97a00800000000000000
+      internalID: 754837308262450275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b650c4ac63f37270800000000000000
+      internalID: 8247202990591596212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b8540223731830800000000000000
+      internalID: 4040699880620472730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c945403a3f6b90800000000000000
+      internalID: -7246509296420535606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b012c4a918f43780800000000000000
+      internalID: -8704059390778273613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5cc04b40a230e20800000000000000
+      internalID: 3315539950363788722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b5efbce0590420800000000000000
+      internalID: 2596695637917807847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c30ea3ea77ac420800000000000000
+      internalID: 2651062920856747143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb05ccd669974a0800000000000000
+      internalID: -6595074780983935785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06bf4b511074f80800000000000000
+      internalID: -8122522210197086041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ab7df3683cd060800000000000000
+      internalID: 6979515524623083362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336f518b0e7cf210800000000000000
+      internalID: 1368106974694040382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30caa2777bb219100800000000000000
+      internalID: 112919532639267843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2daece6021b649f0800000000000000
+      internalID: -484505157039641297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d81af11f4200ba50800000000000000
+      internalID: 6534725597941864660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b455178f19b9c6d0800000000000000
+      internalID: -2969638934212684623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecec432571e228b0800000000000000
+      internalID: -5178328728302981906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f13bd9aaf31080800000000000000
+      internalID: -9217748404863373005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcbac34028779030800000000000000
+      internalID: 3501399315275496624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b113749c030420800000000000000
+      internalID: 2594931642020770496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a168c731e2a20d0800000000000000
+      internalID: -3446891903570273776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283681b05340f42c0800000000000000
+      internalID: -4445329681325464702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c2537bee2137d0800000000000000
+      internalID: -2940517492909227145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf18c63e5057b8d0800000000000000
+      internalID: -2830705475202834516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53942f8f46efb65e0800000000000000
+      internalID: -1915157506889201355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206792876c72f9a60800000000000000
+      internalID: 7682903222690346498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22deae9a24de3a460800000000000000
+      internalID: 7251900695571000610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcba07f237db220800000000000000
+      internalID: 2503283615478828387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b858b77c22ca970800000000000000
+      internalID: 8767420814749698909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409c0bcf7ca8b740800000000000000
+      internalID: 5168070237275066433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513801e8837a9ff80800000000000000
+      internalID: -8072236995741449451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33102bf8baeb1b6d0800000000000000
+      internalID: -2976388234655694541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33cec45e6ebec940800000000000000
+      internalID: 5318397591049651007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5ba06cdadd4860800000000000000
+      internalID: 7515903993200728649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61de1dd4e0f5080d0800000000000000
+      internalID: -3422631201761792746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956178697a0cda650800000000000000
+      internalID: 6245860084250252889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ad764b255c80a0800000000000000
+      internalID: -6878028886546996733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a509a33e718dd4e0800000000000000
+      internalID: -1955264284176349791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43938587796058fb0800000000000000
+      internalID: -4646300192933922508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff1293305a3b4f0800000000000000
+      internalID: -814125674361913347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97403241de5359a70800000000000000
+      internalID: 8833025536518456441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38d06396f30b290800000000000000
+      internalID: -7876726027160026140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75e9a8e2f6b0cb60800000000000000
+      internalID: 7764406911988524412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3de7dcd236ff830800000000000000
+      internalID: 4107110433557500848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf0a7c383be1e10800000000000000
+      internalID: 2170369449010462132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685bb09f8d723490800000000000000
+      internalID: -7768008351698691993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756588a61468f83c0800000000000000
+      internalID: -4355114699125664169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd04d37ba768ce90800000000000000
+      internalID: -7005235234294461000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6bb81a1a6721b0800000000000000
+      internalID: -5681455744587960660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd74d7a202652b0800000000000000
+      internalID: -5596250120098685589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93dfbf9a120c1f80800000000000000
+      internalID: -8134624513565404261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab830962043ca5d0800000000000000
+      internalID: -3050005662680249427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573e87ed3331bc60800000000000000
+      internalID: 7832097567944882009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13af625f05e3400800000000000000
+      internalID: 305770838558912972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83729c21ba2fc89b0800000000000000
+      internalID: -5076415863384889544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c05ee18ad102d680800000000000000
+      internalID: -8731914689523593020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb25b8a255caf8f0800000000000000
+      internalID: -505875049317323832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482b3216c5b84390800000000000000
+      internalID: -7833811689496958908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f8a0ea1c40fca0800000000000000
+      internalID: -5985200226453359928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3c264408cc6f50800000000000000
+      internalID: 6876090651770633970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494c40be74e9bd60800000000000000
+      internalID: 7906601853600418116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7fa4e60a0b44f40800000000000000
+      internalID: 5711884430504294376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e7b13dd9a54fe0800000000000000
+      internalID: -1205370557764738817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461930cd7d679a30800000000000000
+      internalID: 4221963562546435661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2877ec7edff99300800000000000000
+      internalID: 259519784593881131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2221268c20eca820800000000000000
+      internalID: 2930963939344851501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe0fc15388e1e40800000000000000
+      internalID: 5629086345959894895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a923c68bf876b890800000000000000
+      internalID: -7442628312490104413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123925430eeebdd0800000000000000
+      internalID: -2468273847939812846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ae4f0bfe7b9880800000000000000
+      internalID: -8603143046402497205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351cd8ce281d59670800000000000000
+      internalID: 8544966228250050899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20fde05f91a501f0800000000000000
+      internalID: -1079278830055722965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ad1074d2f90cf0800000000000000
+      internalID: -285430107133337042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7782ea7827b4d0800000000000000
+      internalID: -3118979708679127286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ace0510afb3420800000000000000
+      internalID: 2610955292550931105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164d835cfd57ef50800000000000000
+      internalID: 6910595491538224659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848687b30c3532e0800000000000000
+      internalID: -2146743660710558578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09fcd83fe6b8740800000000000000
+      internalID: 5155336190790963381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c71b617a6326f0800000000000000
+      internalID: -710607280833837527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b760069f805a2b50800000000000000
+      internalID: 6569151584100444087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284f7ca02053e3a70800000000000000
+      internalID: 8808536204070352002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1d866fff779be0800000000000000
+      internalID: -1470566018399266215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb94eba9024ac20800000000000000
+      internalID: 3216731882838932618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd108d897236700800000000000000
+      internalID: 532312718372363616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d33a549ae1482e0800000000000000
+      internalID: -2124539411845399273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba2c7de3673e1870800000000000000
+      internalID: 8655416436178299571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce84a9fb2b3d3b0800000000000000
+      internalID: -5488846984837534599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d836527ac6eb80800000000000000
+      internalID: -8365776665372469302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e408c8a35fabbe0800000000000000
+      internalID: -1460585497314177525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab050dd759b663c10800000000000000
+      internalID: 2032930571609460922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0b1eecc5f06f1f0800000000000000
+      internalID: -1011604175015792434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40528b1dba8d140800000000000000
+      internalID: 4744731124660765938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0e803c4f469c90800000000000000
+      internalID: -7163450968635471226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab327c1eec75f130800000000000000
+      internalID: 3599920839273888684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e682a250b7e350800000000000000
+      internalID: 6045994893728736117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965795bfdf8481fc0800000000000000
+      internalID: -3523986452736543383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e91d43299e721f90800000000000000
+      internalID: -6984380875910866457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158ef4acedd5c3c0800000000000000
+      internalID: -4339818657451440873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696653eb5ed9c110800000000000000
+      internalID: 1281800055201098080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Adamantine_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859274c37d9f5b930800000000000000
+      internalID: 4158504533771102552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Adamantine_0: -194559792649223629
+      Item_Sheet_Necklaces_Adamantine_1: 1179311323294180930
+      Item_Sheet_Necklaces_Adamantine_10: -7736185627856267058
+      Item_Sheet_Necklaces_Adamantine_100: 3315539950363788722
+      Item_Sheet_Necklaces_Adamantine_101: 2596695637917807847
+      Item_Sheet_Necklaces_Adamantine_102: 2651062920856747143
+      Item_Sheet_Necklaces_Adamantine_103: -6595074780983935785
+      Item_Sheet_Necklaces_Adamantine_104: -8122522210197086041
+      Item_Sheet_Necklaces_Adamantine_105: 6979515524623083362
+      Item_Sheet_Necklaces_Adamantine_106: 1368106974694040382
+      Item_Sheet_Necklaces_Adamantine_107: 112919532639267843
+      Item_Sheet_Necklaces_Adamantine_108: -484505157039641297
+      Item_Sheet_Necklaces_Adamantine_109: 6534725597941864660
+      Item_Sheet_Necklaces_Adamantine_11: 1929792741237068192
+      Item_Sheet_Necklaces_Adamantine_110: -2969638934212684623
+      Item_Sheet_Necklaces_Adamantine_111: -5178328728302981906
+      Item_Sheet_Necklaces_Adamantine_112: -9217748404863373005
+      Item_Sheet_Necklaces_Adamantine_113: 3501399315275496624
+      Item_Sheet_Necklaces_Adamantine_114: 2594931642020770496
+      Item_Sheet_Necklaces_Adamantine_115: -3446891903570273776
+      Item_Sheet_Necklaces_Adamantine_116: -4445329681325464702
+      Item_Sheet_Necklaces_Adamantine_117: -2940517492909227145
+      Item_Sheet_Necklaces_Adamantine_118: -2830705475202834516
+      Item_Sheet_Necklaces_Adamantine_119: -1915157506889201355
+      Item_Sheet_Necklaces_Adamantine_12: 9015252995959043819
+      Item_Sheet_Necklaces_Adamantine_120: 7682903222690346498
+      Item_Sheet_Necklaces_Adamantine_121: 7251900695571000610
+      Item_Sheet_Necklaces_Adamantine_122: 2503283615478828387
+      Item_Sheet_Necklaces_Adamantine_123: 8767420814749698909
+      Item_Sheet_Necklaces_Adamantine_124: 5168070237275066433
+      Item_Sheet_Necklaces_Adamantine_125: -8072236995741449451
+      Item_Sheet_Necklaces_Adamantine_126: -2976388234655694541
+      Item_Sheet_Necklaces_Adamantine_127: 5318397591049651007
+      Item_Sheet_Necklaces_Adamantine_128: 7515903993200728649
+      Item_Sheet_Necklaces_Adamantine_129: -3422631201761792746
+      Item_Sheet_Necklaces_Adamantine_13: -4171238837069174310
+      Item_Sheet_Necklaces_Adamantine_130: 6245860084250252889
+      Item_Sheet_Necklaces_Adamantine_131: -6878028886546996733
+      Item_Sheet_Necklaces_Adamantine_132: -1955264284176349791
+      Item_Sheet_Necklaces_Adamantine_133: -4646300192933922508
+      Item_Sheet_Necklaces_Adamantine_134: -814125674361913347
+      Item_Sheet_Necklaces_Adamantine_135: 8833025536518456441
+      Item_Sheet_Necklaces_Adamantine_136: -7876726027160026140
+      Item_Sheet_Necklaces_Adamantine_137: 7764406911988524412
+      Item_Sheet_Necklaces_Adamantine_138: 4107110433557500848
+      Item_Sheet_Necklaces_Adamantine_139: 2170369449010462132
+      Item_Sheet_Necklaces_Adamantine_14: 3882130540147306920
+      Item_Sheet_Necklaces_Adamantine_140: -7768008351698691993
+      Item_Sheet_Necklaces_Adamantine_141: -4355114699125664169
+      Item_Sheet_Necklaces_Adamantine_142: -7005235234294461000
+      Item_Sheet_Necklaces_Adamantine_143: -5681455744587960660
+      Item_Sheet_Necklaces_Adamantine_144: -5596250120098685589
+      Item_Sheet_Necklaces_Adamantine_145: -8134624513565404261
+      Item_Sheet_Necklaces_Adamantine_146: -3050005662680249427
+      Item_Sheet_Necklaces_Adamantine_147: 7832097567944882009
+      Item_Sheet_Necklaces_Adamantine_148: 305770838558912972
+      Item_Sheet_Necklaces_Adamantine_149: -5076415863384889544
+      Item_Sheet_Necklaces_Adamantine_15: 5934648550085838852
+      Item_Sheet_Necklaces_Adamantine_150: -8731914689523593020
+      Item_Sheet_Necklaces_Adamantine_151: -505875049317323832
+      Item_Sheet_Necklaces_Adamantine_152: -7833811689496958908
+      Item_Sheet_Necklaces_Adamantine_153: -5985200226453359928
+      Item_Sheet_Necklaces_Adamantine_154: 6876090651770633970
+      Item_Sheet_Necklaces_Adamantine_155: 7906601853600418116
+      Item_Sheet_Necklaces_Adamantine_156: 5711884430504294376
+      Item_Sheet_Necklaces_Adamantine_157: -1205370557764738817
+      Item_Sheet_Necklaces_Adamantine_158: 4221963562546435661
+      Item_Sheet_Necklaces_Adamantine_159: 259519784593881131
+      Item_Sheet_Necklaces_Adamantine_16: -1762785922346107440
+      Item_Sheet_Necklaces_Adamantine_160: 2930963939344851501
+      Item_Sheet_Necklaces_Adamantine_161: 5629086345959894895
+      Item_Sheet_Necklaces_Adamantine_162: -7442628312490104413
+      Item_Sheet_Necklaces_Adamantine_163: -2468273847939812846
+      Item_Sheet_Necklaces_Adamantine_164: -8603143046402497205
+      Item_Sheet_Necklaces_Adamantine_165: 8544966228250050899
+      Item_Sheet_Necklaces_Adamantine_166: -1079278830055722965
+      Item_Sheet_Necklaces_Adamantine_167: -285430107133337042
+      Item_Sheet_Necklaces_Adamantine_168: -3118979708679127286
+      Item_Sheet_Necklaces_Adamantine_169: 2610955292550931105
+      Item_Sheet_Necklaces_Adamantine_17: -5614532168394285561
+      Item_Sheet_Necklaces_Adamantine_170: 6910595491538224659
+      Item_Sheet_Necklaces_Adamantine_171: -2146743660710558578
+      Item_Sheet_Necklaces_Adamantine_172: 5155336190790963381
+      Item_Sheet_Necklaces_Adamantine_173: -710607280833837527
+      Item_Sheet_Necklaces_Adamantine_174: 6569151584100444087
+      Item_Sheet_Necklaces_Adamantine_175: 8808536204070352002
+      Item_Sheet_Necklaces_Adamantine_176: -1470566018399266215
+      Item_Sheet_Necklaces_Adamantine_177: 3216731882838932618
+      Item_Sheet_Necklaces_Adamantine_178: 532312718372363616
+      Item_Sheet_Necklaces_Adamantine_179: -2124539411845399273
+      Item_Sheet_Necklaces_Adamantine_18: 1991357504444380865
+      Item_Sheet_Necklaces_Adamantine_180: 8655416436178299571
+      Item_Sheet_Necklaces_Adamantine_181: -5488846984837534599
+      Item_Sheet_Necklaces_Adamantine_182: -8365776665372469302
+      Item_Sheet_Necklaces_Adamantine_183: -1460585497314177525
+      Item_Sheet_Necklaces_Adamantine_184: 2032930571609460922
+      Item_Sheet_Necklaces_Adamantine_185: -1011604175015792434
+      Item_Sheet_Necklaces_Adamantine_186: 4744731124660765938
+      Item_Sheet_Necklaces_Adamantine_187: -7163450968635471226
+      Item_Sheet_Necklaces_Adamantine_188: 3599920839273888684
+      Item_Sheet_Necklaces_Adamantine_189: 6045994893728736117
+      Item_Sheet_Necklaces_Adamantine_19: 2712167065482783882
+      Item_Sheet_Necklaces_Adamantine_190: -3523986452736543383
+      Item_Sheet_Necklaces_Adamantine_191: -6984380875910866457
+      Item_Sheet_Necklaces_Adamantine_192: -4339818657451440873
+      Item_Sheet_Necklaces_Adamantine_193: 1281800055201098080
+      Item_Sheet_Necklaces_Adamantine_194: 4158504533771102552
+      Item_Sheet_Necklaces_Adamantine_2: 3704051071621916699
+      Item_Sheet_Necklaces_Adamantine_20: -5317623762025552460
+      Item_Sheet_Necklaces_Adamantine_21: 3955323637575046852
+      Item_Sheet_Necklaces_Adamantine_22: 2837305519088681338
+      Item_Sheet_Necklaces_Adamantine_23: -139940122186239845
+      Item_Sheet_Necklaces_Adamantine_24: 5144112735217593537
+      Item_Sheet_Necklaces_Adamantine_25: 3088220018534136827
+      Item_Sheet_Necklaces_Adamantine_26: -6189798792723042983
+      Item_Sheet_Necklaces_Adamantine_27: -3342365752114372830
+      Item_Sheet_Necklaces_Adamantine_28: -2845035402851114431
+      Item_Sheet_Necklaces_Adamantine_29: 5531285791058588133
+      Item_Sheet_Necklaces_Adamantine_3: 7697425596321452140
+      Item_Sheet_Necklaces_Adamantine_30: -8769016418757111228
+      Item_Sheet_Necklaces_Adamantine_31: -2763116465669334869
+      Item_Sheet_Necklaces_Adamantine_32: 8372067741875201251
+      Item_Sheet_Necklaces_Adamantine_33: 3013618198067233260
+      Item_Sheet_Necklaces_Adamantine_34: -9013310404579091696
+      Item_Sheet_Necklaces_Adamantine_35: -3547326185977429445
+      Item_Sheet_Necklaces_Adamantine_36: 3767227218470572164
+      Item_Sheet_Necklaces_Adamantine_37: -3974394699219579070
+      Item_Sheet_Necklaces_Adamantine_38: 4529582865699966859
+      Item_Sheet_Necklaces_Adamantine_39: -3055593351174639983
+      Item_Sheet_Necklaces_Adamantine_4: 4408405063930567986
+      Item_Sheet_Necklaces_Adamantine_40: 1917451482566709441
+      Item_Sheet_Necklaces_Adamantine_41: -6207955781463317530
+      Item_Sheet_Necklaces_Adamantine_42: 6159142590136709507
+      Item_Sheet_Necklaces_Adamantine_43: -237233899577566352
+      Item_Sheet_Necklaces_Adamantine_44: -219950207755499132
+      Item_Sheet_Necklaces_Adamantine_45: 43632990319020222
+      Item_Sheet_Necklaces_Adamantine_46: 1716461001607488071
+      Item_Sheet_Necklaces_Adamantine_47: 4065842304376244409
+      Item_Sheet_Necklaces_Adamantine_48: -379032544986409769
+      Item_Sheet_Necklaces_Adamantine_49: 5223236924119041335
+      Item_Sheet_Necklaces_Adamantine_5: -6753266312289285989
+      Item_Sheet_Necklaces_Adamantine_50: 8749642729167218993
+      Item_Sheet_Necklaces_Adamantine_51: 8215879905933704175
+      Item_Sheet_Necklaces_Adamantine_52: -9114065678836394607
+      Item_Sheet_Necklaces_Adamantine_53: 4923964557204031383
+      Item_Sheet_Necklaces_Adamantine_54: 1220885428220241012
+      Item_Sheet_Necklaces_Adamantine_55: -3339367701739528275
+      Item_Sheet_Necklaces_Adamantine_56: -6855304208200794311
+      Item_Sheet_Necklaces_Adamantine_57: 1806351826465800971
+      Item_Sheet_Necklaces_Adamantine_58: 7381547249782247040
+      Item_Sheet_Necklaces_Adamantine_59: 3245697455235567904
+      Item_Sheet_Necklaces_Adamantine_6: -6815898020325689632
+      Item_Sheet_Necklaces_Adamantine_60: -3972476414611415543
+      Item_Sheet_Necklaces_Adamantine_61: 6865970911230833754
+      Item_Sheet_Necklaces_Adamantine_62: -4618678591888863277
+      Item_Sheet_Necklaces_Adamantine_63: -8065117418016012450
+      Item_Sheet_Necklaces_Adamantine_64: 3876023471192801385
+      Item_Sheet_Necklaces_Adamantine_65: -255358059809986457
+      Item_Sheet_Necklaces_Adamantine_66: -6587793466070332565
+      Item_Sheet_Necklaces_Adamantine_67: -7454313747034687402
+      Item_Sheet_Necklaces_Adamantine_68: -8355102942558779931
+      Item_Sheet_Necklaces_Adamantine_69: 8593910286376076521
+      Item_Sheet_Necklaces_Adamantine_7: 3611733349269576043
+      Item_Sheet_Necklaces_Adamantine_70: 3558288387407150437
+      Item_Sheet_Necklaces_Adamantine_71: -1632419512420216835
+      Item_Sheet_Necklaces_Adamantine_72: -1531868560376061590
+      Item_Sheet_Necklaces_Adamantine_73: -8850624129200061554
+      Item_Sheet_Necklaces_Adamantine_74: 4671999874260132348
+      Item_Sheet_Necklaces_Adamantine_75: -9197601505732634400
+      Item_Sheet_Necklaces_Adamantine_76: -545485125306124822
+      Item_Sheet_Necklaces_Adamantine_77: 7717773776525206226
+      Item_Sheet_Necklaces_Adamantine_78: 7982736547063347012
+      Item_Sheet_Necklaces_Adamantine_79: -5414494717184990907
+      Item_Sheet_Necklaces_Adamantine_8: -7407360292948935622
+      Item_Sheet_Necklaces_Adamantine_80: 3223227315745515001
+      Item_Sheet_Necklaces_Adamantine_81: -4837816435620887332
+      Item_Sheet_Necklaces_Adamantine_82: 8085349835634895584
+      Item_Sheet_Necklaces_Adamantine_83: -5215698620868000093
+      Item_Sheet_Necklaces_Adamantine_84: -2337365913735337988
+      Item_Sheet_Necklaces_Adamantine_85: -4152626649205316590
+      Item_Sheet_Necklaces_Adamantine_86: -8209445253439198768
+      Item_Sheet_Necklaces_Adamantine_87: 5216979574508074716
+      Item_Sheet_Necklaces_Adamantine_88: -1957888569551871004
+      Item_Sheet_Necklaces_Adamantine_89: -2699459056045512584
+      Item_Sheet_Necklaces_Adamantine_9: -3932278335446242498
+      Item_Sheet_Necklaces_Adamantine_90: 7635707813903201798
+      Item_Sheet_Necklaces_Adamantine_91: -4686271454857995709
+      Item_Sheet_Necklaces_Adamantine_92: 6670963789208649908
+      Item_Sheet_Necklaces_Adamantine_93: -2189307127204625685
+      Item_Sheet_Necklaces_Adamantine_94: 3050671825606014861
+      Item_Sheet_Necklaces_Adamantine_95: 754837308262450275
+      Item_Sheet_Necklaces_Adamantine_96: 8247202990591596212
+      Item_Sheet_Necklaces_Adamantine_97: 4040699880620472730
+      Item_Sheet_Necklaces_Adamantine_98: -7246509296420535606
+      Item_Sheet_Necklaces_Adamantine_99: -8704059390778273613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

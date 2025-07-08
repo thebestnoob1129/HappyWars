@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: 2d34099eb828af64f8c11ba2d9696694
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Copper.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2271400695378402506
+    second: Item_Sheet_Necklaces_Copper_0
+  - first:
+      213: -3727097955389019448
+    second: Item_Sheet_Necklaces_Copper_1
+  - first:
+      213: -5450446673285771517
+    second: Item_Sheet_Necklaces_Copper_2
+  - first:
+      213: 3178220448924286153
+    second: Item_Sheet_Necklaces_Copper_3
+  - first:
+      213: 3563526241291477309
+    second: Item_Sheet_Necklaces_Copper_4
+  - first:
+      213: 3974409357800169371
+    second: Item_Sheet_Necklaces_Copper_5
+  - first:
+      213: 5044328347334974077
+    second: Item_Sheet_Necklaces_Copper_6
+  - first:
+      213: -4119635583104271071
+    second: Item_Sheet_Necklaces_Copper_7
+  - first:
+      213: -4425078291511434741
+    second: Item_Sheet_Necklaces_Copper_8
+  - first:
+      213: 1179744006752795431
+    second: Item_Sheet_Necklaces_Copper_9
+  - first:
+      213: 5527772013360670125
+    second: Item_Sheet_Necklaces_Copper_10
+  - first:
+      213: -8973797848262265530
+    second: Item_Sheet_Necklaces_Copper_11
+  - first:
+      213: -4904568921694905113
+    second: Item_Sheet_Necklaces_Copper_12
+  - first:
+      213: 891995077408849050
+    second: Item_Sheet_Necklaces_Copper_13
+  - first:
+      213: 3524283501149966478
+    second: Item_Sheet_Necklaces_Copper_14
+  - first:
+      213: -5637089621285234117
+    second: Item_Sheet_Necklaces_Copper_15
+  - first:
+      213: 6407428133064500917
+    second: Item_Sheet_Necklaces_Copper_16
+  - first:
+      213: 5543002810193970366
+    second: Item_Sheet_Necklaces_Copper_17
+  - first:
+      213: 1682291316615441922
+    second: Item_Sheet_Necklaces_Copper_18
+  - first:
+      213: 4600582488896467396
+    second: Item_Sheet_Necklaces_Copper_19
+  - first:
+      213: -4121535555708430081
+    second: Item_Sheet_Necklaces_Copper_20
+  - first:
+      213: -7928442237994175314
+    second: Item_Sheet_Necklaces_Copper_21
+  - first:
+      213: 1892077010190366470
+    second: Item_Sheet_Necklaces_Copper_22
+  - first:
+      213: -8334869392412146737
+    second: Item_Sheet_Necklaces_Copper_23
+  - first:
+      213: -1614715182051572154
+    second: Item_Sheet_Necklaces_Copper_24
+  - first:
+      213: -359349347148694671
+    second: Item_Sheet_Necklaces_Copper_25
+  - first:
+      213: -1052302943128697908
+    second: Item_Sheet_Necklaces_Copper_26
+  - first:
+      213: 7913262011288264069
+    second: Item_Sheet_Necklaces_Copper_27
+  - first:
+      213: 7655943756341538595
+    second: Item_Sheet_Necklaces_Copper_28
+  - first:
+      213: 6375625535357390904
+    second: Item_Sheet_Necklaces_Copper_29
+  - first:
+      213: -4484007824515307176
+    second: Item_Sheet_Necklaces_Copper_30
+  - first:
+      213: 8306723208258227419
+    second: Item_Sheet_Necklaces_Copper_31
+  - first:
+      213: 6082944540408259330
+    second: Item_Sheet_Necklaces_Copper_32
+  - first:
+      213: 3867947588670805401
+    second: Item_Sheet_Necklaces_Copper_33
+  - first:
+      213: 2728996956130076289
+    second: Item_Sheet_Necklaces_Copper_34
+  - first:
+      213: 6233329842950383684
+    second: Item_Sheet_Necklaces_Copper_35
+  - first:
+      213: 8864573875734397520
+    second: Item_Sheet_Necklaces_Copper_36
+  - first:
+      213: 3395350362228980467
+    second: Item_Sheet_Necklaces_Copper_37
+  - first:
+      213: -1349032833644397690
+    second: Item_Sheet_Necklaces_Copper_38
+  - first:
+      213: -530210976685047288
+    second: Item_Sheet_Necklaces_Copper_39
+  - first:
+      213: -6560379902111686949
+    second: Item_Sheet_Necklaces_Copper_40
+  - first:
+      213: -1093145687350627424
+    second: Item_Sheet_Necklaces_Copper_41
+  - first:
+      213: -5254384830856020413
+    second: Item_Sheet_Necklaces_Copper_42
+  - first:
+      213: 4303808687489356360
+    second: Item_Sheet_Necklaces_Copper_43
+  - first:
+      213: -2222760192076285275
+    second: Item_Sheet_Necklaces_Copper_44
+  - first:
+      213: 7904967933806647039
+    second: Item_Sheet_Necklaces_Copper_45
+  - first:
+      213: 5209605970440208374
+    second: Item_Sheet_Necklaces_Copper_46
+  - first:
+      213: 7046213188525233345
+    second: Item_Sheet_Necklaces_Copper_47
+  - first:
+      213: 5060497866185764859
+    second: Item_Sheet_Necklaces_Copper_48
+  - first:
+      213: -5919842189766980213
+    second: Item_Sheet_Necklaces_Copper_49
+  - first:
+      213: 1554972750710144429
+    second: Item_Sheet_Necklaces_Copper_50
+  - first:
+      213: 7897417480596634716
+    second: Item_Sheet_Necklaces_Copper_51
+  - first:
+      213: -5501247269549443660
+    second: Item_Sheet_Necklaces_Copper_52
+  - first:
+      213: 2683415861626096054
+    second: Item_Sheet_Necklaces_Copper_53
+  - first:
+      213: -5119454781134140004
+    second: Item_Sheet_Necklaces_Copper_54
+  - first:
+      213: 8566461753182598951
+    second: Item_Sheet_Necklaces_Copper_55
+  - first:
+      213: 6970062283601585449
+    second: Item_Sheet_Necklaces_Copper_56
+  - first:
+      213: -571290269410217144
+    second: Item_Sheet_Necklaces_Copper_57
+  - first:
+      213: -3636676716074277854
+    second: Item_Sheet_Necklaces_Copper_58
+  - first:
+      213: 5641710642595752404
+    second: Item_Sheet_Necklaces_Copper_59
+  - first:
+      213: -9014212912173032341
+    second: Item_Sheet_Necklaces_Copper_60
+  - first:
+      213: -5241551334972276962
+    second: Item_Sheet_Necklaces_Copper_61
+  - first:
+      213: 1388879397963182328
+    second: Item_Sheet_Necklaces_Copper_62
+  - first:
+      213: 9076147130892487043
+    second: Item_Sheet_Necklaces_Copper_63
+  - first:
+      213: 3493730900032656905
+    second: Item_Sheet_Necklaces_Copper_64
+  - first:
+      213: -1849432122338220531
+    second: Item_Sheet_Necklaces_Copper_65
+  - first:
+      213: -978148474516517257
+    second: Item_Sheet_Necklaces_Copper_66
+  - first:
+      213: -6626423144651665458
+    second: Item_Sheet_Necklaces_Copper_67
+  - first:
+      213: -3585871376577602613
+    second: Item_Sheet_Necklaces_Copper_68
+  - first:
+      213: 1274800241835438987
+    second: Item_Sheet_Necklaces_Copper_69
+  - first:
+      213: -5111840004342504112
+    second: Item_Sheet_Necklaces_Copper_70
+  - first:
+      213: -2332242700082318126
+    second: Item_Sheet_Necklaces_Copper_71
+  - first:
+      213: 2815995771965872496
+    second: Item_Sheet_Necklaces_Copper_72
+  - first:
+      213: -9031028954212336028
+    second: Item_Sheet_Necklaces_Copper_73
+  - first:
+      213: 7848422697352202800
+    second: Item_Sheet_Necklaces_Copper_74
+  - first:
+      213: -3319060019894773833
+    second: Item_Sheet_Necklaces_Copper_75
+  - first:
+      213: 9060263347975098232
+    second: Item_Sheet_Necklaces_Copper_76
+  - first:
+      213: 6935739954490908198
+    second: Item_Sheet_Necklaces_Copper_77
+  - first:
+      213: 8877530563810777278
+    second: Item_Sheet_Necklaces_Copper_78
+  - first:
+      213: -562140528461839469
+    second: Item_Sheet_Necklaces_Copper_79
+  - first:
+      213: -5898463192041882453
+    second: Item_Sheet_Necklaces_Copper_80
+  - first:
+      213: -7050273326703980193
+    second: Item_Sheet_Necklaces_Copper_81
+  - first:
+      213: 5110018734780933208
+    second: Item_Sheet_Necklaces_Copper_82
+  - first:
+      213: 4492617953552088225
+    second: Item_Sheet_Necklaces_Copper_83
+  - first:
+      213: -1477775998960540538
+    second: Item_Sheet_Necklaces_Copper_84
+  - first:
+      213: 857532926715035003
+    second: Item_Sheet_Necklaces_Copper_85
+  - first:
+      213: 6385912993275983589
+    second: Item_Sheet_Necklaces_Copper_86
+  - first:
+      213: 1096906795295487436
+    second: Item_Sheet_Necklaces_Copper_87
+  - first:
+      213: 3980480052769961857
+    second: Item_Sheet_Necklaces_Copper_88
+  - first:
+      213: 3024251155561515832
+    second: Item_Sheet_Necklaces_Copper_89
+  - first:
+      213: 7677511531195400382
+    second: Item_Sheet_Necklaces_Copper_90
+  - first:
+      213: -1350665922928950578
+    second: Item_Sheet_Necklaces_Copper_91
+  - first:
+      213: 1658862707937636619
+    second: Item_Sheet_Necklaces_Copper_92
+  - first:
+      213: -1467046906498714189
+    second: Item_Sheet_Necklaces_Copper_93
+  - first:
+      213: 3680832993856922919
+    second: Item_Sheet_Necklaces_Copper_94
+  - first:
+      213: 6024409143298940277
+    second: Item_Sheet_Necklaces_Copper_95
+  - first:
+      213: -4572521059134395516
+    second: Item_Sheet_Necklaces_Copper_96
+  - first:
+      213: 5634979797137267388
+    second: Item_Sheet_Necklaces_Copper_97
+  - first:
+      213: -4298524115351415985
+    second: Item_Sheet_Necklaces_Copper_98
+  - first:
+      213: 5160043086392246595
+    second: Item_Sheet_Necklaces_Copper_99
+  - first:
+      213: 4013871661334395346
+    second: Item_Sheet_Necklaces_Copper_100
+  - first:
+      213: -8763028055155222760
+    second: Item_Sheet_Necklaces_Copper_101
+  - first:
+      213: -9109423513936366286
+    second: Item_Sheet_Necklaces_Copper_102
+  - first:
+      213: -6737867738004210918
+    second: Item_Sheet_Necklaces_Copper_103
+  - first:
+      213: 3553102985205663133
+    second: Item_Sheet_Necklaces_Copper_104
+  - first:
+      213: 7515164107766180016
+    second: Item_Sheet_Necklaces_Copper_105
+  - first:
+      213: 4063601143890155585
+    second: Item_Sheet_Necklaces_Copper_106
+  - first:
+      213: -2850204893471874193
+    second: Item_Sheet_Necklaces_Copper_107
+  - first:
+      213: -1676850934425471343
+    second: Item_Sheet_Necklaces_Copper_108
+  - first:
+      213: -4926537142515786520
+    second: Item_Sheet_Necklaces_Copper_109
+  - first:
+      213: 7975881388339672722
+    second: Item_Sheet_Necklaces_Copper_110
+  - first:
+      213: -7958866126183271803
+    second: Item_Sheet_Necklaces_Copper_111
+  - first:
+      213: -86742418873125343
+    second: Item_Sheet_Necklaces_Copper_112
+  - first:
+      213: -7805357008028439802
+    second: Item_Sheet_Necklaces_Copper_113
+  - first:
+      213: -4375594356214665167
+    second: Item_Sheet_Necklaces_Copper_114
+  - first:
+      213: -4030155955932777718
+    second: Item_Sheet_Necklaces_Copper_115
+  - first:
+      213: -7443011440105490338
+    second: Item_Sheet_Necklaces_Copper_116
+  - first:
+      213: 7619484330928883784
+    second: Item_Sheet_Necklaces_Copper_117
+  - first:
+      213: 6457502964049793648
+    second: Item_Sheet_Necklaces_Copper_118
+  - first:
+      213: 5364800327881552688
+    second: Item_Sheet_Necklaces_Copper_119
+  - first:
+      213: -6173008976736417370
+    second: Item_Sheet_Necklaces_Copper_120
+  - first:
+      213: -2776558125610735774
+    second: Item_Sheet_Necklaces_Copper_121
+  - first:
+      213: -4927535173589556785
+    second: Item_Sheet_Necklaces_Copper_122
+  - first:
+      213: 6538759587055068156
+    second: Item_Sheet_Necklaces_Copper_123
+  - first:
+      213: -960213170488351973
+    second: Item_Sheet_Necklaces_Copper_124
+  - first:
+      213: 313104167611637418
+    second: Item_Sheet_Necklaces_Copper_125
+  - first:
+      213: 7898535366971853332
+    second: Item_Sheet_Necklaces_Copper_126
+  - first:
+      213: -836043804459385524
+    second: Item_Sheet_Necklaces_Copper_127
+  - first:
+      213: -6234354143718124724
+    second: Item_Sheet_Necklaces_Copper_128
+  - first:
+      213: 8654018102664985255
+    second: Item_Sheet_Necklaces_Copper_129
+  - first:
+      213: -604508484729912202
+    second: Item_Sheet_Necklaces_Copper_130
+  - first:
+      213: -110689807142052295
+    second: Item_Sheet_Necklaces_Copper_131
+  - first:
+      213: 6485114682461383562
+    second: Item_Sheet_Necklaces_Copper_132
+  - first:
+      213: -6890993227965498435
+    second: Item_Sheet_Necklaces_Copper_133
+  - first:
+      213: -4297706098642498383
+    second: Item_Sheet_Necklaces_Copper_134
+  - first:
+      213: -7543853882917835009
+    second: Item_Sheet_Necklaces_Copper_135
+  - first:
+      213: -6213111726859144548
+    second: Item_Sheet_Necklaces_Copper_136
+  - first:
+      213: 5127694202847619882
+    second: Item_Sheet_Necklaces_Copper_137
+  - first:
+      213: -2487708983041111898
+    second: Item_Sheet_Necklaces_Copper_138
+  - first:
+      213: 3018441567886239675
+    second: Item_Sheet_Necklaces_Copper_139
+  - first:
+      213: -523817054175433365
+    second: Item_Sheet_Necklaces_Copper_140
+  - first:
+      213: -7308530857436286987
+    second: Item_Sheet_Necklaces_Copper_141
+  - first:
+      213: -249833061165182890
+    second: Item_Sheet_Necklaces_Copper_142
+  - first:
+      213: 7416751910326289323
+    second: Item_Sheet_Necklaces_Copper_143
+  - first:
+      213: -623272013689247575
+    second: Item_Sheet_Necklaces_Copper_144
+  - first:
+      213: -4293727130171106586
+    second: Item_Sheet_Necklaces_Copper_145
+  - first:
+      213: 2805707678043951207
+    second: Item_Sheet_Necklaces_Copper_146
+  - first:
+      213: -4887970148452204394
+    second: Item_Sheet_Necklaces_Copper_147
+  - first:
+      213: 107460883300300659
+    second: Item_Sheet_Necklaces_Copper_148
+  - first:
+      213: -7683827431382142989
+    second: Item_Sheet_Necklaces_Copper_149
+  - first:
+      213: -3147942461593289190
+    second: Item_Sheet_Necklaces_Copper_150
+  - first:
+      213: -6989506663090078899
+    second: Item_Sheet_Necklaces_Copper_151
+  - first:
+      213: -7225963132893807403
+    second: Item_Sheet_Necklaces_Copper_152
+  - first:
+      213: -6562104659896532287
+    second: Item_Sheet_Necklaces_Copper_153
+  - first:
+      213: 5044203405671632777
+    second: Item_Sheet_Necklaces_Copper_154
+  - first:
+      213: 3005167703066627499
+    second: Item_Sheet_Necklaces_Copper_155
+  - first:
+      213: -5401401240907336340
+    second: Item_Sheet_Necklaces_Copper_156
+  - first:
+      213: 8745755336255568086
+    second: Item_Sheet_Necklaces_Copper_157
+  - first:
+      213: -48937934866090442
+    second: Item_Sheet_Necklaces_Copper_158
+  - first:
+      213: -4213483725634805612
+    second: Item_Sheet_Necklaces_Copper_159
+  - first:
+      213: 4350066721874896638
+    second: Item_Sheet_Necklaces_Copper_160
+  - first:
+      213: 3400535515045965411
+    second: Item_Sheet_Necklaces_Copper_161
+  - first:
+      213: 8676401384852816385
+    second: Item_Sheet_Necklaces_Copper_162
+  - first:
+      213: 2977976442431234968
+    second: Item_Sheet_Necklaces_Copper_163
+  - first:
+      213: 1927812795484023679
+    second: Item_Sheet_Necklaces_Copper_164
+  - first:
+      213: -3071592026727358290
+    second: Item_Sheet_Necklaces_Copper_165
+  - first:
+      213: 5276675307949418891
+    second: Item_Sheet_Necklaces_Copper_166
+  - first:
+      213: -1953907521890057560
+    second: Item_Sheet_Necklaces_Copper_167
+  - first:
+      213: -2862832154957493637
+    second: Item_Sheet_Necklaces_Copper_168
+  - first:
+      213: -6841846322855563310
+    second: Item_Sheet_Necklaces_Copper_169
+  - first:
+      213: -7007863648398298114
+    second: Item_Sheet_Necklaces_Copper_170
+  - first:
+      213: 9201186791294131915
+    second: Item_Sheet_Necklaces_Copper_171
+  - first:
+      213: -9202355089022604260
+    second: Item_Sheet_Necklaces_Copper_172
+  - first:
+      213: -2629430608476858332
+    second: Item_Sheet_Necklaces_Copper_173
+  - first:
+      213: -8341231610918769588
+    second: Item_Sheet_Necklaces_Copper_174
+  - first:
+      213: 6144523256369041189
+    second: Item_Sheet_Necklaces_Copper_175
+  - first:
+      213: -3573462196785027933
+    second: Item_Sheet_Necklaces_Copper_176
+  - first:
+      213: 7871609205027519848
+    second: Item_Sheet_Necklaces_Copper_177
+  - first:
+      213: 5661206058334477003
+    second: Item_Sheet_Necklaces_Copper_178
+  - first:
+      213: 5871355323966315916
+    second: Item_Sheet_Necklaces_Copper_179
+  - first:
+      213: 8347898378408108634
+    second: Item_Sheet_Necklaces_Copper_180
+  - first:
+      213: 3480446093844469308
+    second: Item_Sheet_Necklaces_Copper_181
+  - first:
+      213: 5721565099334890530
+    second: Item_Sheet_Necklaces_Copper_182
+  - first:
+      213: 5755304896373595569
+    second: Item_Sheet_Necklaces_Copper_183
+  - first:
+      213: 7399937547477758333
+    second: Item_Sheet_Necklaces_Copper_184
+  - first:
+      213: -1939426531523021113
+    second: Item_Sheet_Necklaces_Copper_185
+  - first:
+      213: -6254054149136720784
+    second: Item_Sheet_Necklaces_Copper_186
+  - first:
+      213: -7354476992083609208
+    second: Item_Sheet_Necklaces_Copper_187
+  - first:
+      213: -3848145855905199008
+    second: Item_Sheet_Necklaces_Copper_188
+  - first:
+      213: 1464727257472205371
+    second: Item_Sheet_Necklaces_Copper_189
+  - first:
+      213: -1053858746028945963
+    second: Item_Sheet_Necklaces_Copper_190
+  - first:
+      213: -3097281476583071665
+    second: Item_Sheet_Necklaces_Copper_191
+  - first:
+      213: -3578284800295241030
+    second: Item_Sheet_Necklaces_Copper_192
+  - first:
+      213: -9090657633249763354
+    second: Item_Sheet_Necklaces_Copper_193
+  - first:
+      213: 5430447988050740908
+    second: Item_Sheet_Necklaces_Copper_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63325691a1d5a70e0800000000000000
+      internalID: -2271400695378402506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae3f51820b64cc0800000000000000
+      internalID: -3727097955389019448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f879bd0af1c54b0800000000000000
+      internalID: -5450446673285771517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccb30cc8ae4b1c20800000000000000
+      internalID: 3178220448924286153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3126ff6c30347130800000000000000
+      internalID: 3563526241291477309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fdaabe040f72730800000000000000
+      internalID: 3974409357800169371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a9559e7ed010640800000000000000
+      internalID: 5044328347334974077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db201934d14d6c0800000000000000
+      internalID: -4119635583104271071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022b2b2db6f692c0800000000000000
+      internalID: -4425078291511434741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b75607cea4f5010800000000000000
+      internalID: 1179744006752795431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da565b7db5796bc40800000000000000
+      internalID: 5527772013360670125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645b928f66aa67380800000000000000
+      internalID: -8973797848262265530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec54fd1d887febb0800000000000000
+      internalID: -4904568921694905113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf9520cc0016c00800000000000000
+      internalID: 891995077408849050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8050ddfb25c8e030800000000000000
+      internalID: 3524283501149966478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a90442bd805c1b0800000000000000
+      internalID: -5637089621285234117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6672360f1cbe850800000000000000
+      internalID: 6407428133064500917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48a9210b3bcec40800000000000000
+      internalID: 5543002810193970366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e669f0a03b85710800000000000000
+      internalID: 1682291316615441922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17e82166d88df30800000000000000
+      internalID: 4600582488896467396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff85bd8bf3d5dc6c0800000000000000
+      internalID: -4121535555708430081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4772e8ac388f190800000000000000
+      internalID: -7928442237994175314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60774102402024a10800000000000000
+      internalID: 1892077010190366470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc38ff79278945c80800000000000000
+      internalID: -8334869392412146737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c268d8116799e0800000000000000
+      internalID: -1614715182051572154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bfee43ca5530bf0800000000000000
+      internalID: -359349347148694671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc347be6c087561f0800000000000000
+      internalID: -1052302943128697908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1e6d7fdd81dd60800000000000000
+      internalID: 7913262011288264069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f6b1198406f3a60800000000000000
+      internalID: 7655943756341538595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83013e715a5ca7850800000000000000
+      internalID: 6375625535357390904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85961b114aa95c1c0800000000000000
+      internalID: -4484007824515307176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc89bb3fb8674370800000000000000
+      internalID: 8306723208258227419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203af67a4d5fa6450800000000000000
+      internalID: 6082944540408259330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955d80b6d5bda530800000000000000
+      internalID: 3867947588670805401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866143d5485fd520800000000000000
+      internalID: 2728996956130076289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44826e0777c318650800000000000000
+      internalID: 6233329842950383684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524b5439fa450b70800000000000000
+      internalID: 8864573875734397520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf6a44a25be1f20800000000000000
+      internalID: 3395350362228980467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b794809c5474de0800000000000000
+      internalID: -1349032833644397690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802cca60def44a8f0800000000000000
+      internalID: -530210976685047288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5507cc39d4f4a0800000000000000
+      internalID: -6560379902111686949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a337b10acd54d0f0800000000000000
+      internalID: -1093145687350627424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e30a3d5dca417b0800000000000000
+      internalID: -5254384830856020413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421b0fd2333abb30800000000000000
+      internalID: 4303808687489356360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf96ac16b2721e0800000000000000
+      internalID: -2222760192076285275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61667147614bd60800000000000000
+      internalID: 7904967933806647039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb7d7470d3c4840800000000000000
+      internalID: 5209605970440208374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c418b1009d29c160800000000000000
+      internalID: 7046213188525233345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffef946fff7a3640800000000000000
+      internalID: 5060497866185764859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8190a4ee78dda0800000000000000
+      internalID: -5919842189766980213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad7d796a7f549510800000000000000
+      internalID: 1554972750710144429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3ce53b53499d60800000000000000
+      internalID: 7897417480596634716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fae451c4a7a3b0800000000000000
+      internalID: -5501247269549443660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b94fd042886d3520800000000000000
+      internalID: 2683415861626096054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d03d6200b04f8b0800000000000000
+      internalID: -5119454781134140004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273b64d39f22e670800000000000000
+      internalID: 8566461753182598951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ab6cc7b2aab060800000000000000
+      internalID: 6970062283601585449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ba2cd68e5218f0800000000000000
+      internalID: -571290269410217144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224657f6bcde78dc0800000000000000
+      internalID: -3636676716074277854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e57930f16b4e40800000000000000
+      internalID: 5641710642595752404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cdf20ad1517e280800000000000000
+      internalID: -9014212912173032341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb00fe4d44247b0800000000000000
+      internalID: -5241551334972276962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0347f247a464310800000000000000
+      internalID: 1388879397963182328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38907026ab3f4fd70800000000000000
+      internalID: 9076147130892487043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90690453eb93c7030800000000000000
+      internalID: 3493730900032656905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0665df884f7556e0800000000000000
+      internalID: -1849432122338220531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4ad6152bec62f0800000000000000
+      internalID: -978148474516517257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf4c9b12473a04a0800000000000000
+      internalID: -6626423144651665458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd9d45bfc6c3ec0800000000000000
+      internalID: -3585871376577602613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fe26d01001b110800000000000000
+      internalID: 1274800241835438987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a88889981f09b0800000000000000
+      internalID: -5111840004342504112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4789bfe9532afd0800000000000000
+      internalID: -2332242700082318126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079170d1c3d641720800000000000000
+      internalID: 2815995771965872496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef7ebb3075ba280800000000000000
+      internalID: -9031028954212336028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8aca4cd23bec60800000000000000
+      internalID: 7848422697352202800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b798fd3f7450f1d0800000000000000
+      internalID: -3319060019894773833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0c8bf2858cbd70800000000000000
+      internalID: 9060263347975098232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1ae1ddb2b04060800000000000000
+      internalID: 6935739954490908198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb85d9a3303533b70800000000000000
+      internalID: 8877530563810777278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938e2fea20e238f0800000000000000
+      internalID: -562140528461839469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac70ad6af2742ea0800000000000000
+      internalID: -5898463192041882453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51d56863c5682e90800000000000000
+      internalID: -7050273326703980193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854653a17fe6ae640800000000000000
+      internalID: 5110018734780933208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb301d93cf85e30800000000000000
+      internalID: 4492617953552088225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684eb5cfe82ed7be0800000000000000
+      internalID: -1477775998960540538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dfc0847a196eb00800000000000000
+      internalID: 857532926715035003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e634ca88025f9850800000000000000
+      internalID: 6385912993275983589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5bc4d2beef83f00800000000000000
+      internalID: 1096906795295487436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187b1ecb4818d3730800000000000000
+      internalID: 3980480052769961857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b0fce176c48f920800000000000000
+      internalID: 3024251155561515832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00ed77f000c8a60800000000000000
+      internalID: 7677511531195400382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2489dcf78714de0800000000000000
+      internalID: -1350665922928950578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f3c508d6750710800000000000000
+      internalID: 1658862707937636619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5fe4d7c9004abe0800000000000000
+      internalID: -1467046906498714189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72521642b12f41330800000000000000
+      internalID: 3680832993856922919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd2f772300b9350800000000000000
+      internalID: 6024409143298940277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b2d4ea2542b80c0800000000000000
+      internalID: -4572521059134395516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba9ed42548733e40800000000000000
+      internalID: 5634979797137267388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43570677139854c0800000000000000
+      internalID: -4298524115351415985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ce1619d72c9740800000000000000
+      internalID: 5160043086392246595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f7d3720324b730800000000000000
+      internalID: 4013871661334395346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d0bf8968736680800000000000000
+      internalID: -8763028055155222760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357b3fe393d49180800000000000000
+      internalID: -9109423513936366286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb1b4bdf84e72a0800000000000000
+      internalID: -6737867738004210918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95409307582f4130800000000000000
+      internalID: 3553102985205663133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b82b2060f93b4860800000000000000
+      internalID: 7515164107766180016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489172e5bfc46830800000000000000
+      internalID: 4063601143890155585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63678b10c90278d0800000000000000
+      internalID: -2850204893471874193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b940a5f0aab8e0800000000000000
+      internalID: -1676850934425471343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec149f129c61abb0800000000000000
+      internalID: -4926537142515786520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b2aa5dd500be60800000000000000
+      internalID: 7975881388339672722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f4f51d6d6c8190800000000000000
+      internalID: -7958866126183271803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fb18ca34dbcef0800000000000000
+      internalID: -86742418873125343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60beb5fd72dcda390800000000000000
+      internalID: -7805357008028439802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fe9cad14c643c0800000000000000
+      internalID: -4375594356214665167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b331c2820218c0800000000000000
+      internalID: -4030155955932777718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f75da78c15b890800000000000000
+      internalID: -7443011440105490338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848cba411a8ddb960800000000000000
+      internalID: 7619484330928883784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07258348bb8ad9950800000000000000
+      internalID: 6457502964049793648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033774a6979937a40800000000000000
+      internalID: 5364800327881552688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9045aaa01155aa0800000000000000
+      internalID: -6173008976736417370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676fb8781fa779d0800000000000000
+      internalID: -2776558125610735774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a3f7edd0ed9bb0800000000000000
+      internalID: -4927535173589556785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e81a53375eba50800000000000000
+      internalID: 6538759587055068156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e3687533aca2f0800000000000000
+      internalID: -960213170488351973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae9f20e49e585400800000000000000
+      internalID: 313104167611637418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a873a611c3d9d60800000000000000
+      internalID: 7898535366971853332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d3882e696c564f0800000000000000
+      internalID: -836043804459385524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4352b3ffef1b79a0800000000000000
+      internalID: -6234354143718124724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa75290d9f391870800000000000000
+      internalID: 8654018102664985255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c6f76cba5c97f0800000000000000
+      internalID: -604508484729912202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e9a05f430c67ef0800000000000000
+      internalID: -110689807142052295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be7cfa171cff950800000000000000
+      internalID: 6485114682461383562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7e715b264e50a0800000000000000
+      internalID: -6890993227965498435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc4261d21b7b54c0800000000000000
+      internalID: -4297706098642498383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe2b3fccd8de4790800000000000000
+      internalID: -7543853882917835009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923fba8dc796c9a0800000000000000
+      internalID: -6213111726859144548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bef85b5ba392740800000000000000
+      internalID: 5127694202847619882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a849414cd1e97dd0800000000000000
+      internalID: -2487708983041111898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e1251d98a3e920800000000000000
+      internalID: 3018441567886239675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de49e1a270bb8f0800000000000000
+      internalID: -523817054175433365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff678c48e1e29a90800000000000000
+      internalID: -7308530857436286987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d910972a688cf0800000000000000
+      internalID: -249833061165182890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3c23a11989de660800000000000000
+      internalID: 7416751910326289323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82c91e761b957f0800000000000000
+      internalID: -623272013689247575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea91bb9ced9964c0800000000000000
+      internalID: -4293727130171106586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76055659440efe620800000000000000
+      internalID: 2805707678043951207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900bcc2c017a2cb0800000000000000
+      internalID: -4887970148452204394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773d50aa17cd7100800000000000000
+      internalID: 107460883300300659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa01d69af8d5590800000000000000
+      internalID: -7683827431382142989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efc5b72034054d0800000000000000
+      internalID: -3147942461593289190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3a4fc8b8400f90800000000000000
+      internalID: -6989506663090078899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcbbcfb0d838bb90800000000000000
+      internalID: -7225963132893807403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28eef4498bee4a0800000000000000
+      internalID: -6562104659896532287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8fd9a54c900640800000000000000
+      internalID: 5044203405671632777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad43c79a1084b920800000000000000
+      internalID: 3005167703066627499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653d52703e5a05b0800000000000000
+      internalID: -5401401240907336340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d87dfd242a2f5970800000000000000
+      internalID: 8745755336255568086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f3402533225ff0800000000000000
+      internalID: -48937934866090442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490e5a220e2b685c0800000000000000
+      internalID: -4213483725634805612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e99ac2aa8e5c30800000000000000
+      internalID: 4350066721874896638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2a6cb801213f20800000000000000
+      internalID: 3400535515045965411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020cd80715c86870800000000000000
+      internalID: 8676401384852816385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936890ebc5e35920800000000000000
+      internalID: 2977976442431234968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b27440687f0ca10800000000000000
+      internalID: 1927812795484023679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06eff53538f55d0800000000000000
+      internalID: -3071592026727358290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89666d4c348a3940800000000000000
+      internalID: 5276675307949418891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a287c9067352e4e0800000000000000
+      internalID: -1953907521890057560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4130b25d2548d0800000000000000
+      internalID: -2862832154957493637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa16ed401ec01a0800000000000000
+      internalID: -6841846322855563310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b8da14211fbe90800000000000000
+      internalID: -7007863648398298114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5a1ff2ae21bf70800000000000000
+      internalID: 9201186791294131915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1caccd7dcaaa4080800000000000000
+      internalID: -9202355089022604260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428923cfac2628bd0800000000000000
+      internalID: -2629430608476858332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c6de92b0efd3c80800000000000000
+      internalID: -8341231610918769588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc00ab85bb54550800000000000000
+      internalID: 6144523256369041189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46756a013886ec0800000000000000
+      internalID: -3573462196785027933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3c5ccdd29d3d60800000000000000
+      internalID: 7871609205027519848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad05b6ae4a09e40800000000000000
+      internalID: 5661206058334477003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5c133f8e3b7150800000000000000
+      internalID: 5871355323966315916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52231a9851b9d370800000000000000
+      internalID: 8347898378408108634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36de7b38470d4030800000000000000
+      internalID: 3480446093844469308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f029c425176f40800000000000000
+      internalID: 5721565099334890530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1a627f43fedf40800000000000000
+      internalID: 5755304896373595569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71bc7d2efbd1b660800000000000000
+      internalID: 7399937547477758333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c63a9858d5c515e0800000000000000
+      internalID: -1939426531523021113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd5a203e22539a0800000000000000
+      internalID: -6254054149136720784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b2123426afe990800000000000000
+      internalID: -7354476992083609208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c01ee7bb3a89ac0800000000000000
+      internalID: -3848145855905199008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3286722ea1c35410800000000000000
+      internalID: 1464727257472205371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8187dd01ff51f0800000000000000
+      internalID: -1053858746028945963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f406eda38ee3405d0800000000000000
+      internalID: -3097281476583071665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf835cee0675ec0800000000000000
+      internalID: -3578284800295241030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef54730c0f77d180800000000000000
+      internalID: -9090657633249763354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Copper_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cff26ca3dc5b40800000000000000
+      internalID: 5430447988050740908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Copper_0: -2271400695378402506
+      Item_Sheet_Necklaces_Copper_1: -3727097955389019448
+      Item_Sheet_Necklaces_Copper_10: 5527772013360670125
+      Item_Sheet_Necklaces_Copper_100: 4013871661334395346
+      Item_Sheet_Necklaces_Copper_101: -8763028055155222760
+      Item_Sheet_Necklaces_Copper_102: -9109423513936366286
+      Item_Sheet_Necklaces_Copper_103: -6737867738004210918
+      Item_Sheet_Necklaces_Copper_104: 3553102985205663133
+      Item_Sheet_Necklaces_Copper_105: 7515164107766180016
+      Item_Sheet_Necklaces_Copper_106: 4063601143890155585
+      Item_Sheet_Necklaces_Copper_107: -2850204893471874193
+      Item_Sheet_Necklaces_Copper_108: -1676850934425471343
+      Item_Sheet_Necklaces_Copper_109: -4926537142515786520
+      Item_Sheet_Necklaces_Copper_11: -8973797848262265530
+      Item_Sheet_Necklaces_Copper_110: 7975881388339672722
+      Item_Sheet_Necklaces_Copper_111: -7958866126183271803
+      Item_Sheet_Necklaces_Copper_112: -86742418873125343
+      Item_Sheet_Necklaces_Copper_113: -7805357008028439802
+      Item_Sheet_Necklaces_Copper_114: -4375594356214665167
+      Item_Sheet_Necklaces_Copper_115: -4030155955932777718
+      Item_Sheet_Necklaces_Copper_116: -7443011440105490338
+      Item_Sheet_Necklaces_Copper_117: 7619484330928883784
+      Item_Sheet_Necklaces_Copper_118: 6457502964049793648
+      Item_Sheet_Necklaces_Copper_119: 5364800327881552688
+      Item_Sheet_Necklaces_Copper_12: -4904568921694905113
+      Item_Sheet_Necklaces_Copper_120: -6173008976736417370
+      Item_Sheet_Necklaces_Copper_121: -2776558125610735774
+      Item_Sheet_Necklaces_Copper_122: -4927535173589556785
+      Item_Sheet_Necklaces_Copper_123: 6538759587055068156
+      Item_Sheet_Necklaces_Copper_124: -960213170488351973
+      Item_Sheet_Necklaces_Copper_125: 313104167611637418
+      Item_Sheet_Necklaces_Copper_126: 7898535366971853332
+      Item_Sheet_Necklaces_Copper_127: -836043804459385524
+      Item_Sheet_Necklaces_Copper_128: -6234354143718124724
+      Item_Sheet_Necklaces_Copper_129: 8654018102664985255
+      Item_Sheet_Necklaces_Copper_13: 891995077408849050
+      Item_Sheet_Necklaces_Copper_130: -604508484729912202
+      Item_Sheet_Necklaces_Copper_131: -110689807142052295
+      Item_Sheet_Necklaces_Copper_132: 6485114682461383562
+      Item_Sheet_Necklaces_Copper_133: -6890993227965498435
+      Item_Sheet_Necklaces_Copper_134: -4297706098642498383
+      Item_Sheet_Necklaces_Copper_135: -7543853882917835009
+      Item_Sheet_Necklaces_Copper_136: -6213111726859144548
+      Item_Sheet_Necklaces_Copper_137: 5127694202847619882
+      Item_Sheet_Necklaces_Copper_138: -2487708983041111898
+      Item_Sheet_Necklaces_Copper_139: 3018441567886239675
+      Item_Sheet_Necklaces_Copper_14: 3524283501149966478
+      Item_Sheet_Necklaces_Copper_140: -523817054175433365
+      Item_Sheet_Necklaces_Copper_141: -7308530857436286987
+      Item_Sheet_Necklaces_Copper_142: -249833061165182890
+      Item_Sheet_Necklaces_Copper_143: 7416751910326289323
+      Item_Sheet_Necklaces_Copper_144: -623272013689247575
+      Item_Sheet_Necklaces_Copper_145: -4293727130171106586
+      Item_Sheet_Necklaces_Copper_146: 2805707678043951207
+      Item_Sheet_Necklaces_Copper_147: -4887970148452204394
+      Item_Sheet_Necklaces_Copper_148: 107460883300300659
+      Item_Sheet_Necklaces_Copper_149: -7683827431382142989
+      Item_Sheet_Necklaces_Copper_15: -5637089621285234117
+      Item_Sheet_Necklaces_Copper_150: -3147942461593289190
+      Item_Sheet_Necklaces_Copper_151: -6989506663090078899
+      Item_Sheet_Necklaces_Copper_152: -7225963132893807403
+      Item_Sheet_Necklaces_Copper_153: -6562104659896532287
+      Item_Sheet_Necklaces_Copper_154: 5044203405671632777
+      Item_Sheet_Necklaces_Copper_155: 3005167703066627499
+      Item_Sheet_Necklaces_Copper_156: -5401401240907336340
+      Item_Sheet_Necklaces_Copper_157: 8745755336255568086
+      Item_Sheet_Necklaces_Copper_158: -48937934866090442
+      Item_Sheet_Necklaces_Copper_159: -4213483725634805612
+      Item_Sheet_Necklaces_Copper_16: 6407428133064500917
+      Item_Sheet_Necklaces_Copper_160: 4350066721874896638
+      Item_Sheet_Necklaces_Copper_161: 3400535515045965411
+      Item_Sheet_Necklaces_Copper_162: 8676401384852816385
+      Item_Sheet_Necklaces_Copper_163: 2977976442431234968
+      Item_Sheet_Necklaces_Copper_164: 1927812795484023679
+      Item_Sheet_Necklaces_Copper_165: -3071592026727358290
+      Item_Sheet_Necklaces_Copper_166: 5276675307949418891
+      Item_Sheet_Necklaces_Copper_167: -1953907521890057560
+      Item_Sheet_Necklaces_Copper_168: -2862832154957493637
+      Item_Sheet_Necklaces_Copper_169: -6841846322855563310
+      Item_Sheet_Necklaces_Copper_17: 5543002810193970366
+      Item_Sheet_Necklaces_Copper_170: -7007863648398298114
+      Item_Sheet_Necklaces_Copper_171: 9201186791294131915
+      Item_Sheet_Necklaces_Copper_172: -9202355089022604260
+      Item_Sheet_Necklaces_Copper_173: -2629430608476858332
+      Item_Sheet_Necklaces_Copper_174: -8341231610918769588
+      Item_Sheet_Necklaces_Copper_175: 6144523256369041189
+      Item_Sheet_Necklaces_Copper_176: -3573462196785027933
+      Item_Sheet_Necklaces_Copper_177: 7871609205027519848
+      Item_Sheet_Necklaces_Copper_178: 5661206058334477003
+      Item_Sheet_Necklaces_Copper_179: 5871355323966315916
+      Item_Sheet_Necklaces_Copper_18: 1682291316615441922
+      Item_Sheet_Necklaces_Copper_180: 8347898378408108634
+      Item_Sheet_Necklaces_Copper_181: 3480446093844469308
+      Item_Sheet_Necklaces_Copper_182: 5721565099334890530
+      Item_Sheet_Necklaces_Copper_183: 5755304896373595569
+      Item_Sheet_Necklaces_Copper_184: 7399937547477758333
+      Item_Sheet_Necklaces_Copper_185: -1939426531523021113
+      Item_Sheet_Necklaces_Copper_186: -6254054149136720784
+      Item_Sheet_Necklaces_Copper_187: -7354476992083609208
+      Item_Sheet_Necklaces_Copper_188: -3848145855905199008
+      Item_Sheet_Necklaces_Copper_189: 1464727257472205371
+      Item_Sheet_Necklaces_Copper_19: 4600582488896467396
+      Item_Sheet_Necklaces_Copper_190: -1053858746028945963
+      Item_Sheet_Necklaces_Copper_191: -3097281476583071665
+      Item_Sheet_Necklaces_Copper_192: -3578284800295241030
+      Item_Sheet_Necklaces_Copper_193: -9090657633249763354
+      Item_Sheet_Necklaces_Copper_194: 5430447988050740908
+      Item_Sheet_Necklaces_Copper_2: -5450446673285771517
+      Item_Sheet_Necklaces_Copper_20: -4121535555708430081
+      Item_Sheet_Necklaces_Copper_21: -7928442237994175314
+      Item_Sheet_Necklaces_Copper_22: 1892077010190366470
+      Item_Sheet_Necklaces_Copper_23: -8334869392412146737
+      Item_Sheet_Necklaces_Copper_24: -1614715182051572154
+      Item_Sheet_Necklaces_Copper_25: -359349347148694671
+      Item_Sheet_Necklaces_Copper_26: -1052302943128697908
+      Item_Sheet_Necklaces_Copper_27: 7913262011288264069
+      Item_Sheet_Necklaces_Copper_28: 7655943756341538595
+      Item_Sheet_Necklaces_Copper_29: 6375625535357390904
+      Item_Sheet_Necklaces_Copper_3: 3178220448924286153
+      Item_Sheet_Necklaces_Copper_30: -4484007824515307176
+      Item_Sheet_Necklaces_Copper_31: 8306723208258227419
+      Item_Sheet_Necklaces_Copper_32: 6082944540408259330
+      Item_Sheet_Necklaces_Copper_33: 3867947588670805401
+      Item_Sheet_Necklaces_Copper_34: 2728996956130076289
+      Item_Sheet_Necklaces_Copper_35: 6233329842950383684
+      Item_Sheet_Necklaces_Copper_36: 8864573875734397520
+      Item_Sheet_Necklaces_Copper_37: 3395350362228980467
+      Item_Sheet_Necklaces_Copper_38: -1349032833644397690
+      Item_Sheet_Necklaces_Copper_39: -530210976685047288
+      Item_Sheet_Necklaces_Copper_4: 3563526241291477309
+      Item_Sheet_Necklaces_Copper_40: -6560379902111686949
+      Item_Sheet_Necklaces_Copper_41: -1093145687350627424
+      Item_Sheet_Necklaces_Copper_42: -5254384830856020413
+      Item_Sheet_Necklaces_Copper_43: 4303808687489356360
+      Item_Sheet_Necklaces_Copper_44: -2222760192076285275
+      Item_Sheet_Necklaces_Copper_45: 7904967933806647039
+      Item_Sheet_Necklaces_Copper_46: 5209605970440208374
+      Item_Sheet_Necklaces_Copper_47: 7046213188525233345
+      Item_Sheet_Necklaces_Copper_48: 5060497866185764859
+      Item_Sheet_Necklaces_Copper_49: -5919842189766980213
+      Item_Sheet_Necklaces_Copper_5: 3974409357800169371
+      Item_Sheet_Necklaces_Copper_50: 1554972750710144429
+      Item_Sheet_Necklaces_Copper_51: 7897417480596634716
+      Item_Sheet_Necklaces_Copper_52: -5501247269549443660
+      Item_Sheet_Necklaces_Copper_53: 2683415861626096054
+      Item_Sheet_Necklaces_Copper_54: -5119454781134140004
+      Item_Sheet_Necklaces_Copper_55: 8566461753182598951
+      Item_Sheet_Necklaces_Copper_56: 6970062283601585449
+      Item_Sheet_Necklaces_Copper_57: -571290269410217144
+      Item_Sheet_Necklaces_Copper_58: -3636676716074277854
+      Item_Sheet_Necklaces_Copper_59: 5641710642595752404
+      Item_Sheet_Necklaces_Copper_6: 5044328347334974077
+      Item_Sheet_Necklaces_Copper_60: -9014212912173032341
+      Item_Sheet_Necklaces_Copper_61: -5241551334972276962
+      Item_Sheet_Necklaces_Copper_62: 1388879397963182328
+      Item_Sheet_Necklaces_Copper_63: 9076147130892487043
+      Item_Sheet_Necklaces_Copper_64: 3493730900032656905
+      Item_Sheet_Necklaces_Copper_65: -1849432122338220531
+      Item_Sheet_Necklaces_Copper_66: -978148474516517257
+      Item_Sheet_Necklaces_Copper_67: -6626423144651665458
+      Item_Sheet_Necklaces_Copper_68: -3585871376577602613
+      Item_Sheet_Necklaces_Copper_69: 1274800241835438987
+      Item_Sheet_Necklaces_Copper_7: -4119635583104271071
+      Item_Sheet_Necklaces_Copper_70: -5111840004342504112
+      Item_Sheet_Necklaces_Copper_71: -2332242700082318126
+      Item_Sheet_Necklaces_Copper_72: 2815995771965872496
+      Item_Sheet_Necklaces_Copper_73: -9031028954212336028
+      Item_Sheet_Necklaces_Copper_74: 7848422697352202800
+      Item_Sheet_Necklaces_Copper_75: -3319060019894773833
+      Item_Sheet_Necklaces_Copper_76: 9060263347975098232
+      Item_Sheet_Necklaces_Copper_77: 6935739954490908198
+      Item_Sheet_Necklaces_Copper_78: 8877530563810777278
+      Item_Sheet_Necklaces_Copper_79: -562140528461839469
+      Item_Sheet_Necklaces_Copper_8: -4425078291511434741
+      Item_Sheet_Necklaces_Copper_80: -5898463192041882453
+      Item_Sheet_Necklaces_Copper_81: -7050273326703980193
+      Item_Sheet_Necklaces_Copper_82: 5110018734780933208
+      Item_Sheet_Necklaces_Copper_83: 4492617953552088225
+      Item_Sheet_Necklaces_Copper_84: -1477775998960540538
+      Item_Sheet_Necklaces_Copper_85: 857532926715035003
+      Item_Sheet_Necklaces_Copper_86: 6385912993275983589
+      Item_Sheet_Necklaces_Copper_87: 1096906795295487436
+      Item_Sheet_Necklaces_Copper_88: 3980480052769961857
+      Item_Sheet_Necklaces_Copper_89: 3024251155561515832
+      Item_Sheet_Necklaces_Copper_9: 1179744006752795431
+      Item_Sheet_Necklaces_Copper_90: 7677511531195400382
+      Item_Sheet_Necklaces_Copper_91: -1350665922928950578
+      Item_Sheet_Necklaces_Copper_92: 1658862707937636619
+      Item_Sheet_Necklaces_Copper_93: -1467046906498714189
+      Item_Sheet_Necklaces_Copper_94: 3680832993856922919
+      Item_Sheet_Necklaces_Copper_95: 6024409143298940277
+      Item_Sheet_Necklaces_Copper_96: -4572521059134395516
+      Item_Sheet_Necklaces_Copper_97: 5634979797137267388
+      Item_Sheet_Necklaces_Copper_98: -4298524115351415985
+      Item_Sheet_Necklaces_Copper_99: 5160043086392246595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

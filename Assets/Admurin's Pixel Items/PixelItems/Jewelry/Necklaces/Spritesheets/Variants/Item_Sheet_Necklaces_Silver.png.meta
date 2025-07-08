@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: d11944402bc4e5d42bc891960b1a6f60
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194929
+  packageName: Admurin's Pixel Items
+  packageVersion: 1.7
+  assetPath: Assets/Admurin's Pixel Items/PixelItems/Jewelry/Necklaces/Spritesheets/Variants/Item_Sheet_Necklaces_Silver.png
+  uploadId: 509172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6460296942595603440
+    second: Item_Sheet_Necklaces_Silver_0
+  - first:
+      213: -4304196374904797058
+    second: Item_Sheet_Necklaces_Silver_1
+  - first:
+      213: -5103191195544007047
+    second: Item_Sheet_Necklaces_Silver_2
+  - first:
+      213: -3377195987443590495
+    second: Item_Sheet_Necklaces_Silver_3
+  - first:
+      213: 2337405508674590045
+    second: Item_Sheet_Necklaces_Silver_4
+  - first:
+      213: -8406423144633797136
+    second: Item_Sheet_Necklaces_Silver_5
+  - first:
+      213: -6450642836832894011
+    second: Item_Sheet_Necklaces_Silver_6
+  - first:
+      213: -6003868983765449925
+    second: Item_Sheet_Necklaces_Silver_7
+  - first:
+      213: -7635741037880790266
+    second: Item_Sheet_Necklaces_Silver_8
+  - first:
+      213: -1351798591961520372
+    second: Item_Sheet_Necklaces_Silver_9
+  - first:
+      213: 7650911070235162356
+    second: Item_Sheet_Necklaces_Silver_10
+  - first:
+      213: -1968233866051109360
+    second: Item_Sheet_Necklaces_Silver_11
+  - first:
+      213: -8355662024163864359
+    second: Item_Sheet_Necklaces_Silver_12
+  - first:
+      213: -7190826930880897463
+    second: Item_Sheet_Necklaces_Silver_13
+  - first:
+      213: 5131195942141802235
+    second: Item_Sheet_Necklaces_Silver_14
+  - first:
+      213: -5163393763702966637
+    second: Item_Sheet_Necklaces_Silver_15
+  - first:
+      213: -5813917495408160975
+    second: Item_Sheet_Necklaces_Silver_16
+  - first:
+      213: 1988500602618714008
+    second: Item_Sheet_Necklaces_Silver_17
+  - first:
+      213: 1151298594730362500
+    second: Item_Sheet_Necklaces_Silver_18
+  - first:
+      213: 4839956814901862117
+    second: Item_Sheet_Necklaces_Silver_19
+  - first:
+      213: 4933227582677689846
+    second: Item_Sheet_Necklaces_Silver_20
+  - first:
+      213: 4901725580460921803
+    second: Item_Sheet_Necklaces_Silver_21
+  - first:
+      213: -8294914960190913489
+    second: Item_Sheet_Necklaces_Silver_22
+  - first:
+      213: -2318453019526241046
+    second: Item_Sheet_Necklaces_Silver_23
+  - first:
+      213: 3579453872826489768
+    second: Item_Sheet_Necklaces_Silver_24
+  - first:
+      213: 1139448978831904805
+    second: Item_Sheet_Necklaces_Silver_25
+  - first:
+      213: 574774472052918488
+    second: Item_Sheet_Necklaces_Silver_26
+  - first:
+      213: 7938695703800124861
+    second: Item_Sheet_Necklaces_Silver_27
+  - first:
+      213: -2735866690003531645
+    second: Item_Sheet_Necklaces_Silver_28
+  - first:
+      213: -8244020922069592543
+    second: Item_Sheet_Necklaces_Silver_29
+  - first:
+      213: 7641694052262432044
+    second: Item_Sheet_Necklaces_Silver_30
+  - first:
+      213: 2894030424473945324
+    second: Item_Sheet_Necklaces_Silver_31
+  - first:
+      213: -5122304298862193526
+    second: Item_Sheet_Necklaces_Silver_32
+  - first:
+      213: 9109611511093126260
+    second: Item_Sheet_Necklaces_Silver_33
+  - first:
+      213: -1352484862017404653
+    second: Item_Sheet_Necklaces_Silver_34
+  - first:
+      213: 4812659417676689698
+    second: Item_Sheet_Necklaces_Silver_35
+  - first:
+      213: 1265339743265416124
+    second: Item_Sheet_Necklaces_Silver_36
+  - first:
+      213: 1237380976954890922
+    second: Item_Sheet_Necklaces_Silver_37
+  - first:
+      213: -8465376812832913217
+    second: Item_Sheet_Necklaces_Silver_38
+  - first:
+      213: -2736960468866807920
+    second: Item_Sheet_Necklaces_Silver_39
+  - first:
+      213: -5903674813691126487
+    second: Item_Sheet_Necklaces_Silver_40
+  - first:
+      213: 1959672461194076716
+    second: Item_Sheet_Necklaces_Silver_41
+  - first:
+      213: -2644576567124129319
+    second: Item_Sheet_Necklaces_Silver_42
+  - first:
+      213: -154319452436531255
+    second: Item_Sheet_Necklaces_Silver_43
+  - first:
+      213: -646645605019261579
+    second: Item_Sheet_Necklaces_Silver_44
+  - first:
+      213: 1613207641615117918
+    second: Item_Sheet_Necklaces_Silver_45
+  - first:
+      213: -4332590951088964126
+    second: Item_Sheet_Necklaces_Silver_46
+  - first:
+      213: 8617649369458471991
+    second: Item_Sheet_Necklaces_Silver_47
+  - first:
+      213: -4856879051584489871
+    second: Item_Sheet_Necklaces_Silver_48
+  - first:
+      213: 8495230256865248306
+    second: Item_Sheet_Necklaces_Silver_49
+  - first:
+      213: 5841427029123242860
+    second: Item_Sheet_Necklaces_Silver_50
+  - first:
+      213: 4159353436209970126
+    second: Item_Sheet_Necklaces_Silver_51
+  - first:
+      213: -7073523436891634344
+    second: Item_Sheet_Necklaces_Silver_52
+  - first:
+      213: -2810977408577367912
+    second: Item_Sheet_Necklaces_Silver_53
+  - first:
+      213: 8015846435586847490
+    second: Item_Sheet_Necklaces_Silver_54
+  - first:
+      213: 7724704567327720291
+    second: Item_Sheet_Necklaces_Silver_55
+  - first:
+      213: -6212641677059595585
+    second: Item_Sheet_Necklaces_Silver_56
+  - first:
+      213: 112648592657546993
+    second: Item_Sheet_Necklaces_Silver_57
+  - first:
+      213: -7646441769822004577
+    second: Item_Sheet_Necklaces_Silver_58
+  - first:
+      213: 6859307741713613748
+    second: Item_Sheet_Necklaces_Silver_59
+  - first:
+      213: -4409638206164427591
+    second: Item_Sheet_Necklaces_Silver_60
+  - first:
+      213: 2527167652727335155
+    second: Item_Sheet_Necklaces_Silver_61
+  - first:
+      213: 1837014809208540667
+    second: Item_Sheet_Necklaces_Silver_62
+  - first:
+      213: 1004202266371074745
+    second: Item_Sheet_Necklaces_Silver_63
+  - first:
+      213: 764501242054756672
+    second: Item_Sheet_Necklaces_Silver_64
+  - first:
+      213: -575886464575845817
+    second: Item_Sheet_Necklaces_Silver_65
+  - first:
+      213: -7161134731209953766
+    second: Item_Sheet_Necklaces_Silver_66
+  - first:
+      213: 7892989417093941048
+    second: Item_Sheet_Necklaces_Silver_67
+  - first:
+      213: 8495423865087355930
+    second: Item_Sheet_Necklaces_Silver_68
+  - first:
+      213: 403795050246118549
+    second: Item_Sheet_Necklaces_Silver_69
+  - first:
+      213: -5031014352878502806
+    second: Item_Sheet_Necklaces_Silver_70
+  - first:
+      213: 7678891395021598241
+    second: Item_Sheet_Necklaces_Silver_71
+  - first:
+      213: 6931487674224849490
+    second: Item_Sheet_Necklaces_Silver_72
+  - first:
+      213: -8460710021043130140
+    second: Item_Sheet_Necklaces_Silver_73
+  - first:
+      213: -255398497326345547
+    second: Item_Sheet_Necklaces_Silver_74
+  - first:
+      213: -365984456433015694
+    second: Item_Sheet_Necklaces_Silver_75
+  - first:
+      213: -4349296250187211630
+    second: Item_Sheet_Necklaces_Silver_76
+  - first:
+      213: -9106337007387380194
+    second: Item_Sheet_Necklaces_Silver_77
+  - first:
+      213: 9173044983505397094
+    second: Item_Sheet_Necklaces_Silver_78
+  - first:
+      213: -3455249210357980325
+    second: Item_Sheet_Necklaces_Silver_79
+  - first:
+      213: -994161896474038179
+    second: Item_Sheet_Necklaces_Silver_80
+  - first:
+      213: 3076433207977517617
+    second: Item_Sheet_Necklaces_Silver_81
+  - first:
+      213: -6809080541917137244
+    second: Item_Sheet_Necklaces_Silver_82
+  - first:
+      213: -7925817577307759257
+    second: Item_Sheet_Necklaces_Silver_83
+  - first:
+      213: -2707301441687064609
+    second: Item_Sheet_Necklaces_Silver_84
+  - first:
+      213: 584313812552419795
+    second: Item_Sheet_Necklaces_Silver_85
+  - first:
+      213: -4304289959655779016
+    second: Item_Sheet_Necklaces_Silver_86
+  - first:
+      213: -7864931982564922047
+    second: Item_Sheet_Necklaces_Silver_87
+  - first:
+      213: -8947728098091689119
+    second: Item_Sheet_Necklaces_Silver_88
+  - first:
+      213: 6208311358652503537
+    second: Item_Sheet_Necklaces_Silver_89
+  - first:
+      213: 8929926997822550830
+    second: Item_Sheet_Necklaces_Silver_90
+  - first:
+      213: 8340800888727822326
+    second: Item_Sheet_Necklaces_Silver_91
+  - first:
+      213: 4675537637338865506
+    second: Item_Sheet_Necklaces_Silver_92
+  - first:
+      213: -6986047747236838469
+    second: Item_Sheet_Necklaces_Silver_93
+  - first:
+      213: 2317911891165638029
+    second: Item_Sheet_Necklaces_Silver_94
+  - first:
+      213: 6009707565756639455
+    second: Item_Sheet_Necklaces_Silver_95
+  - first:
+      213: -7992988697966291627
+    second: Item_Sheet_Necklaces_Silver_96
+  - first:
+      213: -3030242983807585368
+    second: Item_Sheet_Necklaces_Silver_97
+  - first:
+      213: 8720335665766022326
+    second: Item_Sheet_Necklaces_Silver_98
+  - first:
+      213: -1224838730657314957
+    second: Item_Sheet_Necklaces_Silver_99
+  - first:
+      213: -4715089944119130127
+    second: Item_Sheet_Necklaces_Silver_100
+  - first:
+      213: 5383673455630460901
+    second: Item_Sheet_Necklaces_Silver_101
+  - first:
+      213: 9050996719531470401
+    second: Item_Sheet_Necklaces_Silver_102
+  - first:
+      213: -1236478307000130560
+    second: Item_Sheet_Necklaces_Silver_103
+  - first:
+      213: -5727817803549975088
+    second: Item_Sheet_Necklaces_Silver_104
+  - first:
+      213: -3762913557035833449
+    second: Item_Sheet_Necklaces_Silver_105
+  - first:
+      213: -4223397982843260289
+    second: Item_Sheet_Necklaces_Silver_106
+  - first:
+      213: -4695254405899703340
+    second: Item_Sheet_Necklaces_Silver_107
+  - first:
+      213: -2444192427057174686
+    second: Item_Sheet_Necklaces_Silver_108
+  - first:
+      213: 8920724838029260171
+    second: Item_Sheet_Necklaces_Silver_109
+  - first:
+      213: -8842357278481593334
+    second: Item_Sheet_Necklaces_Silver_110
+  - first:
+      213: 3758283672881848799
+    second: Item_Sheet_Necklaces_Silver_111
+  - first:
+      213: -7345204063416299183
+    second: Item_Sheet_Necklaces_Silver_112
+  - first:
+      213: -5137627865729667549
+    second: Item_Sheet_Necklaces_Silver_113
+  - first:
+      213: -2184635811993351695
+    second: Item_Sheet_Necklaces_Silver_114
+  - first:
+      213: -5113847820252490116
+    second: Item_Sheet_Necklaces_Silver_115
+  - first:
+      213: -1675063815389903330
+    second: Item_Sheet_Necklaces_Silver_116
+  - first:
+      213: 6184833023783118836
+    second: Item_Sheet_Necklaces_Silver_117
+  - first:
+      213: -3340057229475344936
+    second: Item_Sheet_Necklaces_Silver_118
+  - first:
+      213: 2031255615346330665
+    second: Item_Sheet_Necklaces_Silver_119
+  - first:
+      213: 1156927120302289817
+    second: Item_Sheet_Necklaces_Silver_120
+  - first:
+      213: 1044289403330032359
+    second: Item_Sheet_Necklaces_Silver_121
+  - first:
+      213: -6721937351775965257
+    second: Item_Sheet_Necklaces_Silver_122
+  - first:
+      213: 5199535105735373216
+    second: Item_Sheet_Necklaces_Silver_123
+  - first:
+      213: 5226975945857321885
+    second: Item_Sheet_Necklaces_Silver_124
+  - first:
+      213: -2796232727968698126
+    second: Item_Sheet_Necklaces_Silver_125
+  - first:
+      213: -6521778390555318472
+    second: Item_Sheet_Necklaces_Silver_126
+  - first:
+      213: 3784950954883340475
+    second: Item_Sheet_Necklaces_Silver_127
+  - first:
+      213: -4609158383345478569
+    second: Item_Sheet_Necklaces_Silver_128
+  - first:
+      213: 3822198332193700595
+    second: Item_Sheet_Necklaces_Silver_129
+  - first:
+      213: 2067261146872056848
+    second: Item_Sheet_Necklaces_Silver_130
+  - first:
+      213: 5994714031047749540
+    second: Item_Sheet_Necklaces_Silver_131
+  - first:
+      213: -412380967907546963
+    second: Item_Sheet_Necklaces_Silver_132
+  - first:
+      213: 6835337992363992456
+    second: Item_Sheet_Necklaces_Silver_133
+  - first:
+      213: -3350141193278625721
+    second: Item_Sheet_Necklaces_Silver_134
+  - first:
+      213: 8668643420529699774
+    second: Item_Sheet_Necklaces_Silver_135
+  - first:
+      213: -5999636638537965075
+    second: Item_Sheet_Necklaces_Silver_136
+  - first:
+      213: -2855646741259141128
+    second: Item_Sheet_Necklaces_Silver_137
+  - first:
+      213: 3697975831654414896
+    second: Item_Sheet_Necklaces_Silver_138
+  - first:
+      213: -6914995282783808260
+    second: Item_Sheet_Necklaces_Silver_139
+  - first:
+      213: -5399121475537462532
+    second: Item_Sheet_Necklaces_Silver_140
+  - first:
+      213: -8746362781423319953
+    second: Item_Sheet_Necklaces_Silver_141
+  - first:
+      213: 223726354700526119
+    second: Item_Sheet_Necklaces_Silver_142
+  - first:
+      213: -5842503747217491273
+    second: Item_Sheet_Necklaces_Silver_143
+  - first:
+      213: -3526697789667354435
+    second: Item_Sheet_Necklaces_Silver_144
+  - first:
+      213: 5106983415185298965
+    second: Item_Sheet_Necklaces_Silver_145
+  - first:
+      213: 8600460441955590334
+    second: Item_Sheet_Necklaces_Silver_146
+  - first:
+      213: -7320366152491519268
+    second: Item_Sheet_Necklaces_Silver_147
+  - first:
+      213: 3668862314349518800
+    second: Item_Sheet_Necklaces_Silver_148
+  - first:
+      213: -7339624407417780246
+    second: Item_Sheet_Necklaces_Silver_149
+  - first:
+      213: -2256772626626404550
+    second: Item_Sheet_Necklaces_Silver_150
+  - first:
+      213: 5828686151755238138
+    second: Item_Sheet_Necklaces_Silver_151
+  - first:
+      213: 638250170009143454
+    second: Item_Sheet_Necklaces_Silver_152
+  - first:
+      213: 7340297745826421761
+    second: Item_Sheet_Necklaces_Silver_153
+  - first:
+      213: 6376565223753141188
+    second: Item_Sheet_Necklaces_Silver_154
+  - first:
+      213: -798446881991175741
+    second: Item_Sheet_Necklaces_Silver_155
+  - first:
+      213: -1513833170237478774
+    second: Item_Sheet_Necklaces_Silver_156
+  - first:
+      213: -4805545931761745582
+    second: Item_Sheet_Necklaces_Silver_157
+  - first:
+      213: -808429261140555591
+    second: Item_Sheet_Necklaces_Silver_158
+  - first:
+      213: 9004980625322557568
+    second: Item_Sheet_Necklaces_Silver_159
+  - first:
+      213: 9109977447086640023
+    second: Item_Sheet_Necklaces_Silver_160
+  - first:
+      213: -4579501574130515504
+    second: Item_Sheet_Necklaces_Silver_161
+  - first:
+      213: 5930823688858538711
+    second: Item_Sheet_Necklaces_Silver_162
+  - first:
+      213: -2756518249636004601
+    second: Item_Sheet_Necklaces_Silver_163
+  - first:
+      213: 4496471740247664050
+    second: Item_Sheet_Necklaces_Silver_164
+  - first:
+      213: 1974762778148137095
+    second: Item_Sheet_Necklaces_Silver_165
+  - first:
+      213: -7884757457181538320
+    second: Item_Sheet_Necklaces_Silver_166
+  - first:
+      213: -957192998805188257
+    second: Item_Sheet_Necklaces_Silver_167
+  - first:
+      213: -6635436515156418249
+    second: Item_Sheet_Necklaces_Silver_168
+  - first:
+      213: 8317892359877740949
+    second: Item_Sheet_Necklaces_Silver_169
+  - first:
+      213: -1275546741529983893
+    second: Item_Sheet_Necklaces_Silver_170
+  - first:
+      213: 8035600833560583304
+    second: Item_Sheet_Necklaces_Silver_171
+  - first:
+      213: 4293062960360424157
+    second: Item_Sheet_Necklaces_Silver_172
+  - first:
+      213: 6477710513669341760
+    second: Item_Sheet_Necklaces_Silver_173
+  - first:
+      213: -6184792687651723297
+    second: Item_Sheet_Necklaces_Silver_174
+  - first:
+      213: -8377828950594183385
+    second: Item_Sheet_Necklaces_Silver_175
+  - first:
+      213: 4139480961115718528
+    second: Item_Sheet_Necklaces_Silver_176
+  - first:
+      213: -6251385319832348068
+    second: Item_Sheet_Necklaces_Silver_177
+  - first:
+      213: 7565974859830838508
+    second: Item_Sheet_Necklaces_Silver_178
+  - first:
+      213: -3550369168945411732
+    second: Item_Sheet_Necklaces_Silver_179
+  - first:
+      213: 8185342255513099953
+    second: Item_Sheet_Necklaces_Silver_180
+  - first:
+      213: 6405313493841489355
+    second: Item_Sheet_Necklaces_Silver_181
+  - first:
+      213: -2641165842673697641
+    second: Item_Sheet_Necklaces_Silver_182
+  - first:
+      213: -8923030706768696513
+    second: Item_Sheet_Necklaces_Silver_183
+  - first:
+      213: 1864196063862902713
+    second: Item_Sheet_Necklaces_Silver_184
+  - first:
+      213: 4406531067558499361
+    second: Item_Sheet_Necklaces_Silver_185
+  - first:
+      213: 2205423590978952846
+    second: Item_Sheet_Necklaces_Silver_186
+  - first:
+      213: 2601778911030033607
+    second: Item_Sheet_Necklaces_Silver_187
+  - first:
+      213: 6760004779966042117
+    second: Item_Sheet_Necklaces_Silver_188
+  - first:
+      213: -8570787385646335799
+    second: Item_Sheet_Necklaces_Silver_189
+  - first:
+      213: 2268386167278425083
+    second: Item_Sheet_Necklaces_Silver_190
+  - first:
+      213: 2907545645943617208
+    second: Item_Sheet_Necklaces_Silver_191
+  - first:
+      213: 4394264180805158354
+    second: Item_Sheet_Necklaces_Silver_192
+  - first:
+      213: -5427099064898877063
+    second: Item_Sheet_Necklaces_Silver_193
+  - first:
+      213: 6857296988534275772
+    second: Item_Sheet_Necklaces_Silver_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140c09a82a6856a0800000000000000
+      internalID: -6460296942595603440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78864e933c6444c0800000000000000
+      internalID: -4304196374904797058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec2b045a2dd29b0800000000000000
+      internalID: -5103191195544007047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aadc8f742ac121d0800000000000000
+      internalID: -3377195987443590495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5517901de1207020800000000000000
+      internalID: 2337405508674590045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5fa7860b2665b80800000000000000
+      internalID: -8406423144633797136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c348a15486ba76a0800000000000000
+      internalID: -6450642836832894011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33cca818f8fdaca0800000000000000
+      internalID: -6003868983765449925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6033e306bf5680690800000000000000
+      internalID: -7635741037880790266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a24eb7527d3de0800000000000000
+      internalID: -1351798591961520372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f67875051f7d2a60800000000000000
+      internalID: 7650911070235162356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e312b1abd6fa4e0800000000000000
+      internalID: -1968233866051109360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0dd72c8a9ba0c80800000000000000
+      internalID: -8355662024163864359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1887410d053c90800000000000000
+      internalID: -7190826930880897463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b94ce58ba53740800000000000000
+      internalID: 5131195942141802235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396740f8ab0f758b0800000000000000
+      internalID: -5163393763702966637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f84c467d0d05fa0800000000000000
+      internalID: -5813917495408160975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971db633c2989b10800000000000000
+      internalID: 1988500602618714008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864f49d8fb3aff00800000000000000
+      internalID: 1151298594730362500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed478741bfa2340800000000000000
+      internalID: 4839956814901862117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5a9ad5958567440800000000000000
+      internalID: 4933227582677689846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc391d9e17d660440800000000000000
+      internalID: 4901725580460921803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244fb3caca82ec80800000000000000
+      internalID: -8294914960190913489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e4be234333dfd0800000000000000
+      internalID: -2318453019526241046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab18b32556cca130800000000000000
+      internalID: 3579453872826489768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52015f62fc220df00800000000000000
+      internalID: 1139448978831904805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d84da846520af700800000000000000
+      internalID: 574774472052918488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51dec7ea9eb2e60800000000000000
+      internalID: 7938695703800124861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388048d9dbf380ad0800000000000000
+      internalID: -2735866690003531645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126572b66aa579d80800000000000000
+      internalID: -8244020922069592543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d415bc040cc0a60800000000000000
+      internalID: 7641694052262432044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce441fb7659a92820800000000000000
+      internalID: 2894030424473945324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84dcda116be9e8b0800000000000000
+      internalID: -5122304298862193526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474e3809767db6e70800000000000000
+      internalID: 9109611511093126260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110c5b0f220b3de0800000000000000
+      internalID: -1352484862017404653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221be87ed300ac240800000000000000
+      internalID: 4812659417676689698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e48ddac36f8110800000000000000
+      internalID: 1265339743265416124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad83f417f0c2110800000000000000
+      internalID: 1237380976954890922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80445e3a0f48a80800000000000000
+      internalID: -8465376812832913217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09748e064fc540ad0800000000000000
+      internalID: -2736960468866807920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1584390fe11ea0800000000000000
+      internalID: -5903674813691126487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a69d78b7223b10800000000000000
+      internalID: 1959672461194076716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d98e3faf939c4bd0800000000000000
+      internalID: -2644576567124129319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7769f864fbbddf0800000000000000
+      internalID: -154319452436531255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57562419f37a607f0800000000000000
+      internalID: -646645605019261579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2a6b8dc3436610800000000000000
+      internalID: 1613207641615117918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed354b2c7b8fd3c0800000000000000
+      internalID: -4332590951088964126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f079717a089770800000000000000
+      internalID: 8617649369458471991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17635454c36e89cb0800000000000000
+      internalID: -4856879051584489871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348a91b8ee15e570800000000000000
+      internalID: 8495230256865248306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b914c0feae01150800000000000000
+      internalID: 5841427029123242860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb789cb9edf8b930800000000000000
+      internalID: 4159353436209970126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8558ca949ebc5dd90800000000000000
+      internalID: -7073523436891634344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890191aa0f66df8d0800000000000000
+      internalID: -2810977408577367912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033c370dd10e3f60800000000000000
+      internalID: 8015846435586847490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363086270e9a33b60800000000000000
+      internalID: 7724704567327720291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2631a8f4348c9a0800000000000000
+      internalID: -6212641677059595585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefcc55c45309100800000000000000
+      internalID: 112648592657546993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9adc0219b162e590800000000000000
+      internalID: -7646441769822004577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34de58c08213f50800000000000000
+      internalID: 6859307741713613748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc149d2a61ddc2c0800000000000000
+      internalID: -4409638206164427591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8aba4379d421320800000000000000
+      internalID: 2527167652727335155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdc10e6c336e7910800000000000000
+      internalID: 1837014809208540667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa0b904a4afed00800000000000000
+      internalID: 1004202266371074745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c40344dd0c9a00800000000000000
+      internalID: 764501242054756672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a4008cf4a0208f0800000000000000
+      internalID: -575886464575845817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea48d37e98e9c90800000000000000
+      internalID: -7161134731209953766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8374dc55e08898d60800000000000000
+      internalID: 7892989417093941048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c68ee9efec5e570800000000000000
+      internalID: 8495423865087355930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1bf375719a9500800000000000000
+      internalID: 403795050246118549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf8ccf91f3e2ab0800000000000000
+      internalID: -5031014352878502806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee01d0a07e09a60800000000000000
+      internalID: 7678891395021598241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252bb2ba057913060800000000000000
+      internalID: 6931487674224849490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0f2280015859a80800000000000000
+      internalID: -8460710021043130140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d1ba7b64a47cf0800000000000000
+      internalID: -255398497326345547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274eef07313cbeaf0800000000000000
+      internalID: -365984456433015694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c17a0aa1234a3c0800000000000000
+      internalID: -4349296250187211630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e167ead3dbacf9180800000000000000
+      internalID: -9106337007387380194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a486cfc33d4f70800000000000000
+      internalID: 9173044983505397094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53e92e562d7c00d0800000000000000
+      internalID: -3455249210357980325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50bf6fb5070432f0800000000000000
+      internalID: -994161896474038179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13227b8f3bfa1ba20800000000000000
+      internalID: 3076433207977517617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6310cb2594181a0800000000000000
+      internalID: -6809080541917137244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d160ef7e6d10290800000000000000
+      internalID: -7925817577307759257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe654ceabbd6ad0800000000000000
+      internalID: -2707301441687064609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98a821156eb1800800000000000000
+      internalID: 584313812552419795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835df6836171444c0800000000000000
+      internalID: -4304289959655779016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14deb9438062ad290800000000000000
+      internalID: -7864931982564922047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b967ea3b843d380800000000000000
+      internalID: -8947728098091689119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55183a94a582650800000000000000
+      internalID: 6208311358652503537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23326faa497deb70800000000000000
+      internalID: 8929926997822550830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff52e2873a70c370800000000000000
+      internalID: 8340800888727822326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5d8785b8d2e040800000000000000
+      internalID: 4675537637338865506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3c70a66929c0f90800000000000000
+      internalID: -6986047747236838469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de49d8590ea2020800000000000000
+      internalID: 2317911891165638029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e6e4b035c66350800000000000000
+      internalID: 6009707565756639455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d10cb023331190800000000000000
+      internalID: -7992988697966291627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37707af0a62f5d0800000000000000
+      internalID: -3030242983807585368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc3720f51bd40970800000000000000
+      internalID: 8720335665766022326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c708f9af700fe0800000000000000
+      internalID: -1224838730657314957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f743cc6da2a09eb0800000000000000
+      internalID: -4715089944119130127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7ad85eb76a6ba40800000000000000
+      internalID: 5383673455630460901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e26eaef899b9d70800000000000000
+      internalID: 9050996719531470401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e7cae78527dee0800000000000000
+      internalID: -1236478307000130560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddde311e04b280b0800000000000000
+      internalID: -5727817803549975088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a0608e0277cbc0800000000000000
+      internalID: -3762913557035833449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b68f39e97365c0800000000000000
+      internalID: -4223397982843260289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba24e8efa17deb0800000000000000
+      internalID: -4695254405899703340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ae8effeb741ed0800000000000000
+      internalID: -2444192427057174686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85fcb5e9f7cccb70800000000000000
+      internalID: 8920724838029260171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc30f67e2a94580800000000000000
+      internalID: -8842357278481593334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e547961b182430800000000000000
+      internalID: 3758283672881848799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d05522d7901a90800000000000000
+      internalID: -7345204063416299183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee80b2daa73b8b0800000000000000
+      internalID: -5137627865729667549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f90a8ebd4d9ea1e0800000000000000
+      internalID: -2184635811993351695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d1767086f709b0800000000000000
+      internalID: -5113847820252490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160393b55af0c8e0800000000000000
+      internalID: -1675063815389903330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a2b1ddd0f4d550800000000000000
+      internalID: 6184833023783118836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd85ab65abb5a1d0800000000000000
+      internalID: -3340057229475344936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4cb85838703c10800000000000000
+      internalID: 2031255615346330665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99332a4161b3e0010800000000000000
+      internalID: 1156927120302289817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f030fdaf0e7e00800000000000000
+      internalID: 1044289403330032359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa6f8c791e6b2a0800000000000000
+      internalID: -6721937351775965257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b78e51a5782840800000000000000
+      internalID: 5199535105735373216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4656dde2f98840800000000000000
+      internalID: 5226975945857321885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ba142629c139d0800000000000000
+      internalID: -2796232727968698126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a12f8b1dfd75a0800000000000000
+      internalID: -6521778390555318472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d81607d8d68430800000000000000
+      internalID: 3784950954883340475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754dd27eedaf800c0800000000000000
+      internalID: -4609158383345478569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafe7bd12d2b0530800000000000000
+      internalID: 3822198332193700595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c864d6f0360bc10800000000000000
+      internalID: 2067261146872056848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa6ae56a0813350800000000000000
+      internalID: 5994714031047749540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da82dbfc1bde64af0800000000000000
+      internalID: -412380967907546963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885669a50bffbde50800000000000000
+      internalID: 6835337992363992456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486933a558e181d0800000000000000
+      internalID: -3350141193278625721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb233533453d4870800000000000000
+      internalID: 8668643420529699774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a682c3420dbca0800000000000000
+      internalID: -5999636638537965075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff3f3f2b64be58d0800000000000000
+      internalID: -2855646741259141128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03abdb91d69d15330800000000000000
+      internalID: 3697975831654414896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45b227d600900a0800000000000000
+      internalID: -6914995282783808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa186faf977215b0800000000000000
+      internalID: -5399121475537462532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c098f36dae9680800000000000000
+      internalID: -8746362781423319953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72261da2fe5da1300800000000000000
+      internalID: 223726354700526119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba763cfbc14beea0800000000000000
+      internalID: -5842503747217491273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d8b8ab07ae0fc0800000000000000
+      internalID: -3526697789667354435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165eefab56afd640800000000000000
+      internalID: 5106983415185298965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ef8b6439fa5770800000000000000
+      internalID: 8600460441955590334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd233fee4c5d86a90800000000000000
+      internalID: -7320366152491519268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfde9026da6ae230800000000000000
+      internalID: 3668862314349518800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7831b0d7a642a90800000000000000
+      internalID: -7339624407417780246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f9b13c0455ea0e0800000000000000
+      internalID: -2256772626626404550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0c9e5c27a3e050800000000000000
+      internalID: 5828686151755238138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e984a35e5258bd800800000000000000
+      internalID: 638250170009143454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c9595c8e9fdd560800000000000000
+      internalID: 7340297745826421761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4ae8594c1e7850800000000000000
+      internalID: 6376565223753141188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d5ea8ac85be4f0800000000000000
+      internalID: -798446881991175741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88aac690c8cdfae0800000000000000
+      internalID: -1513833170237478774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25184899f654f4db0800000000000000
+      internalID: -4805545931761745582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b88fa7ced1e7c4f0800000000000000
+      internalID: -808429261140555591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08040a51b2e18fc70800000000000000
+      internalID: 9004980625322557568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4b6da8342d6e70800000000000000
+      internalID: 9109977447086640023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1cb91e4975270c0800000000000000
+      internalID: -4579501574130515504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d292efd8b48e4250800000000000000
+      internalID: 5930823688858538711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d7091b141eeb9d0800000000000000
+      internalID: -2756518249636004601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56b04793da66e30800000000000000
+      internalID: 4496471740247664050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788ee23b844c76b10800000000000000
+      internalID: 1974762778148137095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f705903ed6b39290800000000000000
+      internalID: -7884757457181538320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51d9bcf90e57b2f0800000000000000
+      internalID: -957192998805188257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731227045a13ae3a0800000000000000
+      internalID: -6635436515156418249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c27ef7071f6370800000000000000
+      internalID: 8317892359877740949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c2b82ff85c4ee0800000000000000
+      internalID: -1275546741529983893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c16393260348f60800000000000000
+      internalID: 8035600833560583304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd28bae4406049b30800000000000000
+      internalID: 4293062960360424157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042031d446375e950800000000000000
+      internalID: 6477710513669341760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e51ba1d33b2aa0800000000000000
+      internalID: -6184792687651723297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f99d205f8fbbb80800000000000000
+      internalID: -8377828950594183385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0838bc19004627930800000000000000
+      internalID: 4139480961115718528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a1d414c2e9e39a0800000000000000
+      internalID: -6251385319832348068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c0cb7c0ebff860800000000000000
+      internalID: 7565974859830838508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69828f2d0e8abec0800000000000000
+      internalID: -3550369168945411732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be5ad0e96d289170800000000000000
+      internalID: 8185342255513099953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd20739fae34e850800000000000000
+      internalID: 6405313493841489355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf98ad8a1b85bd0800000000000000
+      internalID: -2641165842673697641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b262339d60b2480800000000000000
+      internalID: -8923030706768696513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfca327174fed910800000000000000
+      internalID: 1864196063862902713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241c8db8a4272d30800000000000000
+      internalID: 4406531067558499361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e1197321d3b9e10800000000000000
+      internalID: 2205423590978952846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3c0082206b1420800000000000000
+      internalID: 2601778911030033607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50091d5088c50dd50800000000000000
+      internalID: 6760004779966042117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b62168427e0980800000000000000
+      internalID: -8570787385646335799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35a02633dea7f10800000000000000
+      internalID: 2268386167278425083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f3b23c5da95820800000000000000
+      internalID: 2907545645943617208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d54d1a9dff8bfc30800000000000000
+      internalID: 4394264180805158354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97909db87221fa4b0800000000000000
+      internalID: -5427099064898877063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sheet_Necklaces_Silver_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef0f097430a2f50800000000000000
+      internalID: 6857296988534275772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Item_Sheet_Necklaces_Silver_0: -6460296942595603440
+      Item_Sheet_Necklaces_Silver_1: -4304196374904797058
+      Item_Sheet_Necklaces_Silver_10: 7650911070235162356
+      Item_Sheet_Necklaces_Silver_100: -4715089944119130127
+      Item_Sheet_Necklaces_Silver_101: 5383673455630460901
+      Item_Sheet_Necklaces_Silver_102: 9050996719531470401
+      Item_Sheet_Necklaces_Silver_103: -1236478307000130560
+      Item_Sheet_Necklaces_Silver_104: -5727817803549975088
+      Item_Sheet_Necklaces_Silver_105: -3762913557035833449
+      Item_Sheet_Necklaces_Silver_106: -4223397982843260289
+      Item_Sheet_Necklaces_Silver_107: -4695254405899703340
+      Item_Sheet_Necklaces_Silver_108: -2444192427057174686
+      Item_Sheet_Necklaces_Silver_109: 8920724838029260171
+      Item_Sheet_Necklaces_Silver_11: -1968233866051109360
+      Item_Sheet_Necklaces_Silver_110: -8842357278481593334
+      Item_Sheet_Necklaces_Silver_111: 3758283672881848799
+      Item_Sheet_Necklaces_Silver_112: -7345204063416299183
+      Item_Sheet_Necklaces_Silver_113: -5137627865729667549
+      Item_Sheet_Necklaces_Silver_114: -2184635811993351695
+      Item_Sheet_Necklaces_Silver_115: -5113847820252490116
+      Item_Sheet_Necklaces_Silver_116: -1675063815389903330
+      Item_Sheet_Necklaces_Silver_117: 6184833023783118836
+      Item_Sheet_Necklaces_Silver_118: -3340057229475344936
+      Item_Sheet_Necklaces_Silver_119: 2031255615346330665
+      Item_Sheet_Necklaces_Silver_12: -8355662024163864359
+      Item_Sheet_Necklaces_Silver_120: 1156927120302289817
+      Item_Sheet_Necklaces_Silver_121: 1044289403330032359
+      Item_Sheet_Necklaces_Silver_122: -6721937351775965257
+      Item_Sheet_Necklaces_Silver_123: 5199535105735373216
+      Item_Sheet_Necklaces_Silver_124: 5226975945857321885
+      Item_Sheet_Necklaces_Silver_125: -2796232727968698126
+      Item_Sheet_Necklaces_Silver_126: -6521778390555318472
+      Item_Sheet_Necklaces_Silver_127: 3784950954883340475
+      Item_Sheet_Necklaces_Silver_128: -4609158383345478569
+      Item_Sheet_Necklaces_Silver_129: 3822198332193700595
+      Item_Sheet_Necklaces_Silver_13: -7190826930880897463
+      Item_Sheet_Necklaces_Silver_130: 2067261146872056848
+      Item_Sheet_Necklaces_Silver_131: 5994714031047749540
+      Item_Sheet_Necklaces_Silver_132: -412380967907546963
+      Item_Sheet_Necklaces_Silver_133: 6835337992363992456
+      Item_Sheet_Necklaces_Silver_134: -3350141193278625721
+      Item_Sheet_Necklaces_Silver_135: 8668643420529699774
+      Item_Sheet_Necklaces_Silver_136: -5999636638537965075
+      Item_Sheet_Necklaces_Silver_137: -2855646741259141128
+      Item_Sheet_Necklaces_Silver_138: 3697975831654414896
+      Item_Sheet_Necklaces_Silver_139: -6914995282783808260
+      Item_Sheet_Necklaces_Silver_14: 5131195942141802235
+      Item_Sheet_Necklaces_Silver_140: -5399121475537462532
+      Item_Sheet_Necklaces_Silver_141: -8746362781423319953
+      Item_Sheet_Necklaces_Silver_142: 223726354700526119
+      Item_Sheet_Necklaces_Silver_143: -5842503747217491273
+      Item_Sheet_Necklaces_Silver_144: -3526697789667354435
+      Item_Sheet_Necklaces_Silver_145: 5106983415185298965
+      Item_Sheet_Necklaces_Silver_146: 8600460441955590334
+      Item_Sheet_Necklaces_Silver_147: -7320366152491519268
+      Item_Sheet_Necklaces_Silver_148: 3668862314349518800
+      Item_Sheet_Necklaces_Silver_149: -7339624407417780246
+      Item_Sheet_Necklaces_Silver_15: -5163393763702966637
+      Item_Sheet_Necklaces_Silver_150: -2256772626626404550
+      Item_Sheet_Necklaces_Silver_151: 5828686151755238138
+      Item_Sheet_Necklaces_Silver_152: 638250170009143454
+      Item_Sheet_Necklaces_Silver_153: 7340297745826421761
+      Item_Sheet_Necklaces_Silver_154: 6376565223753141188
+      Item_Sheet_Necklaces_Silver_155: -798446881991175741
+      Item_Sheet_Necklaces_Silver_156: -1513833170237478774
+      Item_Sheet_Necklaces_Silver_157: -4805545931761745582
+      Item_Sheet_Necklaces_Silver_158: -808429261140555591
+      Item_Sheet_Necklaces_Silver_159: 9004980625322557568
+      Item_Sheet_Necklaces_Silver_16: -5813917495408160975
+      Item_Sheet_Necklaces_Silver_160: 9109977447086640023
+      Item_Sheet_Necklaces_Silver_161: -4579501574130515504
+      Item_Sheet_Necklaces_Silver_162: 5930823688858538711
+      Item_Sheet_Necklaces_Silver_163: -2756518249636004601
+      Item_Sheet_Necklaces_Silver_164: 4496471740247664050
+      Item_Sheet_Necklaces_Silver_165: 1974762778148137095
+      Item_Sheet_Necklaces_Silver_166: -7884757457181538320
+      Item_Sheet_Necklaces_Silver_167: -957192998805188257
+      Item_Sheet_Necklaces_Silver_168: -6635436515156418249
+      Item_Sheet_Necklaces_Silver_169: 8317892359877740949
+      Item_Sheet_Necklaces_Silver_17: 1988500602618714008
+      Item_Sheet_Necklaces_Silver_170: -1275546741529983893
+      Item_Sheet_Necklaces_Silver_171: 8035600833560583304
+      Item_Sheet_Necklaces_Silver_172: 4293062960360424157
+      Item_Sheet_Necklaces_Silver_173: 6477710513669341760
+      Item_Sheet_Necklaces_Silver_174: -6184792687651723297
+      Item_Sheet_Necklaces_Silver_175: -8377828950594183385
+      Item_Sheet_Necklaces_Silver_176: 4139480961115718528
+      Item_Sheet_Necklaces_Silver_177: -6251385319832348068
+      Item_Sheet_Necklaces_Silver_178: 7565974859830838508
+      Item_Sheet_Necklaces_Silver_179: -3550369168945411732
+      Item_Sheet_Necklaces_Silver_18: 1151298594730362500
+      Item_Sheet_Necklaces_Silver_180: 8185342255513099953
+      Item_Sheet_Necklaces_Silver_181: 6405313493841489355
+      Item_Sheet_Necklaces_Silver_182: -2641165842673697641
+      Item_Sheet_Necklaces_Silver_183: -8923030706768696513
+      Item_Sheet_Necklaces_Silver_184: 1864196063862902713
+      Item_Sheet_Necklaces_Silver_185: 4406531067558499361
+      Item_Sheet_Necklaces_Silver_186: 2205423590978952846
+      Item_Sheet_Necklaces_Silver_187: 2601778911030033607
+      Item_Sheet_Necklaces_Silver_188: 6760004779966042117
+      Item_Sheet_Necklaces_Silver_189: -8570787385646335799
+      Item_Sheet_Necklaces_Silver_19: 4839956814901862117
+      Item_Sheet_Necklaces_Silver_190: 2268386167278425083
+      Item_Sheet_Necklaces_Silver_191: 2907545645943617208
+      Item_Sheet_Necklaces_Silver_192: 4394264180805158354
+      Item_Sheet_Necklaces_Silver_193: -5427099064898877063
+      Item_Sheet_Necklaces_Silver_194: 6857296988534275772
+      Item_Sheet_Necklaces_Silver_2: -5103191195544007047
+      Item_Sheet_Necklaces_Silver_20: 4933227582677689846
+      Item_Sheet_Necklaces_Silver_21: 4901725580460921803
+      Item_Sheet_Necklaces_Silver_22: -8294914960190913489
+      Item_Sheet_Necklaces_Silver_23: -2318453019526241046
+      Item_Sheet_Necklaces_Silver_24: 3579453872826489768
+      Item_Sheet_Necklaces_Silver_25: 1139448978831904805
+      Item_Sheet_Necklaces_Silver_26: 574774472052918488
+      Item_Sheet_Necklaces_Silver_27: 7938695703800124861
+      Item_Sheet_Necklaces_Silver_28: -2735866690003531645
+      Item_Sheet_Necklaces_Silver_29: -8244020922069592543
+      Item_Sheet_Necklaces_Silver_3: -3377195987443590495
+      Item_Sheet_Necklaces_Silver_30: 7641694052262432044
+      Item_Sheet_Necklaces_Silver_31: 2894030424473945324
+      Item_Sheet_Necklaces_Silver_32: -5122304298862193526
+      Item_Sheet_Necklaces_Silver_33: 9109611511093126260
+      Item_Sheet_Necklaces_Silver_34: -1352484862017404653
+      Item_Sheet_Necklaces_Silver_35: 4812659417676689698
+      Item_Sheet_Necklaces_Silver_36: 1265339743265416124
+      Item_Sheet_Necklaces_Silver_37: 1237380976954890922
+      Item_Sheet_Necklaces_Silver_38: -8465376812832913217
+      Item_Sheet_Necklaces_Silver_39: -2736960468866807920
+      Item_Sheet_Necklaces_Silver_4: 2337405508674590045
+      Item_Sheet_Necklaces_Silver_40: -5903674813691126487
+      Item_Sheet_Necklaces_Silver_41: 1959672461194076716
+      Item_Sheet_Necklaces_Silver_42: -2644576567124129319
+      Item_Sheet_Necklaces_Silver_43: -154319452436531255
+      Item_Sheet_Necklaces_Silver_44: -646645605019261579
+      Item_Sheet_Necklaces_Silver_45: 1613207641615117918
+      Item_Sheet_Necklaces_Silver_46: -4332590951088964126
+      Item_Sheet_Necklaces_Silver_47: 8617649369458471991
+      Item_Sheet_Necklaces_Silver_48: -4856879051584489871
+      Item_Sheet_Necklaces_Silver_49: 8495230256865248306
+      Item_Sheet_Necklaces_Silver_5: -8406423144633797136
+      Item_Sheet_Necklaces_Silver_50: 5841427029123242860
+      Item_Sheet_Necklaces_Silver_51: 4159353436209970126
+      Item_Sheet_Necklaces_Silver_52: -7073523436891634344
+      Item_Sheet_Necklaces_Silver_53: -2810977408577367912
+      Item_Sheet_Necklaces_Silver_54: 8015846435586847490
+      Item_Sheet_Necklaces_Silver_55: 7724704567327720291
+      Item_Sheet_Necklaces_Silver_56: -6212641677059595585
+      Item_Sheet_Necklaces_Silver_57: 112648592657546993
+      Item_Sheet_Necklaces_Silver_58: -7646441769822004577
+      Item_Sheet_Necklaces_Silver_59: 6859307741713613748
+      Item_Sheet_Necklaces_Silver_6: -6450642836832894011
+      Item_Sheet_Necklaces_Silver_60: -4409638206164427591
+      Item_Sheet_Necklaces_Silver_61: 2527167652727335155
+      Item_Sheet_Necklaces_Silver_62: 1837014809208540667
+      Item_Sheet_Necklaces_Silver_63: 1004202266371074745
+      Item_Sheet_Necklaces_Silver_64: 764501242054756672
+      Item_Sheet_Necklaces_Silver_65: -575886464575845817
+      Item_Sheet_Necklaces_Silver_66: -7161134731209953766
+      Item_Sheet_Necklaces_Silver_67: 7892989417093941048
+      Item_Sheet_Necklaces_Silver_68: 8495423865087355930
+      Item_Sheet_Necklaces_Silver_69: 403795050246118549
+      Item_Sheet_Necklaces_Silver_7: -6003868983765449925
+      Item_Sheet_Necklaces_Silver_70: -5031014352878502806
+      Item_Sheet_Necklaces_Silver_71: 7678891395021598241
+      Item_Sheet_Necklaces_Silver_72: 6931487674224849490
+      Item_Sheet_Necklaces_Silver_73: -8460710021043130140
+      Item_Sheet_Necklaces_Silver_74: -255398497326345547
+      Item_Sheet_Necklaces_Silver_75: -365984456433015694
+      Item_Sheet_Necklaces_Silver_76: -4349296250187211630
+      Item_Sheet_Necklaces_Silver_77: -9106337007387380194
+      Item_Sheet_Necklaces_Silver_78: 9173044983505397094
+      Item_Sheet_Necklaces_Silver_79: -3455249210357980325
+      Item_Sheet_Necklaces_Silver_8: -7635741037880790266
+      Item_Sheet_Necklaces_Silver_80: -994161896474038179
+      Item_Sheet_Necklaces_Silver_81: 3076433207977517617
+      Item_Sheet_Necklaces_Silver_82: -6809080541917137244
+      Item_Sheet_Necklaces_Silver_83: -7925817577307759257
+      Item_Sheet_Necklaces_Silver_84: -2707301441687064609
+      Item_Sheet_Necklaces_Silver_85: 584313812552419795
+      Item_Sheet_Necklaces_Silver_86: -4304289959655779016
+      Item_Sheet_Necklaces_Silver_87: -7864931982564922047
+      Item_Sheet_Necklaces_Silver_88: -8947728098091689119
+      Item_Sheet_Necklaces_Silver_89: 6208311358652503537
+      Item_Sheet_Necklaces_Silver_9: -1351798591961520372
+      Item_Sheet_Necklaces_Silver_90: 8929926997822550830
+      Item_Sheet_Necklaces_Silver_91: 8340800888727822326
+      Item_Sheet_Necklaces_Silver_92: 4675537637338865506
+      Item_Sheet_Necklaces_Silver_93: -6986047747236838469
+      Item_Sheet_Necklaces_Silver_94: 2317911891165638029
+      Item_Sheet_Necklaces_Silver_95: 6009707565756639455
+      Item_Sheet_Necklaces_Silver_96: -7992988697966291627
+      Item_Sheet_Necklaces_Silver_97: -3030242983807585368
+      Item_Sheet_Necklaces_Silver_98: 8720335665766022326
+      Item_Sheet_Necklaces_Silver_99: -1224838730657314957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

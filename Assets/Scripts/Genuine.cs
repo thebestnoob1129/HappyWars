@@ -1,32 +1,40 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Genuine : MonoBehaviour
 {
-    public Color homePrimary;
-    public Color homeSecondary;
-    public Color awayPrimary;
-    public Color awaySecondary;
+    public static Genuine Instance { get; private set; }
+
+    [SerializeField]
+    Tycoon[] tycoons;
+
+    private int globalBalance;
+    private GameObject[] players;
+
+    public static bool pvp;
 
     private GameObject[] playerList;
 
+    public Scene valuableScene;
+
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
     void Start()
     {
-        // Get Players 
-        playerList = GameObject.FindGameObjectsWithTag("Player");
-        for (int i = 0; i < playerList.Length; i++){
-            GameObject player = playerList[i];
-            if (player)
-            {
-                playerList[i] = player;
-            }
-        }
-
-        int blockAmount = GameObject.FindGameObjectsWithTag("Block").Length;
-        // Get Blocks
-        for (int i = blockAmount; i < blockAmount; i++)
+        for (int i = 0; i < tycoons.Length; i++)
         {
-            GameObject block = GameObject.FindGameObjectsWithTag("Block")[i];
-            
+            Tycoon tycoon = tycoons[i];
         }
 
         // Display to Screens
