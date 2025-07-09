@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Walls : Machine
 {
-    public bool inside = false;
+    public bool inside;
 
     [SerializeField]
     private GameObject wallPrefab;
@@ -11,19 +11,19 @@ public class Walls : Machine
     private int wallCount = 10;
 
     [SerializeField]
-    private float spacing = 0f;
+    private float spacing;
 
     [SerializeField]
     private float wallWidth = 0.5f;
 
-    private float wallHeight = 3.0f;
+    private float _wallHeight = 3.0f;
 
     void Update()
     {
-        wallHeight = Value;
+        _wallHeight = Value;
         Vector3 lastScale = transform.localScale;
         transform.localScale = new Vector3(
-            lastScale.x, wallHeight, lastScale.z
+            lastScale.x, _wallHeight, lastScale.z
         );
         GameUpdate();
     }

@@ -15,7 +15,7 @@ public class TierList : ScriptableObject
 
         public int cost;
 
-        public Material skin;
+        public GameObject skin;
 
         public Color color;
 
@@ -27,7 +27,7 @@ public class TierList : ScriptableObject
     public float Value { get { return tier[currentTier - 1].defaultValue; } }
     public int Cost { get { return tier[currentTier - 1].cost; } }
     public int ReqLevel { get { return tier[currentTier - 1].reqLevel; } }
-    public Material Skin { get { return tier[currentTier - 1].skin; } }
+    public GameObject Skin { get { return tier[currentTier - 1].skin; } }
     public Color Color { get { return tier[currentTier - 1].color; } }
 
     public int CurrentTier { get { return currentTier; } }

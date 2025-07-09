@@ -1,0 +1,1 @@
+Tycoon -> Bank(s) -> Collector -> Conveyor -> Valuable(s) -> Upgrader -> Dropper 

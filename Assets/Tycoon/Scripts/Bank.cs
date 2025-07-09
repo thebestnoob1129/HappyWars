@@ -1,49 +1,32 @@
-using System;
-using System.Linq;
 using UnityEngine;
 
 public class Bank : Machine
 {
 
-    private float balance = 0;
-    public int Balance { get {return Mathf.RoundToInt(balance); } }
-
-    private void Start()
-    {
-        balance = 0;
-    }
+    internal float balance;
+    public int Balance => Mathf.RoundToInt(balance);
 
     private void FixedUpdate()
     {
         GameUpdate();
     }
 
-    public void OnCollect(Tycoon tycoon)
+    public void OnCollect(Tycoon tyc)
     {
-        if (tycoon == null) { Debug.LogWarning("No Tycoon", gameObject); }
-        if (tycoon.Banks.Contains(this))
-        {
-            balance = 0;
-        }
+        if (tyc != null && tyc.banks.Contains(this)) { balance = 0; }
     }
 
     public void AddCash(Valuable val)
     {
-        balance += val.Value * (1 + (Value));
+        balance += val.Value * (1 + Value);
     }
 
-    public void RemoveCash(Valuable val)
-    {
-        balance -= val.Value;
-    }
     public void RemoveCash(Button button)
     {
+        if (button.team != team) { return; }
         if (!button.canPurchase) { return; }
-        if (balance < button.Cost) { return; }
-        if (button.Team != Team) { return; }
+        if (balance < button.cost) { return; }
 
-        balance -= button.Cost;
-
+        balance -= button.cost;
     }
-
 }

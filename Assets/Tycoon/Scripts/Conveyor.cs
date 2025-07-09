@@ -1,10 +1,13 @@
-using System.ComponentModel;
 using UnityEngine;
 
 public class Conveyor : Machine
 {
-    //[SerializeField] 
-    public float speed;
+    public float speed = 1;
+
+    private void Start()
+    {
+        if (!bank) {bank = tycoon.ghostBank;}
+    }
 
     private void FixedUpdate()
     {
@@ -13,12 +16,12 @@ public class Conveyor : Machine
 
     private void OnCollisionStay(Collision collision)
     {
-        var collider = collision.collider.gameObject;
-        if (collider.GetComponent<Rigidbody>())
+        var col = collision.collider.gameObject;
+        if (col.GetComponent<Rigidbody>())
         {
-            Rigidbody rb = collider.GetComponent<Rigidbody>();
+            Rigidbody rb = col.GetComponent<Rigidbody>();
 
-            Vector3 force = (Value * speed) * Time.deltaTime * transform.forward;// + collider.transform.position;
+            Vector3 force = Value * speed * Time.deltaTime * transform.forward;// + collider.transform.position;
 
             rb.AddForce(force, ForceMode.Impulse);
         }

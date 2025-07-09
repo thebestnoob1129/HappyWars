@@ -10,39 +10,37 @@ public class Dropper : Machine
     GameObject product;
 
     [SerializeField]
-    float speed;
-
-    [SerializeField]
-    float minSpeed = 0.1f;
-
+    float productMultiplier = 1f;
 
     private bool waiting = false;
-    private bool canSpawn = true;
+
+    bool canSpawn = true;
+
+    // Create button press
+    //bool canPress = false;
 
     void Start()
     {
         if (product == null) {Debug.LogError("No product assigned to Dropper", gameObject);}
-        physicalButton.GetComponent<Button>().SetMachine(this);
     }
 
     private void FixedUpdate()
     {
-
-        // Value is Dropper Multiplier
-
         GameUpdate();
+        //Check Activity
         if (waiting == false)
         {
-            if (speed < minSpeed) { speed = minSpeed; }
-            StartCoroutine(CreateProduct(speed));//here
             waiting = true;
+            StartCoroutine(CreateProduct(Value));
         }
     }
 
     IEnumerator CreateProduct(float seconds)
     {
         if (!canSpawn) { yield break; }
-        Instantiate(product, spawnPoint.position, Quaternion.identity);
+        // New Product
+        GameObject prod = Instantiate(product, spawnPoint.position, Quaternion.identity);
+        prod.GetComponent<Valuable>().multiplier += productMultiplier;
         yield return new WaitForSeconds(seconds);
         waiting = false;
     }

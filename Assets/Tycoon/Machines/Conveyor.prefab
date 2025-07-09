@@ -65,7 +65,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 570f17a9892331045b8cc9d3c4651db8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -178,7 +178,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 570f17a9892331045b8cc9d3c4651db8, type: 2}
+  - {fileID: 2100000, guid: 2192d2226cf51d5459f4c9bbc7dc287d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -233,10 +233,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67a7c65f31054124499e60326867314a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiers: {fileID: 11400000, guid: 8d1f5afbe6964044592e904aba5b2161, type: 2}
   canPurchase: 0
+  tiers: {fileID: 11400000, guid: 8d1f5afbe6964044592e904aba5b2161, type: 2}
   physicalButton: {fileID: 1427863765215403396}
-  maxValue: 1
+  displayCost: -1
+  showText: 1
+  displayText: {fileID: 0}
   speed: 1
 --- !u!1 &4327335897883079036
 GameObject:
@@ -303,7 +305,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 570f17a9892331045b8cc9d3c4651db8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -374,8 +376,8 @@ Transform:
   m_GameObject: {fileID: 8365689336463086345}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -0.475}
-  m_LocalScale: {x: 1, y: 1, z: 0.05}
+  m_LocalPosition: {x: 0, y: 1, z: -0.5}
+  m_LocalScale: {x: 1, y: 1, z: 0.01}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4416352630565356048}
@@ -411,7 +413,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 570f17a9892331045b8cc9d3c4651db8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -502,6 +504,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7068594789494184973, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
+      propertyPath: controlMachine
+      value: 
+      objectReference: {fileID: 4770681221664043147}
     - target: {fileID: 7360555010136587491, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
       propertyPath: m_Name
       value: Button

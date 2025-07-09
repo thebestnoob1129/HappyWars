@@ -1,51 +1,48 @@
 using System.Linq;
+using System.Collections.Generic;
 using UnityEngine;
 
 [DisallowMultipleComponent]
 public class Tycoon : MonoBehaviour
 {
-    [SerializeField] private Machine[] machines;
-    public Machine[] Machines { get { return machines; } }
-    [SerializeField] private Bank[] banks;
-    public Bank[] Banks { get { return banks; } }
+    [SerializeField] internal List<Machine> machines;
+    //public List<Machine> Machines => machines;
 
-    int team;
-    public int Team { get { return team; } }
+    [SerializeField] internal List<Bank> banks;
+    //public List<Bank> Banks => banks;
 
-    bool pvp = false;
+    internal int team;
+    //public int Team => team;
 
-    private GameObject[] treasures;
+    internal int totalCash;
+    //public int TotalCash => totalCash;
 
-    private int totalCash = 0;
-    public int TotalCash { get { return totalCash; } }//totalCashCollected
+    internal int balance;
+    //public int Balance => balance;
 
-    private int balance = 0;
-    public int Balance { get { return balance; } }// currentBalance
+    internal Bank ghostBank;
+    //public Bank GhostBank => ghostBank.GetComponent<Bank>();
 
-    private GameObject ghostBank;
-    public Bank GhostBank { get { return ghostBank.GetComponent<Bank>(); } }// Ghost Bank
-
-    private float multiplier = 1f;
-    public float Multiplier { get { return multiplier; } }// Multiplier (name)
-
-    void Awake()
-    {
-        ghostBank = CreateBank(false);
-    }
+    internal float multiplier = 1f;
+    //public float Multiplier => multiplier;
 
     private void Start()
     {
-        GameObject[] rootObjects = UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects();
-        for (int i = 0; i < machines.Length; i++)
-        {
-            if (machines[i] == null) { return; }
-            Machine mach = machines[i];
+        if (!ghostBank) {CreateBank();}
 
+        Machine[] rootObjects = Object.FindObjectsByType<Machine>(FindObjectsSortMode.InstanceID);//UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects();
+        foreach (var obj in rootObjects)
+        {
+            if (obj.GetComponent<Button>()){ return; }
+            if (obj.GetComponent<Bank>() && !banks.Contains(obj.GetComponent<Bank>())) { banks.Add(obj.GetComponent<Bank>()); }
+            if (obj && !obj.GetComponent<Bank>()) { machines.Add(obj); }
         }
     }
 
     private void FixedUpdate()
     {
+        if (!ghostBank) { CreateBank(); }
+        gameObject.SetActive(true);
         balance = UpdateBanks();
     }
     /*
@@ -80,9 +77,10 @@ public class Tycoon : MonoBehaviour
 
     private void Collect(Bank bank)
     {
-        if (bank.Team != team) { return; }
+        if (bank.team != team) { return; }
         if (!banks.Contains<Bank>(bank)) { return; }
-        
+        float money = bank.Balance * multiplier;
+
         totalCash += bank.Balance;
         balance += bank.Balance;
         bank.OnCollect(this);
@@ -100,22 +98,18 @@ public class Tycoon : MonoBehaviour
 
     }
 
-    private GameObject CreateBank(bool isPublic = false)
+    private void CreateBank(bool isPublic = false)
     {
-        GameObject bank = Instantiate(banks[0].gameObject, transform);
-        bank.name = name + "'s Bank";
-
-        //bank.GetComponent<Renderer>().enabled = isPublic;
-
-        return bank;
+        ghostBank = Instantiate(banks[0].gameObject, transform).GetComponent<Bank>();
+        ghostBank.name = name + "'s Bank";
     }
 
     public int UpdateBanks()
     {
         float bankValue = 0;
-        for (int i = 0; i < banks.Length; i++)
+        foreach (var t in banks)
         {
-            bankValue += banks[i].Balance;
+            bankValue += t.Balance;
         }
         return Mathf.RoundToInt(bankValue);
     }

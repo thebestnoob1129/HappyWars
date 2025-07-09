@@ -1,11 +1,14 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class Valuable : MonoBehaviour
 {
-    protected float multiplier;
+    internal float multiplier;
     [SerializeField] TierList tiers;
 
-    public float Value { get { return Mathf.RoundToInt(tiers.Value * multiplier); } }
+    private List<Upgrader> upgrList;
+
+    public float Value => Mathf.RoundToInt(tiers.Value * multiplier);
 
     void Start()
     {
@@ -14,12 +17,14 @@ public class Valuable : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        var obj = collision.collider.gameObject;
-        if (obj.GetComponent<Upgrader>() != null)
+        GameObject obj = collision.collider.gameObject;
+        Upgrader upg = obj?.GetComponent<Upgrader>();
+
+        if (upg && !upgrList.Contains(upg))
         {
-            var u = obj.GetComponent<Upgrader>();
-            if (u.Value <= 0) { Debug.LogWarning("Upgrader value is zero or negative, ignoring upgrade.", u); }
-            multiplier += u.Value;
+            upgrList.Add(upg);
+            if (upg.Value <= 0) { Debug.LogWarning("Upgrader value is zero or negative, ignoring upgrade.", upg); }
+            multiplier += upg.Value;
         }
     }
 }

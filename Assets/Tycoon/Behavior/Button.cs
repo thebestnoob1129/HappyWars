@@ -2,51 +2,45 @@ using UnityEngine;
 
 public class Button : Machine
 {
-    Machine controlMachine;
-    Bank controlBank;
-    
-    Vector3 defaultScale = new Vector3(1f, 0.1f, 1f);
+    [SerializeField] private Machine controlMachine;
 
     private void Awake()
     {
-        tycoon = GameObject.FindAnyObjectByType<Tycoon>();
-        if (controlBank == null) { controlBank = tycoon.GhostBank;}
+        tycoon = FindAnyObjectByType<Tycoon>();
     }
 
     private void Start()
     {
         canPurchase = false;
 
-        tycoon = GameObject.FindAnyObjectByType<Tycoon>();
-        controlBank = tycoon.GhostBank;
+        //Control Machine is Parent
+        if (!controlMachine) { controlMachine = transform.parent.GetComponent<Machine>(); }
+        if (!controlMachine) { Debug.LogError("No Machine", gameObject); }
 
+        //Purchasable
         if (controlMachine.canPurchase)
         {
+            //Hide Machine Add Button
             transform.SetParent(null, true);
             controlMachine.gameObject.SetActive(false);
         }
         else
         {
+            //Show Machine Remove Button
+            controlMachine.gameObject.SetActive(true);
             gameObject.SetActive(false);
-            //Destroy(gameObject);
-            Debug.LogWarning("Button is not purchasable", controlMachine);
+            //Destroy(gameObject, 1f);
         }
     }
 
-    public void SetBank(Bank bank) {if (!controlBank) { controlBank = bank; } }
-    public void SetMachine(Machine machine) {if (!controlMachine) { controlMachine = machine; } }
-
     private void FixedUpdate()
     {
-        if (transform.parent != null)
-        {
-            transform.SetParent(null); // Set to world space
-        }
-
-        canPurchase = controlBank.Balance > controlMachine.Cost;
-        transform.localScale = defaultScale;
+        //Force Bank
+        if (!bank) { bank = tycoon.ghostBank; }
 
         if (enabled) { controlMachine.gameObject.SetActive(false); }
+
+        canPurchase = bank.Balance > controlMachine.cost;
         if (canPurchase)
         {
             if (GetComponent<Renderer>()) { GetComponent<Renderer>().material.color = Color.green; }
@@ -56,17 +50,22 @@ public class Button : Machine
             if (GetComponent<Renderer>()) { GetComponent<Renderer>().material.color = Color.red; }
         }
 
+        if (controlMachine) { GameUpdate(); }
+
     }
 
-    public bool Purchase()
+    private void OnCollisionEnter(Collision other) => Purchase(other.collider.gameObject);
+
+    public bool Purchase(GameObject plr)
     {
+        if (!plr.GetComponent<PlayerMovement>()) { return false; }
         if (canPurchase)
         // && controlMachine.Team == controlBank.Team)
         {
-            controlBank.RemoveCash(GetComponent<Button>());
+            bank.RemoveCash(GetComponent<Button>());
             controlMachine.gameObject.SetActive(true);
             Debug.Log("Purchased: " + controlMachine.name, controlMachine);
-            Destroy(gameObject);
+            gameObject.SetActive(false);
             return true;
         }
         Debug.Log("Can't be purchased", controlMachine);
@@ -76,6 +75,6 @@ public class Button : Machine
     void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;
-        Gizmos.DrawWireCube(transform.position, defaultScale);
+        Gizmos.DrawWireCube(transform.position, new(1, 0.1f, 1));
     }
 }

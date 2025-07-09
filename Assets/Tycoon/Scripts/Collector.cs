@@ -3,9 +3,10 @@ using UnityEngine;
 public class Collector : Machine
 {
 
-    [SerializeField]
-    private Bank bank;
-
+    private void Start()
+    {
+        if (!bank) {bank = tycoon.ghostBank;}
+    }
     private void FixedUpdate()
     {
         GameUpdate();
