@@ -2,7 +2,10 @@ using UnityEngine;
 
 public class Button : Machine
 {
-    [SerializeField] private Machine controlMachine;
+    [SerializeField] private GameObject controlObject;
+    [SerializeField]private int price;
+
+    private Machine controlMachine;
 
     private void Awake()
     {
@@ -12,35 +15,43 @@ public class Button : Machine
     private void Start()
     {
         canPurchase = false;
-
-        //Control Machine is Parent
-        if (!controlMachine) { controlMachine = transform.parent.GetComponent<Machine>(); }
-        if (!controlMachine) { Debug.LogError("No Machine", gameObject); }
+        controlMachine = GetComponent<Machine>();
 
         //Purchasable
-        if (controlMachine.canPurchase)
+        if (controlMachine.canPurchase && controlMachine)
         {
             //Hide Machine Add Button
+            price = controlMachine.cost;
             transform.SetParent(null, true);
             controlMachine.gameObject.SetActive(false);
         }
-        else
+        else if (controlMachine)
         {
             //Show Machine Remove Button
             controlMachine.gameObject.SetActive(true);
             gameObject.SetActive(false);
             //Destroy(gameObject, 1f);
         }
+
+        controlObject.SetActive(false);
+
     }
 
     private void FixedUpdate()
     {
         //Force Bank
         if (!bank) { bank = tycoon.ghostBank; }
+        if (enabled) { controlObject.SetActive(false); }
 
-        if (enabled) { controlMachine.gameObject.SetActive(false); }
-
-        canPurchase = bank.Balance > controlMachine.cost;
+        if (controlObject.GetComponent<Machine>())
+        {
+            canPurchase = bank.Balance > controlMachine.cost;
+        }
+        else
+        {
+            canPurchase = bank.Balance > price;
+        }
+        // Change colors
         if (canPurchase)
         {
             if (GetComponent<Renderer>()) { GetComponent<Renderer>().material.color = Color.green; }
@@ -49,7 +60,7 @@ public class Button : Machine
         {
             if (GetComponent<Renderer>()) { GetComponent<Renderer>().material.color = Color.red; }
         }
-
+        // Machine Update
         if (controlMachine) { GameUpdate(); }
 
     }
@@ -63,12 +74,13 @@ public class Button : Machine
         // && controlMachine.Team == controlBank.Team)
         {
             bank.RemoveCash(GetComponent<Button>());
-            controlMachine.gameObject.SetActive(true);
-            Debug.Log("Purchased: " + controlMachine.name, controlMachine);
-            gameObject.SetActive(false);
+            controlObject.gameObject.SetActive(true);
+            Debug.Log("Purchased: " + controlObject.name, controlObject);
+            Debug.Log("Destroyed: " + gameObject.name, gameObject);
+            Destroy(gameObject);
             return true;
         }
-        Debug.Log("Can't be purchased", controlMachine);
+        Debug.LogWarning("Can't be purchased", controlObject);
         return false;
     }
 
