@@ -23,15 +23,13 @@ public class TierList : ScriptableObject
     }
 
     public Tier[] tier;
-
     public float Value { get { return tier[currentTier - 1].defaultValue; } }
     public int Cost { get { return tier[currentTier - 1].cost; } }
+    public int MaxLevel { get { return tier[tier.Length - 1].reqLevel; } }
     public int ReqLevel { get { return tier[currentTier - 1].reqLevel; } }
+    public int CurrentTier { get { return currentTier; } }
     public GameObject Skin { get { return tier[currentTier - 1].skin; } }
     public Color Color { get { return tier[currentTier - 1].color; } }
-
-    public int CurrentTier { get { return currentTier; } }
-    public int MaxLevel { get { return tier[tier.Length - 1].reqLevel; } }
 
     public void Upgrade(int level)
     {

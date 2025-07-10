@@ -5,11 +5,11 @@ public class Machine : MonoBehaviour
 {
     public bool canPurchase = true;
     public bool log;
+
     [SerializeField]
     TierList tiers;
-
-    [SerializeField] protected GameObject physicalButton;
-    [SerializeField] int displayCost = -1;
+    // Button controls purchasability
+    //[SerializeField] protected GameObject physicalButton;
 
     internal int team = -1;
     internal int level;
@@ -17,8 +17,9 @@ public class Machine : MonoBehaviour
     internal Bank bank;
     internal Tycoon tycoon;
 
+    public int Cost => Mathf.RoundToInt(cost);
     public int MaxLevel => tiers.MaxLevel;
-    public float Value => tiers.Value;
+    public float Value => tiers.Cost * level;
     public GameObject Skin => tiers.Skin;
 
     // Or just make cost = displayCost(multiplier) * tiers.Cost;
@@ -31,6 +32,7 @@ public class Machine : MonoBehaviour
     TMP_Text displayText;
 
     private Renderer _renderer;
+
     void Awake()
     {
         if (tiers == null) { Debug.LogError("No Tiers for: " + gameObject.name, gameObject); }
@@ -38,15 +40,12 @@ public class Machine : MonoBehaviour
         tycoon = FindAnyObjectByType<Tycoon>();
         team = tycoon.team;
     }
-
     void Start()
     {
         _renderer = GetComponent<Renderer>();
-        physicalButton = GetComponentInChildren<Button>(true)?.gameObject;
         if (log)
         {
             if (!tycoon){Debug.LogError("Missing Tycoon: " + name, gameObject);}
-            if (!physicalButton && !GetComponent<Button>()){Debug.LogWarning("Missing Button: " + name, gameObject);}
             if (!displayText){Debug.LogWarning("Missing Text: " + name, gameObject); showText = false; }
         }
 
@@ -60,21 +59,6 @@ public class Machine : MonoBehaviour
             _renderer.enabled = true;
             _renderer.material = Skin.GetComponent<Renderer>().material;
         }// else {Debug.LogWarning("No Renderer: " + name, gameObject);}
-
-        if (physicalButton && !GetComponent<Button>())
-        {
-            if (canPurchase)
-            {
-                physicalButton.transform.SetParent(null, true);
-                physicalButton.SetActive(true);
-                gameObject.SetActive(false);
-            }
-            else
-            {
-                Destroy(physicalButton);
-                physicalButton = null;
-            }
-        }
     }
 
     public void GameUpdate()
@@ -84,8 +68,8 @@ public class Machine : MonoBehaviour
         if (level >= MaxLevel) { level = MaxLevel; }
 
         // change skin based on level and update setup
-
-        cost = displayCost != -1 ? displayCost : tiers.Cost;
+        // Cost becomes based on tiers and levels
+        cost = Mathf.RoundToInt(tiers.Cost * (level/tiers.Value));
 
         // Display
 
@@ -103,14 +87,6 @@ public class Machine : MonoBehaviour
             _renderer.material.color = tiers.Color;
         }
 
-        if(!GetComponent<Button>())
-        {
-            if (enabled && physicalButton)
-            {
-                physicalButton.SetActive(false);
-                //Destroy(physicalButton);
-            }
-        }
     }
 
     public void Upgrade()
@@ -132,7 +108,7 @@ public class Machine : MonoBehaviour
         if (displayText == null) { return; }
         displayText.text = text;
     }
-    public void Setup()
+    internal void Setup()
     {
         transform.SetParent(null, true);
         if (tiers.Skin)

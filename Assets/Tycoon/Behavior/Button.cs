@@ -3,15 +3,13 @@ using UnityEngine;
 public class Button : Machine
 {
     [SerializeField] private GameObject controlObject;
-    [SerializeField]private int price;
+    [SerializeField] private int price;
+
+    // Maybe add discounts
 
     private Machine controlMachine;
-
-    private void Awake()
-    {
-        tycoon = FindAnyObjectByType<Tycoon>();
-    }
-
+    private Renderer renderer;
+    
     private void Start()
     {
         canPurchase = false;
@@ -52,13 +50,13 @@ public class Button : Machine
             canPurchase = bank.Balance > price;
         }
         // Change colors
-        if (canPurchase)
+        if (canPurchase && renderer)
         {
-            if (GetComponent<Renderer>()) { GetComponent<Renderer>().material.color = Color.green; }
+            renderer.material.color = Color.green;
         }
-        else
+        else if (renderer)
         {
-            if (GetComponent<Renderer>()) { GetComponent<Renderer>().material.color = Color.red; }
+            renderer.material.color = Color.red;
         }
         // Machine Update
         if (controlMachine) { GameUpdate(); }

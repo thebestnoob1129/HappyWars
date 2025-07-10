@@ -5,6 +5,7 @@ using UnityEngine;
 [DisallowMultipleComponent]
 public class Tycoon : MonoBehaviour
 {
+
     [SerializeField] internal List<Machine> machines;
     //public List<Machine> Machines => machines;
 
@@ -26,9 +27,11 @@ public class Tycoon : MonoBehaviour
     internal float multiplier = 1f;
     //public float Multiplier => multiplier;
 
+    public bool autoCollect;
+
     private void Start()
     {
-        if (!ghostBank) {CreateBank();}
+        if (!ghostBank) {CreateBank();} // For Evennts
 
         Machine[] rootObjects = Object.FindObjectsByType<Machine>(FindObjectsSortMode.InstanceID);//UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects();
         foreach (var obj in rootObjects)
@@ -41,10 +44,11 @@ public class Tycoon : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (!ghostBank) { CreateBank(); }
         gameObject.SetActive(true);
-        balance = UpdateBanks();
+        if (autoCollect) { CollectAll();}
+
     }
+
     /*
     public void SetTeam(GameObject teamObject, int teamId = -1)
     {
@@ -67,53 +71,38 @@ public class Tycoon : MonoBehaviour
     */
 
     // Economic Functions
-    public void CollectAll()
+    private void CollectAll()
     {
         foreach (var bank in banks)
         {
-            Collect(bank);
+            if (bank.team != team) { return; }
+            if (!banks.Contains<Bank>(bank)) { return; }
+
+            int money = Mathf.RoundToInt(bank.balance * multiplier);
+
+            totalCash += money;
+            balance += money;
+            bank.OnCollect(this);
         }
     }
 
-    private void Collect(Bank bank)
+    public int Collect(Bank bank)
     {
-        if (bank.team != team) { return; }
-        if (!banks.Contains<Bank>(bank)) { return; }
-        float money = bank.Balance * multiplier;
+        if (bank.team != team) { return 0; }
+        if (!banks.Contains<Bank>(bank)) { return 0; }
 
-        totalCash += bank.Balance;
-        balance += bank.Balance;
+        int money = Mathf.RoundToInt(bank.balance * multiplier);
+
+        totalCash += money;
+        balance += money;
         bank.OnCollect(this);
-
+        return money;
     }
 
-    private void Collect(Valuable valueable)
-    {
-        if (valueable == null) { return; }
-        int val = Mathf.RoundToInt(valueable.Value);
-
-        totalCash += val;
-        ghostBank.GetComponent<Bank>().AddCash(valueable);
-        Destroy(valueable);
-
-    }
-
-    private void CreateBank(bool isPublic = false)
+    protected void CreateBank(bool isPublic = false)
     {
         ghostBank = Instantiate(banks[0].gameObject, transform).GetComponent<Bank>();
         ghostBank.name = name + "'s Bank";
     }
-
-    public int UpdateBanks()
-    {
-        float bankValue = 0;
-        foreach (var t in banks)
-        {
-            bankValue += t.Balance;
-        }
-        return Mathf.RoundToInt(bankValue);
-    }
-
     // have tycoon check banks for multipliers to canculate total cash collected
-
 }
