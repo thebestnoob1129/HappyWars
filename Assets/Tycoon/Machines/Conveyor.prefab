@@ -234,9 +234,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canPurchase: 0
+  log: 0
   tiers: {fileID: 11400000, guid: 8d1f5afbe6964044592e904aba5b2161, type: 2}
-  physicalButton: {fileID: 1427863765215403396}
-  displayCost: -1
   showText: 1
   displayText: {fileID: 0}
   speed: 1
@@ -505,6 +504,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7068594789494184973, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
+      propertyPath: controlObject
+      value: 
+      objectReference: {fileID: 3712438454959721328}
+    - target: {fileID: 7068594789494184973, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
       propertyPath: controlMachine
       value: 
       objectReference: {fileID: 4770681221664043147}
@@ -517,11 +520,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
---- !u!1 &1427863765215403396 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7360555010136587491, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
-  m_PrefabInstance: {fileID: 8499765082920149351}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4308592897024358505 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5637953843893442830, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}

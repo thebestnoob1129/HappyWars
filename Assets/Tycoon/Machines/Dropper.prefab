@@ -443,9 +443,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canPurchase: 1
+  log: 0
   tiers: {fileID: 11400000, guid: a8baad92248783048a004700fa8f3cb0, type: 2}
-  physicalButton: {fileID: 5058610308712185036}
-  displayCost: -1
   showText: 1
   displayText: {fileID: 8942434702977041704}
   spawnPoint: {fileID: 4354042526758609251}
@@ -716,6 +715,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7068594789494184973, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
+      propertyPath: controlObject
+      value: 
+      objectReference: {fileID: 5583485265791816998}
+    - target: {fileID: 7068594789494184973, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
       propertyPath: controlMachine
       value: 
       objectReference: {fileID: 4981346005377808747}
@@ -728,11 +731,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
---- !u!1 &5058610308712185036 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7360555010136587491, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
-  m_PrefabInstance: {fileID: 2312099842459074607}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7937651143618042145 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5637953843893442830, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}

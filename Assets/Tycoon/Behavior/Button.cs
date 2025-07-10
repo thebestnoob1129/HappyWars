@@ -12,9 +12,15 @@ public class Button : Machine
     
     private void Start()
     {
+        if (!controlObject) {Debug.LogError("No Object", gameObject);}
         canPurchase = false;
         controlMachine = GetComponent<Machine>();
 
+        transform.SetParent(null, true);
+        while (transform.parent)
+        {
+            transform.SetParent(null, true);
+        }
         //Purchasable
         if (controlMachine.canPurchase && controlMachine)
         {
