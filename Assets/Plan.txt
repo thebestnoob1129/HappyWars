@@ -8,65 +8,43 @@ Game Name:
 
 Players: 1-4
 
-	Concept:
+MAKE ASSETS IN BLENDER
 
-Parkour around the map and dodge obstacles.
+Game Mechanics:
 
-	Large Ideas:
+1) Tycoon
+	Economy is ran on a tycoon system such as one from roblox
+	This will be used to build the base and create items
+	Teams can claim personal and public mines
+2) Happy Wars
+	Teams will have to invade each other and can gain boosts from different (structures) across the map
+	Characters can fight the same?
+	Similar Class system, Warrior, Engineer, ??? and add more
+	More More Abilities And Classes!!!!
+3) Map Mechanics
+	Parkour around the map and dodge obstacles.
+	3 lane highway for base maps
+	maps are based on amount of teams
+4) Lego Building Animation
+	Objects are built in a lego style
+	Objects require bought materials from areas
+	Players can pick up any object
+5) Attribute System (Scripting)
+	All types of data are classed into a new system
+	Valuables - Work something and can be picked up by playeurs
+	Product - Valuables that are created by the tycoon
+	Resources - Valuables created by the mines
+	Machines - Valuabes that can be moved throughout the tycoon (and stolen in PVP)
+6) Players
+	Movement are based on classes but move at a 'walking' pace and 'running' in competetiv
+	Pick up any Valuable object and take it to their own tycoon for collection
+7) Environment
+	Mines can be claimed by any players by destroying and rebuilding the main structure
+8) UI ???
 
-Attribute System - all types of private data are made in one class
+9) Battle Blocks Theater Level Editor???
 
-Blender - Start making assets
+Game Modes:
 
-Plan:
-
--Core Player Function
-
-	-Movement
-		Players currently can move as normal but it's velocity based so they still slide. (Not my problem, new skill issue)
-		-Players Build a tycoon system
- 		-Players can choose to mine in their own private mines or fight another groups
-	-Attacks
-	
-	-Stats
-	
--Core Game Function
-
-	-1-4 Players
-
-	-Tycoon Building Buttons but everything
-
-	-Lego Building Animation and Object transferring
-
-	-PVP With Abilities
-
-	-Private Mines with Private Banks
-
-	-Levels have 2 types (Checkpoint and Saved)
-		-Checkpoint levels don't save progress if they're in an environment sequence(erase on game exit :3 )
-		-Normal levels save the checkpoint but start a new environment
-
--Core UI Function
-
-	-Player stats
-		-2D Asset Pack Added
-	-Equipment
-	-Settings
-
--- Mechanics
-	-Lego 
-		-create Lego build mechanic by grabbing (child) objects from (parent) object and sending (random) drop locations to (original) position in (parent)
-
-[----------------------------------------------------------------------------------------------------------------------------------------------------------]
-
--Level Design
-
--Level Editor (Battle Blocks Theater Style)
-
--Art Direction
-	-Make Assets after finishing 
--- Mechanics
-	-Lego
-		-Create Lego build mechanic by grabbing (child) objects from (parent) object and sending (random) drop locations to (original) position in (parent)
-	
--First Game Mode: Invade The Castle
+1) Invade The Castle - 2 Big teams fight eachother
+2) Competetive - 2v2 4v4 with 4 or 8 teams
