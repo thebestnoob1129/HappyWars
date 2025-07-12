@@ -8,86 +8,43 @@ public class Button : Machine
     // Maybe add discounts
 
     private Machine controlMachine;
-    private Renderer renderer;
     
     private void Start()
     {
+        Setup();
         if (!controlObject) {Debug.LogError("No Object", gameObject);}
-        canPurchase = false;
-        controlMachine = GetComponent<Machine>();
-
-        transform.SetParent(null, true);
-        while (transform.parent)
-        {
-            transform.SetParent(null, true);
-        }
-        //Purchasable
-        if (controlMachine.canPurchase && controlMachine)
-        {
-            //Hide Machine Add Button
-            price = controlMachine.cost;
-            transform.SetParent(null, true);
-            controlMachine.gameObject.SetActive(false);
-        }
-        else if (controlMachine)
-        {
-            //Show Machine Remove Button
-            controlMachine.gameObject.SetActive(true);
-            gameObject.SetActive(false);
-            //Destroy(gameObject, 1f);
-        }
-
+        
+        //Set Object
         controlObject.SetActive(false);
-
+        controlMachine = controlObject.GetComponent<Machine>();
+        price = controlMachine? controlMachine.Cost : price;
+        transform.SetParent(null, true);
     }
 
     private void FixedUpdate()
     {
-        //Force Bank
-        if (!bank) { bank = tycoon.ghostBank; }
-        if (enabled) { controlObject.SetActive(false); }
-
-        if (controlObject.GetComponent<Machine>())
-        {
-            canPurchase = bank.Balance > controlMachine.cost;
-        }
-        else
-        {
-            canPurchase = bank.Balance > price;
-        }
-        // Change colors
-        if (canPurchase && renderer)
-        {
-            renderer.material.color = Color.green;
-        }
-        else if (renderer)
-        {
-            renderer.material.color = Color.red;
-        }
-        // Machine Update
+        cost = price;
         if (controlMachine) { GameUpdate(); }
 
     }
 
-    private void OnCollisionEnter(Collision other) => Purchase(other.collider.gameObject);
-
-    public bool Purchase(GameObject plr)
+    private void OnCollisionEnter(Collision other)
     {
-        if (!plr.GetComponent<PlayerMovement>()) { return false; }
-        if (canPurchase)
-        // && controlMachine.Team == controlBank.Team)
+        GameObject obj = other.collider.gameObject;
+        if (!obj.GetComponent<PlayerMovement>()) { return; }
+        
+        if (bank.Balance >= price)
+            // && controlMachine.Team == controlBank.Team)
         {
             bank.RemoveCash(GetComponent<Button>());
             controlObject.gameObject.SetActive(true);
             Debug.Log("Purchased: " + controlObject.name, controlObject);
             Debug.Log("Destroyed: " + gameObject.name, gameObject);
             Destroy(gameObject);
-            return true;
+            return;
         }
         Debug.LogWarning("Can't be purchased", controlObject);
-        return false;
     }
-
     void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;

@@ -3,26 +3,27 @@ using TMPro;
 
 public class Machine : MonoBehaviour
 {
-    public bool canPurchase = true;
+    public bool purchaseable;
     public bool log;
 
-    [SerializeField]
-    TierList tiers;
+    [SerializeField] private Tier[] tiers;
+    private int currentTier;
     // Button controls purchasability
     //[SerializeField] protected GameObject physicalButton;
-
+    
+    
+    internal bool pvp;
     internal int team = -1;
     internal int level;
     internal int cost;
     internal Bank bank;
-    internal Tycoon tycoon;
+    protected Tycoon tycoon;
 
     public int Cost => Mathf.RoundToInt(cost);
-    public int MaxLevel => tiers.MaxLevel;
-    public float Value => tiers.Cost * level;
-    public GameObject Skin => tiers.Skin;
-
-    // Or just make cost = displayCost(multiplier) * tiers.Cost;
+    public int MaxLevel => tiers[currentTier].reqLevel;
+    public float Value => tiers[currentTier].defaultValue;
+    private GameObject skinObject;
+    public GameObject Skin => tiers[currentTier].skin;
 
     public bool showText = true;
     [Header("Display Text")]
@@ -31,45 +32,30 @@ public class Machine : MonoBehaviour
     [SerializeField]
     TMP_Text displayText;
 
-    private Renderer _renderer;
-
+    private Vector3 size;
     void Awake()
     {
         if (tiers == null) { Debug.LogError("No Tiers for: " + gameObject.name, gameObject); }
-
+        if (!Skin) { Debug.LogError("No Skin for: " + skinObject.name, gameObject); }
+        //if (transform){size = transform.localScale;}
+    }
+    protected void Setup()
+    {
         tycoon = FindAnyObjectByType<Tycoon>();
         team = tycoon.team;
-    }
-    void Start()
-    {
-        _renderer = GetComponent<Renderer>();
-        if (log)
-        {
-            if (!tycoon){Debug.LogError("Missing Tycoon: " + name, gameObject);}
-            if (!displayText){Debug.LogWarning("Missing Text: " + name, gameObject); showText = false; }
-        }
-
-        if (!bank)
-        {
-            if (log && !GetComponent<Bank>()){Debug.LogWarning("Missing Bank: " + name, gameObject);}
-            bank = tycoon.ghostBank;
-        }// else{Debug.Log("Bank: " + bank.name, bank.gameObject);}  
-        if (_renderer)
-        {
-            _renderer.enabled = true;
-            _renderer.material = Skin.GetComponent<Renderer>().material;
-        }// else {Debug.LogWarning("No Renderer: " + name, gameObject);}
+        //transform.localScale = Skin ? Skin.transform.localScale + size : transform.localScale + size;
+        //ChangeSkin(tiers.Skin);
+        if (!bank) { bank = bank ? bank : tycoon.Banks[0]; }
     }
 
-    public void GameUpdate()
+    internal void GameUpdate()
     {
-        //if (transform.parent) { Setup(); }
         if (level < 1) { level = 1; }
         if (level >= MaxLevel) { level = MaxLevel; }
-
+    
         // change skin based on level and update setup
         // Cost becomes based on tiers and levels
-        cost = Mathf.RoundToInt(tiers.Cost * (level/tiers.Value));
+        cost = Mathf.RoundToInt(tiers[currentTier].cost * (level/tiers[currentTier].defaultValue));
 
         // Display
 
@@ -81,39 +67,39 @@ public class Machine : MonoBehaviour
             "Value: " + Value.ToString("F2");
         }
 
-        if (_renderer)
-        {
-            _renderer.material = Skin.GetComponent<Renderer>().material;
-            _renderer.material.color = tiers.Color;
-        }
+    }
 
+    protected void ChangeSkin(GameObject skin = null)
+    {
+        GameObject skn = Instantiate(tiers[currentTier].skin, transform.position, transform.rotation, null);
+        if (skinObject)
+        {
+            skn.transform.SetParent(null, true);
+            skn.transform.SetLocalPositionAndRotation(skinObject.transform.position, skinObject.transform.rotation);
+            // Scale multiplied my size
+            //Check if Accessed
+            Destroy(skinObject);
+        }
+        skinObject = skn;
     }
 
     public void Upgrade()
     {
         if (level >= MaxLevel) { return; } // Already at max level, no upgrade
-        if (level < tiers.ReqLevel) { return; } // Level is less than required level, no upgrade
+        if (level < tiers[currentTier].reqLevel) { return; } // Level is less than required level, no upgrade
         level += 1;
-        tiers.Upgrade(level);
+        tiers[currentTier].Upgrade(level);
     }
     public void Downgrade()
     {
         if (level > 0) { return; }
         level -= 1;
-        tiers.Downgrade();
+        tiers[currentTier].Downgrade();
     }
 
     public void SetText(string text)
     {
         if (displayText == null) { return; }
         displayText.text = text;
-    }
-    internal void Setup()
-    {
-        transform.SetParent(null, true);
-        if (tiers.Skin)
-        {
-            transform.localScale = tiers.Skin.transform.localScale;
-        }
     }
 }

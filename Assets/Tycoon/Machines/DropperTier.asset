@@ -13,14 +13,8 @@ MonoBehaviour:
   m_Name: DropperTier
   m_EditorClassIdentifier: 
   currentTier: 1
-  tier:
-  - defaultValue: 3
-    reqLevel: 0
-    cost: 0
-    skin: {fileID: 0}
-    color: {r: 0, g: 0, b: 0, a: 0}
-  - defaultValue: 1
-    reqLevel: 5
-    cost: 100
-    skin: {fileID: 0}
-    color: {r: 0, g: 0.9706273, b: 1, a: 0}
+  defaultValue: 3
+  reqLevel: 0
+  cost: 0
+  skin: {fileID: 5583485265791816998, guid: a741148be2dcb514880a763509e7fd18, type: 3}
+  color: {r: 0, g: 0, b: 0, a: 0}

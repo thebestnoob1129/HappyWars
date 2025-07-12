@@ -2,16 +2,14 @@ using UnityEngine;
 
 public class Conveyor : Machine
 {
-    public float speed = 1;
-
-    private void Start()
-    {
-        if (!bank) {bank = tycoon.ghostBank;}
-    }
-
+    [SerializeField] float baseSpeed = 1;
+    public float speed;
+    
+    private void Start() => Setup();
     private void FixedUpdate()
-    {
+    { 
         GameUpdate();
+        speed = baseSpeed * Value;
     }
 
     private void OnCollisionStay(Collision collision)
@@ -21,7 +19,7 @@ public class Conveyor : Machine
         {
             Rigidbody rb = col.GetComponent<Rigidbody>();
 
-            Vector3 force = Value * speed * Time.deltaTime * transform.forward;// + collider.transform.position;
+            Vector3 force = speed * Time.deltaTime * transform.forward;// + collider.transform.position;
 
             rb.AddForce(force, ForceMode.Impulse);
         }

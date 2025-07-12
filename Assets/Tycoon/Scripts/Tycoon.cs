@@ -1,16 +1,17 @@
 using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.LowLevelPhysics;
 
 [DisallowMultipleComponent]
 public class Tycoon : MonoBehaviour
 {
 
-    [SerializeField] internal List<Machine> machines;
-    //public List<Machine> Machines => machines;
+    [SerializeField] protected List<Machine> machines;
+    public List<Machine> Machines => machines;
 
-    [SerializeField] internal List<Bank> banks;
-    //public List<Bank> Banks => banks;
+    [SerializeField] protected List<Bank> banks;
+    public List<Bank> Banks => banks;
 
     internal int team;
     //public int Team => team;
@@ -21,18 +22,15 @@ public class Tycoon : MonoBehaviour
     internal int balance;
     //public int Balance => balance;
 
-    internal Bank ghostBank;
-    //public Bank GhostBank => ghostBank.GetComponent<Bank>();
-
-    internal float multiplier = 1f;
+    private float multiplier = 1f;
     //public float Multiplier => multiplier;
 
     public bool autoCollect;
-
+    private bool pvp;
+    
     private void Start()
     {
-        if (!ghostBank) {CreateBank();} // For Evennts
-
+        if (!banks[0]) {Debug.LogError("No Banks", gameObject);}
         Machine[] rootObjects = Object.FindObjectsByType<Machine>(FindObjectsSortMode.InstanceID);//UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects();
         foreach (var obj in rootObjects)
         {
@@ -99,10 +97,5 @@ public class Tycoon : MonoBehaviour
         return money;
     }
 
-    protected void CreateBank(bool isPublic = false)
-    {
-        ghostBank = Instantiate(banks[0].gameObject, transform).GetComponent<Bank>();
-        ghostBank.name = name + "'s Bank";
-    }
-    // have tycoon check banks for multipliers to canculate total cash collected
+    // have tycoon check banks for multipliers to calculate total cash collected
 }

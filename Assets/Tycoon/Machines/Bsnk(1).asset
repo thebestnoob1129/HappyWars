@@ -10,13 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c43a5bdf1bc63842a39d7edfd88e719, type: 3}
-  m_Name: BankTiers
+  m_Name: Bsnk(1)
   m_EditorClassIdentifier: 
   currentTier: 1
-  maxLevel: 2
-  tier:
-  - reqLevel: 0
-    cost: 0
-    defaultValue: 1
-    skin: {fileID: 0}
-    color: {r: 0, g: 0, b: 0, a: 0}
+  defaultValue: 0
+  reqLevel: 0
+  cost: 0
+  skin: {fileID: 1329295870972459805, guid: e5a15b57aa66c7946ab1fb3191174f38, type: 3}
+  color: {r: 0, g: 0, b: 0, a: 0}

@@ -4,11 +4,13 @@ using System.Collections.Generic;
 public class Valuable : MonoBehaviour
 {
     internal float multiplier;
-    [SerializeField] TierList tiers;
+
+    [SerializeField] private int currentTier;
+    [SerializeField] Tier[] tiers;
 
     private List<Upgrader> upgrList;
 
-    public float Value => Mathf.RoundToInt(tiers.Value * multiplier);
+    public float Value => Mathf.RoundToInt(tiers[currentTier].defaultValue * multiplier);
 
     void Start()
     {

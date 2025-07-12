@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c43a5bdf1bc63842a39d7edfd88e719, type: 3}
-  m_Name: ButtonTiers
+  m_Name: Button(1)
   m_EditorClassIdentifier: 
   currentTier: 1
-  tier:
-  - defaultValue: 0
-    reqLevel: 0
-    cost: 0
-    skin: {fileID: 2100000, guid: ea5953c0b81355e42bc3fd159fd80a58, type: 2}
-    color: {r: 0, g: 0, b: 0, a: 0}
+  defaultValue: 0
+  reqLevel: 0
+  cost: 0
+  skin: {fileID: 7360555010136587491, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
+  color: {r: 0, g: 0, b: 0, a: 0}

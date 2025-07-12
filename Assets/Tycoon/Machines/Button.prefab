@@ -298,9 +298,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 668a2dd00219e4e40abf2a3b5d4bcf80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiers: {fileID: 11400000, guid: b56fd164a20bb7b4eb79c6ca40bd7ddb, type: 2}
-  canPurchase: 0
-  physicalButton: {fileID: 0}
-  displayCost: -1
+  purchaseable: 0
+  log: 0
+  tiers:
+  - {fileID: 11400000, guid: b56fd164a20bb7b4eb79c6ca40bd7ddb, type: 2}
   showText: 1
   displayText: {fileID: 3409739988931547650}
+  controlObject: {fileID: 0}
+  price: 0

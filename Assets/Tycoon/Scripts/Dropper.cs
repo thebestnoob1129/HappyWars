@@ -12,6 +12,9 @@ public class Dropper : Machine
     [SerializeField]
     float productMultiplier = 1f;
 
+    [SerializeField]
+    float speed = 3f;
+
     private bool waiting = false;
 
     bool canSpawn = true;
@@ -21,17 +24,21 @@ public class Dropper : Machine
 
     void Start()
     {
+        Setup();
         if (product == null) {Debug.LogError("No product assigned to Dropper", gameObject);}
+
     }
 
     private void FixedUpdate()
     {
         GameUpdate();
+        speed = Value != 0 ? Mathf.RoundToInt(Value) : speed;
         //Check Activity
         if (waiting == false)
         {
             waiting = true;
-            StartCoroutine(CreateProduct(Value));
+            // Wait time doesn't serialize
+            StartCoroutine(CreateProduct(speed));
         }
     }
 
