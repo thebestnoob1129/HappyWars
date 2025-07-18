@@ -24,8 +24,6 @@ Plan:
 
 	-Movement
 		Players currently can move as normal but it's velocity based so they still slide. (Not my problem, new skill issue)
-		-Players Build a tycoon system
- 		-Players can choose to mine in their own private mines or fight another groups
 	-Attacks
 	
 	-Stats
