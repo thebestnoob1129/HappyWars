@@ -66,5 +66,6 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "HappyWars.sln"
+    "dotnet.defaultSolution": "HappyWars.sln",
+    "dotnet.preferCSharpExtension": true
 }

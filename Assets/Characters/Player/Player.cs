@@ -3,21 +3,22 @@ using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(PlayerInput))]
 [RequireComponent (typeof(Rigidbody))]
-//[RequireComponent(typeof(PlayerInputManager))]
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     PlayerInput playerInput;
     Camera cam;
     Rigidbody body;
 
+#region Inputs
     InputAction moveAction;
     InputAction crouchAction;
     InputAction jumpAction;
     InputAction lookAction;
     InputAction sprintAction;
-
-    // Movement Stats
+    InputAction interactAction;
+#endregion
+#region Movement
     [SerializeField, Range(0f, 100f)] float walkSpeed = 6f;
     [SerializeField, Range(0f, 100f)] float runSpeed = 12f;
     [SerializeField, Range(0f, 100f)] float maxSpeed = 20f;
@@ -29,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float jumpPower = 7f;
     [SerializeField] float jumpHeight = 2f;
     [SerializeField, Range(0f, 10f)] int maxAirJumps = 2;
-    
+
     [SerializeField] float maxAcceleration = 10f, maxAirAcceleration = 1f;
 
     [SerializeField, Range(0.1f, 10f)] float lookSpeed = 2f;
@@ -42,8 +43,7 @@ public class PlayerMovement : MonoBehaviour
     public bool isCrouching;
 
     private Vector3 moveDirection = Vector3.zero;
-
-    // Some input 
+    // Some input
 
     [SerializeField]
     Transform playerInputSpace = default;
@@ -77,6 +77,14 @@ public class PlayerMovement : MonoBehaviour
 
     bool OnGround => groundContactCount > 0;
     bool OnSteep => steepContactCount > 0;
+#endregion
+#region Combat
+    GameObject interactObject;
+
+    [SerializeField] int interactRange = 3;
+
+#endregion
+
 
     private void OnValidate()
     {
@@ -96,26 +104,31 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
+        playerINput = GetComponent<PlayerInput>();
+
         // Player Camera
         cam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
         if (!cam) { Debug.LogError(transform.name + ": Camera is null ( How did we get here)"); }
-        
+
         //Player Actions
-        
+
         moveAction = playerInput.actions.FindAction("Move");
         crouchAction = playerInput.actions.FindAction("Crouch");
         jumpAction = playerInput.actions.FindAction("Jump");
         lookAction = playerInput.actions.FindAction("Look");
         sprintAction = playerInput.actions.FindAction("Sprint");
+        interactAction = playerInput.actions.FindAction("Interact");
 
         //Player Combat
+
+        interactLayer = LayerMask.NameToLayer("Interactable");
 
         // Temp
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
 
     }
-    
+
     private void Update()
     {
         /*
@@ -123,7 +136,7 @@ public class PlayerMovement : MonoBehaviour
         Vector3 right = cam.transform.TransformDirection(Vector3.right);
         Vector3 gravity = CustomGravity.GetGravity(body.position, out upAxis);
         */
-
+#region Movement
         Vector2 playerInput;
 
         playerInput.x = Input.GetAxis("Horizontal");
@@ -150,11 +163,26 @@ public class PlayerMovement : MonoBehaviour
         //desiredVelocity = new Vector3(playerInput.x, 0, playerInput.y) * maxSpeed;
         desiredVelocity = canMove && moveAction.IsPressed() ? dV :Vector3.zero;
         desiredJump |= jumpAction.IsPressed(); // Jumping
+#endregion
 
+        // Crouching
+        if (canCrouch && crouchAction.IsPressed())
+        {
+            isCrouching = true;
+            body.transform.localScale = Vector3.Lerp(body.transform.localScale, new Vector3(1f, crouchHeight, 1f), crouchTransitionSpeed * Time.deltaTime);
+            body.transform.localPosition = Vector3.Lerp(body.transform.localPosition, new Vector3(0f, crouchHeight / 2f, 0f), crouchTransitionSpeed * Time.deltaTime);
+        }
+        else if (isCrouching)
+        {
+            isCrouching = false;
+            body.transform.localScale = Vector3.Lerp(body.transform.localScale, new Vector3(1f, defaultHeight, 1f), crouchTransitionSpeed * Time.deltaTime);
+            body.transform.localPosition = Vector3.Lerp(body.transform.localPosition, new Vector3(0f, defaultHeight / 2f, 0f), crouchTransitionSpeed * Time.deltaTime);
+        }
     }
 
     private void FixedUpdate()
     {
+#region Movement
         Vector3 gravity = CustomGravity.GetGravity(body.position, out upAxis);
         UpdateState();
         AdjustVelocity();
@@ -169,6 +197,24 @@ public class PlayerMovement : MonoBehaviour
 
         body.linearVelocity = velocity;
         ClearState();
+#endregion
+#region Combat
+        interactAction.performed += Interact;
+        if (canInteract)// On Button Press
+        {
+            //perform raycast to check if player is looking at object within pickuprange
+            RaycastHit hit;
+            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, interactRange))
+            {
+                //make sure pickup tag is attached
+                if (hit.transform.gameObject.layer == interactLayer && hit.transform.gameObject)
+                {
+                    //pass in object hit into the PickUpObject function
+                    //PickUpObject(hit.transform.gameObject);
+                }
+            }
+        }
+#endregion
     }
 
 
@@ -182,7 +228,7 @@ public class PlayerMovement : MonoBehaviour
         EvaluateCollision(collision);
     }
 
-    void AdjustVelocity()
+    private void AdjustVelocity()
     {
         Vector3 xAxis = ProjectDirectionOnPlane(rightAxis, contactNormal);
         Vector3 zAxis = ProjectDirectionOnPlane(forwardAxis, contactNormal);
@@ -198,8 +244,7 @@ public class PlayerMovement : MonoBehaviour
 
         velocity += xAxis * (newX - currentX) + zAxis * (newZ - currentZ) * 10;
     }
-
-    void EvaluateCollision(Collision collision)
+    private void EvaluateCollision(Collision collision)
     {
         // Collisions with the characher
         float minDot = GetMinDot(collision.gameObject.layer);
@@ -223,8 +268,7 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
-
-    void UpdateState()
+    private void UpdateState()
     {
         stepsSinceLastGrounded += 1;
         stepsSinceLastJump += 1;
@@ -248,13 +292,12 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void ClearState()
+    internal void ClearState()
     {
         groundContactCount = steepContactCount = 0;
         contactNormal = steepNormal = Vector3.zero;
     }
-
-    void Jump(Vector3 gravity)
+    internal void Jump(Vector3 gravity)
     {
         Vector3 jumpDirection;
 
@@ -289,12 +332,11 @@ public class PlayerMovement : MonoBehaviour
         velocity += jumpDirection * jumpSpeed;
     }
 
-    Vector3 ProjectDirectionOnPlane(Vector3 direction, Vector3 normal)
+    private Vector3 ProjectDirectionOnPlane(Vector3 direction, Vector3 normal)
     {
         return (direction - normal * Vector3.Dot(direction, normal)).normalized;
     }
-
-    bool SnapToGround()
+    internal bool SnapToGround()
     {
 
         if (stepsSinceLastGrounded > 1 || stepsSinceLastJump <= 2) { return false; }
@@ -314,8 +356,7 @@ public class PlayerMovement : MonoBehaviour
         }
         return true;
     }
-
-    bool CheckSteepContacts()
+    private bool CheckSteepContacts()
     {
         if (steepContactCount > 1)
         {
@@ -331,11 +372,35 @@ public class PlayerMovement : MonoBehaviour
 
         return false;
     }
-
-    float GetMinDot(int layer)
+    private float GetMinDot(int layer)
     {
         return (stairsMask & (1 << layer)) == 0 ?
             minGroundDotProduct : minStairDotProduct;
+    }
+
+    private void Interact(InputAction.CallbackContext obj)
+    {
+        Debug.Log("Activated");
+        if (canInteract)// On Button Press
+        {
+            Debug.Log("Interaction Pressed");
+            //perform raycast to check if player is looking at object within pickuprange
+            RaycastHit hit;
+            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, interactRange))
+            {
+                //make sure pickup tag is attached
+                if (hit.transform.gameObject.layer == interactLayer && hit.transform.gameObject)
+                {
+                    Debug.Log("Interacted With Object");
+                }
+            }
+        }
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(transform.position, interactRange);// Interaction Range
     }
 
 }

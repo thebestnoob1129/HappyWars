@@ -5,11 +5,6 @@ using UnityEngine.InputSystem;
 public class PlayerCombat : MonoBehaviour
 {
     
-    PlayerInput playerInput;
-    InputAction interactAction;
-    InputAction lookAction;
-    Camera cam;
-    
     // Interact
     GameObject interactObject;
     

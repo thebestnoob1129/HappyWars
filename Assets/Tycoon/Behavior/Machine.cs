@@ -12,14 +12,14 @@ public class Machine : MonoBehaviour
     //[SerializeField] protected GameObject physicalButton;
 
     internal int team = -1;
-    internal int level;
+    internal int level = 1;
     internal int cost;
     internal Bank bank;
     internal Tycoon tycoon;
 
     public int Cost => Mathf.RoundToInt(cost);
     public int MaxLevel => tiers.MaxLevel;
-    public float Value => tiers.Cost * level;
+    public float Value => tiers.Value * level;
     public GameObject Skin => tiers.Skin;
 
     // Or just make cost = displayCost(multiplier) * tiers.Cost;
@@ -31,7 +31,7 @@ public class Machine : MonoBehaviour
     [SerializeField]
     TMP_Text displayText;
 
-    private Renderer _renderer;
+    protected Renderer _renderer;
 
     void Awake()
     {
@@ -39,6 +39,7 @@ public class Machine : MonoBehaviour
 
         tycoon = FindAnyObjectByType<Tycoon>();
         team = tycoon.team;
+        transform.SetParent(null, true);
     }
     void Start()
     {
@@ -83,7 +84,7 @@ public class Machine : MonoBehaviour
 
         if (_renderer)
         {
-            _renderer.material = Skin.GetComponent<Renderer>().material;
+            _renderer.material = Skin ? Skin.GetComponent<Renderer>().material : _renderer.material;
             _renderer.material.color = tiers.Color;
         }
 
