@@ -1,0 +1,72 @@
+Idea: Roblox Player PVP tycoon
+
+Reference: Happy Wars and Battle Block Theater
+
+Game Name:
+
+	Genre: Puzzle, Fighting, Parkour, First Person
+
+Players: 1-4
+
+	Concept:
+
+Parkour around the map and dodge obstacles.
+
+	Large Ideas:
+
+Attribute System - all types of private data are made in one class
+
+Blender - Start making assets
+
+Plan:
+
+-Core Player Function
+
+	-Movement
+		Players currently can move as normal but it's velocity based so they still slide. (Not my problem, new skill issue)
+		-Players Build a tycoon system
+ 		-Players can choose to mine in their own private mines or fight another groups
+	-Attacks
+	
+	-Stats
+	
+-Core Game Function
+
+	-1-4 Players
+
+	-Tycoon Building Buttons but everything
+
+	-Lego Building Animation and Object transferring
+
+	-PVP With Abilities
+
+	-Private Mines with Private Banks
+
+	-Levels have 2 types (Checkpoint and Saved)
+		-Checkpoint levels don't save progress if they're in an environment sequence(erase on game exit :3 )
+		-Normal levels save the checkpoint but start a new environment
+
+-Core UI Function
+
+	-Player stats
+		-2D Asset Pack Added
+	-Equipment
+	-Settings
+
+-- Mechanics
+	-Lego 
+		-create Lego build mechanic by grabbing (child) objects from (parent) object and sending (random) drop locations to (original) position in (parent)
+
+[----------------------------------------------------------------------------------------------------------------------------------------------------------]
+
+-Level Design
+
+-Level Editor (Battle Blocks Theater Style)
+
+-Art Direction
+	-Make Assets after finishing 
+-- Mechanics
+	-Lego
+		-Create Lego build mechanic by grabbing (child) objects from (parent) object and sending (random) drop locations to (original) position in (parent)
+	
+-First Game Mode: Invade The Castle

@@ -5,11 +5,12 @@ public class Collector : Machine
 
     private void Start()
     {
-        if (!bank) {bank = tycoon.ghostBank;}
+        this.Setup();
     }
+
     private void FixedUpdate()
     {
-        GameUpdate();
+        this.GameUpdate();
     }
 
     void OnCollisionEnter(Collision collision)

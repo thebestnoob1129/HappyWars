@@ -11,22 +11,19 @@ public class Button : Machine
     
     private void Start()
     {
+        Setup();
         if (!controlObject) {Debug.LogError("No Object", gameObject);}
-        canPurchase = false;
-
+        
+        //Set Object
+        controlObject.SetActive(false);
         controlMachine = controlObject.GetComponent<Machine>();
-        _renderer = GetComponent<Renderer>();
-
-        //Purchasable
-        if (controlMachine && !canPurchase) {controlObject.SetActive(true);}
-        else {controlObject.SetActive(false);}
-
+        price = controlMachine? controlMachine.Cost : price;
+        transform.SetParent(null, true);
     }
 
     private void FixedUpdate()
     {
-        //Force Bank
-        if (!bank) { bank = tycoon.ghostBank; }
+        cost = price;
         if (controlMachine) { GameUpdate(); }
 
         canPurchase = controlMachine ? bank.Balance > controlMachine.cost : bank.balance > price;
@@ -34,25 +31,23 @@ public class Button : Machine
         _renderer.material.color = canPurchase && _renderer ? Color.green : Color.red;
     }
 
-    private void OnCollisionEnter(Collision other) => Purchase(other.collider.gameObject);
-
-    public bool Purchase(GameObject plr)
+    private void OnCollisionEnter(Collision other)
     {
-        if (!plr.GetComponent<PlayerMovement>()) { return false; }
-        if (canPurchase)
-        // && controlMachine.Team == controlBank.Team)
+        GameObject obj = other.collider.gameObject;
+        if (!obj.GetComponent<PlayerMovement>()) { return; }
+        
+        if (bank.Balance >= price)
+            // && controlMachine.Team == controlBank.Team)
         {
             bank.RemoveCash(GetComponent<Button>());
             controlObject.gameObject.SetActive(true);
             Debug.Log("Purchased: " + controlObject.name, controlObject);
             Debug.Log("Destroyed: " + gameObject.name, gameObject);
             Destroy(gameObject);
-            return true;
+            return;
         }
         Debug.LogWarning("Can't be purchased", controlObject);
-        return false;
     }
-
     void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;

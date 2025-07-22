@@ -44,8 +44,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 889d4a32b782935489378321eb10e43e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiers: {fileID: 11400000, guid: 2eb2eed4516492348aa64ef1148c5fd3, type: 2}
-  maxValue: 1
-  maxLevel: 1
-  cost: 0
-  inc: 0
+  purchaseable: 0
+  log: 0
+  tiers:
+  - {fileID: 11400000, guid: 2eb2eed4516492348aa64ef1148c5fd3, type: 2}
+  currentTier: 0
+  showText: 1
+  displayText: {fileID: 0}

@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Conveyor Tier
   m_EditorClassIdentifier: 
   currentTier: 1
-  tier:
-  - reqLevel: 0
-    cost: 0
-    defaultValue: 1
-    skin: {fileID: 0}
-    color: {r: 0, g: 0, b: 0, a: 0}
+  defaultValue: 5
+  reqLevel: 0
+  cost: 0
+  skin: {fileID: 3712438454959721328, guid: b868ba7436647ea479c59b9a400ccabd, type: 3}
+  color: {r: 0, g: 0, b: 0, a: 0}
