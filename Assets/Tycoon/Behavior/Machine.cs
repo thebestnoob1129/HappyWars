@@ -55,7 +55,7 @@ public class Machine : MonoBehaviour
         if (!bank)
         {
             if (log && !GetComponent<Bank>()) { Debug.LogWarning("Missing Bank: " + name, gameObject); }
-        }// else{Debug.Log("Bank: " + bank.name, bank.gameObject);}  
+        }// else{Debug.Log("Bank: " + bank.name, bank.gameObject);}
         if (_renderer)
         {
             _renderer.enabled = true;
@@ -69,7 +69,7 @@ public class Machine : MonoBehaviour
     {
         if (level < 1) { level = 1; }
         if (level >= MaxLevel) { level = MaxLevel; }
-    
+
         // change skin based on level and update setup
         // Cost becomes based on tiers and levels
         cost = Mathf.RoundToInt(tiers[currentTier].cost * (level/tiers[currentTier].defaultValue));
@@ -79,13 +79,12 @@ public class Machine : MonoBehaviour
         if (displayText && showText)
         {
             displayText.text =
-            name + "\n" +
-            "Cost: " + cost + "\n" +
-            "Value: " + Value.ToString("F2");
+                name + "\n" +
+                "Cost: " + cost + "\n" +
+                "Value: " + Value.ToString("F2");
         }
 
     }
-
     protected void ChangeSkin(GameObject skin = null)
     {
         GameObject skn = Instantiate(tiers[currentTier].skin, transform.position, transform.rotation, null);
@@ -96,29 +95,30 @@ public class Machine : MonoBehaviour
             // Scale multiplied my size
             //Check if Accessed
             Destroy(skinObject);
-        if (_renderer)
-        {
-            _renderer.material = Skin ? Skin.GetComponent<Renderer>().material : _renderer.material;
-            _renderer.material.color = tiers.Color;
+            if (_renderer)
+            {
+                _renderer.material = Skin ? Skin.GetComponent<Renderer>().material : _renderer.material;
+                _renderer.material.color = tiers.Color;
+            }
+            skinObject = skn;
         }
-        skinObject = skn;
     }
 
-    public void Upgrade()
+    void Upgrade()
     {
         if (level >= MaxLevel) { return; } // Already at max level, no upgrade
         if (level < tiers[currentTier].reqLevel) { return; } // Level is less than required level, no upgrade
         level += 1;
         tiers[currentTier].Upgrade(level);
     }
-    public void Downgrade()
+    void Downgrade()
     {
         if (level > 0) { return; }
         level -= 1;
         tiers[currentTier].Downgrade();
     }
 
-    public void SetText(string text)
+    void SetText(string text)
     {
         if (displayText == null) { return; }
         displayText.text = text;

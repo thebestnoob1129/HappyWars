@@ -19,19 +19,20 @@ public class Mine : Machine
         if (!isSpawning)
         {
             isSpawning = true;
-            StartCoroutine(SpawnOre());
+            //StartCoroutine(SpawnOre());
         }
     }
-
-    private IEnumerator SpawnOre()
+    /*
+    IEnumerator SpawnOre()
     {
         if (!canSpawn) { yield break; }
-        
+
         GameObject ore = Instantiate(orePrefab, spawnPoint.position, Quaternion.identity);
         ore.GetComponent<Valuable>().multiplier += Value; // Assuming Value is defined in the base class ore
 
         yield return new WaitForSeconds(spawnInterval);
-        
+
         isSpawning = false;
     }
+    */
 }

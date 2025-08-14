@@ -6,7 +6,10 @@ public class Tier : ScriptableObject
     [SerializeField]
     int currentTier = 1; // Current Tier
 
-    public float defaultValue;
+    [SerializeField]
+    protected int[] values = new int[1];
+    public float defaultValue => values.Length >= currentTier ? values[currentTier - 1] : values[0];
+    
     public int reqLevel;
     public int cost;
     public GameObject skin;
