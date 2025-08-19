@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Collector Tiers
   m_EditorClassIdentifier: 
   currentTier: 1
-  defaultValue: 0
-  reqLevel: 0
   cost: 0
-  skin: {fileID: 7538496723501608412, guid: 65dd897e8ec42e146bb9c3684b7ec98b, type: 3}
-  color: {r: 0, g: 0, b: 0, a: 0}
+  reqLevel: 0
+  defaultValue: 1

@@ -122,9 +122,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4137f1f7b51660c4bb4033a70439f7f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teamId: -1
-  level: 1
-  tiers: {fileID: 11400000, guid: 3c452bf526cccda4b94aba51d8111178, type: 2}
+  currentTier: 0
+  tiers:
+  - {fileID: 11400000, guid: 3c452bf526cccda4b94aba51d8111178, type: 2}
 --- !u!54 &1004269119229161000
 Rigidbody:
   m_ObjectHideFlags: 0

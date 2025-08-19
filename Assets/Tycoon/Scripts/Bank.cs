@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class Bank : Machine
@@ -10,21 +9,20 @@ public class Bank : Machine
     private void Start() => Setup();
     private void FixedUpdate() => GameUpdate();
 
-    public void OnCollect(Tycoon tyc)
-    {
-        if (tyc.Banks.Contains(this)) { balance = 0; }
-    }
-
     public void AddCash(Valuable val)
     {
-        balance += val.Value * (1 + Value);
+        var amount = this.Tycoon.Multiplier > 0 ? val.Value * this.Tycoon.Multiplier : val.Value;
+        Debug.Log("AddCash: " + amount);
+        balance += amount;
     }
 
     internal void RemoveCash(Button button)
     {
         if (button.team != team) { return; }
-        if (balance < button.cost) { return; }
+        if (balance < button.Cost) { return; }
 
-        balance -= button.cost;
+        balance -= button.Cost;
     }
+    
+    
 }

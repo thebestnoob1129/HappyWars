@@ -2,25 +2,19 @@ using UnityEngine;
 
 public class Collector : Machine
 {
-
-    private void Start()
-    {
-        this.Setup();
-    }
-
-    private void FixedUpdate()
-    {
-        this.GameUpdate();
-    }
+    private void Start() => Setup();
+    private void FixedUpdate() => GameUpdate();
 
     void OnCollisionEnter(Collision collision)
     {
         var collider = collision.gameObject;
-
         if (collider.GetComponent<Valuable>())
         {
-            Valuable val = collider.GetComponent<Valuable>();
-
+            Valuable val = collider.GetComponent<Valuable>(); 
+            
+            Debug.Log(val);
+            this.Bank.AddCash(val);
+            
             // Waiting For PVP
             /*
             if (val.Team != Team)
@@ -37,7 +31,6 @@ public class Collector : Machine
                 return;
             }
             */
-            bank.AddCash(val); 
             
             Destroy(collider);
         }

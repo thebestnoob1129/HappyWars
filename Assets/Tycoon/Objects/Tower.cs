@@ -12,9 +12,7 @@ public class Tower : Machine
     private int control = 0;
 
     private Tycoon controlTycoon;
-
-
-
+    
     private void FixedUpdate()
     {
         GameUpdate();
@@ -24,7 +22,7 @@ public class Tower : Machine
             // Logic for controlling the tower can be added here
             foreach (var tycoon in FindObjectsOfType<Tycoon>())
             {
-                if (tycoon.Team == claimedTeam)
+                if (tycoon.team == claimedTeam)
                 {
                     // Perform actions related to the team controlling the tower
                     //tycoon.AddControlTower(this);
@@ -39,8 +37,9 @@ public class Tower : Machine
 
     private void OnCollisionStay(Collision other)
     {
-        if (other.gameObject.TryGetComponent<PlayerMovement>(out PlayerMovement player))
+        if (other.gameObject.GetComponent<Player>())
         {
+            Player player  = other.gameObject.GetComponent<Player>();
             if (claimedTeam == -1 || claimedTeam == player.Team)
             {
                 claimedTeam = player.Team;
@@ -56,7 +55,7 @@ public class Tower : Machine
     }
     private void OnCollisionExit(Collision other)
     {
-        if (other.gameObject.TryGetComponent<PlayerMovement>(out PlayerMovement player))
+        if (other.gameObject.TryGetComponent<Player>(out Player player))
         {
             if (claimedTeam == player.Team)
             {

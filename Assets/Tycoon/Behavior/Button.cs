@@ -8,25 +8,28 @@ public class Button : Machine
     // Maybe add discounts
 
     private Machine controlMachine;
+    private bool canPurchase;
     
     private void Start()
     {
         Setup();
         if (!controlObject) {Debug.LogError("No Object", gameObject);}
         
+        _renderer = GetComponent<Renderer>();
+        if (!_renderer) {Debug.LogError("No renderer", gameObject);}
+        
         //Set Object
         controlObject.SetActive(false);
         controlMachine = controlObject.GetComponent<Machine>();
-        price = controlMachine? controlMachine.Cost : price;
         transform.SetParent(null, true);
+        price = controlMachine? controlMachine.Cost : price;
     }
 
     private void FixedUpdate()
     {
-        cost = price;
         if (controlMachine) { GameUpdate(); }
 
-        canPurchase = controlMachine ? bank.Balance > controlMachine.cost : bank.balance > price;
+        canPurchase = controlMachine ? Bank.Balance > controlMachine.Cost : Bank.balance > price;
         price = controlMachine ? controlMachine.Cost : price;
         _renderer.material.color = canPurchase && _renderer ? Color.green : Color.red;
     }
@@ -34,12 +37,12 @@ public class Button : Machine
     private void OnCollisionEnter(Collision other)
     {
         GameObject obj = other.collider.gameObject;
-        if (!obj.GetComponent<PlayerMovement>()) { return; }
+        if (!obj.GetComponent<Player>()) { return; }
         
-        if (bank.Balance >= price)
+        if (Bank.Balance >= price)
             // && controlMachine.Team == controlBank.Team)
         {
-            bank.RemoveCash(GetComponent<Button>());
+            Bank.RemoveCash(GetComponent<Button>());
             controlObject.gameObject.SetActive(true);
             Debug.Log("Purchased: " + controlObject.name, controlObject);
             Debug.Log("Destroyed: " + gameObject.name, gameObject);

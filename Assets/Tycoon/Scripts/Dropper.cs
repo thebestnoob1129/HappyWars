@@ -9,8 +9,6 @@ public class Dropper : Machine
     [SerializeField]
     GameObject product;
 
-    [SerializeField]
-    float productMultiplier = 1f;
 
     [SerializeField]
     float speed = 3f;
@@ -47,7 +45,6 @@ public class Dropper : Machine
         if (!canSpawn) { yield break; }
         // New Product
         GameObject prod = Instantiate(product, spawnPoint.position, Quaternion.identity);
-        prod.GetComponent<Valuable>().multiplier += productMultiplier;
         yield return new WaitForSeconds(seconds);
         waiting = false;
     }

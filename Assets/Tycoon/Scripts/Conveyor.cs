@@ -9,7 +9,7 @@ public class Conveyor : Machine
     private void FixedUpdate()
     { 
         GameUpdate();
-        speed = baseSpeed * Value;
+        speed = baseSpeed * Value > 0 ? baseSpeed * Value : baseSpeed;
     }
 
     private void OnCollisionStay(Collision collision)

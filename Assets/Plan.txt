@@ -1,7 +1,9 @@
 Idea: Roblox Player PVP tycoon
 
-Reference: Happy Wars and Battle Block Theater
-
+Referred To Games
+    Happy Wars ("Weapon and Battle Mechanics"
+    Battleblocks Theater ("Map Style")
+    Gang Beasts ("Unarmed Mechanics")
 Game Name:
 
 	Genre: Puzzle, Fighting, Parkour, First Person
@@ -16,30 +18,38 @@ Game Mechanics:
 	Economy is ran on a tycoon system such as one from roblox
 	This will be used to build the base and create items
 	Teams can claim personal and public mines
+	
 2) Happy Wars
 	Teams will have to invade each other and can gain boosts from different (structures) across the map
 	Characters can fight the same?
 	Similar Class system, Warrior, Engineer, ??? and add more
 	More More Abilities And Classes!!!!
+	
 3) Map Mechanics
 	Parkour around the map and dodge obstacles.
 	3 lane highway for base maps
 	maps are based on amount of teams
+	
 4) Lego Building Animation
 	Objects are built in a lego style
 	Objects require bought materials from areas
 	Players can pick up any object
+	
 5) Attribute System (Scripting)
 	All types of data are classed into a new system
-	Valuables - Work something and can be picked up by playeurs
+	Valuables - Work something and can be picked up by players
 	Product - Valuables that are created by the tycoon
 	Resources - Valuables created by the mines
 	Machines - Valuabes that can be moved throughout the tycoon (and stolen in PVP)
+	
 6) Players
 	Movement are based on classes but move at a 'walking' pace and 'running' in competetiv
 	Pick up any Valuable object and take it to their own tycoon for collection
+	Players can pick up each other and objects. 
+	
 7) Environment
 	Mines can be claimed by any players by destroying and rebuilding the main structure
+	
 8) UI ???
 
 9) Battle Blocks Theater Level Editor???

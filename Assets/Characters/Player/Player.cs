@@ -9,6 +9,8 @@ public class Player : MonoBehaviour
     PlayerInput playerInput;
     Camera cam;
     Rigidbody body;
+    private int team;
+    public int Team { get { return team; } }
 
 #region Inputs
     InputAction moveAction;
@@ -85,7 +87,8 @@ public class Player : MonoBehaviour
 
 #endregion
 
-
+    private LayerMask interactLayer;
+    private bool canInteract;
     private void OnValidate()
     {
         minGroundDotProduct = Mathf.Cos(maxGroundAngle * Mathf.Deg2Rad);
@@ -104,7 +107,7 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        playerINput = GetComponent<PlayerInput>();
+        playerInput = GetComponent<PlayerInput>();
 
         // Player Camera
         cam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
@@ -397,6 +400,11 @@ public class Player : MonoBehaviour
         }
     }
 
+    public int GetTeam()
+    {
+        return team;
+    }
+    
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.green;

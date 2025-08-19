@@ -1,2 +1,15 @@
 fileFormatVersion: 2
 guid: 7f098b91309348147a6514ff9ebd3a63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tycoon: {instanceID: 0}
+  - displayText: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  - product: {fileID: 6849118883707981242, guid: 13b761f253c07b045831fbd4092d4304, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

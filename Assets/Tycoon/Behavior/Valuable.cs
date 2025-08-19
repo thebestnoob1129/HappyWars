@@ -3,19 +3,11 @@ using System.Collections.Generic;
 
 public class Valuable : MonoBehaviour
 {
-    internal float multiplier;
-
     [SerializeField] private int currentTier;
-    [SerializeField] Tier[] tiers;
+    [SerializeField] private float defaultValue = 1;
 
+    public float Value => defaultValue;
     private List<Upgrader> upgrList;
-
-    public float Value => Mathf.RoundToInt(tiers[currentTier].defaultValue * multiplier);
-
-    void Start()
-    {
-        multiplier = 1;
-    }
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -26,7 +18,7 @@ public class Valuable : MonoBehaviour
         {
             upgrList.Add(upg);
             if (upg.Value <= 0) { Debug.LogWarning("Upgrader value is zero or negative, ignoring upgrade.", upg); }
-            multiplier += upg.Value;
+            defaultValue *= upg.Value;
         }
     }
 }

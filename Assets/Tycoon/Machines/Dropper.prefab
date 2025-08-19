@@ -438,14 +438,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f098b91309348147a6514ff9ebd3a63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  purchaseable: 0
-  log: 0
+  purchasable: 0
   tiers:
   - {fileID: 11400000, guid: a8baad92248783048a004700fa8f3cb0, type: 2}
+  tycoon: {fileID: 0}
   showText: 1
   displayText: {fileID: 8942434702977041704}
   spawnPoint: {fileID: 4354042526758609251}
-  product: {fileID: 0}
+  product: {fileID: 6849118883707981242, guid: 13b761f253c07b045831fbd4092d4304, type: 3}
   productMultiplier: 1
   speed: 3
 --- !u!1 &5737199090054166327

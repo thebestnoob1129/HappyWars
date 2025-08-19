@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Button(1)
   m_EditorClassIdentifier: 
   currentTier: 1
-  defaultValue: 0
-  reqLevel: 0
   cost: 0
-  skin: {fileID: 7360555010136587491, guid: bcae1c21a31ad214fa0233154041c8f8, type: 3}
-  color: {r: 0, g: 0, b: 0, a: 0}
+  reqLevel: 0
+  defaultValue: 0
