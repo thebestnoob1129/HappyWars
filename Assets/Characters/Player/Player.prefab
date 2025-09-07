@@ -12,11 +12,10 @@ GameObject:
   - component: {fileID: 507824645770045149}
   - component: {fileID: 6275372245858876311}
   - component: {fileID: 4586263871667657872}
-  - component: {fileID: 911898601209248395}
-  - component: {fileID: 8263227834021371297}
   - component: {fileID: 3346753380551118417}
   - component: {fileID: 8627758963711911343}
   - component: {fileID: 246375022164883693}
+  - component: {fileID: 3378834675373316472}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -68,7 +67,7 @@ MonoBehaviour:
   m_ActionEvents:
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 911898601209248395}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
         m_MethodName: Move
         m_Mode: 0
@@ -226,61 +225,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &911898601209248395
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3248492442355304260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e71d1c0e612603b4bbfe9dd27f26f2b1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkSpeed: 6
-  runSpeed: 12
-  maxSpeed: 20
-  crouchSpeed: 3
-  crouchTransitionSpeed: 15
-  jumpPower: 7
-  jumpHeight: 2
-  maxAirJumps: 2
-  maxAcceleration: 10
-  maxAirAcceleration: 1
-  lookSpeed: 2
-  lookXLimit: 45
-  defaultHeight: 2
-  crouchHeight: 0.5
-  canMove: 1
-  canCrouch: 1
-  canJump: 1
-  isCrouching: 0
-  playerInputSpace: {fileID: 0}
-  maxGroundAngle: 25
-  maxStairsAngle: 50
-  maxSnapSpeed: 100
-  probeDistance: 1
-  probeMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  stairsMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
---- !u!114 &8263227834021371297
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3248492442355304260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37118bbc79e8d6044a7a8b9aef6296f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  interactRange: 3
-  canInteract: 1
 --- !u!23 &3346753380551118417
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -361,6 +305,48 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 80
   m_CollisionDetection: 0
+--- !u!114 &3378834675373316472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3248492442355304260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb243ba6b9f44d54596cbff0e84bad62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 6
+  runSpeed: 12
+  maxSpeed: 20
+  crouchSpeed: 30
+  crouchTransitionSpeed: 15
+  jumpPower: 7
+  jumpHeight: 2
+  maxAirJumps: 2
+  maxAcceleration: 10
+  maxAirAcceleration: 1
+  lookSpeed: 2
+  lookXLimit: 45
+  defaultHeight: 2
+  crouchHeight: 0.5
+  canMove: 1
+  canCrouch: 1
+  canJump: 1
+  isCrouching: 0
+  playerInputSpace: {fileID: 0}
+  maxGroundAngle: 25
+  maxStairsAngle: 50
+  maxSnapSpeed: 100
+  probeDistance: 1
+  probeMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  stairsMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  interactRange: 3
 --- !u!1 &7658235478573565284
 GameObject:
   m_ObjectHideFlags: 0

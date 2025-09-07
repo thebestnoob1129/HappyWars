@@ -12,7 +12,6 @@ public class Bank : Machine
     public void AddCash(Valuable val)
     {
         var amount = this.Tycoon.Multiplier > 0 ? val.Value * this.Tycoon.Multiplier : val.Value;
-        Debug.Log("AddCash: " + amount);
         balance += amount;
     }
 

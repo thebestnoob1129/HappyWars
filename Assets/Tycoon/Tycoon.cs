@@ -1,4 +1,3 @@
-using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,18 +11,27 @@ public class Tycoon : MonoBehaviour
     [SerializeField] protected Bank bank;
     public Bank Bank => bank;
 
-    internal int team;
-    //public int Team => team;
+    [SerializeField] private Player owner;
+    public Player Owner => owner;
+
+    public Color primaryColor;
+    public Color seconaryColor;
+    
+    public Material primaryMaterial;
+    public Material seconaryMaterial;
+    
+    private int team;
+    public int Team => team;
 
     internal int balance;
-    //public int Balance => balance;
+    public int Balance => balance;
 
     private float multiplier = 1f;
     public float Multiplier => multiplier;
 
     public bool autoCollect;
     private bool pvp;
-    
+
     private void Start()
     {
         if (!bank) {Debug.LogError("No Banks", gameObject);}
@@ -38,8 +46,15 @@ public class Tycoon : MonoBehaviour
     private void FixedUpdate()
     {
         gameObject.SetActive(true);
-
+        balance = bank.Balance;
     }
+
+    public void SetOwner(Player player)
+    {
+        if(owner) {return;}
+        owner = player;
+    }
+    
 /*
     public void SetTeam(GameObject teamObject, int teamId = -1)
     {

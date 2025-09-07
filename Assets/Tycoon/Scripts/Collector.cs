@@ -11,8 +11,6 @@ public class Collector : Machine
         if (collider.GetComponent<Valuable>())
         {
             Valuable val = collider.GetComponent<Valuable>(); 
-            
-            Debug.Log(val);
             this.Bank.AddCash(val);
             
             // Waiting For PVP

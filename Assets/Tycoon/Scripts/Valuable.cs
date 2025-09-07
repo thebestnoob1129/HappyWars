@@ -21,4 +21,10 @@ public class Valuable : MonoBehaviour
             defaultValue *= upg.Value;
         }
     }
+
+    internal void SetValue(float value)
+    {
+        defaultValue += value;
+    }
+    
 }

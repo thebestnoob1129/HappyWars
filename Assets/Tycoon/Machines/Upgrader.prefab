@@ -49,10 +49,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e400f9ef591e974790098e549393e0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  purchaseable: 0
-  log: 0
-  tiers:
-  - {fileID: 11400000, guid: 8b3fb675401261e4f9ca659db8275fa5, type: 2}
+  tier: {fileID: 11400000, guid: 8b3fb675401261e4f9ca659db8275fa5, type: 2}
+  tycoon: {fileID: 0}
   showText: 1
   displayText: {fileID: 6507676362945932630}
 --- !u!1 &3571583207086714862

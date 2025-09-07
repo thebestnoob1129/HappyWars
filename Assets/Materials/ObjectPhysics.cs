@@ -10,16 +10,16 @@ public class ObjectPhysics : MonoBehaviour
     public bool isPrimary = true;
 
     public bool interactable = true;
-    
+
 
     void Start()
     {
-        Genuine manager = GameObject.FindAnyObjectByType<Genuine>();
-        
+        //Genuine manager = GameObject.FindAnyObjectByType<Genuine>();
+
         // Colors
         //primary = manager.homePrimary;
         //secondary = manager.homeSecondary;
-        
+
         if (isPrimary)
         {
             GetComponent<MeshRenderer>().material.color = primary;
@@ -29,9 +29,9 @@ public class ObjectPhysics : MonoBehaviour
             GetComponent<MeshRenderer>().material.color = secondary;
         }
     }
-    
+
     void Update()
     {
-        
+
     }
 }

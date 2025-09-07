@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: 889d4a32b782935489378321eb10e43e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tier: {fileID: 11400000, guid: 2eb2eed4516492348aa64ef1148c5fd3, type: 2}
+  - tycoon: {instanceID: 0}
+  - displayText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

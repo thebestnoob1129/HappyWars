@@ -557,9 +557,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdc576d9f42a42942b87a3775c6fc589, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  purchaseable: 0
-  log: 0
-  tiers:
-  - {fileID: 11400000, guid: d62929806e1ebad408696174bff86957, type: 2}
+  tier: {fileID: 11400000, guid: d62929806e1ebad408696174bff86957, type: 2}
+  tycoon: {fileID: 0}
   showText: 1
   displayText: {fileID: 0}

@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(PlayerInput))]
 [RequireComponent (typeof(Rigidbody))]
-
+[DisallowMultipleComponent]
 public class Player : MonoBehaviour
 {
     PlayerInput playerInput;
@@ -139,6 +139,7 @@ public class Player : MonoBehaviour
         Vector3 right = cam.transform.TransformDirection(Vector3.right);
         Vector3 gravity = CustomGravity.GetGravity(body.position, out upAxis);
         */
+        
 #region Movement
         Vector2 playerInput;
 
@@ -163,7 +164,7 @@ public class Player : MonoBehaviour
         moveDirection = moveAction.ReadValue<Vector2>();
         Vector3 dV = (moveDirection + cam.transform.forward) * maxSpeed;
 
-        //desiredVelocity = new Vector3(playerInput.x, 0, playerInput.y) * maxSpeed;
+        desiredVelocity = new Vector3(playerInput.x, 0, playerInput.y) * maxSpeed;
         desiredVelocity = canMove && moveAction.IsPressed() ? dV :Vector3.zero;
         desiredJump |= jumpAction.IsPressed(); // Jumping
 #endregion
@@ -185,7 +186,8 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-#region Movement
+/*
+        #region Movement
         Vector3 gravity = CustomGravity.GetGravity(body.position, out upAxis);
         UpdateState();
         AdjustVelocity();
@@ -201,6 +203,7 @@ public class Player : MonoBehaviour
         body.linearVelocity = velocity;
         ClearState();
 #endregion
+*/
 #region Combat
         interactAction.performed += Interact;
         if (canInteract)// On Button Press
@@ -404,7 +407,7 @@ public class Player : MonoBehaviour
     {
         return team;
     }
-    
+
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.green;

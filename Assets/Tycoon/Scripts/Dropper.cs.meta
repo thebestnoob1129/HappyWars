@@ -4,6 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
+  - tier: {fileID: 11400000, guid: a8baad92248783048a004700fa8f3cb0, type: 2}
   - tycoon: {instanceID: 0}
   - displayText: {instanceID: 0}
   - spawnPoint: {instanceID: 0}
