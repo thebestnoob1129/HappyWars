@@ -5,8 +5,7 @@ using TMPro;
 public class Machine : MonoBehaviour
 {
     [SerializeField] private Tier tier;
-    private int currentTier;
-
+    private int _currentTier;
     [SerializeField] private Tycoon tycoon;
     public Tycoon Tycoon => tycoon;
 
@@ -15,9 +14,7 @@ public class Machine : MonoBehaviour
 
     public int Cost => tier.cost;
     public int MaxLevel => tier.reqLevel;
-
-    public float Value => value;
-    private int value;
+    public float Value => Mathf.RoundToInt(tier.defaultValue * (level / tier.defaultValue));
     public Bank Bank => tycoon.Bank;
 
     public bool showText = false;
@@ -25,11 +22,11 @@ public class Machine : MonoBehaviour
     [Header("Display Text")] [Tooltip("Text to display on the machine")] [SerializeField]
     TMP_Text displayText;
 
-    private bool forceText;
-    private string textValue;
+    private bool _forceText;
+    private string _textValue;
 
     protected Renderer _renderer;
-    private Vector3 size;
+    private Vector3 _size;
     public bool useTeamColor;
     public bool isPrimary;
 
@@ -45,22 +42,15 @@ public class Machine : MonoBehaviour
             if (GetComponent<Mine>()) { return; }
             Debug.LogError("No tycoon for: " + gameObject.name, gameObject);
         }
+
+        if (Value == 0){ Debug.LogWarning("Value is set to 0: " + name, gameObject); }
         //if (transform){size = transform.localScale;}
     }
 
     protected void Setup()
     {
         team = tycoon.Team;
-        /*
-        if (tycoon)
-        {
-            transform.SetParent(tycoon.transform, true);
-        }
-        else
-        {
-            transform.SetParent(null, true);
-        }
-        */
+        tycoon.AddMachine(this);
     }
 
     void Start()
@@ -81,7 +71,7 @@ public class Machine : MonoBehaviour
 
         if (level >= MaxLevel) { level = MaxLevel; }
 
-        if (displayText && showText) {  displayText.text = textValue; }
+        if (displayText && showText) {  displayText.text = _textValue; }
 
         if (_renderer && useTeamColor)
         {
@@ -89,7 +79,6 @@ public class Machine : MonoBehaviour
         }
         // change skin based on level and update setup
         // Cost becomes based on tiers and levels
-        value = Mathf.RoundToInt(tier.defaultValue * (level / tier.defaultValue));
 
         // Display
 
@@ -127,6 +116,6 @@ public class Machine : MonoBehaviour
     {
         if (!displayText) { return; }
         //forceText = true;
-        textValue = text;
+        _textValue = text;
     }
 }

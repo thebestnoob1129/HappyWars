@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: DropperTier
   m_EditorClassIdentifier: 
   currentTier: 1
-  cost: 0
+  cost: 50
   reqLevel: 0
   defaultValue: 3

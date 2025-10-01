@@ -1,29 +1,18 @@
 using System.Collections.Generic;
-using System.Threading;
-using UnityEditor;
 using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEditor.SceneTemplate;
 
 [DisallowMultipleComponent]
 public class World : MonoBehaviour
 {
 
     public string worldName;
-    public int tycoonCap = 2;
-    public Scene exampleTycoon;
+    
+    public Transform[] globalSpawnpoint = new Transform[4];
+    public Tycoon[] tycoons;
 
-    GameObject[] tycoonSpawnPoints;
-
-    List<Scene> tycoonInWorld;
-    List<Color> tycoonTeams;
-    List<Tycoon> tycoons;
-    //List<Transform> tycoonTransforms;
-
-
-    private int maxPlayers = 64;
-    GameObject[] players;
-    Player[] playerCores;
+    [SerializeField, Range(4f, 64f)]
+    private int maxPlayers = 8;
+    Player[] players;
 
     private bool canLoad;
 
@@ -49,17 +38,17 @@ public class World : MonoBehaviour
 
         }
         */
-        players = new GameObject[maxPlayers];
-    }
-
-    public void Start()
-    {
-        playerCores = GameObject.FindObjectsByType<Player>(FindObjectsSortMode.InstanceID);
-
-        for (int p = 0; p < playerCores.Length; p++)
+        
+        // Connect each Player To spawnpoint from lobby 
+        /*
+        players = new Player[maxPlayers];
+        foreach (Player plr in players)
         {
-
+            var i = Mathf.RoundToInt(Random.Range(0, spawnpoint.Length));
+            Transform sp = spawnpoint[i];
+            //plr.transform.position
         }
-    }
+        */
 
+    }
 }

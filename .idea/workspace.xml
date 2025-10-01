@@ -7,26 +7,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3b4d8824-87ab-4c9e-9bef-b053d56ff9c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/old-PlayerCombat.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/old-PlayerCombat.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/old-PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/old-PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel/LightingData.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel/LightingData.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel/ReflectionProbe-0.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevel/ReflectionProbe-0.exr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevelLighting.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleLevel/SampleLevelLighting.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tycoon/Behavior/Button.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tycoon/Behavior/Button.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tycoon/Behavior/Machine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tycoon/Behavior/Machine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tycoon/Objects/Tower.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tycoon/Objects/Tower.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Active/Live.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Active/Live.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Outlands.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Outlands.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/World.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/World.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tycoon/Scripts/OwnerDoor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tycoon/Scripts/OwnerDoor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tycoon/Tycoon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tycoon/Tycoon.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,29 +24,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="31NqpXK2e1D7GFYX8PRqLqb1CuZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3b4d8824-87ab-4c9e-9bef-b053d56ff9c3" name="Changes" comment="" />
@@ -70,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755375061474</updated>
       <workItem from="1755375063150" duration="5000" />
+      <workItem from="1759177354945" duration="25000" />
     </task>
     <servers />
   </component>

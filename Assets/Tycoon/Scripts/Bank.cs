@@ -11,16 +11,31 @@ public class Bank : Machine
 
     public void AddCash(Valuable val)
     {
-        var amount = this.Tycoon.Multiplier > 0 ? val.Value * this.Tycoon.Multiplier : val.Value;
+        var amount = val.Value; //this.Tycoon.Multiplier > 0 ? val.Value * this.Tycoon.Multiplier : val.Value;
         balance += amount;
     }
 
+    internal void AddCash(int cash)
+    {
+        balance += cash;
+    }
     internal void RemoveCash(Button button)
     {
         if (button.team != team) { return; }
         if (balance < button.Cost) { return; }
 
         balance -= button.Cost;
+    }
+
+    internal void RemoveCash(Valuable val)
+    {
+        balance -= val.Value;
+    }
+
+    internal void RemoveCash(int cash)
+    {
+        if (balance < cash) { return; }
+        balance -= cash;
     }
     
     

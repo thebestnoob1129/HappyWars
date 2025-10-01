@@ -24,7 +24,16 @@ public class Valuable : MonoBehaviour
 
     internal void SetValue(float value)
     {
+        defaultValue = value;
+    }
+    internal void AddValue(float value)
+    {
         defaultValue += value;
+    }
+
+    internal void MultiplyValue(float value)
+    {
+        defaultValue *= value;
     }
     
 }

@@ -2,18 +2,20 @@ using UnityEngine;
 
 public class Upgrader : Machine
 {
-
+    [SerializeField, Min(0.5f)] float multiplier = 2f;
     private void FixedUpdate()
     {
         GameUpdate();
     }
 
-    public void OnCollisionEnter(Collision collision)
+    public void OnTriggerEnter(Collider collider)
     {
-        var obj = collision.collider.gameObject;
-        if (obj.GetComponent<Valuable>())
+        var obj = collider.gameObject;
+        Valuable val =  obj.GetComponent<Valuable>();
+        
+        if (val)
         {
-            
+            val.MultiplyValue(Value + multiplier);
         }
     }
 }

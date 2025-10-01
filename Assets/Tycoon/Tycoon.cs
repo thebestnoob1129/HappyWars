@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 [DisallowMultipleComponent]
 public class Tycoon : MonoBehaviour
@@ -13,46 +14,72 @@ public class Tycoon : MonoBehaviour
 
     [SerializeField] private Player owner;
     public Player Owner => owner;
-
-    public Color primaryColor;
-    public Color seconaryColor;
     
-    public Material primaryMaterial;
-    public Material seconaryMaterial;
+    [SerializeField ]private float multiplier = 1f;
+    public float Multiplier => multiplier;
+
+    public Material[] tycoonMaterials = new Material[2];
+
+    public Color primaryColor => tycoonMaterials[0].color;
+    public Color seconaryColor => tycoonMaterials[1].color;
     
     private int team;
     public int Team => team;
-
-    internal int balance;
-    public int Balance => balance;
-
-    private float multiplier = 1f;
-    public float Multiplier => multiplier;
-
+    public int Balance => bank.Balance;
+    
     public bool autoCollect;
     private bool pvp;
+    
+    [SerializeField] TMP_Text _tmpText;
+    
 
+    private void Awake()
+    {
+        transform.gameObject.SetActive(false);
+    }
+    
     private void Start()
     {
         if (!bank) {Debug.LogError("No Banks", gameObject);}
+
+        /*
         Machine[] rootObjects = Object.FindObjectsByType<Machine>(FindObjectsSortMode.InstanceID);//UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects();
         foreach (var obj in rootObjects)
         {
             if (obj.GetComponent<Button>()){ return; }
             if (obj && !obj.GetComponent<Bank>()) { machines.Add(obj); }
         }
+        */
     }
 
     private void FixedUpdate()
     {
         gameObject.SetActive(true);
-        balance = bank.Balance;
+        if (owner)
+        {
+            _tmpText.text = owner.name + "'s Tycoon";
+        }
     }
 
     public void SetOwner(Player player)
     {
         if(owner) {return;}
         owner = player;
+    }
+
+    internal void AddMachine(Machine mach)
+    {
+        if (machines.Contains(mach)) {return;}
+        machines.Add(mach);
+    }
+
+    internal void RemoveMachine(Machine mach)
+    {
+        if (machines.Contains(mach))
+        {
+            machines.Remove(mach);
+        }
+        Debug.Log("Removed: " + mach.name, mach);
     }
     
 /*

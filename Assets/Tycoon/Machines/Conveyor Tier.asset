@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Conveyor Tier
   m_EditorClassIdentifier: 
   currentTier: 1
-  cost: 0
+  cost: 10
   reqLevel: 0
   defaultValue: 1

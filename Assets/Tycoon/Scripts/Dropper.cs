@@ -3,19 +3,16 @@ using UnityEngine;
 
 public class Dropper : Machine
 {
-    [SerializeField]
-    Transform spawnPoint;
+    [SerializeField] Transform spawnPoint;
 
-    [SerializeField]
-    GameObject product;
+    [SerializeField] GameObject product;
+    
+    [SerializeField, Min(1f)] float speed = 3f;
+    [SerializeField, Min(1f)] float multiplier = 1f;
+    
+    private bool _waiting;
 
-
-    [SerializeField]
-    float speed = 3f;
-
-    private bool waiting = false;
-
-    bool canSpawn = true;
+    public bool canSpawn = true;
 
     // Create button press
     //bool canPress = false;
@@ -32,9 +29,9 @@ public class Dropper : Machine
         GameUpdate();
         speed = Value != 0 ? Mathf.RoundToInt(Value) : speed;
         //Check Activity
-        if (waiting == false)
+        if (_waiting == false)
         {
-            waiting = true;
+            _waiting = true;
             // Wait time doesn't serialize
             StartCoroutine(CreateProduct(speed));
         }
@@ -45,7 +42,11 @@ public class Dropper : Machine
         if (!canSpawn) { yield break; }
         // New Product
         GameObject prod = Instantiate(product, spawnPoint.position, Quaternion.identity);
+        Valuable val = prod.GetComponent<Valuable>();
+        
+        val.MultiplyValue(multiplier);
+        
         yield return new WaitForSeconds(seconds);
-        waiting = false;
+        _waiting = false;
     }
 }
