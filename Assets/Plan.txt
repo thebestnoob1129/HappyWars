@@ -43,7 +43,7 @@ Game Mechanics:
 	Machines - Valuabes that can be moved throughout the tycoon (and stolen in PVP)
 	
 6) Players
-	Movement are based on classes but move at a 'walking' pace and 'running' in competetiv
+	Movement are based on classes but move at a 'walking' pace and 'running' in competetive
 	Pick up any Valuable object and take it to their own tycoon for collection
 	Players can pick up each other and objects. 
 	

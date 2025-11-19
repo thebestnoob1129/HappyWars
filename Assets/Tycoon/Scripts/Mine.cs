@@ -23,7 +23,6 @@ public class Mine : Machine
     private void FixedUpdate()
     {
         GameUpdate();
-        SetDisplayText(mineName);
         
         if (!_isSpawning)
         {

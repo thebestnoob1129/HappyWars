@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(PlayerInput))]
-[RequireComponent (typeof(Rigidbody))]
+[RequireComponent (typeof(CharacterController))]
 [DisallowMultipleComponent]
 public class Player : MonoBehaviour
 {
@@ -12,15 +12,29 @@ public class Player : MonoBehaviour
     private int _team;
     public int Team { get { return _team; } }
 
-    InputAction _moveAction, _jumpAction, _sprintAction, _interactAction;
-    
+    [SerializeField] private Transform head;
+
+    InputAction _moveAction, _jumpAction, _interactAction, _crouchAction, _sprintAction;
+
 #region Movement
+
+    private Vector3 moveDirection = Vector3.zero;
+    private float rotationX = 0;
+    private CharacterController characterController;
+
+    private bool canMove = true;
+
     [SerializeField, Range(0f, 100f), Min(1f)] float walkSpeed = 6f;
     [SerializeField, Range(0f, 100f), Min(1f)] float runSpeed = 12f;
-    [SerializeField, Range(0f, 100f), Min(1f)] float maxSpeed = 20f;
+    [SerializeField, Min(1f)] float maxSpeed = 20f;
 
-    [SerializeField, Range(0f, 100f), Min(0.5f)] float crouchSpeed = 30f;
-    [SerializeField, Range(0f, 100f), Min(1f)] float crouchTransitionSpeed = 15f;
+    [SerializeField] private float lookSpeed = 2f;
+    [SerializeField] float lookXLimit = 45f;
+    [SerializeField] float defaultHeight = 2f;
+
+    [SerializeField, Min(0.5f)] float crouchSpeed = 30f;
+    [SerializeField, Min(1f)] float crouchHeight = 1f;
+    [SerializeField, Min(1f)] float crouchTransitionSpeed = 15f;
     
     [SerializeField] float jumpPower = 7f;
     [SerializeField] float jumpHeight = 2f;
@@ -38,6 +52,7 @@ public class Player : MonoBehaviour
     private LayerMask _interactLayer;
     private bool _canInteract;
 #endregion
+
     private void Awake()
     {
         _playerInput = GetComponent<PlayerInput>();
@@ -56,7 +71,7 @@ public class Player : MonoBehaviour
         //Player Actions
         
         _moveAction = _playerInput.actions.FindAction("Move");
-        //crouchAction = playerInput.actions.FindAction("Crouch");
+        _crouchAction = _playerInput.actions.FindAction("Crouch");
         _jumpAction = _playerInput.actions.FindAction("Jump");
         //lookAction = playerInput.actions.FindAction("Look");
         _sprintAction = _playerInput.actions.FindAction("Sprint");
@@ -65,7 +80,6 @@ public class Player : MonoBehaviour
         if(_moveAction == null) {Debug.LogError("No Move Action found");}
         
         //Player Combat
-        _rigidbody.maxLinearVelocity = maxSpeed;
         _interactLayer = LayerMask.NameToLayer("Interactable");
 
         // Temp
@@ -76,37 +90,69 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-        
+
         #region Movement
-        Vector2 playerInput = _moveAction.ReadValue<Vector2>();
-        Vector3 forward = _cam.transform.TransformDirection(Vector3.forward);
-        Vector3 right = _cam.transform.TransformDirection(Vector3.right);
+        Vector3 forward = transform.TransformDirection(Vector3.forward);
+        Vector3 right = transform.TransformDirection(Vector3.right);
+
+        Vector2 move = _moveAction.ReadValue<Vector2>();
 
         bool isRunning = _sprintAction.IsPressed();
-        
-        // Player Input to Camera transformation
-        Vector3 direction = (forward * playerInput.y) + (right * playerInput.x);
-    
-        // Player Direction to Rigidbody Velocity
-        Vector3 dV = isRunning ? direction * (1.5f)  : direction;
-        _desiredVelocity = _canMove && _moveAction.IsPressed() ? dV :Vector3.zero;
-        
-        // Player Jump Action
-        if (_jumpAction.IsPressed() && _canJump)
+        float curSpeedX = canMove ? (isRunning ? runSpeed : walkSpeed) * move.x : 0;
+        float curSpeedY = canMove ? (isRunning ? runSpeed : walkSpeed) * move.y : 0;
+        float movementDirectionY = moveDirection.y;
+        moveDirection = (forward * curSpeedX) + (right * curSpeedY);
+
+        if (_jumpAction.IsPressed() && canMove && characterController.isGrounded)
         {
-            _canJump = false;
-            _rigidbody.AddForce(Vector3.up * (jumpPower * 10), ForceMode.Impulse);
+            moveDirection.y = jumpPower;
         }
+        else
+        {
+            moveDirection.y = movementDirectionY;
+        }
+
+        if (!characterController.isGrounded)
+        {
+            moveDirection.y -= Physics.gravity.y * Time.deltaTime;
+        }
+
+        if (_crouchAction.IsPressed() && canMove)
+        {
+            characterController.height = crouchHeight;
+            walkSpeed = crouchSpeed;
+            runSpeed = crouchSpeed;
+
+        }
+        else
+        {
+            characterController.height = defaultHeight;
+            walkSpeed = 6f;
+            runSpeed = 12f;
+        }
+
+        characterController.Move(moveDirection * Time.deltaTime);
+
+        if (canMove)
+        {
+            rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
+            rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
+            //_cam.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
+            transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
+        }
+
+        head.localRotation = _cam.transform.rotation;
+
         #endregion
 
     }
 
     private void FixedUpdate()
     {
-        _desiredVelocity.y = 0f;
-
-        _rigidbody.linearVelocity += _desiredVelocity != Vector3.zero ? _desiredVelocity  : Vector3.zero;
-        //if (body.linearVelocity.x >= maxSpeed || body.linearVelocity.z >= maxSpeed) { body.linearVelocity = new Vector3(maxSpeed, 0, maxSpeed); }
+        if (_moveAction.IsPressed())
+        {
+            _rigidbody.linearVelocity = new Vector3(_desiredVelocity.x, _rigidbody.linearVelocity.y, _desiredVelocity.z);
+        }
         
         
 #region Combat

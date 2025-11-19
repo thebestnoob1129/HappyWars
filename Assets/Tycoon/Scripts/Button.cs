@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 public class Button : Machine
@@ -6,6 +7,7 @@ public class Button : Machine
     [SerializeField] private int price;
     [SerializeField] private bool forcePrice;
 
+    public TMP_Text priceText;
     // Maybe add discounts
 
     private Machine _controlMachine;
@@ -19,8 +21,6 @@ public class Button : Machine
         _renderer = GetComponent<Renderer>();
         if (!_renderer) {Debug.LogError("No renderer", gameObject);}
 
-        this.showText = true;
-        
         //Set Object
         controlObject.SetActive(false);
         _controlMachine = controlObject.GetComponent<Machine>();
@@ -32,10 +32,10 @@ public class Button : Machine
     private void FixedUpdate()
     {
         if (_controlMachine) { GameUpdate(); }
-        if (!_controlMachine) {SetDisplayText(controlObject.name + ": " + price); }
-
+        
         _canPurchase = Bank.balance >= price;
         _renderer.material.color = _canPurchase && _renderer ? Color.green : Color.red;
+        priceText.text = controlObject.name + ": " + price.ToString();
     }
 
     private void OnCollisionEnter(Collision other)

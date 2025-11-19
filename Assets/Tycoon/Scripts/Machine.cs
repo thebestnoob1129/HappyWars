@@ -17,14 +17,6 @@ public class Machine : MonoBehaviour
     public float Value => Mathf.RoundToInt(tier.defaultValue * (level / tier.defaultValue));
     public Bank Bank => tycoon.Bank;
 
-    public bool showText = false;
-
-    [Header("Display Text")] [Tooltip("Text to display on the machine")] [SerializeField]
-    TMP_Text displayText;
-
-    private bool _forceText;
-    private string _textValue;
-
     protected Renderer _renderer;
     private Vector3 _size;
     public bool useTeamColor;
@@ -71,8 +63,6 @@ public class Machine : MonoBehaviour
 
         if (level >= MaxLevel) { level = MaxLevel; }
 
-        if (displayText && showText) {  displayText.text = _textValue; }
-
         if (_renderer && useTeamColor)
         {
             _renderer.material.SetColor("_Color", isPrimary ? tycoon.primaryColor : !isPrimary ? tycoon.seconaryColor : Color.antiqueWhite );
@@ -109,13 +99,5 @@ public class Machine : MonoBehaviour
 
         level -= 1;
         tier.Downgrade();
-    }
-
-
-    internal void SetDisplayText(string text)
-    {
-        if (!displayText) { return; }
-        //forceText = true;
-        _textValue = text;
     }
 }

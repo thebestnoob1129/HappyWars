@@ -29,8 +29,6 @@ public class Tower : Machine
     {
         GameUpdate();
 
-        this.SetDisplayText(health.ToString());
-
         // Check if the tower is being controlled by a team
         /* Mine Activity NOT TOWER
         if (claimedTeam != -1)
